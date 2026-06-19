@@ -984,7 +984,7 @@ export default function App() {
   const [isScrolled, setIsScrolled] = useState(false);
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 100) {
+      if (window.scrollY > 20) {
         setIsScrolled(true);
       } else {
         setIsScrolled(false);
@@ -1184,9 +1184,13 @@ export default function App() {
   const navigateToSection = (sectionId) => {
     setCurrentView("home");
     setTimeout(() => {
-      const el = document.getElementById(sectionId);
-      if (el) {
-        el.scrollIntoView({ behavior: 'smooth' });
+      if (sectionId === "hero") {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      } else {
+        const el = document.getElementById(sectionId);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth' });
+        }
       }
     }, 100);
   };
@@ -1198,8 +1202,8 @@ export default function App() {
       <div className="noise-overlay" />
 
       {/* FLOATING PRESET CONTROLLER / THEME DESK (Preset B vs Preset C COMPARATOR) */}
-      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 bg-dark/95 border border-primary/20 backdrop-blur-md rounded-full px-5 py-3 shadow-2xl flex items-center gap-4 max-w-[95%] sm:max-w-none">
-        <div className="flex items-center gap-2 border-r border-primary/20 pr-3 hidden sm:flex text-primary">
+      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 bg-dark/95 border border-offwhite/10 backdrop-blur-md rounded-full px-5 py-3 shadow-2xl flex items-center gap-4 max-w-[95%] sm:max-w-none">
+        <div className="flex items-center gap-2 border-r border-offwhite/10 pr-3 hidden sm:flex text-offwhite/60">
           <Sliders className="w-4 h-4 text-accent" />
           <span className="font-mono text-[10px] tracking-wider uppercase font-bold text-offwhite/90">Comparison Deck</span>
         </div>
@@ -1214,7 +1218,7 @@ export default function App() {
                 className={`px-4 py-2 rounded-full font-mono text-[10px] font-bold uppercase transition-all duration-300 tracking-wider flex flex-col items-center gap-0.5 ${
                   isSelected 
                     ? "bg-accent text-offwhite border border-accent shadow-md scale-105" 
-                    : "bg-primary/10 text-offwhite/70 border border-primary/10 hover:bg-primary/20"
+                    : "bg-offwhite/10 text-offwhite/70 border border-offwhite/10 hover:bg-offwhite/20 hover:text-offwhite"
                 }`}
               >
                 <div className="flex items-center gap-1.5">
@@ -1225,7 +1229,7 @@ export default function App() {
             );
           })}
         </div>
-        <div className="text-[9px] font-mono text-offwhite/40 border-l border-primary/20 pl-3 hidden lg:block uppercase tracking-wider">
+        <div className="text-[9px] font-mono text-offwhite/50 border-l border-offwhite/10 pl-3 hidden lg:block uppercase tracking-wider">
           Active: {activePreset.fontNote}
         </div>
       </div>
@@ -1248,7 +1252,7 @@ export default function App() {
             onClick={() => navigateToSection("features")} 
             className="text-dark/70 hover:text-accent transition-colors duration-200"
           >
-            Critiques
+            Pillars
           </button>
           <button 
             onClick={() => { setCurrentView("reviews"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
@@ -1295,15 +1299,18 @@ export default function App() {
         <AboutPage navigateToSection={navigateToSection} />
       ) : (
         <>
+          {/* White Background Strip Above Hero */}
+          <div className="w-full h-24 bg-offwhite border-b border-dark/10" />
+
           {/* B. HERO SECTION — "The Opening Shot" */}
           <section 
             id="hero" 
             ref={heroRef}
-            className="relative h-screen w-full flex items-end justify-start p-8 md:p-20 overflow-hidden bg-dark transition-all duration-500"
+            className="relative h-[calc(100vh-96px)] w-full flex items-end justify-start p-8 md:p-20 overflow-hidden bg-dark transition-all duration-500"
           >
             {/* Background Image with Heavy Gradient Overlay */}
             <div 
-              className="absolute inset-0 bg-cover bg-center opacity-40 scale-105 transition-all duration-750"
+              className="absolute inset-0 bg-cover bg-center opacity-90 scale-105 transition-all duration-750"
               style={{ backgroundImage: `url('${activePreset.heroImage}')` }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent" />
