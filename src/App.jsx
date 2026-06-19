@@ -448,7 +448,7 @@ function ReviewsPage({ navigateToSection }) {
 
             <button 
               onClick={() => window.open("https://www.imdb.com/user/p.2xvicmhwmtxq7s57k63vanxnty/reviews/?ref_=up_ururv_sm", "_blank", "noopener,noreferrer")}
-              className="magnetic-btn bg-[#f5c518] text-[#000000] hover:text-[#ffffff] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-md flex items-center gap-2 self-start transition-colors duration-300"
+              className="magnetic-btn bg-[#f5c518] text-[#000000] hover:text-[#f5c518] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-md flex items-center gap-2 self-start transition-colors duration-300"
             >
               <div className="bg-slide !bg-[#000000]" />
               <span>IMDb (Full Notes) →</span>
