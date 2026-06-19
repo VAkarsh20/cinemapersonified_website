@@ -1287,31 +1287,51 @@ export default function App() {
         <div className="hidden md:flex items-center gap-6 lg:gap-8 text-sm font-medium tracking-tight">
           <button 
             onClick={() => navigateToSection("features")} 
-            className={`${isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent"} transition-colors duration-500`}
+            className={`transition-all duration-500 hover:text-accent ${
+              isNavbarDarkBg 
+                ? "text-offwhite opacity-85 hover:opacity-100" 
+                : "text-dark opacity-75 hover:opacity-100"
+            }`}
           >
             Pillars
           </button>
           <button 
             onClick={() => { setCurrentView("reviews"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-500 ${currentView === "reviews" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
+            className={`transition-all duration-500 hover:text-accent ${
+              currentView === "reviews" 
+                ? "text-accent font-bold opacity-100" 
+                : (isNavbarDarkBg ? "text-offwhite opacity-85 hover:opacity-100" : "text-dark opacity-75 hover:opacity-100")
+            }`}
           >
             Reviews
           </button>
           <button 
             onClick={() => { setCurrentView("videos"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-500 ${currentView === "videos" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
+            className={`transition-all duration-500 hover:text-accent ${
+              currentView === "videos" 
+                ? "text-accent font-bold opacity-100" 
+                : (isNavbarDarkBg ? "text-offwhite opacity-85 hover:opacity-100" : "text-dark opacity-75 hover:opacity-100")
+            }`}
           >
             Videos
           </button>
           <button 
             onClick={() => { setCurrentView("publications"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-500 ${currentView === "publications" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
+            className={`transition-all duration-500 hover:text-accent ${
+              currentView === "publications" 
+                ? "text-accent font-bold opacity-100" 
+                : (isNavbarDarkBg ? "text-offwhite opacity-85 hover:opacity-100" : "text-dark opacity-75 hover:opacity-100")
+            }`}
           >
             Publications
           </button>
           <button 
             onClick={() => { setCurrentView("about"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-500 ${currentView === "about" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
+            className={`transition-all duration-500 hover:text-accent ${
+              currentView === "about" 
+                ? "text-accent font-bold opacity-100" 
+                : (isNavbarDarkBg ? "text-offwhite opacity-85 hover:opacity-100" : "text-dark opacity-75 hover:opacity-100")
+            }`}
           >
             About
           </button>
