@@ -980,19 +980,54 @@ export default function App() {
   const publicationsRef = useRef(null);
   const homeReviewsRef = useRef(null);
 
-  // --- NAVBAR SCROLL DETECTOR ---
+  // --- NAVBAR SCROLL DETECTOR & THEME TRACKER ---
   const [isScrolled, setIsScrolled] = useState(false);
+  const [isNavbarDarkBg, setIsNavbarDarkBg] = useState(false);
+
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 20) {
-        setIsScrolled(true);
-      } else {
-        setIsScrolled(false);
+      const scrollY = window.scrollY;
+      setIsScrolled(scrollY > 20);
+
+      if (currentView !== "home") {
+        setIsNavbarDarkBg(false);
+        return;
       }
+
+      // Check if navbar (at top: 24px, approx height 50px) overlaps a dark section
+      // Let's use 50px from viewport top as the scanning line
+      const threshold = 50;
+      const darkSections = ["hero", "videos"];
+      let overDark = false;
+
+      // In the white top strip (scrollY < 96), it's definitely light background
+      if (scrollY < 96) {
+        setIsNavbarDarkBg(false);
+        return;
+      }
+
+      for (const id of darkSections) {
+        const el = document.getElementById(id);
+        if (el) {
+          const rect = el.getBoundingClientRect();
+          if (rect.top <= threshold && rect.bottom >= threshold) {
+            overDark = true;
+            break;
+          }
+        }
+      }
+      setIsNavbarDarkBg(overDark);
     };
+
     window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+    window.addEventListener('resize', handleScroll);
+    handleScroll();
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener('resize', handleScroll);
+    };
+  }, [currentView]);
 
 
 
@@ -1239,42 +1274,44 @@ export default function App() {
         ref={navbarRef}
         className={`fixed top-6 left-1/2 -translate-x-1/2 z-40 w-[90%] max-w-5xl rounded-full px-6 py-3 transition-all duration-500 flex items-center justify-between ${
           isScrolled 
-            ? "bg-offwhite/85 backdrop-blur-xl border border-dark/10 shadow-lg" 
+            ? (isNavbarDarkBg 
+                ? "bg-dark/80 backdrop-blur-xl border border-offwhite/10 shadow-lg" 
+                : "bg-offwhite/85 backdrop-blur-xl border border-dark/10 shadow-lg")
             : "bg-transparent border border-transparent"
         }`}
       >
         <button onClick={() => navigateToSection("hero")} className="font-sans font-bold text-lg tracking-tight flex items-center gap-2">
           <Film className="w-5 h-5 text-accent" />
-          <span className="text-dark font-sans">Cinema Personified</span>
+          <span className={`${isNavbarDarkBg ? "text-offwhite" : "text-dark"} font-sans transition-colors duration-500`}>Cinema Personified</span>
         </button>
         <div className="hidden md:flex items-center gap-6 lg:gap-8 text-sm font-medium tracking-tight">
           <button 
             onClick={() => navigateToSection("features")} 
-            className="text-dark/70 hover:text-accent transition-colors duration-200"
+            className={`${isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent"} transition-colors duration-500`}
           >
             Pillars
           </button>
           <button 
             onClick={() => { setCurrentView("reviews"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-200 ${currentView === "reviews" ? "text-accent font-bold" : "text-dark/70 hover:text-accent"}`}
+            className={`transition-colors duration-500 ${currentView === "reviews" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
           >
             Reviews
           </button>
           <button 
             onClick={() => { setCurrentView("videos"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-200 ${currentView === "videos" ? "text-accent font-bold" : "text-dark/70 hover:text-accent"}`}
+            className={`transition-colors duration-500 ${currentView === "videos" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
           >
             Videos
           </button>
           <button 
             onClick={() => { setCurrentView("publications"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-200 ${currentView === "publications" ? "text-accent font-bold" : "text-dark/70 hover:text-accent"}`}
+            className={`transition-colors duration-500 ${currentView === "publications" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
           >
             Publications
           </button>
           <button 
             onClick={() => { setCurrentView("about"); window.scrollTo({ top: 0, behavior: 'smooth' }); }}
-            className={`transition-colors duration-200 ${currentView === "about" ? "text-accent font-bold" : "text-dark/70 hover:text-accent"}`}
+            className={`transition-colors duration-500 ${currentView === "about" ? "text-accent font-bold" : (isNavbarDarkBg ? "text-offwhite/80 hover:text-accent" : "text-dark/70 hover:text-accent")}`}
           >
             About
           </button>
