@@ -430,7 +430,7 @@ function ReviewsPage({ navigateToSection }) {
           </div>
 
           <h2 className="text-2xl md:text-3xl font-bold font-sans uppercase tracking-tight text-dark mb-4">
-            Rebuilding the critique archive.
+            Page Under Construction.
           </h2>
           
           <p className="text-xs md:text-sm text-dark/70 leading-relaxed font-sans mb-8 max-w-xl">
