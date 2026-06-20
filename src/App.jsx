@@ -266,7 +266,7 @@ function PublicationsPage({ navigateToSection }) {
   const gridArticles = filteredArticles.slice(1);
 
   return (
-    <section className="pt-36 pb-32 px-6 md:px-20 bg-offwhite min-h-[85vh] text-dark transition-colors duration-500 relative">
+    <section className="pt-36 pb-12 px-6 md:px-20 bg-offwhite min-h-[60vh] text-dark transition-colors duration-500 relative">
       <div className="max-w-6xl mx-auto text-left">
         <div className="border-b border-dark/10 pb-8 mb-12 flex flex-col md:flex-row md:items-end justify-between gap-6">
           <div>
@@ -396,6 +396,24 @@ function PublicationsPage({ navigateToSection }) {
               <p className="font-mono text-xs uppercase tracking-widest text-dark/40">// No essays published in this category yet</p>
             </div>
           )
+        )}
+
+        {/* SECTION 3: CALL TO ACTION CATALOG (Only for Self-Published tab) */}
+        {activeCategory === "Self-Published" && (
+          <div className="mt-20 pt-12 border-t border-dark/10 text-center">
+            <p className="font-sans text-base text-dark/70 mb-6">
+              Looking for more? See my full catalog below:
+            </p>
+            <div className="flex flex-wrap justify-center gap-4">
+              <button
+                onClick={() => window.open("https://cinemapersonified.medium.com/", "_blank", "noopener,noreferrer")}
+                className="magnetic-btn bg-[#010101] text-[#FFFFFF] hover:text-[#010101] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2 transition-colors duration-300"
+              >
+                <div className="bg-slide !bg-[#FFFFFF]" />
+                <span>Medium →</span>
+              </button>
+            </div>
+          </div>
         )}
       </div>
 
@@ -813,9 +831,9 @@ function VideosPage({ navigateToSection }) {
           <div className="flex flex-wrap justify-center gap-4">
             <button
               onClick={() => window.open("https://www.tiktok.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
-              className="magnetic-btn bg-dark text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2"
+              className="magnetic-btn bg-[#010101] text-[#FFFFFF] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2"
             >
-              <div className="bg-slide" />
+              <div className="bg-slide !bg-[#EE1D52]" />
               <span>TikTok →</span>
             </button>
 
@@ -906,9 +924,9 @@ function AboutPage({ navigateToSection }) {
                 </button>
                 <button
                   onClick={() => window.open("https://www.tiktok.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
-                  className="magnetic-btn bg-dark text-offwhite font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
+                  className="magnetic-btn bg-[#010101] text-[#FFFFFF] font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
                 >
-                  <div className="bg-slide" />
+                  <div className="bg-slide !bg-[#EE1D52]" />
                   <span>TikTok</span>
                 </button>
                 <button
