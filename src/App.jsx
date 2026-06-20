@@ -89,7 +89,7 @@ const videoEssays = [
 const articles = [
   {
     id: 1,
-    pub: "HYPERREAL FILM CLUB",
+    pub: "HYPERREAL FILM JOURNAL",
     category: "Published",
     title: "Marty Supreme: Hitting Championship Form",
     desc: "Marty Supreme is a triumph because it serves as a pure extension of Josh Safdie's vision.",
@@ -106,7 +106,7 @@ It is a deconstruction of obsession. Table tennis becomes a spiritual battlegrou
   },
   {
     id: 2,
-    pub: "HYPERREAL FILM CLUB",
+    pub: "HYPERREAL FILM JOURNAL",
     category: "Published",
     title: "Weird Wednesdays: American Hunter (1989)",
     desc: "Is American Hunter a \"bad movie\" on paper? Yes. Is it incredibly entertaining to watch? Absolutely",
@@ -123,7 +123,7 @@ The editing rhythm is deliberately slow, built on long, static wide shots that f
   },
   {
     id: 3,
-    pub: "HYPERREAL FILM CLUB",
+    pub: "HYPERREAL FILM JOURNAL",
     category: "Published",
     title: "Five Fall Festival Films to Look Out For",
     desc: "With the summer coming to an end and temperatures coming down, fall is officially on the horizon. While many people are preparing for football season, us cinephiles are preparing for a different season: the fall film festivals",
@@ -137,6 +137,78 @@ The editing rhythm is deliberately slow, built on long, static wide shots that f
 Across the five standout entries, we observe a shared fascination with experimental aspect ratios, mixing digital formats with 16mm archival footage, and breaking the fourth wall through unconventional visual cues. These films function like visual monographs, rejecting classical pacing in favor of sensory overwhelm and rhythmic editing loops.
 
 Whether utilizing hyper-focal macro shots or layering multiple channels of sound design to create an oppressive atmosphere, these filmmakers prove that narrative is secondary to texture. They construct cinematic monoliths that challenge the audience to perceive film not just as story, but as physical and visual sensation.`
+  },
+  {
+    id: 4,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "SXSW 2024 Recap",
+    desc: "My recap of the 2024 SXSW Film & TV and all of the 17 premieres I went to.",
+    date: "March 24, 2024",
+    readTime: "12 min read",
+    image: "https://miro.medium.com/v2/resize:fit:1200/1*jEmt4Zz844VestonBfB8bQ.jpeg",
+    url: "https://cinemapersonified.medium.com/sxsw-2024-recap-08f65848fe94?source=user_profile_page---------0-------------501d68ab7f7d----------------------",
+    bgPosition: "bg-center"
+  },
+  {
+    id: 5,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "Piece by Piece Review",
+    desc: "Expands storytelling possibilities with Lego animation",
+    date: "October 11, 2024",
+    readTime: "4 min read",
+    image: "https://cdn-images-1.medium.com/max/1024/1*4VXTagyfJdW3KwxodaFcIw.jpeg",
+    url: "https://cinemapersonified.medium.com/piece-by-piece-review-05adf932c079",
+    bgPosition: "bg-center"
+  },
+  {
+    id: 6,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "The Wild Robot Review",
+    desc: "DreamWorks resurges as a competitor to Pixar",
+    date: "September 27, 2024",
+    readTime: "3 min read",
+    image: "https://cdn-images-1.medium.com/max/1024/1*N0n1Y5O9VhU6pTibPPrnKA.jpeg",
+    url: "https://cinemapersonified.medium.com/the-wild-robot-review-be52f509d577",
+    bgPosition: "bg-center"
+  },
+  {
+    id: 7,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "Transformers One Review",
+    desc: "Only fitting it comes out right after the Linkin Park announcement",
+    date: "September 20, 2024",
+    readTime: "3 min read",
+    image: "https://cdn-images-1.medium.com/max/1024/1*5X3XkDeTpVILvFls-NjcKA.jpeg",
+    url: "https://cinemapersonified.medium.com/transformers-one-review-9c2baa0f2bc4",
+    bgPosition: "bg-center"
+  },
+  {
+    id: 8,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "Speak No Evil Review",
+    desc: "Is this Blumhouse's last chance?",
+    date: "September 14, 2024",
+    readTime: "3 min read",
+    image: "https://cdn-images-1.medium.com/max/1024/1*k5HmaBBrMUZm7x1VX15_rg.jpeg",
+    url: "https://cinemapersonified.medium.com/speak-no-evil-review-9446b0b4c030",
+    bgPosition: "bg-center"
+  },
+  {
+    id: 9,
+    pub: "MEDIUM",
+    category: "Self-Published",
+    title: "Hit Man Review",
+    desc: "Is Austin the new LA?",
+    date: "June 7, 2024",
+    readTime: "3 min read",
+    image: "https://cdn-images-1.medium.com/max/1000/1*XPL18gO7YW_iUqt7NKpAcg.jpeg",
+    url: "https://cinemapersonified.medium.com/hit-man-review-36b12db5f832",
+    bgPosition: "bg-top"
   }
 ];
 
@@ -185,11 +257,7 @@ function PublicationsPage({ navigateToSection }) {
   const [selectedArticle, setSelectedArticle] = useState(null);
 
   const handleArticleClick = (article) => {
-    if (article.category === "Published") {
-      window.open(article.url, "_blank", "noopener,noreferrer");
-    } else {
-      setSelectedArticle(article);
-    }
+    window.open(article.url, "_blank", "noopener,noreferrer");
   };
 
   const categories = ["Published", "Self-Published"];
@@ -204,10 +272,10 @@ function PublicationsPage({ navigateToSection }) {
           <div>
             <p className="font-mono text-xs text-accent uppercase tracking-[0.2em] mb-2">Pillar // 3</p>
             <h1 className="text-4xl md:text-6xl font-extrabold font-sans tracking-tight uppercase leading-none">
-              Publications & Essays
+              Publications
             </h1>
             <p className="text-dark/60 mt-3 text-base max-w-xl font-sans">
-              Deconstructing focal planes, narrative rhythms, and the geometry of frame layouts. A repository of cinematic analysis.
+              Deep dives into movies and the film festival circuit. An analysis of cinema in a long-form written format.
             </p>
           </div>
           <button 
@@ -268,7 +336,7 @@ function PublicationsPage({ navigateToSection }) {
                   {featuredArticle.readTime}
                 </span>
                 <span className="text-accent font-bold group-hover:translate-x-1 transition-transform duration-300 ml-2 flex items-center gap-1">
-                  Read Essay <ArrowRight className="w-3.5 h-3.5" />
+                  {featuredArticle.category === "Published" ? "Read Essay" : "Read Article"} <ArrowRight className="w-3.5 h-3.5" />
                 </span>
               </div>
             </div>
@@ -315,7 +383,7 @@ function PublicationsPage({ navigateToSection }) {
                       {article.readTime}
                     </span>
                     <span className="text-[10px] font-mono font-bold uppercase tracking-wider text-accent flex items-center gap-1 group-hover:underline">
-                      Read Essay <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" />
+                      {article.category === "Published" ? "Read Essay" : "Read Article"} <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" />
                     </span>
                   </div>
                 </div>
@@ -581,7 +649,7 @@ function VideosPage({ navigateToSection }) {
               Videos
             </h1>
             <p className="text-dark/60 mt-3 text-base max-w-xl font-sans">
-              A repository of movie reviews, film festival vlogs, and Oscars predictions for both short and long-form content
+              A repository of movie reviews, film festival vlogs, and Oscars predictions for both short and long-form content.
             </p>
           </div>
           <button 
@@ -1480,7 +1548,7 @@ export default function App() {
                       <span className="font-mono text-[9px] uppercase tracking-wider text-accent font-bold transition-colors duration-500">LIVE FEED</span>
                     </div>
                   </div>
-                  <h3 className="text-2xl font-bold tracking-tight font-sans mb-2 transition-all duration-500">Videos</h3>
+                  <h3 className="text-2xl font-bold tracking-tight font-sans mb-2 transition-all duration-500">Cinematic Videos</h3>
                   <p className="text-xs text-dark/60 mb-6 transition-colors duration-500">Short-form video reviews and awards season coverage on my TikTok, Instagram, and Youtube Shorts, and long-form vlogs and Oscars predictions on my Youtube.</p>
                 </div>
 
@@ -1634,7 +1702,7 @@ export default function App() {
                 <p className="font-mono text-xs text-accent uppercase tracking-widest transition-colors duration-500">Pillar // 2</p>
                 <h2 className="text-4xl md:text-6xl font-bold tracking-tight font-sans transition-all duration-500 uppercase">Videos</h2>
                 <p className="text-offwhite/60 max-w-xl text-base transition-colors duration-500 font-sans">
-                  Deep dives, vlogs, and award show forecasts. Analysis of cinematic language in video format.
+                  A repository of movie reviews, film festival vlogs, and Oscars predictions for both short and long-form content.
                 </p>
               </div>
 
@@ -1717,21 +1785,16 @@ export default function App() {
                 <p className="font-mono text-xs text-accent uppercase tracking-widest transition-colors duration-500">Pillar // 3</p>
                 <h2 className="text-4xl md:text-6xl font-bold tracking-tight font-sans transition-all duration-500 uppercase">Publications</h2>
                 <p className="text-dark/60 max-w-xl text-base transition-colors duration-500 font-sans">
-                  Deconstructing focal planes, narrative rhythms, and the geometry of frame layouts. A repository of cinematic analysis.
+                  Deep dives into movies and the film festival circuit. An analysis of cinema in a long-form written format.
                 </p>
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                {articles.map((article) => (
+                {articles.filter(article => article.category === "Published").map((article) => (
                   <div
                     key={article.id}
                     onClick={() => {
-                      if (article.category === "Published") {
-                        window.open(article.url, "_blank", "noopener,noreferrer");
-                      } else {
-                        setCurrentView("publications");
-                        window.scrollTo({ top: 0, behavior: 'smooth' });
-                      }
+                      window.open(article.url, "_blank", "noopener,noreferrer");
                     }}
                     className="article-card bg-primary/5 border border-dark/10 rounded-brutalist overflow-hidden shadow-sm hover:shadow-md hover:border-accent/30 transition-all duration-500 cursor-pointer group flex flex-col h-[400px] text-left"
                   >
@@ -1744,7 +1807,7 @@ export default function App() {
                       <div className="absolute inset-0 bg-dark/10 group-hover:bg-dark/30 transition-colors duration-300" />
                       
                       <span className="absolute top-4 left-4 px-2.5 py-0.5 rounded-full bg-offwhite/90 backdrop-blur-sm font-mono text-[8px] font-bold text-accent uppercase tracking-widest border border-dark/5">
-                        {article.pub}
+                        {article.category}
                       </span>
                     </div>
 
@@ -1752,7 +1815,7 @@ export default function App() {
                     <div className="p-6 flex flex-col justify-between flex-grow">
                       <div>
                         <div className="flex justify-between items-center text-[9px] font-mono font-bold tracking-wider text-accent mb-2">
-                          <span>{article.category}</span>
+                          <span>{article.pub}</span>
                           <span>{article.date}</span>
                         </div>
                         <h3 className="text-lg font-bold font-sans tracking-tight text-dark group-hover:text-accent transition-colors duration-200 line-clamp-2 leading-snug uppercase">
@@ -1769,7 +1832,7 @@ export default function App() {
                           {article.readTime}
                         </span>
                         <span className="text-[10px] font-mono font-bold uppercase tracking-wider text-accent flex items-center gap-1 group-hover:underline">
-                          Read Essay <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" />
+                          {article.category === "Published" ? "Read Essay" : "Read Article"} <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform duration-200" />
                         </span>
                       </div>
                     </div>
