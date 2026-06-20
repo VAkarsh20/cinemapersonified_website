@@ -1375,7 +1375,7 @@ export default function App() {
             {/* Content pushed to bottom-left third */}
             <div className="relative z-10 max-w-4xl text-left">
               <p ref={heroSubheadingRef} className="font-mono text-accent text-xs md:text-sm uppercase tracking-[0.25em] mb-4 transition-colors duration-500">
-                — World-Class Film Content & Curation ({activePreset.tagline})
+                — WORLD-CLASS FILM CONTENT & REVIEWS ({activePreset.tagline})
               </p>
               <h1 ref={heroHeadingRef} className="text-5xl md:text-8xl font-bold tracking-tighter text-offwhite flex flex-col gap-1 leading-[0.9]">
                 <span className="font-sans font-extrabold uppercase transition-all duration-500">{activePreset.heroSans}</span>
