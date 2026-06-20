@@ -1375,11 +1375,11 @@ export default function App() {
             {/* Content pushed to bottom-left third */}
             <div className="relative z-10 max-w-4xl text-left">
               <p ref={heroSubheadingRef} className="font-mono text-accent text-xs md:text-sm uppercase tracking-[0.25em] mb-4 transition-colors duration-500">
-                — WORLD-CLASS FILM CONTENT & REVIEWS ({activePreset.tagline})
+                — WORLD-CLASS FILM CONTENT & REVIEWS
               </p>
               <h1 ref={heroHeadingRef} className="text-5xl md:text-8xl font-bold tracking-tighter text-offwhite flex flex-col gap-1 leading-[0.9]">
-                <span className="font-sans font-extrabold uppercase transition-all duration-500">{activePreset.heroSans}</span>
-                <span className="font-drama text-accent text-7xl md:text-9xl mt-2 italic transition-all duration-500">{activePreset.heroDrama}</span>
+                <span className="font-sans font-extrabold uppercase transition-all duration-500">Cinema</span>
+                <span className="font-drama text-accent text-7xl md:text-9xl mt-2 italic tracking-normal no-ligatures transition-all duration-500">Personified.</span>
               </h1>
               <div className="mt-4 font-mono text-[10px] uppercase text-offwhite/50 tracking-wider">
                 Active Palette: {activePreset.palette.join(" | ")}
