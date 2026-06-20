@@ -31,7 +31,7 @@ const presets = {
     className: "preset-b",
     heroSans: "Critique meets",
     heroDrama: "Obsession.",
-    heroImage: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=1600", // luxury architectural shadows
+    heroImage: "/theater-picture.png",
     philosophyImage: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1600",
     palette: ["#0D0D12 (Obsidian)", "#C9A84C (Champagne)", "#FAF8F5 (Ivory)", "#2A2A35 (Slate)"],
     fontNote: "Space Grotesk headers + Playfair Display drama"
@@ -43,7 +43,7 @@ const presets = {
     className: "preset-c",
     heroSans: "Deconstruct the",
     heroDrama: "Frame.",
-    heroImage: "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=1600", // concrete raw geometry
+    heroImage: "/theater-picture.png",
     philosophyImage: "https://images.unsplash.com/photo-1590069261209-f8e9b8642343?q=80&w=1600",
     palette: ["#E8E4DD (Paper)", "#E63B2E (Signal Red)", "#F5F3EE (Off-white)", "#111111 (Black)"],
     fontNote: "Space Grotesk headers + DM Serif Display drama"
@@ -1363,11 +1363,11 @@ export default function App() {
           <section 
             id="hero" 
             ref={heroRef}
-            className="relative h-[calc(100vh-96px)] w-full flex items-end justify-start p-8 md:p-20 overflow-hidden bg-dark transition-all duration-500"
+            className="relative h-[60vh] md:h-auto md:aspect-video w-full flex items-end justify-start p-8 md:p-20 overflow-hidden bg-dark transition-all duration-500"
           >
             {/* Background Image with Heavy Gradient Overlay */}
             <div 
-              className="absolute inset-0 bg-cover bg-center opacity-90 scale-105 transition-all duration-750"
+              className="absolute inset-0 bg-cover bg-top opacity-90 scale-105 transition-all duration-750"
               style={{ backgroundImage: `url('${activePreset.heroImage}')` }}
             />
             <div className="absolute inset-0 bg-gradient-to-t from-dark via-dark/40 to-transparent" />
