@@ -1877,13 +1877,6 @@ export default function App() {
       {/* G. FOOTER */}
       <footer className="bg-dark text-offwhite rounded-t-[4rem] pt-16 pb-12 px-8 md:px-20 relative overflow-hidden transition-colors duration-500">
         
-        {/* Abstract design vector overlay */}
-        <div className="absolute right-0 bottom-0 opacity-5 pointer-events-none select-none">
-          <svg width="400" height="400" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect x="20" y="20" width="160" height="160" stroke="currentColor" strokeWidth="4" />
-            <circle cx="100" cy="100" r="60" stroke="currentColor" strokeWidth="2" />
-          </svg>
-        </div>
 
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12 text-left border-b border-offwhite/10 pb-16">
           
