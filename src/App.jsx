@@ -1454,7 +1454,7 @@ export default function App() {
                 </button>
                 <button 
                   onClick={() => navigateToSection("features")} 
-                  className="group flex items-center gap-2 text-offwhite/80 hover:text-accent font-mono text-xs uppercase tracking-widest transition-colors py-3"
+                  className="group flex items-center gap-2 text-offwhite hover:text-accent font-mono text-xs uppercase tracking-widest transition-colors py-3"
                 >
                   <span>Explore Digital Artifacts</span>
                   <ArrowRight className="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1" />
