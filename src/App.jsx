@@ -14,7 +14,8 @@ import {
   Check,
   Sliders,
   X,
-  Star
+  Star,
+  Menu
 } from 'lucide-react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -1081,6 +1082,7 @@ export default function App() {
   // --- NAVBAR SCROLL DETECTOR & THEME TRACKER ---
   const [isScrolled, setIsScrolled] = useState(false);
   const [isNavbarDarkBg, setIsNavbarDarkBg] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -1397,14 +1399,79 @@ export default function App() {
             About
           </button>
         </div>
-        <button 
-          onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")} 
-          className="magnetic-btn bg-accent text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-2.5 px-5 rounded-full overflow-hidden"
-        >
-          <div className="bg-slide" />
-          <span>FOLLOW CINEMA PERSONIFIED</span>
-        </button>
+        <div className="flex items-center gap-3">
+          <button 
+            onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")} 
+            className="magnetic-btn bg-accent text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-2.5 px-3 sm:px-5 rounded-full overflow-hidden whitespace-nowrap"
+          >
+            <div className="bg-slide" />
+            <span className="hidden sm:inline">FOLLOW CINEMA PERSONIFIED</span>
+            <span className="sm:hidden">FOLLOW</span>
+          </button>
+          
+          <button 
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            className={`md:hidden p-2.5 rounded-full transition-all duration-300 ${
+              isNavbarDarkBg 
+                ? "text-offwhite hover:bg-offwhite/10" 
+                : "text-dark hover:bg-dark/10"
+            }`}
+            aria-label="Toggle navigation menu"
+          >
+            {isMobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+          </button>
+        </div>
       </nav>
+
+      {/* Mobile Dropdown Menu */}
+      {isMobileMenuOpen && (
+        <div 
+          className={`fixed top-24 left-1/2 -translate-x-1/2 z-40 w-[90%] max-w-5xl rounded-[2rem] p-6 md:hidden flex flex-col gap-4 shadow-2xl border ${
+            isNavbarDarkBg 
+              ? "bg-dark/95 backdrop-blur-2xl border-offwhite/10 text-offwhite" 
+              : "bg-offwhite/95 backdrop-blur-2xl border-dark/10 text-dark"
+          } animate-mobile-menu`}
+        >
+          <button 
+            onClick={() => { navigateToSection("features"); setIsMobileMenuOpen(false); }}
+            className="text-left font-sans text-xs uppercase tracking-wider font-bold py-3.5 border-b border-current/10 hover:text-accent transition-colors"
+          >
+            Pillars
+          </button>
+          <button 
+            onClick={() => { setCurrentView("reviews"); window.scrollTo({ top: 0, behavior: 'smooth' }); setIsMobileMenuOpen(false); }}
+            className={`text-left font-sans text-xs uppercase tracking-wider font-bold py-3.5 border-b border-current/10 hover:text-accent transition-colors ${
+              currentView === "reviews" ? "text-accent" : ""
+            }`}
+          >
+            Reviews
+          </button>
+          <button 
+            onClick={() => { setCurrentView("videos"); window.scrollTo({ top: 0, behavior: 'smooth' }); setIsMobileMenuOpen(false); }}
+            className={`text-left font-sans text-xs uppercase tracking-wider font-bold py-3.5 border-b border-current/10 hover:text-accent transition-colors ${
+              currentView === "videos" ? "text-accent" : ""
+            }`}
+          >
+            Videos
+          </button>
+          <button 
+            onClick={() => { setCurrentView("publications"); window.scrollTo({ top: 0, behavior: 'smooth' }); setIsMobileMenuOpen(false); }}
+            className={`text-left font-sans text-xs uppercase tracking-wider font-bold py-3.5 border-b border-current/10 hover:text-accent transition-colors ${
+              currentView === "publications" ? "text-accent" : ""
+            }`}
+          >
+            Publications
+          </button>
+          <button 
+            onClick={() => { setCurrentView("about"); window.scrollTo({ top: 0, behavior: 'smooth' }); setIsMobileMenuOpen(false); }}
+            className={`text-left font-sans text-xs uppercase tracking-wider font-bold py-3.5 hover:text-accent transition-colors ${
+              currentView === "about" ? "text-accent" : ""
+            }`}
+          >
+            About
+          </button>
+        </div>
+      )}
 
       {/* VIEW CONTROLLER BLOCK */}
       <main id="main-content">
