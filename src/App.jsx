@@ -1443,9 +1443,7 @@ export default function App() {
                 <span className="font-sans font-extrabold uppercase transition-all duration-500">Cinema</span>
                 <span className="font-drama text-accent text-7xl md:text-9xl mt-2 italic tracking-normal no-ligatures transition-all duration-500">Personified.</span>
               </h1>
-              <div className="mt-4 font-mono text-[10px] uppercase text-offwhite/50 tracking-wider">
-                Active Palette: {activePreset.palette.join(" | ")}
-              </div>
+
               <div ref={heroCtaRef} className="mt-8 flex flex-col sm:flex-row gap-4 items-start sm:items-center">
                 <button 
                   onClick={() => window.open("https://cinemapersonified-com.l.ink/", "_blank", "noopener,noreferrer")}
