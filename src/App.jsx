@@ -1398,7 +1398,7 @@ export default function App() {
           </button>
         </div>
         <button 
-          onClick={() => window.open("https://cinemapersonified-com.l.ink/", "_blank", "noopener,noreferrer")} 
+          onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")} 
           className="magnetic-btn bg-accent text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-2.5 px-5 rounded-full overflow-hidden"
         >
           <div className="bg-slide" />
@@ -1446,7 +1446,7 @@ export default function App() {
 
               <div ref={heroCtaRef} className="mt-8 flex flex-col sm:flex-row gap-4 items-start sm:items-center">
                 <button 
-                  onClick={() => window.open("https://cinemapersonified-com.l.ink/", "_blank", "noopener,noreferrer")}
+                  onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")}
                   className="magnetic-btn bg-accent text-offwhite font-sans text-sm font-bold uppercase tracking-wider py-4 px-8 rounded-full overflow-hidden"
                 >
                   <div className="bg-slide" />
