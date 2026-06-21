@@ -57,7 +57,7 @@ const videoEssays = [
     series: "Festival Vlog",
     title: "SXSW 2026 Vlog",
     desc: "The SXSW Film & TV Festival has changed FOREVER. I’ve vlogged my journey to South by Southwest every year since 2023, but this SXSW 2026 film festival vlog captures a massive shift in Austin, Texas. Navigating convention center demolitions, discontinued wristbands, and major leadership shakeups, is SXSW 2026 the best or worst festival yet? 🎬",
-    date: "March 20, 2026",
+    date: "June 5th, 2026",
     duration: "20 min watch",
     image: "https://img.youtube.com/vi/QyEm-dZ7NM8/maxresdefault.jpg",
     url: "https://youtu.be/QyEm-dZ7NM8"
@@ -79,7 +79,7 @@ const videoEssays = [
     series: "Awards Season",
     title: "Oscars 2026 Predictions",
     desc: "The 98th Academy Awards are finally here! I’m predicting every single winner for Oscars 2026 across all 24 categories. From the Best Picture showdown between One Battle After Another and Sinners to the chaotic Best Actor race between Timothée Chalamet and Michael B. Jordan, I’m breaking down the precursors, the locks, and the potential upsets.",
-    date: "February 15, 2026",
+    date: "March 11th, 2026",
     duration: "9 min watch",
     image: "https://img.youtube.com/vi/in9InwLroiQ/maxresdefault.jpg",
     url: "https://youtu.be/in9InwLroiQ"
@@ -143,7 +143,7 @@ Whether utilizing hyper-focal macro shots or layering multiple channels of sound
     pub: "MEDIUM",
     category: "Self-Published",
     title: "SXSW 2024 Recap",
-    desc: "My recap of the 2024 SXSW Film & TV and all of the 17 premieres I went to.",
+    desc: "My recap of the 2024 SXSW Film & TV Festival and all of the 17 premieres I went to",
     date: "March 24, 2024",
     readTime: "12 min read",
     image: "https://miro.medium.com/v2/resize:fit:1200/1*jEmt4Zz844VestonBfB8bQ.jpeg",
@@ -558,7 +558,7 @@ function VideosPage({ navigateToSection }) {
       series: "Festival Vlog",
       title: "SXSW 2026 Vlog",
       desc: "The SXSW Film & TV Festival has changed FOREVER. I’ve vlogged my journey to South by Southwest every year since 2023, but this SXSW 2026 film festival vlog captures a massive shift in Austin, Texas. Navigating convention center demolitions, discontinued wristbands, and major leadership shakeups, is SXSW 2026 the best or worst festival yet? 🎬",
-      date: "March 20, 2026",
+      date: "June 5th, 2026",
       duration: "20 min watch",
       image: "https://img.youtube.com/vi/QyEm-dZ7NM8/maxresdefault.jpg",
       url: "https://youtu.be/QyEm-dZ7NM8"
@@ -569,7 +569,7 @@ function VideosPage({ navigateToSection }) {
       series: "Awards Season",
       title: "Oscars 2026 Predictions",
       desc: "The 98th Academy Awards are finally here! I’m predicting every single winner for Oscars 2026 across all 24 categories. From the Best Picture showdown between One Battle After Another and Sinners to the chaotic Best Actor race between Timothée Chalamet and Michael B. Jordan, I’m breaking down the precursors, the locks, and the potential upsets.",
-      date: "February 15, 2026",
+      date: "March 11th, 2026",
       duration: "9 min watch",
       image: "https://img.youtube.com/vi/in9InwLroiQ/maxresdefault.jpg",
       url: "https://youtu.be/in9InwLroiQ"
@@ -580,7 +580,7 @@ function VideosPage({ navigateToSection }) {
       series: "Festival Vlog",
       title: "SXSW 2025 VLOG",
       desc: "The SXSW 2025 Film & TV Festival is finally here! Check out  @cinemapersonified 's vlog to hear about his third experience at the SXSW Film Festival in Austin, TX.",
-      date: "March 25, 2025",
+      date: "April 25th, 2025",
       duration: "15 min watch",
       image: "https://img.youtube.com/vi/F4zV-JIUvsY/maxresdefault.jpg",
       url: "https://youtu.be/F4zV-JIUvsY"
@@ -746,7 +746,7 @@ function VideosPage({ navigateToSection }) {
         <div>
           <div className="border-b border-dark/5 pb-4 mb-6 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <h2 className="text-2xl md:text-3xl font-bold font-sans tracking-tight uppercase text-dark">
-              Short-form Content (Highlights)
+              Short-form Videos (Highlights)
             </h2>
           </div>
 
@@ -1010,7 +1010,7 @@ export default function App() {
   const [currentView, setCurrentView] = useState("home"); // "home" | "publications" | "reviews" | "videos" | "about"
 
   // --- PRESET SELECTION STATE ---
-  const [activePresetKey, setActivePresetKey] = useState("b"); // Default to Preset B
+  const activePresetKey = "b";
   const activePreset = presets[activePresetKey];
 
   // --- STATE FOR INTERACTIVE ARTIFACTS ---
@@ -1305,13 +1305,7 @@ export default function App() {
     return () => ctx.revert();
   }, [activePresetKey, currentView]);
 
-  // Handle switching preset & refreshing ScrollTrigger
-  const handlePresetSwitch = (key) => {
-    setActivePresetKey(key);
-    setTimeout(() => {
-      ScrollTrigger.refresh();
-    }, 100);
-  };
+
 
   // Navigates to a specific section on the home page, switching views if necessary
   const navigateToSection = (sectionId) => {
@@ -1334,38 +1328,7 @@ export default function App() {
       {/* GLOBAL SVG NOISE OVERLAY */}
       <div className="noise-overlay" />
 
-      {/* FLOATING PRESET CONTROLLER / THEME DESK (Preset B vs Preset C COMPARATOR) */}
-      <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 bg-dark/95 border border-offwhite/10 backdrop-blur-md rounded-full px-5 py-3 shadow-2xl flex items-center gap-4 max-w-[95%] sm:max-w-none">
-        <div className="flex items-center gap-2 border-r border-offwhite/10 pr-3 hidden sm:flex text-offwhite/60">
-          <Sliders className="w-4 h-4 text-accent" />
-          <span className="font-mono text-[10px] tracking-wider uppercase font-bold text-offwhite/90">Comparison Deck</span>
-        </div>
-        <div className="flex gap-2">
-          {Object.keys(presets).map((key) => {
-            const preset = presets[key];
-            const isSelected = activePresetKey === key;
-            return (
-              <button
-                key={key}
-                onClick={() => handlePresetSwitch(key)}
-                className={`px-4 py-2 rounded-full font-mono text-[10px] font-bold uppercase transition-all duration-300 tracking-wider flex flex-col items-center gap-0.5 ${
-                  isSelected 
-                    ? "bg-accent text-offwhite border border-accent shadow-md scale-105" 
-                    : "bg-offwhite/10 text-offwhite/70 border border-offwhite/10 hover:bg-offwhite/20 hover:text-offwhite"
-                }`}
-              >
-                <div className="flex items-center gap-1.5">
-                  <span className="w-2.5 h-2.5 rounded-full border border-offwhite/20" style={{ backgroundColor: preset.palette[1].split(' ')[0] }} />
-                  <span>{preset.name}</span>
-                </div>
-              </button>
-            );
-          })}
-        </div>
-        <div className="text-[9px] font-mono text-offwhite/50 border-l border-offwhite/10 pl-3 hidden lg:block uppercase tracking-wider">
-          Active: {activePreset.fontNote}
-        </div>
-      </div>
+
 
       {/* A. NAVBAR — "The Floating Island" */}
       <nav 
