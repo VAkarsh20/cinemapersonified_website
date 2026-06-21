@@ -1066,6 +1066,18 @@ export default function App() {
   const publicationsRef = useRef(null);
   const homeReviewsRef = useRef(null);
 
+  // --- DYNAMIC BROWSER TAB TITLE ---
+  useEffect(() => {
+    const titles = {
+      home: "Cinema Personified — Film Critique & Curation",
+      publications: "Publications — Cinema Personified",
+      reviews: "Reviews — Cinema Personified",
+      videos: "Videos — Cinema Personified",
+      about: "About — Cinema Personified"
+    };
+    document.title = titles[currentView] || "Cinema Personified";
+  }, [currentView]);
+
   // --- NAVBAR SCROLL DETECTOR & THEME TRACKER ---
   const [isScrolled, setIsScrolled] = useState(false);
   const [isNavbarDarkBg, setIsNavbarDarkBg] = useState(false);
@@ -1432,7 +1444,8 @@ export default function App() {
       </nav>
 
       {/* VIEW CONTROLLER BLOCK */}
-      {currentView === "publications" ? (
+      <main id="main-content">
+        {currentView === "publications" ? (
         <PublicationsPage navigateToSection={navigateToSection} />
       ) : currentView === "reviews" ? (
         <ReviewsPage navigateToSection={navigateToSection} />
@@ -1873,6 +1886,7 @@ export default function App() {
           </section>
         </>
       )}
+      </main>
 
       {/* G. FOOTER */}
       <footer className="bg-dark text-offwhite rounded-t-[4rem] pt-16 pb-12 px-8 md:px-20 relative overflow-hidden transition-colors duration-500">
@@ -1893,7 +1907,7 @@ export default function App() {
                   <Film className="w-6 h-6 text-accent transition-colors duration-500" />
                   <span>Cinema Personified</span>
                 </button>
-                <p className="text-[10px] font-mono text-accent uppercase tracking-widest mt-1 transition-colors duration-500">Austin, TX // Aspiring Film Critic</p>
+                <p className="text-[10px] font-mono text-accent uppercase tracking-widest mt-1 transition-colors duration-500">Austin, TX // Film Critic & Content Creator</p>
               </div>
             </div>
             <p className="text-offwhite/70 text-sm leading-relaxed max-w-lg font-sans transition-colors duration-500">
