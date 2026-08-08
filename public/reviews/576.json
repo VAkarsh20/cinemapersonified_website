@@ -1,0 +1,141 @@
+{
+  "title": "F1",
+  "rating": 8.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joseph Kosinski"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is great, as Kosinski takes the scale he operated in the skies on 'Top Gun: Maverick' and places it on the racetrack, as he creates a thrill ride that perfectly emulates an F1 race, keeping you on the edge of your seat as you see how these races and storylines reach their way to the finish line; the direction on a microscale is pretty good, as this is a star-studded cast, but it feels incredibly like a Hollywood blockbuster and very unnatural, as they farm for clips; the storytelling is very 80s Hollywood blockbuster, as it is pretty formulaic and simple; they build tension very well, as the races feel like adrenaline rushes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Brad Pitt"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Uses his experience as a blockbuster lead to really fuel this performance, as it's clear he has a lot of confidence on screen, and he really immerses himself in the role of being a suave racecar driver; he has good chemistry with the cast, though it is a bit of a slow start with Idris"
+        },
+        {
+          "actor": {
+            "name": "Damson Idris"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the hotshot character well, but it takes about 20-30 minutes from his introduction to really get into the character; By the end of the movie, I really enjoyed his performance and want to see more of Idris going forward; His chemistry with others is good, and by the end of the movie it is good with Pitt"
+        },
+        {
+          "actor": {
+            "name": "Kerry Condon"
+          },
+          "rating": "Good",
+          "comments": "A real scene-stealer as she makes her presence known on screen and has very good chemistry with Pitt as they play this flirtatious tennis match; While I really enjoyed her performance, the love interest made this movie feel a little too Hollywood"
+        },
+        {
+          "actor": {
+            "name": "Tobias Menzies"
+          },
+          "rating": "Decent",
+          "comments": "Really isn't given any material to work with, as he does not really have any chemistry and is given very subdued lines"
+        },
+        {
+          "actor": {
+            "name": "Javier Bardem"
+          },
+          "rating": "Good",
+          "comments": "Makes his presence known on screen as he makes it clear how established of an actor he is; He has very good chemistry with Pitt as their connection is infectious and makes you wonder if they are this close in real life"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their role very well and helps support the main cast in pushing this movie across the finish line"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Joseph Kosinski"
+        },
+        {
+          "name": "Ehren Kruger"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is more about the F1 aesthetic than the plot, as the movie puts you in the driver's seat of an F1 car for the final 9 races of the season; the plot itself is a very 80s Hollywood blockbuster and a little predictable; the conflict is very unrealistic because it begs the question, \"what if Strip Weathers and Lightning McQueen joined Haas midseason to turn things around?\"; the plot structure is pretty linear and a straight shot, as they go through the final 9 races of the F1 season to get to the finish line; while the movie is a little bloated in plot, they already cut down 2-3 full storylines, so this is about as concise as you are going to get the film; character writing is actually very good, as they create characters with backgrounds that are really interesting and that you are invested in to see what happens to them next, even though they might be backed by traditional Hollywood tropes"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ehren Kruger"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue feels very 80s Hollywood blockbuster as it goes for hell yeah moments and tries to farm for highlights, but feels incredibly unnatural when it tries to do so; Aaron Sorkin is credited as an additional writer for this movie, and it is so obvious which scenes he wrote; The humor is present a lot and pretty good as it makes this movie feel very fun, with a lot of it coming from banter that Pitt ignites; The symbolism is a little templated as it is what you would expect from a movie about an old, formerly retired driver being brought on to race with a hot-shot up-and-coming racer; The product placement for this movie is symbolic of F1 because the entire movie just feels like a giant ad for Apple, F1, and their sponsors; The foreshadowing is somewhat present, but it makes the movie feel a little predictable and safe"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "A surprisingly modern and techno score from Hans Zimmer; shows why he is the best composer in the business as his marks on the score leave fingerprints throughout the film in helping make this movie feel exhilarating and fun, especially in the race sequences"
+    },
+    "soundtrack": {
+      "rating": "Good to Very Good",
+      "comments": "Used well throughout the movie, the classic rock track, when laid across the race sequences, made the movie feel very fun, as you internally yell out \"Hell Yeah\"; the use of new songs made the movie feel like a Hollywood summer tentpole movie, as they tried to recreate the magic of 'Top Gun: Maverick', and they did a good job of doing this"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Claudio Miranda"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Puts you in the driver's seat of the F1 car, and you feel like a racer on the circuit; A major reason why this movie is what it is, as it creates an adrenaline rush as you race to the finish line; Takes the Top Gun: Maverick cameras and puts them on steroids, as they use even more cameras and cut between different angles to get you a holistic view of the car as it races; Also used well to build the world and the race tracks, and it makes you feel like you are traveling with a real F1 team during their season; The movie does have that grayish color saturation you see from a lot of Apple movies"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Stephen Mirrione"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The sharp cuts between the different angles in the race sequences make the movie an adrenaline rush and a fun ride as you holistically get a view of the car and the race; The editing in the non-race sequences felt polished and helped build the world"
+    },
+    "sound": {
+      "rating": "Incredible",
+      "comments": "Helps bring to life the F1 races and the cars, making the movie feel incredibly realistic, as if you were at the race in the driver's seat; Makes the movie feel like an adrenaline rush"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "Doesn't feel like they used a lot of CGI, maybe for the big pyro moments, as this movie feels like a realistic F1 race as the actors did a lot of the racing and the filmmakers most likely used a lot of practical effects"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Considering they filmed at real F1 tracks, this movie feels like an extension of the F1 season because it is as if you are following the team during the final straight of the season"
+    },
+    "makeup": {
+      "rating": "Pretty Bad",
+      "comments": "The only truly bad part of the movie was that they did a pretty bad job aging down Brad Pitt because the younger version just looked goofy"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "The use of real F1 drivers, coupled with realistic jumpsuits for the actors, made this movie feel like a documentary in the F1 season"
+    },
+    "pacing": "Pacing is very fast in the racing sequences as it mimics the adrenaline rush and thrill of racing in F1, but the movie feels a bit on the slower side for the dramatic parts as the movie is pretty plot dense; because they already cut out 2-3 storylines, this is probably the best pace we are going to get",
+    "climax": "Climax is an absolute thrill as you are on the edge of your seat as you see how the final race plays out because of how emotionally invested you are in these characters and their fate at the end of the season, though the ending is very Hollywood and predictable",
+    "tone": "Tone is very similar to other racing movies; steals a lot from Top Gun: Maverick as this movie has the same 80s Hollywood blockbuster feel",
+    "final_notes": "The amount of product placement for this movie mimics an actual F1 race",
+    "overall": "Overall, an insanely fun watch, as the cineamtography, sound design, and visual effects fuel an adrenaline rush that makes you feel like you are at the edge of an F1 driver's seat from the start of the movie all the way to the finish line; while the characters and performances are enjoyable, the plot and dramatic moments feel very 80s Hollywood blockbuster and predictable, as it is very obvious they are trying to recreate Top Gun: Maverick, subbing the skies for the racetrack"
+  },
+  "release_year": 2025,
+  "review_date": "06/23/2025",
+  "redux": false,
+  "id": 576,
+  "imdb_id": "tt16311594"
+}

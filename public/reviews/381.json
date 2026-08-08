@@ -1,0 +1,137 @@
+{
+  "title": "Aliens",
+  "rating": 8.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Has control of his scenes on a macro-scale as he used his experience directing sci-fi epics well; has some control over the scenes on a micro-scale as he elicits horror well, but there is definitely an element of 80s camp in the interpersonal scenes (especially in the first hour); tells the story well as he uses his signature sci-fi storytelling style (something that he later exploits in Avatar); uses cinematography/editing well in both as it helps paint the scenes (especially when capturing the bigger sets) and helps with creating horror with the fast cuts and POVs"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sigourney Weaver"
+          },
+          "rating": "Very Good",
+          "comments": "Controls her own very well and uses her experience from the previous role to convey the trauma her character faces by going back; does hit a limit at some points"
+        },
+        {
+          "actor": {
+            "name": "Michael Biehn"
+          },
+          "rating": "Decent",
+          "comments": "Nothing special or memorable with the performance, just one of the characters from the crew"
+        },
+        {
+          "actor": {
+            "name": "Paul Reiser"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Steps away from his more comedic side to play more of a dramatic role (but hits his limits at certain points)"
+        },
+        {
+          "actor": {
+            "name": "Lance Henriksen"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Very 80s performance but works well off of Weaver in showing the differences between humans and AI"
+        },
+        {
+          "actor": {
+            "name": "Carrie Henn"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a good job at representing the emotional vulnerability of the audience and playing the innocent child"
+        }
+      ],
+      "cast": {
+        "rating": "Bad to Pretty Bad",
+        "comments": "Just very 80s and filled with camp"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "David Giler"
+        },
+        {
+          "name": "Walter Hill"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is pretty similar to other Sci-Fi/Horror movies (but the aspects of trauma were a good unique touch); the story construction was very predictable at times and just felt like it played to the period it was released (but was laid out well); the flow of sequences was fine (though it felt like the flow was a lot better in the second half than the first); the character writing of Ripley was very good as it was very well rounded to show the impact of the previous movie had on her mental health, and the character writing for Newt was good as it presents some sense of mystery and emotional vulnerability, but the rest of the characters were just so shallow as they were carbon copy characters from other 80s movies (especially the soldiers)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue did not age well because it is super 80s and campy; the jokes were decently funny (but a bit forced); the horror elements were very good as it used a combination of sound and effects to scare the audience; symbolism is pretty overt but the underlying messages of trauma were written well; foreshadowing is very overt that it makes the movie predictable (typical of movies from the 80s)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "James Horner"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Used well to set the tone and elicit fear/build tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Adrian Biddle"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Very polished and used well to help build the world (and how scarey it was when dealing with the creatures)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ray Lovejoy"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Helped make the movie feel polished and used well in the horror sequences, but felt very typical to other Sci-fi/Action movies of the 80s"
+    },
+    "sound": {
+      "rating": "Incredible",
+      "comments": "Used very well to help boost the horror, action, and sci-fi elements and felt very polished"
+    },
+    "visual_effects": {
+      "rating": "Incredible",
+      "comments": "Was exceptional when showing the Aliens and was handled very well when showing the space scenes/machines; the use of pyrotechnics and practical effects was incredible as well as it helped show the chaos building as the movie went on"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Really did a good job at making the movie feel like science fiction and in Space"
+    },
+    "makeup": {
+      "rating": "Very Good",
+      "comments": "Did a good job in showing the impact and byproduct of the aliens"
+    },
+    "plot_structure": "Plot Structure was pretty similar to Sci-fi movies from the 80s (but was mapped out very well and had the right amount of exposition and rising action to leave plenty of time for the climax to take up a significant portion of the movie)",
+    "pacing": "Pacing was a good quick pace (a stark difference from the first movie)",
+    "climax": "Climax was executed very well as it felt like it was going on for the final 40 minutes (with the audience being kept on its toes as the characters try to escape and fight the aliens)",
+    "tone": "Tone was very similar to other 80s Sci-fi and Action movies (though the tone in the horror moments did help make the movie feel more scary)",
+    "final_notes": "Saw a screening at Austin Film Fest",
+    "overall": "Overall, a good follow-up to the science fiction classic as James Cameron creates a very technically polished product controlled by Sigourney Weaver’s performance, but the movie does feel a bit dated by staying true to 80s science fiction with its campy nature"
+  },
+  "release_year": 1986,
+  "review_date": "10/31/2023",
+  "redux": false,
+  "id": 381,
+  "imdb_id": "tt0090605"
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Tick, Tick... Boom!",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Lin-Manuel Miranda"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The flow and driving the movie forward was very good, the numbers were carried out well; issues are with interpersonal scenes because there is always a large mismatch between Garfield and his co-stars (especially in the more emotional, argumentative scenes)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Andrew Garfield"
+          },
+          "rating": "Incredible performance",
+          "comments": "Really transforms himself into the character as his mannerisms are to a T, he carries every scene he is in as he really shows his range, his singing actually is pretty good as well for someone who has never had a musical background"
+        },
+        {
+          "actor": {
+            "name": "Alexandra Shipp"
+          },
+          "rating": "Decent",
+          "comments": "Handles scenes decently well but really falters in the augmenting/emotional scenes as you can see the limit she is trying to pass"
+        },
+        {
+          "actor": {
+            "name": "Robin de Jesús"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Overall, he commands himself very well and acts as a great side to Garfield, singing is also a plus in his performance, but he really hits his limit and falters in the emotional augmenting scenes"
+        },
+        {
+          "actor": {
+            "name": "Vanessa Hudgens"
+          },
+          "rating": "Pretty Good",
+          "comments": "Actually no complaints from her performance, just nothing special considering her character is meant more for the musical numbers"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "On the spectrum (either Bad or Pretty Good)"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Steven Levenson"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Very inspiration and details the trials and tribulations Larson when through as he was struggling as an writer; however, it is a major cop out to say that 'the story was true, except when it was not' as just say its true or exaggerated"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Steven Levenson"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The screenplay was pretty simple in terms of its dialogue (also extremely meta, like I understand thats what he was going for its just I hate meta things), but there is great use of foreshadowing and symbolism as it alludes to what inspires Larson to write Rent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jonathan Larson"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Numbers were hit or miss (I liked some of the songs and did not like others)"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Alice Brooks"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Kinda falters when it shows the numbers as it feels limited by the poor effects"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Myron Kerstein"
+        },
+        {
+          "name": "Andrew Weisblum"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Especially the cuts between shots when doing the numbers"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "The overlays of notes and effects were not that bad, its just that it is very obvious when they are using a green-screen as it is not poorly put into the scene"
+    },
+    "production_design": {
+      "rating": "Pretty Bad",
+      "comments": "The overall sets were fine, its just they used CGI to complete some of the sets (in the numbers especially)"
+    },
+    "plot_structure": "Plot Structure was good",
+    "pacing": "Pacing is good for the most part (think it gets a bit too fast towards the end)",
+    "climax": "Build to the climax is anti-climatic (but this a good thing) as it shows the constant cycle of Larson getting his hopes up then failing; the resolution feeling empty is a bit symbolic as it shows how Larson was striving for success his entire life (and even though he did achieve it, he never saw it with his own eyes)",
+    "final_notes": "the journey of Jonathan Larson is very touching as we get to see him almost on the verge of giving up but continuing to push through adversity (and as I said, even though he never gets to see it; he gets to have his legacy live on)",
+    "overall": "Overall, a movie carried by Andrew Garfield as he transforms himself into Jonathan Larson as he tells the story of building a legacy and to keep on going (even if you never get to see your success), though it held back by some of its numbers, limited acting/direction, and very bad CGI"
+  },
+  "release_year": 2021,
+  "review_date": "01/06/2022",
+  "redux": false,
+  "id": 239,
+  "imdb_id": "tt8721424"
+}

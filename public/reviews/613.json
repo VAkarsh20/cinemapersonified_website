@@ -1,0 +1,104 @@
+{
+  "title": "Good Boy",
+  "rating": 6.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ben Leonberg"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is what you would expect from a DIY, low-budget horror movie; The direction on a microscale is interesting because it uses the Kuleshov Effect to make Indy the star of the show, but besides that it is what you expect from a low-budget horror film with barely any actors; Storytelling is very minimal because there really isn't any story and there's barely any dialogue, so you have to use Indy as your lens into this world; It builds tension decently well as it uses your emotional attachment to Indy to make you care about what happens to him"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Indy"
+          },
+          "rating": "Great",
+          "comments": "He is a good boy"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "What you would expect from an incredibly low-budget horror movie with barely any actors, especially with the fact that the film is shot from the perspective of a dog, so you can't even see their faces"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Alex Cannon"
+        },
+        {
+          "name": "Ben Leonberg"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is very minimal and what you would expect from a low-budget horror film, it is more about the idea that this movie is told from the perspective of a dog because nothing new or exciting happens; The plot structure is incredibly minimal because the story is pretty generic and the movie is only 70 minutes long; Character writing is very minimal, it is just more about what they were able to get out of Indy without him knowing what was going on"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Alex Cannon"
+        },
+        {
+          "name": "Ben Leonberg"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "There is barely any dialogue considering this is a film told from a dog's perspective, but the dialogue they do have is what you would expect from a low-budget horror movie; The symbolism is kind of profound if you consider this film is told from the perspective of a dog and its relationship with its owner, but besides that, it is pretty basic; The foreshadowing is what you would expect from a low-budget horror movie that is only 70 minutes long"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Sam Boase-Miller"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "What you would expect from a low-budget horror movie"
+    },
+    "soundtrack": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Ben Leonberg"
+        }
+      ],
+      "rating": "Decent to pretty Good",
+      "comments": "What you would expect from a low-budget horror movie, though I did like how they used a lower angle to make this movie look like it is from the perspective of a dog, blurring the faces of humans that are out of the dog's line of sight"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ben Leonberg"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "What you would expect from a low-budget horror movie"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "What you would expect from a low-budget horror movie"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "What you would expect from a low-budget horror movie"
+    },
+    "pacing": "Pacing is pretty slow considering that there is no dialogue and barely any story, which is kind of weird considering this movie is only 70 minutes long",
+    "climax": "The climax kind of ruins what this movie was building up to because they changed things up from how the rest of the story was told",
+    "tone": "Tone is what you would expect from a low-budget horror movie",
+    "final_notes": "",
+    "overall": "Overall, Indy truly is the star of the show as he really is a good boy, and this movie is a unique concept in how it is told from his perspective without him even knowing; besides that, it is what you would expect from a DIY, low-budget horror movie that is only 70 minutes long"
+  },
+  "release_year": 2025,
+  "review_date": "10/12/2025",
+  "redux": false,
+  "id": 613,
+  "imdb_id": "tt35521922"
+}

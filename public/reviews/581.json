@@ -1,0 +1,155 @@
+{
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "rating": 9.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Alfonso Cuarón"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macro scale feels auteur driven as you can see a strong, darker tonal shift from the Columbus movies, something that happens in the book series; The direction on a micro scale is great as it feels like every actor's performance is elevated working with Cuarón, especially Radcliffe, as you can see him being more mature in this role; Storytelling is a bit darker than the first two movies and has an auteur feel to it; He builds tension very well as this movie plays like a horror movie at times, something that is very different from the first two movies; Only a director like Cuarón could have executed the final hour of this movie and some of the scenes as there are moments that are truly the best in the series"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Daniel Radcliffe"
+          },
+          "rating": "Very Good",
+          "comments": "Really matures into the role as this movie is a turning point from him playing a child to a young adult; has great chemistry with his castmates, as always"
+        },
+        {
+          "actor": {
+            "name": "Rupert Grint"
+          },
+          "rating": "Good",
+          "comments": "Plays Ron very well and has very strong chemistry with the big three"
+        },
+        {
+          "actor": {
+            "name": "Emma Watson"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Feels like a co-lead to Radcliffe, especially in the final act, and really comes into her own as Hermione, being less whiny and more confident; has great chemistry with the big three"
+        },
+        {
+          "actor": {
+            "name": "Robbie Coltrane"
+          },
+          "rating": "Good",
+          "comments": "Continue to play Hagrid well and has great chemistry with Radcliffe"
+        },
+        {
+          "actor": {
+            "name": "Michael Gambon"
+          },
+          "rating": "Pretty Good",
+          "comments": "Introduces a new look to Dumbledore that we will see more of in the later films"
+        },
+        {
+          "actor": {
+            "name": "Gary Oldman"
+          },
+          "rating": "Very Good",
+          "comments": "An experienced actor who really brings Sirius Black to life; Someone who has become crazy from his time at Azkaban; He has very good chemistry with Radcliffe to create this Godfather-Godson dynamic and with Thewlis to create this long-lost friends dynamic"
+        },
+        {
+          "actor": {
+            "name": "Alan Rickman"
+          },
+          "rating": "Good",
+          "comments": "Continue to play and embody Snape well"
+        },
+        {
+          "actor": {
+            "name": "David Thewlis"
+          },
+          "rating": "Very Good",
+          "comments": "Honestly, the best performance in the movie as he plays this mentor figure to Harry that really is irreplaceable in the series, including in the later films; he has great chemistry with Radcliffe and Oldman"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Everyone feels elevated working with Cuarón as they all do their part in shifting the tone to a darker, more mature version of Harry Potter"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Steve Kloves"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Adapts the material very well as they do a very good job capturing the shift in the series to a darker, more mature tone; The plot structure is linear for the most part, but the final act is executed very well to show how all the different timelines converge; Character writing is very good as it captures Harry and the other characters maturing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Steve Kloves"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is very true to the series, filled with many iconic lines, and is more dark and mature than the previous children friendly movies; The humor is still playful and fun as, at the end of the day, this is still a Harry Potter movie, despite its shifting tone; The symbolism is pretty similar to the books; The foreshadowing is executed very well as the beginning sequences incredibly lay down the roots for what ends up being the final hour of the movie with the time turner sequences; Without great foreshadowing, this whole movie would not have worked"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Williams"
+        }
+      ],
+      "rating": "Great",
+      "comments": "A little less iconic and playful as the first two movies, but still iconic in its own right by incorporating the themes that are emblematic of not only Harry Potter but also Williams' discography; it incorporates newer themes that make the movie feel more mysterious and ominous, something that helps with the tone shift"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Seresin"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Some shots felt a little too of their time and dated; but it is overall very well shot and is a testament to this movie being made by an auteur; really uses the strong widescreen that was popular during this time period"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Steven Weisberg"
+        }
+      ],
+      "rating": "Good",
+      "comments": "A little dated and of the time, but still well edited"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "Uses ominous sounds and new charms to help bring this world to life in a new way;"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "A bit dated, but for the time, it was great and helped bring this wizarding world to life"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Helps bring to life this wizarding world"
+    },
+    "makeup": {
+      "rating": "Great",
+      "comments": "Helps bring to life this wizarding world"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "Helps bring to life this wizarding world"
+    },
+    "pacing": "Pacing is just right, as the movie feels captivating throughout, especially the final hour",
+    "climax": "Climax is executed very well as only an auteur like Cuarón could have pulled off a final act like this",
+    "tone": "Tone is a strong shift in tone from the first two movies as it goes from being a children's movie to a darker, more mature movie that the series will become known for in the later movies; It has many horror elements that really make this movie feel the most unique in the whole franchise",
+    "final_notes": "",
+    "overall": "Overall, a great movie marks a strong shift in tone for the Harry Potter series from children's movies to a darker, more mature franchise, and only a movie like this could have been pulled off by an auteur like Cuarón; he has his fingerprints all over this film in bringing out the best in the cast, particularly Daniel Radcliffe and David Thewlis, and executing the movie's amazing final hour"
+  },
+  "release_year": 2004,
+  "review_date": "07/10/2025",
+  "redux": false,
+  "id": 581,
+  "imdb_id": "tt0304141"
+}

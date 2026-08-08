@@ -1,0 +1,80 @@
+{
+  "title": "In Bruges",
+  "rating": 8.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Martin McDonagh"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Especially how he molds the classical elements with the humor and serious moments"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Colin Farrell"
+          },
+          "rating": "Great"
+        },
+        {
+          "actor": {
+            "name": "Brendan Gleeson"
+          },
+          "rating": "Great"
+        },
+        {
+          "actor": {
+            "name": "Ralph Fiennes"
+          },
+          "rating": "Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Good"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Martin McDonagh"
+        }
+      ],
+      "rating": "Good to Very Good"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Martin McDonagh"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Very funny, politically incorrect screenplay that is great with the serious aspects as well (can be a bit repetitive but thats just the nature of the dialogue)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Carter Burwell"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Especially in how it molds well to display the classical scenery of Bruges"
+    },
+    "sound": {
+      "rating": "Pretty Bad",
+      "comments": "Very overbearing at times in the movie (making it hard to pay attention to what was going on at times)"
+    },
+    "pacing": "Pacing is good with runtime used effectively",
+    "climax": "The build to the climax was good and the ending was open-ended in a way that was done very well",
+    "final_notes": "Handles elements of grief over past actions pretty well for a comedy (though not really the best) and handles elements of purpose on heaven/hell pretty well for a comedy",
+    "overall": "Overall, a surprisingly very good to great comedy that mixes serious elements of purpose and grief very well with politically incorrect, hilarious dialogue as it goes through the lives of the two leads trying to come to terms with the actions of their past"
+  },
+  "release_year": 2008,
+  "review_date": "06/03/2021",
+  "redux": false,
+  "id": 197,
+  "imdb_id": "tt0780536"
+}

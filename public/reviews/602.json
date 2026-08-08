@@ -1,0 +1,136 @@
+{
+  "title": "Shelby Oaks",
+  "rating": 7.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Chris Stuckmann"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale is built well, as they create this ominous mystery in a demented world; I really enjoyed how they weaved the documentary and found footage into the movie; I felt the filmmaking style in the dramatic moments felt a little amateurish with how it looked, which makes sense because this is a directorial debut; The direction on a microscale is pretty good, as you can really empathize with their struggle to find her sister; The storytelling is good for the majority of the movie, as they create a mystery that slowly unravels, but keeps you engaged, as you want to see how things play out; I was not a fan of how the storytelling was in the last five minutes; Tension is built well, as you are emotionally invested in these characters, so you feel on edge when something bad happens to them"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Camille Sullivan"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "The star of the show, she shows a wide range of emotions and is the emotional core for this movie; we experience this mystery through her eyes as she is motivated to find her lost sister after 12 years"
+        },
+        {
+          "actor": {
+            "name": "Brendan Sexton III"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Honestly, it feels very stiff and doesn't have chemistry with Sullivan"
+        },
+        {
+          "actor": {
+            "name": "Robin Bartlett"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a real sinister character, but doesn't have much time to work with"
+        },
+        {
+          "actor": {
+            "name": "Sarah Dunn"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really shows a wide range of emotions as she really embodies the character and feels like what the lead of Blair Witch Project should have been"
+        },
+        {
+          "actor": {
+            "name": "Keith David"
+          },
+          "rating": "Pretty Good",
+          "comments": "Feels like he was a part of the reshoots, but he does a pretty good job and has chemistry in the one scene he is in"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "A pretty small cast, but what you would expect from a low-budget horror movie"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Chris Stuckmann"
+        },
+        {
+          "name": "Samantha Elizabeth"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is good, as it's a missing girl mystery that weaves in found footage elements to give it a Blair Witch feel, and the conflict is presented in a way that it doesn't give away too much, but at least gives you a why for why things are happening; The plot structure is good for the most part, as the movie feels like a good mystery that slowly unravels the more you try to solve the disappearance, though the resolution wasn't that great, as it felt forced; Character writing is good, as you get a sense of the protagonist's struggle trying to find her sister and the world they live in affecting them; The character writing is critical in helping connect with the protagonist's struggle, as you feel invested in her trying to find closure"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Chris Stuckmann"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The dialogue is sharp for the most part, nothing super outstanding; the symbolism is very strong, as the movie touches on issues of loss and grief as well as pagan and found footage supernatural tropes; the foreshadowing is strong in the movie, as it helps the protagonist try to solve the mystery"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "The Newton Brothers"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps with building tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Andrew Scott Baird"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Cinematography in the documentary and found footage moments was really good and weaved well into the movie; when they switched to a traditional camera, it felt pretty amateurish and not that appealing, which makes sense because it is a low budget directorial debut"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Patrick Lawrence"
+        },
+        {
+          "name": "Brett W. Bachman"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Editing for the found footage and documentary clips was pretty cool, as it made the movie feel like a mockumentary, but the rest of the movie just felt kind of bland in terms of editing"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Feels amplified to help heighten tension and make you feel scared of what is going on"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "It felt very cheap, and it was obvious it was added when the budget was increased"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Help create this pagan, ominous world of the abandoned Shelby Oaks"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Helps show the impact of the hauntings"
+    },
+    "pacing": "Pacing is fine for the most part as the movie goes at the right pace",
+    "climax": "The climax is good and well executed, and the ending was a big let down as it basically felt like they threw away everything they built up to",
+    "tone": "Tone was a mystery and a found footage film combined; I would have really liked to see them continue the documentary style throughout the movie",
+    "final_notes": "Saw press screening at Fantastic Fest; Met Chris Stuckmann after the movie",
+    "overall": "Overall, a valiant effort for a directorial debut as Chris Stuckmann shows his potential as a filmmaker with captivating storytelling and ominous world-building, but the movie suffers from issues you would expect from a new indie filmmaker with its amateurish cinematography, cheap visual effects, and an inability to stick the landing because the final 5 minutes ruin this movie's chance of being something special; I hope Stuckmann can parlay this into making bigger budget movies as he shows potential as a filmmaker, but hopefully he uses his budget wisely because it is obvious Neon wasted the increased budget on cheap CGI and unnecessary reshoots"
+  },
+  "release_year": 2024,
+  "review_date": "09/20/2025",
+  "redux": false,
+  "id": 602,
+  "imdb_id": "tt14999684"
+}

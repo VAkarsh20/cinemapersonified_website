@@ -1,0 +1,155 @@
+{
+  "title": "Tony",
+  "rating": 8.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Matt Johnson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The macroscale is a little bit different for a Matt Johnson film, focusing more on scenic, beautiful shots that create a 70s punk rock vibe while capturing the blissful calmness of Cape Cod and Tony trying to find himself; while it does deviate a lot from his other movies, there are some signature Matt Johnson moves that make this still feel like a Matt Johnson movie (like the handheld shots and the inclusion of humor); the microscale is where the movie really comes to life as a feel-good film, allowing you to empathize with Tony as an adolescent through solid character dynamics and pretty good chemistry; storytelling is good for a simple story, being nicely bookended by tying the end to the beginning; he also uses many storytelling tactics that you see from a bildungsroman, which is pretty meta given the script; tension is just okay as you aren't super invested to where things feel genuinely tense when something bad happens, though tension isn't really a key element of this movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dominic Sessa"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays a character similar to The Holdovers, but does a good job as Anthony Bourdain, showing his pretentious nature and evolution throughout the summer as he changes his perspective on life, even if the writing paints him a bit like the weird, fake cool guy in college; has good chemistry with the cast as he does a good job establishing relationships, especially with Antonio Banderas"
+        },
+        {
+          "actor": {
+            "name": "Emilia Jones"
+          },
+          "rating": "Pretty Good",
+          "comments": "I've had a love-hate relationship with Emilia Jones in her last few performances, but she rose to the occasion for this movie; brings charisma to her performance and shares strong romantic chemistry with Sessa for most of the movie, though her acting and chemistry with him in the climax feel very flat."
+        },
+        {
+          "actor": {
+            "name": "Stavros Halkias"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job serving as the primary comedic relief character, basically just plays his real-life persona"
+        },
+        {
+          "actor": {
+            "name": "Leo Woodall"
+          },
+          "rating": "Good",
+          "comments": "Really liked his performance as he acts as the devil on Bourdain's shoulder with how bad of an influence he is on him, bringing a lot of personality to the role and having great chemistry with Sessa."
+        },
+        {
+          "actor": {
+            "name": "Antonio Banderas"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Experienced performance as the angel and mentor figure on Bourdain's other shoulder, showing him what life can be like and sharing strong chemistry with Sessa."
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "The cast shows the natural banter and camaraderie of working in a kitchen, capturing how community and family form in an unglamorous lifestyle through strong ensemble chemistry."
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Matt Johnson"
+        },
+        {
+          "name": "Matthew Miller"
+        },
+        {
+          "name": "Todd Bartels"
+        },
+        {
+          "name": "Lou Howe"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is great because it takes a slice of Anthony Bourdain's life rather than a sprawling timeline, making the smart decision to focus an Anthony Bourdain biopic on a single college summer where he doesn't become the writer he wants to be, but learns to become a chef in a coming-of-age Bildungsroman story; the plot structure is a linear story covering a full summer that inspires Bourdain to become a chef, and while it is well-constructed and bookended nicely with the exposition and resolution marrying each other well, the climax feels a little flat; character writing is a little bit too overt and on the nose, painting Anthony Bourdain as the weird, fake cool guy in college, which feels a bit corny and not as strong as what I would like from a biopic"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matt Johnson"
+        },
+        {
+          "name": "Matthew Miller"
+        },
+        {
+          "name": "Todd Bartels"
+        },
+        {
+          "name": "Lou Howe"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is great, sharp, funny, and very much of the time, effectively capturing Bourdain's pretension as a higher-class college student trying to be a respected writer who enters the kitchen underbelly (kinda like Batman Begins), showing how out of his element he is; the humor is very good and signature Matt Johnson, showing the natural banter of a kitchen staff and landing well as a laugh-out-loud comedy; the symbolism is very strong through mise-en-scène and bookended shots, from the clock and notches to the devil/angel dynamic of Sal (bad influence) vs. Antonio Banderas's mentor character; the foreshadowing is very strong, using bookending and planted symbols throughout to foreshadow the rest of Anthony Bourdain's career after this summer"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jay McCarrol"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Jay McCarroll has done it again with a great, jazzy score that sets the tone and provides personality to Anthony Bourdain, the characters, and the Cape Cod setting."
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "helps paint the setting as it uses music from around that time period (mid-'70s); the usage of punk rock really gives this movie a punk rock feel that helps personify Tony's character"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Bauman"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Beautiful, using film to bring warmth to the image while capturing the beach setting of Cape Cod as many of the shots in this movie complement the personality of Tony and the coming-of-age nature of the movie; while it deviates from traditional Matt Johnson style, it incorporates handheld shots toward the end, though it is not as strong as his other films"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Curt Lobb"
+        },
+        {
+          "name": "Robert Upchurch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Strong and well-edited overall"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Pretty standard sound design"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "transports you back to mid-'70s Cape Cod as it helps construct the setting of the movie and the beauty of the setting sun in this New England summer"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Shows the bruising and beating they get from working in a kitchen and living that tough underbelly lifestyle."
+    },
+    "costumes": {
+      "rating": "Pretty Good to Good",
+      "comments": "Paints the community and characters in the 70s well, making them authentic to the mid-70s period."
+    },
+    "pacing": "Pacing was strong and just right overall, neither too fast nor too slow, except for the climax which felt a bit flat and could have been paced better.",
+    "climax": "The climax is the biggest issue in the movie because it felt very flat and was not shot well, with flat performances during it; however, the resolution fixes these issues and ends the movie very well.",
+    "tone": "Tonally it is a very feel-good biopic that still has Matt Johnson's signature sprinkled throughout, especially in the humor and character dynamics; at the end of the day, this movie is a bildungsroman (and a pretentious one too) as it helps complement Tony's character and shows the events that inspire him to be the chef he would be known for in the future",
+    "final_notes": "",
+    "overall": "Overall, 'Tony' is a breath of fresh air to the genre as Matt Johnson slightly deviates from his traditional style to demonstrate what biopics should be by focusing on a specific slice of Anthony Bourdain's life that foreshadows who he would become; Matt Johnson took on a mature, atypical project and rose to the occasion with funny humor, beautiful cinematography, a strong chemistry to tell a bildungsroman about a very influential life; while I did enjoy the writing and bookended nature for the movie, it is held back by a flat climax and very on-the-nose character writing"
+  },
+  "release_year": 2026,
+  "review_date": "07/29/2026",
+  "redux": false,
+  "id": 694,
+  "imdb_id": "tt33095251"
+}

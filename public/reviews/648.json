@@ -1,0 +1,132 @@
+{
+  "title": "The Moment",
+  "rating": 7.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Aidan Zamiri"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "On a macroscale, the direction is that of an experimental mockumentary that takes inspiration from directors like Harmony Korine and Gaspar Noé, while also taking in comedy flavors from mockumentaries like Theater Camp to make fun of the concert film; The direction on a microscale is very mockumentary-coded; Storytelling is quite linear, though it is a bit unfocused in the middle; Tension is artificially built, but this helps add to the chaos of the movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Charli XCX"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays a fictionalized version of herself and really gives her all as this whole movie fits her personality and her personal feelings for brat"
+        },
+        {
+          "actor": {
+            "name": "Hailey Benton Gates"
+          },
+          "rating": "Pretty Good",
+          "comments": "Complements Charli XCX well and has good chemistry with her"
+        },
+        {
+          "actor": {
+            "name": "Alexander Skarsgård"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows why he is the best actor in the cast as he feels like he just showed up and had fun with the role"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "All feel like pieces in a mockumentary, which is all you can ask for"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Charli XCX"
+        },
+        {
+          "name": "Aidan Zamiri"
+        },
+        {
+          "name": "Bertie Brandes"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is an experimental mockumentary that pokes fun at the rise in generic concert films, creating an underlying story of Charli XCX's current relationship with Brat; The plot structure is linear, but the whole middle section of the movie really feels like it drags and could have been cut by 20 minutes, especially the Ibiza storyline; Also, the middle of the movie really strays away from this experimental nature, which was kind of a shame because that is what helped make the movie; Character writing is quite exaggerated to show both the comedy in the mockumentary and how Charli feels about Brat and the struggles of dealing with newfound stardom"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Aidan Zamiri"
+        },
+        {
+          "name": "Bertie Brandes"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very Brat/hyper-pop, as it feels like an extension of the Brat tone; The humor is quite funny, as it helps make the movie enjoyable and chaotic; The symbolism is rather forced and surface-level, as the whole movie is an allegory of Charli XCX's current relationship with Brat and her struggles to cope with this newfound stardom; The foreshadowing is quite standard and predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "A. G. Cook"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score feels like an extension of Brat, as it is very electro-pop and helps add to the experimental tone and tension of the movie"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Brat"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Sean Price Williams"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The cinematography is very mockumentary-coded, as the use of frantic handheld cameras helps show the chaos of the behind-the-scenes work of this Brat tour"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Bill Sneddon"
+        },
+        {
+          "name": "Neal Farmer"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The editing is very experimental, as it draws inspiration from directors like Harmony Korine and Gaspar Noé, although it kind of strays away from this toward the middle of the movie"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The sound helps add to the chaos and experimental nature of the movie"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "This is an extension of Brat and what is not Brat"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "This is an extension of Brat and what is not Brat"
+    },
+    "costumes": {
+      "rating": "Decent to Pretty Good",
+      "comments": "This is an extension of Brat and what is not Brat"
+    },
+    "pacing": "Pacing is a big issue for the movie, as the first 30 minutes move at the right chaotic and fast pace, but the whole last hour really drags because they tried to throw in too many plot points; they could have cut a good 20 minutes out of this movie",
+    "climax": "The climax was a good self-reflection on what Charli thinks of Brat and herself, with the ending being a funny conclusion to the movie",
+    "tone": "The tone is very experimental, as it draws from directors like Harmony Korine and Gaspar Noé, while also being very mockumentary-style by drawing from movies like Theater Camp to create a concert film in the only way Brat can",
+    "final_notes": "This movie came out a good two to three months later than it should have because nobody really cares about Brat in 2026",
+    "overall": "Overall, this is an entertainingly experimental mockumentary that critiques the modern concert film in such a Brat way, while simultaneously showing Charli XCX's relationship with Brat and her struggles with newfound stardom; while I did enjoy the experimental nature of the movie, the film kind of deviates from it in the last hour to try and force in too many plot points that ultimately drag the movie down"
+  },
+  "release_year": 2026,
+  "review_date": "02/06/2026",
+  "redux": false,
+  "id": 648,
+  "imdb_id": "tt35524793"
+}

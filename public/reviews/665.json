@@ -1,0 +1,115 @@
+{
+  "title": "I Swear",
+  "rating": 9.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kirk Jones"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale is good as it builds this world in a very well-shot way and shows the isolation that Davidson feels as he lives with Tourette's, and helps shift the tone and emotion to imitate how he feels about his condition; The microscale is great as you really do feel for the characters and empathize with his struggles to just be accepted, all carried by a powerful performance from Aramayo; The storytelling is very good as it uses your emotional investment in Davidson to drive the story forward; The tension is built well as it uses emotions and empathy to keep you emotionally attached to Davidson"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Robert Aramayo"
+          },
+          "rating": "Great to Incredible",
+          "comments": "A powerful performance that makes you empathize with Davidson's struggles and triumphs as he is able to seamlessly transition from caring, to comedy, to compassion; his chemistry with the other actors is very good as he really connects with people who try to help him and make him feel human"
+        },
+        {
+          "actor": {
+            "name": "Maxine Peake"
+          },
+          "rating": "Very Good",
+          "comments": "Really plays the motherly figure that Davidson needs as she has great chemistry with Aramayo to help pull him out of his shell"
+        },
+        {
+          "actor": {
+            "name": "Shirley Henderson"
+          },
+          "rating": "Good",
+          "comments": "Plays his biological mother who really does not know what to do with him, but you can tell she cares, she just doesn't know what to do with him"
+        },
+        {
+          "actor": {
+            "name": "Peter Mullan"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Despite his limited scree time, he does a good job establishing his connection with Davidson and supporting him"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "The cast works very well together to help tell John Davidson's story and to educate the audience on Tourettes"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Kirk Jones"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The concept is a biopic on John Davidson, following him at different chapters in his life; The plot structure starts at the end and then follows Davidson in different chapters of his life, where in each chapter he learns more about himself as he comes to terms with his condition; The character writing is great as you not only empathize with John Davidson for what he goes through but also educate yourself on Tourette's itself"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Kirk Jones"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue blends comedy, drama, and hopeful elements very well to create a movie that makes you laugh, cry, and learn; The humor is very funny and helps make John a lovable character; The symbolism is good as the movie is really driven by you empathizing with John Davidson as you learn more about him and what he goes through, with the whole journey educating the audience about what Tourette's is; The foreshadowing is prevalent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Stephen Rennicks"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The score does a good job of helping establish the tone"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The soundtrack feels very European for that time period"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "James Blann"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The film is very well-shot, especially for a biopic on Tourette's, because it really paints the scene and area as very beautiful, showing the calming nature in a busy world that John tries to find himself in"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sam Sneade"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The editing is well put-together and highlights the cinematography"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "The makeup shows the bruises and hurt Davidson has to go through as he is ridiculed for who he is; The aging makeup was decent, but it honestly just felt like they were greying his hair"
+    },
+    "pacing": "The pacing is right and did not feel too slow or fast at any moment",
+    "climax": "The climax is emotionally impactful as you feel very good to see John succeed in his life and start to come to terms with who he is, which is more impactful because of the journey you go on with him",
+    "tone": "The tone is very fluid as this movie goes from comedy to strong drama to hopeful fluidly, symbolizing what it means to be human",
+    "final_notes": "Reviewing for the Creators Choice Awards",
+    "overall": "Overall, 'I Swear' is such a powerful movie that is brought to life by Robert Aramayo's beautiful performance as John Davidson and Kirk Jones's direction and writing as they both work in conjunction to educate the world about Tourette's and John Davidson's story; this film is like nothing I have ever seen as it seamlessly transitions between comedy that makes you cry laughing and drama that makes you cry tears, as the line they balance symbolizes the human experience and what it means to feel unseen when you have a voice to speak"
+  },
+  "release_year": 2025,
+  "review_date": "03/30/2026",
+  "redux": false,
+  "id": 665,
+  "imdb_id": "tt31514146"
+}

@@ -1,0 +1,166 @@
+{
+  "title": "28 Weeks Later",
+  "rating": 5.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Juan Carlos Fresnadillo"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale feels like an overly produced version of the original movie; the direction on a microscale for the first 40 minutes was actually pretty good, as it dealt with guilt and trauma, but they throw this away for the final hour to just put on a spectacle; the storytelling is interesting and pretty good for the first 40 minutes, then it just becomes a standard survival zombie movie for the final hour; they build tension pretty well in the beginning, and not as well in the final hour"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Robert Carlyle"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "When given material, he does a pretty good job, as his performance is filled with guilt and selfishness, but he throws this away after the 30-minute mark"
+        },
+        {
+          "actor": {
+            "name": "Rose Byrne"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "Shows some emotion, but feels pretty standard for a role like this"
+        },
+        {
+          "actor": {
+            "name": "Jeremy Renner"
+          },
+          "rating": "Decent",
+          "comments": "Plays a similar character we know him for"
+        },
+        {
+          "actor": {
+            "name": "Catherine McCormack"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows a good amount of emotion and is probably the best performance in the film; it's just a shame they misuse her"
+        },
+        {
+          "actor": {
+            "name": "Mackintosh Muggleton"
+          },
+          "rating": "Decent",
+          "comments": "Child actor"
+        },
+        {
+          "actor": {
+            "name": "Imogen Poots"
+          },
+          "rating": "Decent",
+          "comments": "Child actor"
+        },
+        {
+          "actor": {
+            "name": "Idris Elba"
+          },
+          "rating": "Decent",
+          "comments": "Plays the standard American Idris Elba role"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "Felt like low-budget background actors, though some showed emotion; Infected are, infected"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Rowan Joffé"
+        },
+        {
+          "name": "Juan Carlos Fresnadillo"
+        },
+        {
+          "name": "E.L. Lavigne"
+        },
+        {
+          "name": "Jesus Olmo"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is interesting for the first 40 minutes as they talk about the rebuilding efforts after the first movie, but they basically just scrap this for the standard infected movie after the exposition; The plot structure is a tale of two parts as the exposition is well structured and interesting, while the other parts of the movie are pretty formulaic; Character writing is pretty good as you care for the characters in the first 40 minutes, but shallow after this point"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Rowan Joffé"
+        },
+        {
+          "name": "Juan Carlos Fresnadillo"
+        },
+        {
+          "name": "E.L. Lavigne"
+        },
+        {
+          "name": "Jesus Olmo"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The dialogue is pretty good for the first 40 minutes, then non-existent for the final hour; the symbolism for the first 40 minutes is surprisingly good as the movie touches on themes of guilt, trauma, and selfishness, but they straight up throw out what they were building as the final hour is just a zombie movie that never comes back to these themes; the foreshadowing is not good as they plant a bait and switch"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Murphy"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Uses iconic themes from the first movie to make this feel like a continuation"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Enrique Chediak"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Overly produced and ruins the aesthetic of the first movie; They tried to recreate the guerilla moments, but it feels very forced"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chris Gill"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels overly produced and ruins the aesthetic of the first movie"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Standard Zombie sound"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Use the increased budget well, as the movie feels more like a spectacle, though it does take away the charm from the first movie"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Continue this abandoned Britain look from the first movie, but not as iconic"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Help paint the infected"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Helps paint the infected"
+    },
+    "pacing": "Pacing is a little on the slower side for the exposition to help establish the characters and their struggles, but it is incredibly fast in the final hour",
+    "climax": "Climax really hurts this movie as it is very much style over substance; the ending for this movie is just stupid, and eventually got retconned by 28 Years Later",
+    "tone": "Tone is a post-apocalyptic zombie horror film",
+    "final_notes": "This movie basically got retconned by 28 Years Later",
+    "overall": "Overall, a pretty bad follow-up to 28 Days Later as it is very clear this was just a cash grab;  while I do think the first 40 minutes of the movie are pretty good as they talked about the rebuilding efforts and the guilt and trauma these characters were experiencing, they basically throw away what they were building to create a shallow and formulaic zombie/infected movie"
+  },
+  "release_year": 2007,
+  "review_date": "06/21/2025",
+  "redux": false,
+  "id": 574,
+  "imdb_id": "tt0463854"
+}

@@ -1,0 +1,159 @@
+{
+  "title": "A Minecraft Movie",
+  "rating": 5.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Jared Hess"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The direction on a macroscale is built in a very goofy way as Hess uses his signature style to create a movie for chronically online teenagers; the world-building for this movie might be some of the ugliest I have ever seen; the direction on a microscale is decent but pretty forced; the storytelling is so lazy as there is almost no struggle for the characters everything just happens in their favor; there is no tension built whatsoever"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jason Momoa"
+          },
+          "rating": "Pretty Good",
+          "comments": "Feels like a rip-off of \"Ken,\" but he does a pretty good job making this movie entertaining"
+        },
+        {
+          "actor": {
+            "name": "Jack Black"
+          },
+          "rating": "Pretty Good",
+          "comments": "He uses his signature gamer charm to characterize the character and make this movie entertaining for both kids; even though he is a little too much at times, this movie really suits his comedic strengths; he uses his singing talent well to make this movie feel a little over the top"
+        },
+        {
+          "actor": {
+            "name": "Danielle Brooks"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Isn't given a lot of material to work with, but has noticeable screen presence and decent chemistry with Myers"
+        },
+        {
+          "actor": {
+            "name": "Emma Myers"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has charisma and screen presence that makes her scenes noticeable; has pretty good chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Sebastian Hansen"
+          },
+          "rating": "Decent",
+          "comments": "The child plays the role decently well"
+        },
+        {
+          "actor": {
+            "name": "Jennifer Coolidge"
+          },
+          "rating": "Bad",
+          "comments": "It feels like they tried to extend her White Lotus character, but they gave her material that is nowhere near as good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "The cast does not work best together as it is a little forced; the supporting characters do not really do much to add to the story or the main cast except for the child actors"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Allison Schroeder"
+        },
+        {
+          "name": "Chris Bowman"
+        },
+        {
+          "name": "Hubbel Palmer"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is the stereotypical trapped-in-a-video-game motif, but they do a decent job with this because they use the vast world of Minecraft well to show the world they are in; the story feels like it has a good grasp of Minecraft as it feels like they did their research to adapt the source material; the plot structure is very linear and predictable, it never feels like these characters struggle because everything just happens in their favor; character writing is very shallow as the movie just makes everything work in their favor; ghese characters are just so forced, an example is Jason Momoa's character who is basically a rip-off of Ken"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Chris Bowman"
+        },
+        {
+          "name": "Hubbel Palmer"
+        },
+        {
+          "name": "Neil Widener"
+        },
+        {
+          "name": "Gavin James"
+        },
+        {
+          "name": "Chris Galletta"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is forced and super-gamer, so the movie feels incredibly unnatural; they use words like \"unalive\" and have a character named \"General Chungus\"; the humor is unintentionally funny because of the memes; when the movie tries to actually be funny it is very flat; the symbolism is very surface-level, but the movie pays homage to both Minecraft creators like Technoblade and PewDiePie, and the director's first big break, Napoleon Dynamite; the foreshadowing makes this movie incredibly predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Mark Mothersbaugh"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Incorporates themes from the Minecraft game"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Tries very hard to be Barbie, so much so that they even had Mark Ronson write some of the songs"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Enrique Chediak"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Generic for a big-budget movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "James Thomas"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Generic for a big-budget movie"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Does a good job incorporating sounds from the video game as this movie sounds like an extension of Minecraft"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "Might be some of the ugliest uses of CGI I have ever seen; this movie is only saved because the CGI used to create the worlds is decently accurate and the wolf CGI was pretty good"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The movie heavily relies on CGI to build the world, but it does do a decent job making this movie feel like it is set in Minecraft, even though it is obvious when they use a green screen"
+    },
+    "costumes": {
+      "rating": "Bad",
+      "comments": "It does not translate well to the real world as the Minecraft objects just look out of place"
+    },
+    "pacing": "Pacing is incredibly fast, as there is no struggle for the characters, everything just happens in their favor",
+    "climax": "The climax is a predictable action climax; while it is entertaining, you know exactly what is going to happen",
+    "tone": "Tone is very similar to Barbie as it feels like they were trying to recreate Barbie with this movie",
+    "final_notes": "This might have been one of the theater experiences I have ever been to; as everyone there was in on the meme and was clapping and shouting during the moments you should; like \"Chicken Jockey\"",
+    "overall": "Overall, a movie that is made for its target audience, as this movie was made for gamers who grew up on the game 15 years ago, but it is just not a good movie despite all of its memorable memes because this might be one of the simplest and ugliest movies I have seen; my theater experience was the only reason I enjoyed watching this movie because all the teenagers around me were clapping and shouting during the meme parts, especially during the \"Chicken Jockey\" scene"
+  },
+  "release_year": 2025,
+  "review_date": "04/06/2025",
+  "redux": false,
+  "id": 556,
+  "imdb_id": "tt3566834"
+}

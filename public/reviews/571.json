@@ -1,0 +1,101 @@
+{
+  "title": "The French Connection",
+  "rating": 5.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "William Friedkin"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is typical of noirs of the 70s, but the movie really used these world-building scenes to tell the story, and this makes the movie feel very slow and boring; The car chase sequence for the time period was revolutionary, but when compared to today, it very much feels like 'The Train Coming to the Station'; The micro scale is pretty standard for a 70s noir; The storytelling is not really good as it is pretty void and makes you not really care for the conflict or the characters; Tension is built poorly as the movie feels very dry"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Gene Hackman"
+          },
+          "rating": "Good",
+          "comments": "Plays the lead well and shows his acting ability, but it is something standard you would expect from one of Hollywood's best actors"
+        },
+        {
+          "actor": {
+            "name": "Roy Scheider"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really just the sidekick character, but has pretty good chemistry with Hackman"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Standard 70s noir actors; everyone plays their role fine and they do a decent job of telling the story"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ernest Tidyman"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is a standard 70s noir about narcotics; The plot structure is pretty standard for a 70s noir, but the ending feels incredibly abrupt; There honestly isn't that much plot in this movie, as they try to stretch out the few plot points they have; Character writing is not really that good, as you don't really care for these characters and don't really get a picture of who they are, at least I didn't really care for who they are"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ernest Tidyman"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is pretty standard for the time; the symbolism is not really that good, as they try to paint these characters as morally corrupt but don't really do a good job of doing that, especially Hackman's character; the foreshadowing is what you would expect from a 70s noir"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Don Ellis"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Standard 70s noir score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Owen Roizman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Pretty good for establishing the world, especially considering much of the movie is panning shots of what is going on; the cinematography during the chase sequence was good and made it entertaining"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Gerald B. Greenberg"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty standard 70s noir, with a lot of choppiness"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Standard 70s action sound"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The effects during the chase sequence were good and revolutionary for the time; but the use of guns and blood felt very tacky"
+    },
+    "pacing": "Pacing is incredibly slow, as they stretch out the few plot points they have to make the runtime; the climax is incredibly fast, as the movie just ends abruptly",
+    "climax": "Climax is somewhat entertaining, but it is incredibly fast and ends the movie abruptly",
+    "tone": "Tone is incredibly 70s noir",
+    "final_notes": "I watched this half asleep on an airplane, so that might be half the reason I wasn't a huge fan of it",
+    "overall": "Overall, a pretty boring 70s noir that stretches out whatever little plot it has to tell a story, a story where you don't really care for the conflict or its characters; while the car chase sequence may have been revolutionary for the time, compared to modern effects, it really feels like the 'The Arrival of a Train at La Ciotat' of car chases"
+  },
+  "release_year": 1971,
+  "review_date": "06/18/2025",
+  "redux": false,
+  "id": 571,
+  "imdb_id": "tt0067116"
+}

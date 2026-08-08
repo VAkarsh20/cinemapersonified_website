@@ -1,0 +1,129 @@
+{
+  "title": "Train Dreams",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Clint Bentley"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale feels beautiful as it captures the calm of the PNW; the direction on a microscale is pretty minimal as the movie is a character study of a hermit interacting with his surroundings, with the world changing around him; the storytelling is pretty minimal as it uses narration in conjunction with minimal dialogue to show how the protagonist interacts with a changing world"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Joel Edgerton"
+          },
+          "rating": "Good",
+          "comments": "Embodies the character well, and does a lot of showing without telling to help paint the character as a hermit hiding from an ever-changing world"
+        },
+        {
+          "actor": {
+            "name": "Felicity Jones"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well, as she has good chemistry with Edgerton to show a husband and wife dynamic"
+        },
+        {
+          "actor": {
+            "name": "Kerry Condon"
+          },
+          "rating": "Good",
+          "comments": "Isn't in the movie for that long, but makes the most out of her scenes through her empathy and chemistry with Edgerton"
+        },
+        {
+          "actor": {
+            "name": "William H. Macy"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Uses his experience playing similar characters to guide this performance; Very funny and has good chemistry with Edgerton"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Very minimal cast, but everyone plays their role well, and there is good chemistry throughout"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Clint Bentley"
+        },
+        {
+          "name": "Greg Kwedar"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is a character study of a hermit in the wilderness overcoming grief while experiencing the world change around him, showing the beauty in isolation and old ways; The plot structure is pretty linear and straightforward; Character writing is good as it shows how sheltered and rigid this main character is as he loses the people around him and how the world is changing faster than he can keep up, letting him interact with interesting characters to show how interesting his life was; While the characters are written well, I could not find myself relating to them that much, especially considering I just watched 'Hamnet' before"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Clint Bentley"
+        },
+        {
+          "name": "Greg Kwedar"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty minimal as it uses narration to tell the story and allows the protagonist to silently interact with his environment, though it does have some well-written monologues; The humor is incorporated well as it helps make characters lively and enjoyable; The symbolism is kind of beautiful as it shows the beauty in seclusion and how this rigid hermit interacts with a world changing faster than he can keep up, making meaningful memories with those he meets upon his journey; The movie also does a decent job touching on grief, but 'Hamnet' just does a better and more profound way of addressing this; The foreshadowing is present as they do jump between the future and the present, but is not super strong"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bryce Dessner"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps show the calm and beauty of the scenery; helps with setting the tone and time period"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Adolpho Veloso"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Really beautiful as it captured the calm and beauty of the Pacific Northwest; Felt like an integral part of the storytelling as its chopped letterboxed felt like it was an extension of the rigid viewpoint of the protagonist; Had similar vibes to Nickel Boys, but was not first person POV, it kind of feels like second person POV because you feel like a character with the protagonist"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Parker Laramie"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Polished and well-edited, helped amplify the beauty of the scenery"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Helps show the calmness and beauty in the PNW wilderness"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Felt a little forced as it was pretty obvious when they CGI'd things into the movie"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "The PNW feels like a character in this movie; with how beautiful it is shown as a major part of this movie is the protagonist's relationship with his surroundings; as he secludes himself from the world"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Helps show the time period"
+    },
+    "pacing": "Pacing feels both slow and fast as it goes through plot points quickly with its narration, but there really isn't that much plot, so it can feel slow at moments",
+    "climax": "Climax is wholesome, but nothing special",
+    "tone": "Tone is definitely a period drama that feels like a beautiful look into the life of a hermit who secludes himself in the PNW wilderness as he tries to grieve over his loss",
+    "final_notes": "Saw premiere at Austin Film Festival",
+    "overall": "Overall, a beautiful look into the calmness of the Pacific Northwest as we see the life of a hermit seclude himself from a world that is moving past him as he grieves through trauma he has experienced; while I did feel like this movie is beautifully shot as it captures the serenity of the PNW wilderness, there really isn't that much interesting story or dialogue to go through as the movie is more about this hermit's relationship with his changing world"
+  },
+  "release_year": 2025,
+  "review_date": "10/26/2025",
+  "redux": false,
+  "id": 620,
+  "imdb_id": "tt29768334"
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Fast Times at Ridgemont High",
+  "rating": 6.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Amy Heckerling"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is very high-school, hangout movie-esque as she does a decent job at building the world; the direction on a microscale is pretty good as the scenes are memorable, but still what you would expect from younger actors; the storytelling is very linear and on-par with other teen movies"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sean Penn"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the stoner lead well and steals the scenes he is in with his presence and charisma"
+        },
+        {
+          "actor": {
+            "name": "Jennifer Jason Leigh"
+          },
+          "rating": "Decent",
+          "comments": "Plays to what her character is given"
+        },
+        {
+          "actor": {
+            "name": "Judge Reinhold"
+          },
+          "rating": "Pretty Good",
+          "comments": "Leads in his scenes and works well with his castmates"
+        },
+        {
+          "actor": {
+            "name": "Phoebe Cates"
+          },
+          "rating": "Decent",
+          "comments": "She does a decent job in her scenes and develops chemistry with Jason Leigh"
+        },
+        {
+          "actor": {
+            "name": "Brian Backer"
+          },
+          "rating": "Decent",
+          "comments": "Plays the nerdy, shy kid decently well"
+        },
+        {
+          "actor": {
+            "name": "Robert Romanus"
+          },
+          "rating": "Decent",
+          "comments": "He plays his role decently well and has pretty good chemistry with Backer"
+        },
+        {
+          "actor": {
+            "name": "Ray Walston"
+          },
+          "rating": "Decent",
+          "comments": "Plays the typical strict teacher archetype"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Typical teen cast for a high school movie, with no bad performances"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is typical of other high school movies, but has more of a hang-out feel as we go through the different storylines; the plot structure is a little non-traditional as we go through multiple storylines that are running in parallel, with some intersections; character writing is pretty standard for a high school movie, though it does create some iconic characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty good and overall entertaining; the humor is pretty good; the symbolism is pretty good as it tackles many themes in adolescence and high school; the foreshadowing is kinda predictable"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "It is iconic and helps establish the tone for the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Matthew F. Leonetti"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eric Jenkins"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps create that Southern California 1980s high school feel"
+    },
+    "pacing": "Pacing is pretty good for such a short runtime, and for the number of storylines they go through",
+    "climax": "Climax is decent",
+    "tone": "The tone is very Southern California, 1980s high school",
+    "final_notes": "",
+    "overall": "Overall, a decent high school movie that is entertaining and served as a launch point for many careers"
+  },
+  "release_year": 1982,
+  "review_date": "08/31/2024",
+  "redux": false,
+  "id": 482,
+  "imdb_id": "tt0083929"
+}

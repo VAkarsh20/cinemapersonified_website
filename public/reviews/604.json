@@ -1,0 +1,116 @@
+{
+  "title": "Before the Fall",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "F. Javier Gutiérrez"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale does the most it can to make the world feel like it is in an apocalypse with such a small budget; The direction on a microscale is decent and shows the emotions these characters would go through if they had three days left to live; Storytelling uses the emotions of the situation to really tell the story because there really is not that much plot; It builds tension pretty well as they use the emotions and fear of the situation to create a hectic environment"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Víctor Clavijo"
+          },
+          "rating": "Decent",
+          "comments": "Plays the lead decently well;"
+        },
+        {
+          "actor": {
+            "name": "Mariana Cordero"
+          },
+          "rating": "Decent",
+          "comments": "Shows some range"
+        },
+        {
+          "actor": {
+            "name": "Eduard Fernández"
+          },
+          "rating": "Decent",
+          "comments": "Plays the villain decently well"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Everyone plays their role decently well;"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Juan VelardeF. Javier Gutiérrez"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is pretty simple, as it's an apocalypse movie with the world ending in 3 days, following a family during this time period; The plot structure is pretty simple; Character writing is fine"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Juan VelardeF. Javier Gutiérrez"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is standard; the symbolism is pretty good, as it touches on how the world would react to it ending in 3 days, touching on personal and familial anxiety about the situation; the foreshadowing is decent, considering you know what will happen by the end of the movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Antonio Meliveo"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps with the tone and tension of scenes"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Miguel A. Mora"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels very 2000s with its low-budget, apocalypse feel as it feels like it took a lot of inspiration from 28 Days Later"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nacho Ruiz Capillas"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels very 2000s with its low-budget, apocalypse feel as it feels like it took a lot of inspiration from 28 Days Later"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Feels very 2000s with its low-budget, apocalypse feel, as it feels like it took a lot of inspiration from 28 Days Later"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Uses a lot of movie magic and low-budget CGI to make the most of what they can on such a shoestring budget"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Uses a lot of movie magic to make this world feel like it is ending on such a low budget"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Use a lot of movie magic to make this world feel like it is ending on such a low budget"
+    },
+    "pacing": "Pacing feels on the faster side in each scene to make this movie hectic, but the movie feels pretty slow on a macroscale because there isn't that much of a plot to go through",
+    "climax": "Climax is entertaining",
+    "tone": "Tone is very low-budget apocalyptic and takes a lot of inspiration from 28 Days Later",
+    "final_notes": "Saw 4K restoration at Fantastic Fest",
+    "overall": "Overall, a decent apocalypse movie that uses the emotions of the situation to drive the minimal plot, shot on a shoestring budget"
+  },
+  "release_year": 2008,
+  "review_date": "09/20/2025",
+  "redux": false,
+  "id": 604,
+  "imdb_id": "tt0984155"
+}

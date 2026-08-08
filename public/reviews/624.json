@@ -1,0 +1,142 @@
+{
+  "title": "Jay Kelly",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Noah Baumbach"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale definitely feels like an homage to the golden age of Hollywood to help portray this fading action star from a different time period; the direction on a microscale is incredibly self-indulgent because it was basically George Clooney kissing his own ass for two hours; the storytelling is incredibly meta and self-indulgent because it's literally just George Clooney reflecting on his own career for two hours, as if he's begging for another Oscar; while this movie for sure has a Noah Baumbach feel, this vision feels like it's hijacked by George Clooney in an attempt for him to win another Oscar; tension is built poorly because it feels like there are no stakes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "George Clooney"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "He's literally just playing himself for 2 hours, in such a meta way that it is so obvious this movie is just Oscar-bait; he has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Adam Sandler"
+          },
+          "rating": "Good",
+          "comments": "Basically, he kisses Clooney's ass for two hours, but does show some range and is a good comedic relief character; he has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Laura Dern"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well and has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Billy Crudup"
+          },
+          "rating": "Good",
+          "comments": "Plays a character you can empathize with as his scenes and dynamic with Clooney are very entertaining"
+        },
+        {
+          "actor": {
+            "name": "Riley Keough"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a pretty subdued character as she isn't given that much range to work with, despite the material calling for her to do so; She has decent chemistry with Clooney"
+        },
+        {
+          "actor": {
+            "name": "Patrick Wilson"
+          },
+          "rating": "Good",
+          "comments": "Really enjoyed his character and his charisma as he plays someone a little over-the-top but relatable"
+        },
+        {
+          "actor": {
+            "name": "Greta Gerwig"
+          },
+          "rating": "Pretty Good",
+          "comments": "Mandatory Greta Gerwig acting credit in a Noah Baumbach movie"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The movie is filled with an all-star cast and everyone plays their part well given their experience and who they are working with, but a majority of this film is just everyone kissing George Clooney's ass, with a few who do not; the chemistry in the cast is pretty good"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Noah Baumbach"
+        },
+        {
+          "name": "Emily Mortimer"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is incredibly self-indulgent as it's just George Clooney kissing his own ass and reminiscing about his career for 2 hours, making it so evident this is just Oscar-bait for George Clooney; The plot structure is very bloated as the movie overall is pretty linear, but they include these flashback scenes that are completely useless and are only meant to inflate George Clooney's ego; The ending literally gives away how much of Oscar-bait this is; Character writing is bad as this movie is just George Clooney being George Clooney, with everyone kissing his ass with a minor few hating him"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Noah Baumbach"
+        },
+        {
+          "name": "Emily Mortimer"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is well-written and flows well, as it's obvious this movie is penned by Noah Baumbach; The humor is pretty good, even though it can be forced at times; I reject the symbolism for this movie because it is about an aging movie star reflecting on his career and the mistakes he has made as he tries to salvage whatever he can at the end of his limelight, but it is so obvious this movie is just written for George Clooney to try and win an Oscar that it becomes so cringey to watch how inauthentic it is; The foreshadowing leads to subverting your expectations to the point where the ending is just boring"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nicholas Britell"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps with setting the tone and establishing the vibe for the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Linus Sandgren"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Shot very well, it helps paint this homage to the Golden Age of Hollywood with its sunsets and warm colors across Italy"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Valerio Bonelli"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Well edited"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Shot in beautiful sets across Europe to mimic the warm colors and ambiance of the golden age of Hollywood"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Does show the elegance and wealth of the cast, giving White Lotus Season 2 vibes, as these rich Americans work their way across Italy"
+    },
+    "pacing": "Pacing is on the slower side, as there are these unnecessary flashback scenes that try to give context to one-off dialogues that are just not necessary, except to inflate George Clooney's ego; all of these scenes could genuinely be cut, and the movie could have been 15–20 minutes shorter",
+    "climax": "Climax shows how much this movie is just Oscar-bait for George Clooney because its purpose is literally to prop up his career and kiss his ass, but I do applaud the bookend despite how cringey it is",
+    "tone": "Tone is very Golden Age of Hollywood, mixed with some comedic elements to make the movie feel light and palatable",
+    "final_notes": "Saw premiere at Austin Film Fest",
+    "overall": "Overall, while this is a well-made movie with a memorable performance from Adam Sandler and signature Noah Baumbach dialogue, \"Jay Kelly\" is incredibly self-indulgent; it is so obvious this movie is Oscar bait to inflate George Clooney's ego because the entire movie just kisses his ass for two hours"
+  },
+  "release_year": 2025,
+  "review_date": "10/29/2025",
+  "redux": false,
+  "id": 624,
+  "imdb_id": "tt30446847"
+}

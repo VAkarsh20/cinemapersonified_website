@@ -1,0 +1,118 @@
+{
+  "title": "Oh, Hi!",
+  "rating": 5.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Sophie Brooks"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macro scale is your typical indie rom-com, and it was very obvious this movie was made by some Gen Z improv/theater student living in New York; while it isn't the exact same movie, it has a similar vibe to Companion, but quirkier and worse; the direction on a micro scale is very Gen Z indie rom-com; the storytelling is pretty bland, as it is a quirky Gen Z way to tell a pretty simple story; tension is built pretty poorly because you don't really take the movie seriously in the more tense moments, and the score really ruins the mood"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Molly Gordon"
+          },
+          "rating": "Decent",
+          "comments": "Typical Gen-Z, New York theater/improv acting style that is quirky"
+        },
+        {
+          "actor": {
+            "name": "Logan Lerman"
+          },
+          "rating": "Decent",
+          "comments": "Has some charisma and decent chemistry with Gordon; decently funny"
+        },
+        {
+          "actor": {
+            "name": "Geraldine Viswanathan"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the comedic relief friend pretty well and has decent chemistry with Gordon"
+        },
+        {
+          "actor": {
+            "name": "John Reynolds"
+          },
+          "rating": "Decent",
+          "comments": "Comedic relief, pretty silly, and fun"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "The cast is very small, but the chemistry within the cast is decent"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Sophie Brooks"
+        },
+        {
+          "name": "Molly Gordon"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is honestly not really that good, as it is just really psychotic behavior; I have a feeling this movie tries to empathize with Gordon, but they really shouldn't, despite what Lerman's character did; This movie has vibes of Companion, but is more simple and generic; The plot structure is linear and kinda short because there really isn't that much plot to go through; Character writing is pretty surface level, what you would expect from an indie rom-com"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Sophie Brooks"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is very Indie Rom-Com, influenced by the Gen-Z New York Arts scene; the humor is pretty hit or miss, but ended up missing more times for me; the symbolism is there, but it is not a good message, although this movie does not really take itself seriously; the foreshadowing makes the movie incredibly predictable; I felt like I was in this movie's head the entire time as I was winning a tennis match 6-0, 6-0 as I could anticipate and predict its next move"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Steven Price"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Made the movie feel cheap and tacky, which is sad because it is an indie movie"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Typical indie movie soundtrack"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Conor Murphy"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Typical Indie Rom-Com camerawork"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Kayla M. Émter"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Typical Indie Rom-Com editing"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Gave the movie Companion feels, but if it was indie and more of a rom-com"
+    },
+    "pacing": "Pacing is a little slow because there really isn't that much plot to go through",
+    "climax": "Climax does a lot, but it is not really executed well as it mitigated all the stakes set in this movie; I really was not a fan of how this ended because it made me feel like I wasted any time investing in this story",
+    "tone": "Tone is very much an Indie Rom-Com made by Gen Z Theater/Improv kids from New York; the movie has shades of Companion, but in a more indie, goofy way",
+    "final_notes": "Saw as an AMC Screen Unseen; Went in blind",
+    "overall": "Overall, a generic and predictable indie rom-com that was obviously made by Gen Z theater kids from New York; this movie is definitely for someone, but that someone is definitely not me because I feel like I got my fix for this type of movie earlier in the year with 'Companion'"
+  },
+  "release_year": 2025,
+  "review_date": "07/07/2025",
+  "redux": false,
+  "id": 579,
+  "imdb_id": "tt33292655"
+}

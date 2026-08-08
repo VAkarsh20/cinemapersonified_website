@@ -1,0 +1,96 @@
+{
+  "title": "Minions: The Rise of Gru",
+  "rating": 5.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kyle Balda"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Able to move the movie forward and keep the audience captivated enough"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Steve Carell"
+          },
+          "rating": "Pretty Good",
+          "comments": "Commands all the scenes he is in and has the iconic Gru voice but does not really change his inflection so much to portray a younger version of Gru (still kinda just sounds like Gru)"
+        },
+        {
+          "actor": {
+            "name": "Pierre Coffin"
+          },
+          "rating": "Good",
+          "comments": "Really is able to make the Minions really adorable with the different voices and inflections he is able to do"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Brian Lynch"
+        },
+        {
+          "name": "Matthew Fogel"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Nothing really spectacular as it is a pretty predictable plot that is harmless for a children's movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matthew Fogel"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Simplistic yet adorable as it is tailored more for the audience to care and laugh at the minions, also more suited for the younger audience"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Heitor Pereira"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "soundtrack": {
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Claire Dodgson"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps bring the minions voices to life"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "Really is a unique style that Illumination has as it really helps bring the minions to life"
+    },
+    "plot_structure": "Plot Structure is pretty formulaic and predictable (but it is nice to see them do a parallel narrative structure)",
+    "pacing": "Pacing was extremely fast (given that the movie is only 88 minutes, there should have been at least 10-15 minutes added)",
+    "climax": "Build to climax was very formulaic and predictable; climax was pretty predictable",
+    "tone": "Tone was that of a kids movie but it did have flavors of 70s blaxploitation",
+    "final_notes": "It needs to be studied how much of an impact social media had on getting everyone to go to the movies as it was incredible to see the reception this movie got on Tik Tok and Twitter from Memers",
+    "overall": "Overall, its just a kids movie with adorable moments, but not that serious of a movie (even though the social media marketing has made it an importance to go see this movie (which I do love))"
+  },
+  "release_year": 2022,
+  "review_date": "07/07/2022",
+  "redux": false,
+  "id": 275,
+  "imdb_id": "tt5113044"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Vicious",
+  "rating": 4.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Bryan Bertino"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is pretty good at instilling supernatural horror and fear; The direction on a microscale is pretty good as you can see the struggle coming out of the protagonist and the other characters; Storytelling is not good at all because they do not do a good job explaining what the story is, why it is significant, and why we should care; Tension is developed well as it uses a lot of elements you see from a supernatural movie, though it can be cheap at times with the jump scares"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dakota Fanning"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really a one-woman show, as the entire movie is just her acting by herself, and she does a solid job portraying the emotions and fear the character is experiencing, despite being given no material to work with"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Really is just a Dakota Fanning one-woman performance, but all the performances are solid and help with uplifting Fanning"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Bryan Bertino"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is barely explained, you have to piece things together, and this makes you not really care about the conflict; The concept was so poorly explained that I left the theater wondering what the point of this movie was; The plot structure is just rising action and climax, the resolution is there but drags out a bit; Character writing is alright but could have been better because you know this character's struggle but you do not really know that much about them besides what is on the surface"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Bryan Bertino"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is pretty forced; The symbolism is there in terms of the conflict and its \"supposed\" reason, but is not really the best besides that; The foreshadowing is decent and helps set up the conflict, even though it could have been better"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Tom Schraeder"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps with building tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Tristan Nyby"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Does some cool things with its unique shots and in the horror moments, but is pretty generic besides that"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tad Dennis"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Typical low-budget supernatural editing"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Feels obsessively loud, but besides that, it is what you would expect from a supernatural horror movie trying to raise the tension"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Pretty good low-budget supernatural horror; it definitely brings out the scares and the cringe when watching the gory scenes"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Help show the gore"
+    },
+    "pacing": "Pacing is pretty slow because the story is kind of nonexistent, so it just feels like a supernatural compilation for an hour",
+    "climax": "Climax is decent, the resolution kind of holds the movie back",
+    "tone": "Tone is your typical supernatural horror movie;",
+    "final_notes": "Saw the world premiere at Fantastic Fest",
+    "overall": "Overall, a horror movie with well-executed horror sequences and a pretty good performance from Dakota Fanning, but Vicious makes you wonder why you are watching this movie because there is no story and no reason to care about the conflict"
+  },
+  "release_year": 2025,
+  "review_date": "09/19/2025",
+  "redux": false,
+  "id": 601,
+  "imdb_id": "tt31511689"
+}

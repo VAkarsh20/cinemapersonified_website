@@ -1,0 +1,104 @@
+{
+  "title": "Sirāt",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Óliver Laxe"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macro scale is technically very sound, as it creates an anxiety-inducing environment with sound that flows through your body like a rave; The direction on a micro scale is not great because many of the sequences are unnecessarily long; Storytelling follows the Saving Private Ryan template, as it is not about Private Ryan but the journey to get there; There are many sequences that slow the movie down and make it boring; Tension is a key element in moving this story as the filmmakers try to create an anxiety-inducing environment"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sergi López"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows his emotional attachment to trying to find his daughter as he is willing to go out of his comfort zone to do whatever it takes to find her"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "everyone is just kinda there and not really that memorable; everyone does their job and helps move the so the forward"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Santiago Fillol"
+        },
+        {
+          "name": "Óliver Laxe"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is interesting, as it is about what a father would do to search for his daughter by joining a nomadic tribe through the Moroccan desert on a journey that is against the odds; The plot structure is about the journey and not really the conflict, much like Saving Private Ryan; I was not a huge fan of the ending, but I understand why they did it; Character writing is not really that good because, besides the father, I really did not care for any of the characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Santiago Fillol"
+        },
+        {
+          "name": "Óliver Laxe"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is decent; Symbolism is present, as the movie is about what a father will do to find his daughter; The foreshadowing makes the movie a bit predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Kangding Ray"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The score really helped set the tone and vibe for the movie; I really enjoyed the techno nature of it"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Mauro Herce"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The cinematography is technically sound and uses many interesting shots to build tension; Some of the shots feel too long"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Cristóbal Fernández"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The editing feels very choppy, as many of the sequences feel unnecessarily long"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "The sound really makes the movie feel like a rave and builds tension in the anxiety-inducing moments; Visual effects are good; There are a lot of practical effects and pyrotechnics"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "A lot of practical effects and pyrotechnics"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "The production design uses the desert well to show how treacherous this trip is for the cast, like looking into a vast abyss hoping to find the end, but you never do"
+    },
+    "pacing": "Pacing is a huge problem for this movie because so many of the sequences are unnecessarily long; You can definitely cut this movie by 20 minutes by tightening the scenes",
+    "climax": "The climax is good, as it is very anxiety-inducing and has symbolic meaning; I was not a fan of the ending, even though I understand why they did it",
+    "tone": "The tone is very rave-influenced while also having elements of an anxiety-inducing thriller",
+    "final_notes": "I saw this with the director and writer in person for a Q&A",
+    "overall": "Overall, this movie excels on a technical level, as the score, sound, and cinematography fuel an anxiety-inducing thrill ride that keeps you invested with what's on-screen, but Sirāt is held back from standing out because it is filled with so much dead space with its unnecessarily long and repetitive shot sequences, simple character writing that makes you not care for the characters, and an open-ended ending that makes the movie feel unfulfilling; I saw this with the director and writer in person for a Q&A"
+  },
+  "release_year": 2025,
+  "review_date": "03/07/2026",
+  "redux": false,
+  "id": 653,
+  "imdb_id": "tt32298285"
+}

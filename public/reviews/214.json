@@ -1,0 +1,121 @@
+{
+  "title": "Space Jam",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joe Pytka"
+        }
+      ],
+      "rating": "Pretty Bad"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Michael Jordan"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Wayne Knight"
+          },
+          "rating": "Pretty Good to Good"
+        },
+        {
+          "actor": {
+            "name": "Danny DeVito"
+          },
+          "rating": "Great"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Very Bad from the rest of the live acting cast; Great Voice Acting by the entire Looney Tunes cast"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Leo Benvenuti"
+        },
+        {
+          "name": "Steve Rudnick"
+        },
+        {
+          "name": "Timothy Harris"
+        },
+        {
+          "name": "Herschel Weingrod"
+        }
+      ],
+      "rating": "Good"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Leo Benvenuti"
+        },
+        {
+          "name": "Steve Rudnick"
+        },
+        {
+          "name": "Timothy Harris"
+        },
+        {
+          "name": "Herschel Weingrod"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Two halves (Looney Tunes Parts were great and very similar to its traditional style, Real life parts were bad to pretty bad overall); there were some good references and jokes that I did appreciate (Mighty Ducks, Pulp Fiction, Patton, etc.)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "James Newton Howard"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Liked how it incorporated Looney Tunes elements"
+    },
+    "soundtrack": {
+      "rating": "Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Chapman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Made it feel very animated"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sheldon Kahn"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "animation": {
+      "rating": "Pretty Good",
+      "comments": "Stitched well with real life (especially for the time) as it gives it a pretty cartoony feel"
+    },
+    "pacing": "Pacing was very fast and really rushed between plot elements; Runtime was very short (definitely could have used 15-20 minutes in the rising action as the film goes from exposition to the climax)",
+    "climax": "Skips build to climax; the actual basketball game (climax) was executed very well as it was the best part of the movie and gives off a good message to the audience",
+    "final_notes": "The movie is pretty surface level but the majority of it is geared towards kids and people who wanted to see MJ so i give it a pass",
+    "overall": "Overall, a decent, fun watch that was geared mostly for kids as it was good to see how two icons (MJ in the NBA and Bugs Bunny in Looney Tunes) were able to come together to give off a lot of iconic moments with the battle with the monstars as the movie does not try to take itself too seriously"
+  },
+  "release_year": 1996,
+  "review_date": "07/28/2021",
+  "redux": false,
+  "id": 214,
+  "imdb_id": "tt0117705"
+}

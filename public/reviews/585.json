@@ -1,0 +1,155 @@
+{
+  "title": "The Fantastic Four: First Steps",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Matt Shakman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale goes for the Tomorrowland aesthetic popularized in the 1950s-60s, and I think it did a good job at it, as it was really entertaining and enjoyable to watch, despite the sets and CGI looking a little too fake; The direction on a microscale is that 50s-60s style of acting, but it honestly just feels like any other Marvel movie at the same time; Storytelling is the Marvel template; They build tension in a Marvel way"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Pedro Pascal"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a stoic genius, with decent chemistry with the cast; Please stop hiring this man for everything, he is committed to 5 projects at once and it is clearly obvious he could not give his 100% for this movie because of it; Also, he barely used his powers in this movie"
+        },
+        {
+          "actor": {
+            "name": "Vanessa Kirby"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the female lead well, with decent chemistry with the main cast"
+        },
+        {
+          "actor": {
+            "name": "Ebon Moss-Bachrach"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "More of a comedic relief character, but he is given less freedom than he has with 'The Bear'; he has decent chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Joseph Quinn"
+          },
+          "rating": "Decent",
+          "comments": "More of a comedic relief character, but only really hits about half the time; Has decent chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Julia Garner"
+          },
+          "rating": "Decent",
+          "comments": "A very neutral and overarching performance isn't really given that much material or direction to work with"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Typical Marvel acting and background characters"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Eric Pearson"
+        },
+        {
+          "name": "Jeff Kaplan"
+        },
+        {
+          "name": "Ian Springer"
+        },
+        {
+          "name": "Kat Wood"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is the Fantastic Four, as they try to build a family in this Tomorrowland 60s New York; the plot structure is pretty Marvel; character writing is not really the best because I didn't really care about any of these characters, it's just the typical Fantastic Four"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Josh Friedman"
+        },
+        {
+          "name": "Eric Pearson"
+        },
+        {
+          "name": "Jeff Kaplan"
+        },
+        {
+          "name": "Ian Springer"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is pretty 50s and 60s influenced, mixed with Marvel dialogue that tries to be funny and has cringey lines they try to prop up for clips and trailers; The humor is pretty Marvel; The foreshadowing is somewhat there"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Michael Giacchino"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helped complement this 50s-60s Tomorrowland aesthetic they were going for, while still being very Marvel and traditional to superhero movies"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jess Hall"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Typical Marvel cinematography and what you would expect from a highly productized movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nona Khodai"
+        },
+        {
+          "name": "Tim Roche"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Typical Marvel editing, and what you would expect from a highly productized movie"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Typical Marvel sound and what you would expect from a highly productized movie"
+    },
+    "visual_effects": {
+      "rating": "Bad to Pretty Bad",
+      "comments": "Was not really a fan of it because it felt a little tacky and made the movie feel really fake; it was very obvious when people were wearing mocap suits"
+    },
+    "production_design": {
+      "rating": "Good to Very Good",
+      "comments": "I really enjoyed the 50s-60s Tomorrowland aesthetic they were going for, as it made this movie feel unique in an ocean of formulaic Marvel movies, although it was pretty obvious when they used CGI to build up sets"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Nothing felt like makeup, as almost everything looked like a mo-cap suit"
+    },
+    "costumes": {
+      "rating": "Very Good",
+      "comments": "Really enjoyed the costumes as it aided in this 50s-60s Tomorrowland aesthetic they were going for"
+    },
+    "pacing": "Pacing is about right, maybe a little fast it was obvious scenes were cut from this movie;",
+    "climax": "Climax is your typical Marvel climax, but still enjoyable",
+    "tone": "Tone is very much going for that 1950s-60s Tomorrowland aesthetic, and I thought it made the movie really unique in an ocean of formulaic Marvel movies",
+    "final_notes": "I was sitting next to a talking and crying toddler during the entire movie, and I could barely pay attention during the dramatic moments",
+    "overall": "Overall, I really enjoyed the 1950s-60s Tomorrowland aesthetic they were going for because it made this movie feel really unique in an ocean of formulaic Marvel movies, but besides that, this movie doesn't really do anything else special to separate itself from its compatriots because it is very similar in its above-the-line aspects, as well as the CGI feeling very tacky and fake; my review is a little skewed because I was sitting next to a talking and crying baby during the entire movie and could barely pay attention"
+  },
+  "release_year": 2025,
+  "review_date": "07/25/2025",
+  "redux": false,
+  "id": 585,
+  "imdb_id": "tt10676052"
+}

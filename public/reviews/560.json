@@ -1,0 +1,131 @@
+{
+  "title": "Hurry Up Tomorrow",
+  "rating": 2.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Trey Edward Shults"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale is messy as it tries to be this experimental, avant-garde piece, but it ends up being more pretentious and unfocused than meaningful; The direction on a microscale is terrible as none of the performances feel like they are conveying any emotion; The storytelling is not present as the movie doesn't build to anything; They build tension poorly because you don't really care for any of the characters"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Abel Tesfaye"
+          },
+          "rating": "Very Bad",
+          "comments": "Cannot portray any emotions, always off-beat, and has no chemistry with the rest of the cast; Even in the musical portions, it doesn't really feel like the showman The Weeknd really is"
+        },
+        {
+          "actor": {
+            "name": "Jenna Ortega"
+          },
+          "rating": "Very Bad",
+          "comments": "We need to start having a dialogue about Jenna Ortega because I genuinely believe she cannot convey any emotions and plays the same toneless character in every movie; She tries to play this stalker, crazy fan, but it just comes off so poorly that it's more laughable than meaningful"
+        },
+        {
+          "actor": {
+            "name": "Barry Keoghan"
+          },
+          "rating": "Bad",
+          "comments": "I feel like \"Saltburn\" fried this guy's brain as he keeps trying to play these weird characters that really don't suit his strengths"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Just extras, but not good ones because they don't act correctly in the scenes"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Trey Edward Shults"
+        },
+        {
+          "name": "Abel Tesfaye"
+        },
+        {
+          "name": "Reza Fahim"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The concept is so convoluted as it is trying to show the feelings The Weeknd has about himself, but the movie just comes off pretentious rather than meaningful; The plot structure is nonexistent as the movie doesn't really build to anything and drags by having scenes that are longer than they should have been; The character writing is nonexistent as they try to present characters who have depth, but never actually give them it"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Trey Edward Shults"
+        },
+        {
+          "name": "Abel Tesfaye"
+        },
+        {
+          "name": "Reza Fahim"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is very bad and unnatural; The humor is unintentionally funny, as I laughed very hard at the serious moments; The symbolism is so pretentious that you really don't care about the meaning at all; The foreshadowing is there, because you know exactly where this movie is heading, because of how it is constructed"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Abel Tesfaye"
+        },
+        {
+          "name": "Daniel Lopatin"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Interpretations of The Weeknd's new album because this is supposed to be a companion piece, but it is not really the best"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Should just be \"Hurry Up Tomorrow\" because this is supposed to be a companion piece, but it has about three or four songs and includes songs from previous albums too;  It is not really mixed well to help tell the story, which is not great considering this is supposed to be a \"companion piece\""
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Chayse Irvin"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "Might be some of the worst cinematography I have ever seen, as the movie just has these 360-spinning shots that are so close up to the subjects that the movie just feels incredibly nauseating; There were maybe two shots I thought were cool, but that does not make up for the terrible camerawork I had to sit through; The movie feels like it was shot by a Beyblade"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Trey Edward Shults"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "Poorly put together, the movie has all these sharp cuts that are more comical than fluid"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "This makes the movie experimental"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Feels very low-budget, as the shots are so close up that it never leaves room to show any effects going on"
+    },
+    "production_design": {
+      "rating": "Pretty Bad",
+      "comments": "Feels very low-budget, as the shots are so close up that it never leaves room to show where they are; The concert settings are poorly utilized, as the camera is so up close it doesn't show the magnitude of the venue and how it affects Abel"
+    },
+    "pacing": "Pacing is incredibly slow, as this movie feels like a chore to get through, especially with its short runtime",
+    "climax": "Climax is relieving as it means the movie was finally over; The climax was poorly executed; The climax is literally Jenna Ortega doing the \"You like Huey Lewis & The News\" scene from \"American Psycho,\" but like if she was doing it to Huey Lewis himself",
+    "tone": "Tone tries to match this experimental, surrealist thriller feel that The Weeknd tried to create with the album; but the movie is just so pretentious that the tone makes the movie laughable",
+    "final_notes": "",
+    "overall": "Overall, a dumpster fire as The Weeknd doubles down on showing he has no acting or filmmaking ability, and we need to have a dialogue about Jenna Ortega because continues to play the same monotonous character in every movie; but, this movie is watchable for how bad and pretentious it is"
+  },
+  "release_year": 2025,
+  "review_date": "05/16/2025",
+  "redux": false,
+  "id": 560,
+  "imdb_id": "tt26927452"
+}

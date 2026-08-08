@@ -1,0 +1,108 @@
+{
+  "title": "Mulholland Drive",
+  "rating": 8.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Lynch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is retrospectively very good if you take into account that the majority of the movie is a dream state filled with bubbly, unnatural characters that represent the delusions of Hollywood; The direction on a macroscale as a whole does have a Lynchian feel with its surrealism, as it creates this dream state to reflect the blind optimism people have in show business and how the decisions in Hollywood are really out of the creators' control, being carried out by some elusive higher power; The direction on a microscale is intentionally bubbly and unnatural in the first half as it represents this surrealist dream state, with the final act being more objective and polished to show the actual truth; While the surrealist and unnatural nature is intentional, it does not make up for the clunky dialogue and mediocre acting; The storytelling is incredible because of how non-linear the movie is, as the film really plays in reverse with the first two-thirds acting as a dream state that makes sense in the final third, changing your whole perception of the movie and what is true only after you finish it; Tension is not built that well, but this is due to how the movie is set up, as you only really start to get invested in the conflict once the final 30 minutes happen, making you retrospectively appreciate what you sat through"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Naomi Watts"
+          },
+          "rating": "Pretty Good",
+          "comments": "Intentionally portrays this bubbly, naive girl that is supposed to represent this delusional optimism when you enter Hollywood, and this persona also helps with the idea of there being a dream state; her acting in the final 30 minutes is more realistic; while she is intentionally unnatural, you can only defend this performance so far cause there are some moments that just don't make sense; has pretty good chemistry with Harring"
+        },
+        {
+          "actor": {
+            "name": "Laura Harring"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Kinda just present as she plays someone with amnesia; helps represent the idea of a dream state with how unnatural she is; has pretty good chemistry with Watts; you can only defend this performance so much cause there are some moments that just don't make any sense"
+        },
+        {
+          "actor": {
+            "name": "Justin Theroux"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays this over-the-top director that has his personal frustrations with Hollywood in a way that feels biographical to David Lynch; he is pretty unnatural as he is in a surrealist world, but you can only go so far to defend some of the bad moments"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "The minor characters are very unnatural as it does help bring to life this dreamy surrealist world, but you can only defend them so much because there just is a lot of bad acting"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Lynch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is a very fresh take on Hollywood, as Lynch creates a neo-noir mystery that shows his frustrations with Hollywood; The plot structure is very unique, as the movie starts at the end, with most of the middle of the movie playing like a dream state that eventually all makes sense in the final 30 minutes; The way the plot is structured helps make up for the unnatural moments throughout the movie, as it makes you ponder and reassess what you watched from a different perspective; Character writing is pretty good, as the bubbly, delusional optimism of Naomi Watts's character represents what entering Hollywood is like, and Justin Theroux's character feels autobiographical to Lynch, as his frustration with Hollywood makes it feel as if all decisions are out of his hands"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Lynch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is purposely unnatural to represent this dream state, but that can only be excusable to an extent, as there are some scenes where the dialogue just makes no sense; The humor is pretty good; The symbolism is incredibly profound, as the whole movie is an allegory for Lynch's frustrations with Hollywood because many of the decisions are made by some higher power that is omniscient, and the bubbly optimism of entering the business slowly goes away as you fall out of favor; The foreshadowing is essential for telling this story because of how the plot is structured, with the movie starting at the end and being in somewhat of a dream state that becomes clearer once the characters are cognizant of what is going on"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Angelo Badalamenti"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score helps with setting the tone and tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Peter Deming"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The blur and glare of the camera help echo the notion of this movie being in some way a dream state, as they help personify the optimistic delusions of the characters, with the frames being clearer the more the truth is revealed; There were many shots that help echo Lynch's surrealist vision"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Mary Sweeney"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The editing aids in making this movie feel like a delusional blur; It feels well put together as a whole to make the movie feel Lynchian"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The sound helps create a noir vibe that pays homage to Hollywood"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Shooting throughout Los Angeles is an integral part of the dream this movie tries to articulate; There are some typical Lynchian sets that add to the surrealism"
+    },
+    "pacing": "Pacing is a bit slow, as the movie focuses on the subjective parts so much that it kind of rushes the ending; I would have loved for the first half to have been cut by about 15 minutes",
+    "climax": "Climax is great, as it helps put the whole movie into perspective by sharing what is actually going on and why the whole movie is what it is",
+    "tone": "Tone feels like a Hollywood noir, with the majority having bubbly surrealism and the ending having thriller realism",
+    "final_notes": "This movie absolutely deserves a second watch, as you really only start to appreciate its genius after the movie is over",
+    "overall": "Overall, David Lynch creates this surrealist world to show his personal frustrations with Hollywood as he creates two visions of the film industry, one that is optimistically delusional and one that is pessimistically realistic; The story is structured very uniquely, but because of this, 'Mulholland Drive' really needs a second watch to fully understand what is going on, so this is a rating based on just my first watch"
+  },
+  "release_year": 2001,
+  "review_date": "01/28/2026",
+  "redux": false,
+  "id": 646,
+  "imdb_id": "tt0166924"
+}

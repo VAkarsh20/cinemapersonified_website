@@ -1,0 +1,110 @@
+{
+  "title": "Sound of Freedom",
+  "rating": 2.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Alejandro Monteverde"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Did not get anything out of his actors as they felt very stiff and unnatural when working off each other; the storytelling felt pretty amateurish; the use of editing and cinematography felt very amateurish; the direction of the more uncomfortable scenes was decent though"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jim Caviezel"
+          },
+          "rating": "Bad",
+          "comments": "Felt incredibly over-the-top and did not really work well off of any of his other actors; did not feel like he was carrying his own throughout the movie as it was doing too much and emotionless at times"
+        },
+        {
+          "actor": {
+            "name": "Mira Sorvino"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Bill Camp"
+          },
+          "rating": "Decent",
+          "comments": "While he did have his questionable moments, he held his own for the most part throughout the movie"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Does not include the child actors"
+      },
+      "rating": "Very Bad to Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Rod Barr"
+        },
+        {
+          "name": "Alejandro Monteverde"
+        }
+      ],
+      "rating": "Pretty",
+      "comments": "The idea of the story is something that is important to tell, the main issue is many elements of this movie are embellished/fabricated (and this is obvious at many points of the movie); the movie is also incredibly predictable"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Rod Barr"
+        },
+        {
+          "name": "Alejandro Monteverde"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue feels incredibly unnatural and hard to listen to at times with how bad and corny it is, symbolism is very shallow (though profound)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Javier Navarrete"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Gorka Gómez"
+        },
+        {
+          "name": "Andreu Aec"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Felt pretty amateurish"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brian Scofield"
+        }
+      ],
+      "rating": "Bad"
+    },
+    "sound": {
+      "rating": "Pretty Bad"
+    },
+    "plot_structure": "Plot Structure was very templated and pretty simplistic overall",
+    "pacing": "Pacing was pretty slow (could have been cut 20-30 minutes to increase the speed)",
+    "climax": "Climax was not that well executed because it is incredibly over-the-top and hard to believe actually happen",
+    "tone": "Tone was very bland overall as the direction did not do a good job in establishing it (also there are many influences of faith that are prevalent, even though this is not necessarily a bad thing)",
+    "final_notes": "This is an important topic to talk about but it would have probably been better off as a documentary than a movie that embellishes the truth",
+    "overall": "Overall, an important topic that does not hit the mark as the movie is incredibly over-the-top with its bad direction, acting, and writing as it embellishes the truth to try to bring to light the subject matter (which only hurts its credibility)"
+  },
+  "release_year": 2023,
+  "review_date": "07/25/2023",
+  "redux": false,
+  "id": 361,
+  "imdb_id": "tt7599146"
+}

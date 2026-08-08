@@ -1,0 +1,122 @@
+{
+  "title": "Eddington",
+  "rating": 6.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ari Aster"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale feels very Ari Aster in how he builds the world from an overarching perspective, but closer to Beau is Afraid than his first two movies with how chaotic and all over the place it is; The direction on a microscale is very intentional as he places items in scenes throughout the movie that really symbolize the pandemic and people's views on the pandemic; The performances in the first act of the movie were just too over-the-top and bad, but after I got used to them, they were more enjoyable later on; The storytelling is an intentional, chaotic mess to show the polarization and division during the pandemic; Builds tension in a way similar to Beau is Afraid, but does still have some charm he was known for in his first two movies"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Joaquin Phoenix"
+          },
+          "rating": "Pretty Good",
+          "comments": "More of a controlled chaos this time around, as the character he portrays takes a little bit of getting used to, but really hits his stride after the first act"
+        },
+        {
+          "actor": {
+            "name": "Pedro Pascal"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the dynamic with Phoenix decently well to show the polarization of both sides, but how corrupted and close they actually are; Please hire this man for less projects because he cannot give his 100% if he is committed to like 5 projects at once"
+        },
+        {
+          "actor": {
+            "name": "Austin Butler"
+          },
+          "rating": "Pretty Good",
+          "comments": "I really enjoyed his character, but they barely used him, I would have liked to have seen more of what they did with him"
+        },
+        {
+          "actor": {
+            "name": "Emma Stone"
+          },
+          "rating": "Decent",
+          "comments": "They don't really give her that much material to work with, which is a shame for her caliber"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "This is more of a spectrum as there is a wide range from the supporting cast, but overall, it tends to be on the negative side with how chaotic and over-the-top the extras and minor characters are"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ari Aster"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept shows the polarization of society during 2020, but honestly, making a Pandemic/BLM protest movie in the big 2025 is insane; Aster tried to be provocative with this, and it would have been more provocative if he released this movie in 2023 instead of Beau is Afraid; The plot structure is structured into three acts, with the movie becoming more chaotic as it went on; The first act was honestly pretty boring because I really didn't want to sit through a Covid movie; The second act started to pick things up and made things enjoyable; The third act was a chaotic mess, but was still enjoyable; Character writing is a little too overt but is used to show how polarized both sides have become, but how hypocritical and dumb they ended up being in the end"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ari Aster"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is pretty campy and over-the-top, which brings out the humor and satire in the movie; The humor is pretty funny as it does poke fun at the stupidity on both sides; The symbolism is intentional as Aster tried to show the hypocrisy and stupidity in the polarization of America during 2020 from both sides, though from a left perspective; The foreshadowing is present as it lays the roots for what eventually explains why everything is happening in the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Pemberton"
+        },
+        {
+          "name": "Bobby Krlic"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Light, more about setting the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Darius Khondji"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Felt auteur-driven, despite how chaotic it was"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Lucian Johnston"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Felt auteur driven, despite how chaotic it was"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "A little campy, which brought out some of the comedy"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "A little over the top, which brought out some of the comedy"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps paint this quaint little New Mexico town"
+    },
+    "pacing": "Pacing is a huge issue for this movie because it moves incredibly slowly; they could have honestly cut the first act in half and cut the resolution by 5-10 minutes to save 30 minutes",
+    "climax": "Climax is an intentional chaotic mess, but still better managed than Beau is Afraid",
+    "tone": "Tone is very much a black comedy satire, with some horror/action elements",
+    "final_notes": "",
+    "overall": "Overall, an intentionally chaotic mess from Ari Aster as he tries to show how the polarization of society during the pandemic brought out the stupidity in everyone; but, making a 2020 movie in the Big 25 is insane because he definitely wanted to be provocative with this movie, and he would have been way more provocative if he had made this movie in 2023 instead of Beau is Afraid"
+  },
+  "release_year": 2025,
+  "review_date": "07/24/2025",
+  "redux": false,
+  "id": 584,
+  "imdb_id": "tt31176520"
+}

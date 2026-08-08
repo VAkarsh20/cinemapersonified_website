@@ -1,0 +1,125 @@
+{
+  "title": "Crash Land",
+  "rating": 8.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Dempsey Bryk"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macro and micro scale combines elements from Trailer Park Boys and Jackass to create a fun and entertaining experience; Storytelling is good, as the movie makes you feel invested in the story as they paint each character's personal attachment"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Gabriel LaBelle"
+          },
+          "rating": "Good",
+          "comments": "Really goes full Trailer Park Boys as really feels like he is enjoying himself as he tries to make the movie and keep his friend's legacy alive; has good comedic timing and has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Noah Parker"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays his character pretty well and establishes good chemistry with Quinn"
+        },
+        {
+          "actor": {
+            "name": "Abby Quinn"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her character well and acts as the sane glue for the group"
+        },
+        {
+          "actor": {
+            "name": "Finn Wolfhard"
+          },
+          "rating": "Pretty Good",
+          "comments": "Feels like a weird character that doesn't really suit his voice, but he makes it is own as you can tell he's having fun making this movie"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The cast is pretty small but everyone feels like they are having fun and working as a team to help move this story forward and keep you entertained"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Dempsey Bryk"
+        },
+        {
+          "name": "Ben Snider-McGrath"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept follows this group of Canadian degenerates making a movie to honor their stunt-buddy friend, resulting in a film that feels as if Trailer Park Boys and Jackass had a baby; The plot structure is quite linear, with the end of the movie being the film they created; Character writing is surprisingly good, as each character has their own motive for making this movie, proving they are more than just dunces whom the town hates"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Dempsey Bryk"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is very Canadian and very funny, as this movie does not stop making jokes that hit surprisingly well; There surprisingly is a decent amount of symbolism, as the movie touches on the doubt these characters have as they grieve the loss of their friend and whether or not they should just grow up and move on; Foreshadowing is present"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Spencer Creaghan"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Kristofer Bonnell"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The cinematography feels very low-budget and DIY, and the camcorder shots really add to how these degenerates are trying to make this makeshift movie with absolutely no money"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Hanna Park"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The editing helps add to this DIY, low-budget feel"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The sound helps paint the stunts and action sequences for this movie and helps bring to life the old technology they are using"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "A lot of practical stunts make this movie feel like a Canadian version of Jackass, which is good given how low the budget for this movie is"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "The production design is basically middle-of-nowhere Canada as they try to recreate Trailer Park Boys"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "The costumes definitely paint these characters in an interesting light"
+    },
+    "pacing": "The pacing is right, as the movie does not feel too fast or slow, since the jokes and the action really move this story forward",
+    "climax": "The climax is good, as it helps culminate the film they are making and provides closure for all the characters' journeys",
+    "tone": "The tone is basically as if Trailer Park Boys and Jackass had a baby, all with a low-budget, DIY feel",
+    "final_notes": "I saw the world premiere at SXSW",
+    "overall": "Overall, 'Crash Land' is basically as if Trailer Park Boys and Jackass had a baby, as they essentially made a DIY, low-budget comedy that is duct-taped together by its degenerate comedy and degenerate stunts, creating such a fun time you won't forget"
+  },
+  "release_year": 2026,
+  "review_date": "03/13/2026",
+  "redux": false,
+  "id": 657,
+  "imdb_id": "tt39049535"
+}

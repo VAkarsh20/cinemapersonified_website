@@ -1,0 +1,113 @@
+{
+  "title": "Sentimental Value",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joachim Trier"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale is pretty good, as it does set up this world well; The direction on a microscale is good, as it allows the actors to act and share their emotions, which is necessary considering the movie is really built on its interpersonal scenes; Storytelling is pretty standard, nothing special; Tension is built emotionally and well"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Stellan Skarsgård"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Uses his experience as an actor to guide this performance, as he is one half of this estranged father-daughter dynamic, creating good chemistry with the cast and especially Reinsve"
+        },
+        {
+          "actor": {
+            "name": "Renate Reinsve"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Shows how she carries this trauma and heartbreak from her estranged relationship with her father well, as she is the emotional compass for this movie; She has good chemistry with the whole cast, and especially Skarsgård"
+        },
+        {
+          "actor": {
+            "name": "Inga Ibsdotter Lilleaas"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays her role well and has good chemistry with Reinsve, but is not given that much material that really showcases her"
+        },
+        {
+          "actor": {
+            "name": "Elle Fanning"
+          },
+          "rating": "Good",
+          "comments": "Feels like a big American name to help sell this movie, and she does a good job playing her role as an outsider trying to insert herself in this troubled family dynamic"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their role well as this movie is really about letting the actors act with the script they are given, no true bells and whistles; The chemistry in the cast is pretty strong"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Eskil Vogt"
+        },
+        {
+          "name": "Joachim Trier"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is interesting as it uses its homage to filmmaking and acting to build this world, but at its core, this movie is about an estranged father-daughter dynamic; tbh, I feel like I have seen this movie done better before; the plot structure is pretty standard; character writing is strong as it does create characters you can empathize with as you see how complex these characters are, especially the lead two"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Eskil Vogt"
+        },
+        {
+          "name": "Joachim Trier"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is pretty strong and mixes Norwegian and English well; The humor is faint but does help lighten the mood at times and make this movie feel human; The symbolism is strong, as it deals with the emotions and feelings you experience from an estranged father daughter dynamic and how both sides experience pain from it; The symbolism for this movie makes it feel more human; The foreshadowing is pretty good, which makes the ending make sense from an emotional standpoint"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hania Rani"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "helped with establishing the tone and tension of the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Kasper Tuxen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt like it came from an experienced and established director; Really enjoyed the lighting and sunsets and sunrises they used because it helped with establishing the mood"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Olivier Bugge Coutté"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt like it came from an experienced and established director, but nothing special"
+    },
+    "pacing": "Pacing is a bit on the slower side as this movie is more of a slow burn; There are many scenes that I felt could have been cut, saving maybe 10-15 minutes",
+    "climax": "Climax helps resolve things from an emotional standpoint, but nothing really blew me away",
+    "tone": "Tone is very much a standard drama, helping bring to life these characters dealing with human emotions",
+    "final_notes": "Saw premiere at Austin Film Festival; I feel like I've seen this movie done better before",
+    "overall": "Overall, a pretty good drama that uses its actors and script to bring to life the grief the main character feels being estranged from her father, but nothing really blew me away with \"Sentimental Value\" because I feel like I have seen this movie done better before"
+  },
+  "release_year": 2025,
+  "review_date": "10/28/2025",
+  "redux": false,
+  "id": 623,
+  "imdb_id": "tt27714581"
+}

@@ -1,0 +1,144 @@
+{
+  "title": "Wuthering Heights",
+  "rating": 4.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Emerald Fennell"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is very good, as they build this aesthetic world that is visually stunning and they build the world well, but that is what I would expect from a big-budget movie like this; The direction on a microscale is atrocious, as this movie is void of any meaningful conversations because everything feels forced with no semblance of chemistry; Storytelling is atrocious, as they basically took a literary classic and bastardized it into erotic fan fiction, and it is not even good erotic fan fiction; Tension is artificially created because you do not really care about these characters with how they are portrayed, but they try so hard for you to care"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Margot Robbie"
+          },
+          "rating": "Bad",
+          "comments": "Watching Margot Robbie in this movie is like watching your 15 year old childhood dog that is barely able to walk and you finally admit you have to put it down; her acting is very forced, her accent work is off, and her chemistry with Elordi is abysmal"
+        },
+        {
+          "actor": {
+            "name": "Jacob Elordi"
+          },
+          "rating": "Very Bad",
+          "comments": "Tries to play this stoic character, but it just comes off as rigid with no emotion; they also try to paint him as multifaceted but its execution is just so off; has absolutely no chemistry with Robbie"
+        },
+        {
+          "actor": {
+            "name": "Hong Chau"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just there, nothing good nothing bad"
+        },
+        {
+          "actor": {
+            "name": "Shazad Latif"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just there, nothing good nothing bad"
+        },
+        {
+          "actor": {
+            "name": "Alison Oliver"
+          },
+          "rating": "Bad",
+          "comments": "I wish I could unsee this performance"
+        },
+        {
+          "actor": {
+            "name": "Charlotte Mellington"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "One of the better parts of the movie as you can see the emotion in this character; has pretty good chemistry with Cooper"
+        },
+        {
+          "actor": {
+            "name": "Owen Cooper"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "One of the better parts of the movie as you can see the emotion in this character; has pretty good chemistry with Mellington"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Just a bunch of period actors who are given a bad script, so there's nothing you can really do; the cast as a whole has no chemistry as it feels like they are all just reading lines off a script with no understanding of the characters or the story"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Emerald Fennell"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is a reimagining of Wuthering Heights, but it ends up just being erotic fan fiction of the book because they stripped out all the literary elements for unnecessary sexual imagery; The plot structure is linear, broken up into three chapters, and the movie just feels long overall; Character writing is abysmal, as Fennell strips out all the nuance and depth of the characters to make an unrecognizable adaptation that just feels like smut"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Emerald Fennell"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is unnatural and bad, and it also does not help that I hate European period pieces; The humor is forced; The symbolism is completely stripped out of the book, as this adaptation bastardizes the meaning of the source material just to make erotic fan fiction; The foreshadowing is there, but I did not really care for it because of how much I hated watching this movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Anthony Willis"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The score is well-orchestrated and helps with setting the tone and building the emotional tension for the movie, whatever little tension there may be"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Charli XCX's talents are wasted for this movie because, although the songs are good, they are just misused for this train wreck; I also am not a huge fan of when they use contemporary music in period pieces"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Linus Sandgren"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The movie is beautifully shot to show the vast world these characters occupy and the stunning sets they live on, but this is something you would expect from a big-budget movie like this; It is such a shame Sandgren's talents were wasted on this movie because it genuinely is some of his best work"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Victoria Boydell"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The movie is well-edited and put together; It works in conjunction with the cinematography to make this movie feel like a visually stunning period piece, which is a shame because the editor's talents were really wasted for this movie"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "The sets for this movie were beautifully designed, as they did create an aesthetic world that is well-crafted, but this is what you would expect from a big-budget movie like this"
+    },
+    "makeup": {
+      "rating": "Pretty Bad",
+      "comments": "The aging makeup was really bad for this movie because it did not look like these characters aged at all"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "The costumes are well-designed, as they add to the film's aesthetic even though they may be incredibly culturally inaccurate; These costumes being beautifully designed is what you would expect from a big-budget movie like this"
+    },
+    "pacing": "Pacing is bad because this movie just feels incredibly slow, which is most likely due to the movie just being hard to watch with how bad it is; Even if they cut ten minutes from Acts 2 and 3, this movie would have still been bad",
+    "climax": "The climax artificially forces you to care about what is going on, but by this point, I was just wishing for this movie to end",
+    "tone": "The tone plays like erotic fan fiction of the English Romanticism and Gothic periods, mixed with contemporary elements to make me just hate everything about this movie",
+    "final_notes": "I was visibly mad for two hours watching this movie",
+    "overall": "Overall, while it is shot and designed beautifully, Emerald Fennell bastardizes a literary classic into erotic fan fiction, and it's not even good erotic fan fiction"
+  },
+  "release_year": 2026,
+  "review_date": "02/16/2026",
+  "redux": false,
+  "id": 651,
+  "imdb_id": "tt32897959"
+}

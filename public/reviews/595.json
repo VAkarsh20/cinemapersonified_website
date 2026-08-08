@@ -1,0 +1,127 @@
+{
+  "title": "The Conjuring: Last Rites",
+  "rating": 6.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Michael Chaves"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale feels like a highly-produced, Hollywood horror movie; the direction on a microscale is mostly bad because the interpersonal moments and family subplots were very bland and boring, though the chemistry between Farmiga and Wilson was still pretty good; the storytelling is pretty basic and what you would expect from a highly produced horror movie; the build tension well in the horror sequences as they make this movie worth watching"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Vera Farmiga"
+          },
+          "rating": "Pretty Good",
+          "comments": "Carries the movie well as the co-lead, as she uses her experience in this franchise and chemistry with Wilson, to make this movie somewhat enjoyable"
+        },
+        {
+          "actor": {
+            "name": "Patrick Wilson"
+          },
+          "rating": "Pretty Good",
+          "comments": "Carries the movie well as the co-lead as he uses his experience in this franchise and chemistry with Farmiga to make this movie somewhat enjoyable"
+        },
+        {
+          "actor": {
+            "name": "Mia Tomlinson"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the daughter role well and has pretty good screen presence; Has decent chemistry with the main cast"
+        },
+        {
+          "actor": {
+            "name": "Ben Hardy"
+          },
+          "rating": "Decent",
+          "comments": "Plays the generic boyfriend character, has decent screen presence"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Every player plays their role decently well, it is what you would expect from a highly produced, Hollywood horror movie"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Leslie Johnson-McGoldrick"
+        },
+        {
+          "name": "James Wan"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is honestly the worst part of the movie, as the main horror plot wasn't really fleshed out well, and the familial subplot was pretty boring and cheesy; the plot structure is pretty linear and straightforward; character writing is a bit formulaic and piggybacks on the rest of the franchise"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ian Goldberg"
+        },
+        {
+          "name": "Richard Naing"
+        },
+        {
+          "name": "David Leslie Johnson-McGoldrick"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is fine, what you would expect from a highly produced, shallow, Hollywood horror movie; the humor is fine, a little too forced; the symbolism deals with family dynamics; the foreshadowing is bookended, so it kinda makes the movie predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Benjamin Wallfisch"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps establish tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Eli Born"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Made this movie feel highly produced; Helps establish the horror sequences and build up tension; It felt like they missed some really cool opportunities with the way they used reflection in some of the shots"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Gregory Plotkin"
+        },
+        {
+          "name": "Elliot Greenberg"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Made this movie feel highly produced; Helps establish the horror sequences and build up tension; Liked what they did with the montages in the end credits"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps establish tension and build up the horror sequences"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Some of the CGI felt tacky and a waste of the big budget, but it was used pretty well to create the horror sequences"
+    },
+    "pacing": "Pacing is pretty slow as this movie is pretty bloated in plot; you should have cut like 15 minutes in the middle",
+    "climax": "Climax is a typical high-budget horror movie climax, but it is still entertaining; I was kind of dozing off during it, so I was kind of going in and out",
+    "tone": "Tone is your typical, highly produced Hollywood horror movie, though the subplot was a cheesy family drama",
+    "final_notes": "The tone of the movie is decided in the first 10 minutes because it opts for a safe predictable movie instead of a very dark scary movie",
+    "overall": "Overall, an entertaining horror movie that has its scary moments and brings back memorable faces in Patrick Wilson and Vera Farmiga, but the movie is ultimately dragged down by its predictable main storyline and cheesy family subplot that makes this movie feel like a very safe, shallow Hollywood horror movie that doesn't live up to the first movie"
+  },
+  "release_year": 2025,
+  "review_date": "09/07/2025",
+  "redux": false,
+  "id": 595,
+  "imdb_id": "tt22898462"
+}

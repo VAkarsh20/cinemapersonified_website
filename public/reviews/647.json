@@ -1,0 +1,119 @@
+{
+  "title": "Send Help",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Sam Raimi"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale feels like a Sam Raimi movie in the way it controls the horror sequences, but it also feels a bit goofy in how they combine it with humor to make this horror-comedy come to life (like a hand coming out of the dirt); The direction on a microscale is good, as the chemistry between O'Brien and McAdams really makes this movie; The storytelling is good, as they keep adding twists and turns to keep you invested in the story and their survival; Tension is built in a good way, as it helps bring out the horror in tense moments, which is something I would expect from Sam Raimi"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Rachel McAdams"
+          },
+          "rating": "Good",
+          "comments": "Shows why she is such a talented actress as she really commands her presence on screen with her charm and plays multiple different emotions that makes her character very complicated; has good chemistry with Dylan O'Brian"
+        },
+        {
+          "actor": {
+            "name": "Dylan O'Brien"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Really plays well with McAdams as he pulls his own weight and plays this flawed character well; has good chemistry with McAdams"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "This is really a 2 person movie, so the supporting cast is what is is, nothing special"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Damian Shannon"
+        },
+        {
+          "name": "Mark Swift"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is entertaining, a crash-land horror-comedy where the power dynamic changes, but it is nothing really special or new; The plot structure is traditional and entertaining, though the build to the climax got a bit repetitive; Character writing is good, as it creates these flawed characters that have depth to them, making you question whom you really root for; The way the power dynamic is structured is symbolic of who has the power in the real world and who has the power in this situation"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Damian Shannon"
+        },
+        {
+          "name": "Mark Swift"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The dialogue is standard; The humor is good, as it helps make this movie feel like a horror-comedy and keeps you entertained yet thrilled; The symbolism is fine and helps show the concept of who has the power in certain situations, but the movie is not supposed to be that symbolic; The foreshadowing is pretty shallow but effective, as the ending could have been seen a mile away if you actually turned your brain on"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Danny Elfman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It feels very traditional to their existing partnerships, as the score is used to build horror tension in a very Raimi way"
+    },
+    "soundtrack": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It feels like what you would see from a studio movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bill Pope"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The cinematography in the first 20 minutes was genuinely very impressive and unique, but then it just became a typical studio movie after that"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Bob Murawski"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The editing in the first 20 minutes was genuinely very impressive and unique, but then it just became a typical studio movie after that"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "The sound is used well to build tension"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "This was the biggest issue with the movie because it looked very cheap and ruined the natural aesthetic of the film, especially with the use of a blue screen because it was very obvious"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "The use of natural settings was nice and helps create this aesthetic of being stranded in the Southeast, but the use of blue screens was very obvious"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "The makeup helps show the gore and violence of the situation, adding grit to the movie"
+    },
+    "pacing": "The pacing is good for the most part, as it helps keep you entertained and thrilled, but the 15 to 20 minutes before the climax got really repetitive and could have probably been cut out",
+    "climax": "The climax is entertaining and brought to life by its twist, even though it could have been predicted if you watched closely",
+    "tone": "The tone is very Sam Raimi, as it is a goofy horror-comedy",
+    "final_notes": "You need to let go of the hand coming out of the ground, Sam, as it has been forty years now",
+    "overall": "Overall, a very entertaining horror-comedy that is carried by Sam Raimi's experienced directing and Rachel McAdams's charming performance, complemented by Dylan O'Brien's chemistry; while this movie is very entertaining, it did get a bit repetitive in the 10 to 15 minutes before the climax, and the CGI was noticeably bad, as it ruined the natural aesthetic they were going for"
+  },
+  "release_year": 2026,
+  "review_date": "02/04/2026",
+  "redux": false,
+  "id": 647,
+  "imdb_id": "tt8036976"
+}

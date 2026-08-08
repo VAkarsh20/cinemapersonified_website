@@ -1,0 +1,107 @@
+{
+  "title": "Brian",
+  "rating": 8.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Will Ropp"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macro scale feels like a low-budget, indie coming-of-age film, though it still feels somewhat stylized with its cinematography and filter; The direction on a micro scale is where the movie shines, as the interpersonal scenes bring to life the dialogue and writing that paint these characters, blending the line between the comedy and emotion you want in a teen coming-of-age drama; Storytelling is pretty typical for a coming-of-age movie, but the film lets the story and writing move the plot forward; Tension is built through your emotional investment in Brian as you empathize with his struggle to fit in"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ben Wang"
+          },
+          "rating": "Pretty Good",
+          "comments": "I still do think this dude is pretty limited as an actor, but I will say he did impress me with his ability to lead the film and get you to empatize with him; has pretty good chemistry with the cast even though his character is supposed to not be able to fit in; holds his own in the comedy scenes as he's able to punch back as well"
+        },
+        {
+          "actor": {
+            "name": "William H. Macy"
+          },
+          "rating": "Good",
+          "comments": "Shows why he is such an experienced actor as he still even after he's in and makes his little runtime useful as his therapist character has a strong connection to Brian trying to reassure him he's ok"
+        },
+        {
+          "actor": {
+            "name": "Edi Patterson"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really tries to force herself to be the 'cool mom' and this helps build her character as its just so awkward that it's funny"
+        },
+        {
+          "actor": {
+            "name": "Randall Park"
+          },
+          "rating": "Good",
+          "comments": "Really isn't afraid to be dark as his humor really steals the in this movie; has pretty good chemistry with the rest of the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Filled with teen actors as they all do a pretty good job bringing to life this high school, showing the emotions and humor from that time in our lives; the chemistry in the cast overall is pretty good as everyone plays off each other (especially in the comedic scenes)"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Mike Scollins"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is your typical coming-of-age drama set in high school, showing Brian's struggles to fit in and how he is using the class president election to try and belong; The plot structure is pretty linear, which is what you would expect from a coming-of-age drama; Character writing is very good, as it makes you empathize with Brian's struggle to fit in"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mike Scollins"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The dialogue is what makes this movie because it is so sharp and profound, blending comedy and emotion so well that it makes you laugh at all its jokes and empathize with the character; The humor is a huge part of this movie because the film is not afraid to take big swings with its jokes, and many of them land as you cannot stop yourself from laughing out loud at how dark they are willing to go; The symbolism is pretty profound, as the movie relies on you empathizing with Brian's struggle to fit in despite his mental health challenges; It felt somewhat strange that they did not address Brian being Asian at all, because it is very obvious they wrote this character without any specific race in mind and had to fit the casting around that; The foreshadowing is pretty standard for a coming-of-age movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Lawrence"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score is pretty standard and helps with setting the tone and tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Matthew Pothier"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The cinematography felt a little low-budget, but the world-building shots did have their beauty"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Anisha Acharya"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The editing is pretty standard for a low-budget, indie movie"
+    },
+    "pacing": "The pacing is correct, as it is neither too slow nor too fast",
+    "climax": "The climax really brings out your emotions as you finally see Brian come face-to-face with his fears and anxieties, and you can relate to him the entire time",
+    "tone": "The tone is very indie coming-of-age comedy, with the humor really leaning into dark humor",
+    "final_notes": "I saw the world premiere at SXSW",
+    "overall": "Overall, 'Brian' is a good indie coming-of-age comedy that really shines with its writing, as it is a heartfelt exploration of adolescence, mental health, and the struggle to fit in, while not being afraid to take big swings with its dark humor; 'Brian' was my favorite narrative feature at SXSW and is a must-watch for people who empathize with feeling alone in high school"
+  },
+  "release_year": 2026,
+  "review_date": "03/14/2026",
+  "redux": false,
+  "id": 658,
+  "imdb_id": "tt34093882"
+}

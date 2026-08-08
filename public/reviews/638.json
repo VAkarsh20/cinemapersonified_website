@@ -1,0 +1,130 @@
+{
+  "title": "Roofman",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Derek Cianfrance"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale creates an action comedy feel that definitely emulates 2004, which kind of hurts to watch how accurate it is because it makes me feel very old; The direction on a microscale is good because the chemistry between Tatum and Dunst really moves this movie forward as it plays like a rom-com at moments; The storytelling is good as you really are invested in both the crimes the protagonist is committing and the dilemma he feels after establishing a life for himself on the run; Tension is a little artificial and flat; The directing style is very early 2000s, which is alright considering that is when the movie takes place, but it also makes the movie feel a bit dated as this movie really should have come out closer to when the events actually happened"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Channing Tatum"
+          },
+          "rating": "Good",
+          "comments": "Uses his skillset well as he is able to make the audience root for him with his charisma  friendliness, even though he is a criminal on the run; his chemistry with Kirsten Dunst really makes this movie play like a Rom-Com they way you care about their relationship as it helps establish his moral compass in trying to change"
+        },
+        {
+          "actor": {
+            "name": "Kirsten Dunst"
+          },
+          "rating": "Good",
+          "comments": "A really positive performance that really complements the people around her; her chemistry with Channing Tatum helps make this movie as it makes the movie play like a Rom-Com as it establishes the moral compass for the criminal protagonist; this movie being set in 2004 and Kirsten Dunst playing a mom to teenagers made me feel like an unc the entire movie"
+        },
+        {
+          "actor": {
+            "name": "LaKeith Stanfield"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Basically plays every character he plays, but it suits him and his performance"
+        },
+        {
+          "actor": {
+            "name": "Juno Temple"
+          },
+          "rating": "Pretty Good",
+          "comments": "She's basically a cameo in this movie"
+        },
+        {
+          "actor": {
+            "name": "Peter Dinklage"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Takes from his experience as an actor to help move this peformance forward"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their performance well and helps move this movie forward, in a positive 2000s way"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Derek Cianfrance"
+        },
+        {
+          "name": "Kirt Gunn"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is really interesting, especially considering it is based on a true story, as the Roofman really does have an interesting story to tell, even though it does feel a bit fabricated for the big screen; The plot structure is pretty linear; Character writing is pretty good as it paints this criminal protagonist as a likable guy who is only doing what he is doing to provide for his family, and the chemistry between him and Kirsten Dunst really helps establish this moral compass for him as he tries to change; The story does feel a bit dated as this is a movie that really does feel like it should have been released in the 2000s, closer to when the events actually happened"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Derek Cianfrance"
+        },
+        {
+          "name": "Kirt Gunn"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is pretty fun and makes the movie enjoyable; The humor is pretty good as it makes the movie enjoyable; The symbolism is decent as it shows the effects love and compassion can have on a criminal who just wants to get by without trying to hurt anyone in the process; The foreshadowing is standard for this type of movie"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "It helps make this movie feel very early 2000s"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Andrij Parekh"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The cinematography is standard for an action comedy, though it does feel more polished in a dramatic sense"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jim Helton"
+        },
+        {
+          "name": "Ron Patane"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The editing is standard for an action comedy, though it does feel more polished in a dramatic sense"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "The sound is standard for an action comedy, though it does feel more polished in a dramatic sense"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The use of pyrotechnics and explosions makes this movie feel like a 2000s action comedy, which makes the movie feel true to the time period"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "The way they accurately capture the early 2000s makes it feel very uncanny for me as it just makes me feel very old"
+    },
+    "pacing": "Pacing is good",
+    "climax": "Climax is standard for this type of movie",
+    "tone": "Tone feels very much like a 2000s comedy, capturing the time period very well and using themes consistent with rom-coms and action comedies of the time period; While the tone does capture the time period, it does make the movie feel a bit dated as this movie really should have come out closer to when the events actually happened",
+    "final_notes": "Plus for mentioning Zelda and Four Swords Adventure",
+    "overall": "Overall, it is a very entertaining movie that is really carried by an interesting story and good chemistry between Channing Tatum and Kirsten Dunst, as their dynamic plays like a rom-com that makes this an enjoyable, heartwarming experience; this movie captures the early 2000s uncannily well with both its production design and tone, but this is both a blessing and a curse because while it does make the movie true to the time period, it also makes the movie feel a bit dated, as this movie really should have come out closer to when the events actually happened"
+  },
+  "release_year": 2025,
+  "review_date": "12/30/2025",
+  "redux": false,
+  "id": 638,
+  "imdb_id": "tt4627382"
+}

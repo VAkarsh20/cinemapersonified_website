@@ -1,0 +1,127 @@
+{
+  "title": "Materialists",
+  "rating": 7.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Celine Song"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale feels very auteur driven as this movie feels like the antithesis of Past Lives, but in a way that complements both movies; the direction on a microscale is brought down by Dakota Johnson as she makes every actor in this movie play down to her level in the interpersonal scenes; the storytelling is pretty standard for a rom-com, especially with how overt it is; they build tension in an emotional way as you see how these relationships play out"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dakota Johnson"
+          },
+          "rating": "Bad",
+          "comments": "She single-handedly brings down the entire movie as her monotonous, low-effort line delivery brings down all the actors as they have to stoop to her level; her lack of effort is incredibly baffling as she puts no emotion into scenes that truly deserve it, like when she stalks Sophie"
+        },
+        {
+          "actor": {
+            "name": "Chris Evans"
+          },
+          "rating": "Pretty Good",
+          "comments": "Surprisingly good, as this Rom-Com genre really suits his personality and charisma; he does well in his solo scenes as he shows some emotions, and is the only actor who isn't terribly affected by Johnson, as his chemistry with her is somewhat present"
+        },
+        {
+          "actor": {
+            "name": "Pedro Pascal"
+          },
+          "rating": "Decent",
+          "comments": "Has very little chemistry with Johnson and isn't really given that much material to work with; very stoic overall as he's really just in this movie for his looks and his name"
+        },
+        {
+          "actor": {
+            "name": "Zoë Winters"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Actually shows a good amount of emotion as you really do care for her character and what she's struggling with; the problem with her performance is she's basically acting to a brick wall half the time, so it's really hard for her to be reactionary"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "More of an indictment of Johnson, as Johnson really makes the other actors stoop to her level, though the matchmaking scenes are decently executed and somewhat funny"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Celine Song"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is a templated love triangle rom-com on the surface, but on a deeper level, it is commentary on modern dating standards, albeit in a very overt way; The plot structure is the standard love triangle rom-com, with the ending being very predictable; Character writing is what you would expect from a rom-com, although Song does provide some depth to these characters that makes them interesting"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Celine Song"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is sharp and profound, as it is both a well-written Rom-Com and a commentary on modern dating standards, albeit in a very overt way; The humor is pretty good, as it makes the movie fun and lively, something you want in a Rom-Com; The symbolism is profound, as there are many symbols sprinkled throughout this movie to make you aware that this movie is from an auteur; The messages for this movie all center around standards in modern dating; The foreshadowing for this movie is very good, as it digs roots in the beginning of the movie that serve a major purpose towards the end, making the movie feel book-ended; The foreshadowing, while very good, does make this movie feel very predictable, as it plays a lot into traditional Rom-Com tropes"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Pemberton"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Make the movie feel light and playful, use it well throughout"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Make the movie feel like a standard rom-com"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Shabier Kirchner"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "This might have just been my movie theater, but the color saturation felt incredibly cold and dull, nothing like how the trailers and social media content looked; I have a feeling that the transfer from film to digital ruined the color saturation for this movie; Besides these issues, the angles and cinematography were pretty good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Keith Fraase"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Well-edited and sharp"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Nothing special"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "New York, which fits the vibe this movie is going for"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Make all these characters look unachievable, something this movie was going for with setting beauty standards"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Very New York; helps make all these characters look unachievable, something this movie was going for with setting beauty standards"
+    },
+    "pacing": "Pacing was a bit on the faster side, but that helped mimic the fast-paced nature of New York and dating",
+    "climax": "Climax is very predictable and what you would expect from a love triangle rom-com",
+    "tone": "Tone is an auteur-driven rom-com",
+    "final_notes": "",
+    "overall": "Overall, an auteur-driven rom-com that feels like the natural sophomore progression for Celine Song, as this movie is the antithesis of 'Past Lives' with its overly symbolic commentary on modern dating standards, but it is ruined from being anything special because Dakota Johnson single-handedly brings down the movie by making all actors stoop down to work on her monotonous, emotionless level"
+  },
+  "release_year": 2025,
+  "review_date": "06/19/2025",
+  "redux": false,
+  "id": 573,
+  "imdb_id": "tt30253473"
+}

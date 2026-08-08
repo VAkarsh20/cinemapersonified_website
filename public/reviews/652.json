@@ -1,0 +1,109 @@
+{
+  "title": "Goat",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Tyree Dillihay"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is typical of children's animation movies, but they do build this animated world well; The direction on a microscale is typical of children's animation, with this movie really catered toward Gen Alpha; The storytelling is pretty formulaic; Tension is built decently well because you somewhat care about the characters;"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Caleb McLaughlin"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the lead well as he carries this movie on his back and makes the main character enjoyable; has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Gabrielle Union"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Holds her own and has pretty good chemistry with Caleb and the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Stephen Curry"
+          },
+          "rating": "Decent",
+          "comments": "Very obvious this was Steph Curry as he basically was just reading lines (but not Dion Waiters 2K bad)"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "this movie really has a massive cast and everyone kinda just does their role to help move the so the forward, so besides the main 2, nobody else really tries to shine as they are playing a team sport, assisting each other to make the movie enjoyable and move the story forward "
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Nicolas Curcio"
+        },
+        {
+          "name": "Peter Chiarelli"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is your standard story of an outsider getting a chance to prove himself; There are many aspects of this story that make it feel like Steph Curry propaganda; The plot structure is pretty linear and formulaic, and I was reading this movie like a book with every next move; The formulaic story is not too much of an issue because this movie very much feels like a studio production to cater to a younger audience; The character writing is what you would expect from this type of story, with an undersized and overlooked protagonist trying to prove himself to his team and his idol, who herself has flaws;"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Aaron Buchsbaum"
+        },
+        {
+          "name": "Teddy Riley"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is very catered toward Gen Alpha; The humor is decently funny, even though most of the jokes are for Gen Alpha; The symbolism is pretty formulaic and predictable, which is what you would expect from a children's animated studio production; The foreshadowing makes the movie very formulaic and predictable;"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Kris Bowers"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "It helps set the tone;"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "It tries to take a page out of the Spider-Verse playbook in how it is used, but it ends up just feeling like what you would see from a studio animated project;"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Clare Knight"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It is well edited as it complements the animation style;"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Visual effects; Good; I really enjoyed this 2D-3D animation style as Sony continues to show why they are the pioneer in this space;"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "I really enjoyed this 2D-3D animation style as Sony continues to show why they are the pioneer in this space;"
+    },
+    "pacing": "The pacing was very fast considering this movie is 99 minutes long;",
+    "climax": "The climax is entertaining but safe and predictable; The climax is what you would expect from a studio-backed children's animated movie;",
+    "tone": "The tone is very much catered to Gen Alpha kids with its humor; The movie very much feels like a studio movie that is catered more toward child audiences rather than the whole family;",
+    "final_notes": "The product placement for this movie was very egregious, especially Under Armour; This movie is literally Steph Curry propaganda;",
+    "overall": "Overall, it is a decent movie that plays like a safe, studio-backed animated movie with its humor and storytelling, as it feels geared more toward Gen Alpha kids than families as a whole, although I did really enjoy the animation style; the product placement and Will's character writing make this movie feel like Steph Curry propaganda"
+  },
+  "release_year": 2026,
+  "review_date": "02/22/2026",
+  "redux": false,
+  "id": 652,
+  "imdb_id": "tt27613895"
+}

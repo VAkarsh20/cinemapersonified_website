@@ -1,0 +1,112 @@
+{
+  "title": "The Suicide Squad",
+  "rating": 8.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Margot Robbie"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "Idris Elba"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "Joel Kinnaman"
+          },
+          "rating": "Very Good"
+        },
+        {
+          "actor": {
+            "name": "Sylvester Stallone"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Voice Acting, a little biased though"
+        }
+      ],
+      "cast": {
+        "rating": "Good to Very Good"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Though a bit formulaic by combining pieces from the original movie and Guardians of the Galaxy; also, while I liked that there were misdirections/twists, I felt there were a bit too many by the end"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Very Tarantino-Esque as it is serious but is filled with great comedic dialogue to break tension; really liked how they used CGI/effects as a part of the storytelling"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Murphy"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Though the mix with old and new songs kinda clashed at times for me"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Henry Braham"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Fred Raskin"
+        },
+        {
+          "name": "Christian Wagner"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "visual_effects": {
+      "rating": "Incredible",
+      "comments": "Really liked how they used CGI as a part of the storytelling; liked the visual gore style cause it showed a blend of both cartoony yet realistic"
+    },
+    "production_design": {
+      "rating": "Great"
+    },
+    "pacing": "Pacing was good to very good (a bit quick at the end but nothing terrible)",
+    "climax": "Build to the climax was very good with the overall climax being very well executed (bit long though); runtime was ok but 10-15 minutes of the movie could have been cut (especially at the end)",
+    "final_notes": "the major flaws of the movie were that it was extremely formulaic as the storytelling was basically a carbon-copy of Guardians of the Galaxy (with it having a comedic relief character non-human who speaks few words and a ex-pro wrestler being the tough guy) with the story of the original Suicide Squad and the gore of Invincible",
+    "overall": "Overall, a very fun watch that makes me have confidence in the direction DC is going with their movies as this film has creative story telling, great characters, and great action sequences, even though it was very formulaic and a very similar/close-copy to Guardians of the Galaxy (which makes sense given its from James Gunn)"
+  },
+  "release_year": 2021,
+  "review_date": "08/24/2021",
+  "redux": false,
+  "id": 219,
+  "imdb_id": "tt6334354"
+}

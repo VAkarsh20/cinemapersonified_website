@@ -1,0 +1,107 @@
+{
+  "title": "The Secret Agent",
+  "rating": 6.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kleber Mendonça Filho"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is tonally not the best because it feels like the movie requires you to know a lot of context ahead of time, and if you do not, you are kind of just lost for the first half of the movie; In the second half, the macroscale is better when they explain it more, but it still does not make up for the confusion for the most part; The direction on a microscale is not really the best for the first half of the movie, but it does end well with the final 30 minutes when you start to grasp these relationships and their significance; Storytelling is a major issue for this movie because the first half is just very vague about what is going on and only starts to explain in the second half; The storytelling style only works if you have context for the situation beforehand because it just makes the experience very confusing and convoluted as you try to put pieces together; Tension is built very poorly as the lack of score for the most part fails to build tension, though it does fix this in the final 30 minutes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Wagner Moura"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the lead role well and does show some range, but nothing really wowed me with this performance (which is a shame because I really like him as an actor)"
+        },
+        {
+          "actor": {
+            "name": "Tânia Maria"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well and has good on screen presence"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their role well and the cast as a whole has good chemistry"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Kleber Mendonça Filho"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept only works if you have context for the Brazilian regime of the 1970s as they only start explaining the situation by the second half, so if you are not invested by this point, it would be hard to get back into the movie; The plot structure is pretty unique, with the first half being exposition that does not give anything and the second half providing the context to make the first half make more sense, with constant jumps to the present and an ending that puts a bow on the whole thing; Character writing is not good because of how intentionally vague they are with the storytelling, as it requires the audience to piece things together"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Kleber Mendonça Filho"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is pretty good; The humor is pretty good; The symbolism is pretty good as it shows the impact that fascism and corruption played in Brazil at the time, but it just takes a little too long to get out the message as you have to piece things together; The foreshadowing is set up to be good but is not well executed because the first half is vague exposition that only makes sense in the second half, and this setup did not work well because it did a poor job of alluding to the actual conflict; This foreshadowing style only works if you have some grasp of what this movie is about or know about the Brazilian regime of the 1970s"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Tomaz Alves Souza"
+        },
+        {
+          "name": "Mateus Alves"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "A major issue as to why this movie feels tonally off is that it is scarcely used to help build tension when it needs to, creating dead space and making this movie feel bland when it is supposed to excite; The score does a pretty good job in the final 30 minutes of setting the tone, but at this point, it is just too late"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Evgenia Alexandrova"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The film is well shot and does track and follow the characters in a way that keeps you somewhat engaged"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eduardo Serrano"
+        },
+        {
+          "name": "Matheus Farias"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The editing is seamlessly put together and feels polished"
+    },
+    "sound": {
+      "rating": "Pretty Bad to Decent",
+      "comments": "The sound does not do the best job of building tension as the movie feels tonally off, but it does a decent job in the final 30 minutes"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "The whole leg scene just felt completely out of place, even if there is symbolism behind it for what the leg represents"
+    },
+    "pacing": "Pacing is a major issue for this movie because it is just too long and does not do a good job of filling the space, as the first half is just void of anything to keep you interested; If the first half were cut in half, this movie would be much stronger",
+    "climax": "The climax is executed well and does make you feel like the journey was somewhat worth it as it provides closure to the story, and I really liked how they ended it the way they did",
+    "tone": "Tonally, this movie is just off as a whole as it does not do a good job of building up tension in the thriller moments or making you care for the protagonist or the investigation",
+    "final_notes": "",
+    "overall": "Overall, 'The Secret Agent' is a decent movie that has a noticeable performance from Wagner Moura and a strong ending, but the movie is tonally flat and requires you to understand the Brazilian regime of the 1970s because, without it, you will be incredibly lost for the first half of the movie; the pacing also is a major issue issue for this movie because it is just too long and does not do a good job filling the space, so 'The Secret Agent' would be a stronger movie if they cut the first half in half"
+  },
+  "release_year": 2025,
+  "review_date": "01/27/2026",
+  "redux": false,
+  "id": 645,
+  "imdb_id": "tt27847051"
+}

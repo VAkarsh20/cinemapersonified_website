@@ -1,0 +1,127 @@
+{
+  "title": "On Swift Horses",
+  "rating": 5.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Daniel Minahan"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale feels very similar to other period dramas like this; the direction on a microscale is pretty lackluster because the actors are giving emotion to material that has no substance or nuance; the storytelling is not good because the movie shallowly discusses the topic and doesn't really provide stakes that engage you"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Daisy Edgar-Jones"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Gives a very surface-level performance; she doesn't really explore the character's sexuality at all and does not really have chemistry with any other characters;  In a role that really depends on having good chemistry"
+        },
+        {
+          "actor": {
+            "name": "Jacob Elordi"
+          },
+          "rating": "Decent",
+          "comments": "Gives a very surface-level performance; does an alright job exploring the character's sexuality, but it feels very forced and presents no nuance to the relationship's taboo; has alright chemistry with Calva, but very forced chemistry with Edgar-Jones"
+        },
+        {
+          "actor": {
+            "name": "Will Poulter"
+          },
+          "rating": "Decent",
+          "comments": "Just a very standard, 1950s husband being cheated on, character; he does not really have chemistry with anyone"
+        },
+        {
+          "actor": {
+            "name": "Diego Calva"
+          },
+          "rating": "Bad",
+          "comments": "Feels very forced and does not provide nuance to the character; it has very surface-level chemistry with Elordi"
+        },
+        {
+          "actor": {
+            "name": "Sasha Calle"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Probably the best performance for the movie, which isn't saying a lot, because her character is somewhat believable and you can tell the struggle she's going through; she tries to build chemistry with Edgar-Jones, but it isn't reciprocated on the same level"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Just a bunch of formulaic period drama performances"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Bryce Kass"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is very surface-level and provides no nuance to these characters exploring their sexuality; the horse-racing storyline is poorly incorporated into the plot; the plot structure follows two parallel stories that intersect at points in the story; the two storylines do not really do a good job exploring the relationships of the characters; character writing is bad because it presents these characters exploring their sexuality in such a surface-level way that provides no nuance to why this was taboo in the 1950s, especially for Edgar-Jones' character"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Bryce Kass"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The dialogue provides no substance as it is bland and boring; the symbolism is incredibly surface level and provides no nuance to these characters exploring their sexuality, especially Edgar-Jones' character; the foreshadowing is present"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Mark Orton"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps set the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Luc Montpellier"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The movie is well-shot and feels polished"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Murphy"
+        },
+        {
+          "name": "Robert Frazen"
+        },
+        {
+          "name": "Kate Sanford"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Feels polished and well-edited"
+    },
+    "sound": {
+      "rating": "Pretty Good"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "The fact that they had to CGI the horses shows what is wrong with Hollywood right now"
+    },
+    "pacing": "Pacing is very slow because it doesn't feel like anything is happening; I would have liked to have seen them add more time to explore these parallel storylines and provide more depth, or just cut one of the storylines altogether",
+    "climax": "Climax is decent for how heartwarming it is",
+    "tone": "Tone feels like a typical period drama that's Oscar-bait;",
+    "final_notes": "Saw the U.S. premiere at SXSW",
+    "overall": "Overall, a lackluster, Oscar-bait period drama that is about characters exploring their sexuality in a time when it's taboo, but the movie does so in a surface-level way that provides no nuance to the issue and gives you no material to really care about these characters"
+  },
+  "release_year": 2024,
+  "review_date": "03/13/2025",
+  "redux": false,
+  "id": 551,
+  "imdb_id": "tt15042300"
+}

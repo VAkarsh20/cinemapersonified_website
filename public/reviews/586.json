@@ -1,0 +1,158 @@
+{
+  "title": "The Bad Guys 2",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Pierre Perifel"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale creates a fun, fast-paced aesthetic in a visually appealing world that memorable characters have to navigate; The direction on a microscale is good as the banter makes you really care about the characters; Storytelling is pretty simple as, at the end of the day, this is just a children's movie; It builds tension naturally through its action sequences and does keep you on your toes as it is not as formulaic as you would think a children's movie would be"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sam Rockwell"
+          },
+          "rating": "Good to Very Good",
+          "comments": "His natural charisma and experienced acting really fits this character as he really brings to life this leader of the group, the Big Bad Wolf; He has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Marc Maron"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays his role well and has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Awkwafina"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays her role well and has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Craig Robinson"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "More of a comedic relief character, but he has good chemistry with the cast and plays his role well"
+        },
+        {
+          "actor": {
+            "name": "Anthony Ramos"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays his role well, and he has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Zazie Beetz"
+          },
+          "rating": "Good",
+          "comments": "Has really strong chemistry with Rockwell and really brings this Fox character to life"
+        },
+        {
+          "actor": {
+            "name": "Danielle Brooks"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her villainous role well"
+        },
+        {
+          "actor": {
+            "name": "Natasha Lyonne"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her villainous role well and has good chemistry with Snake"
+        },
+        {
+          "actor": {
+            "name": "Maria Bakalova"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays her villainous role decently well"
+        },
+        {
+          "actor": {
+            "name": "Alex Borstein"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Lois;"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good",
+        "comments": "There is strong chemistry in the cast, and this helps make the movie enjoyable, as you really care for these characters"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Yoni Brenner"
+        },
+        {
+          "name": "Etan Cohen"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is a sequel to *The Bad Guys*, with them coming out of retirement for one \"last job\" to save their name; the plot structure is pretty straightforward, but not as formulaic as you think; character writing is very strong as it helps personify these characters and make you really care about them, especially Wolf, as you see his struggle with whether or not he should become good"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Yoni Brenner"
+        },
+        {
+          "name": "Etan Cohen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is surprisingly strong for a kids' movie as it is pretty well written and entertaining; The humor is fun for all ages; The symbolism is surprisingly well done as it deals with the morality of wanting to be good, despite everyone thinking you can't change; The foreshadowing is actually not present as this movie is more about subverting your expectations"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Pemberton"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Help set this heist mood and make the movie feel entertaining and exhilarating"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Your typical out-of-touch studio is forcing five-year-old pop music into a movie just to make audiences think you're 'hip'"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jesse Averna"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Well edited as it helped make the movie feel unique and fast-paced, especially when coupled with the changes in animation style"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Well executed and helped make the action sequences really entertaining"
+    },
+    "animation": {
+      "rating": "Great",
+      "comments": "I actually really enjoyed this animation style, as it effectively shows the power this new hybrid 2D-3D style animation can have in building a world and telling a story"
+    },
+    "pacing": "Pacing is about right as the movie has a short runtime but still feels pretty fast",
+    "climax": "Climax is very entertaining, despite it stumbling on the landing a little bit",
+    "tone": "Tone is very much an animated heist movie for all ages",
+    "final_notes": "Saw an early screening; have not seen the first movie",
+    "overall": "Overall, a surprisingly good animated heist movie that is carried by great animation and strong characters, especially Sam Rockwell's Mr Wolf, as the movie is an entertaining ride that makes you really care about what happens next to this cast; I never watched the first movie, but seeing this made me sad that I missed something really special"
+  },
+  "release_year": 2025,
+  "review_date": "07/26/2025",
+  "redux": false,
+  "id": 586,
+  "imdb_id": "tt30017619"
+}

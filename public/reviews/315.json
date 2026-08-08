@@ -1,0 +1,110 @@
+{
+  "title": "M3GAN",
+  "rating": 6.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gerard Johnstone"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Moves the story well and does a good job setting the tone; but the cheap use of horror elements was very predictable, and the acting is not really the best"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Allison Williams"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Holds her own decently well as the lead but really has no depth or emotion throughout the movie"
+        },
+        {
+          "actor": {
+            "name": "Jenna Davis"
+          },
+          "rating": "Decent",
+          "comments": "There really is only one delivery level to the performance but there are no main issues"
+        },
+        {
+          "actor": {
+            "name": "Violet McGraw"
+          },
+          "rating": "Decent"
+        }
+      ],
+      "cast": {
+        "rating": "Bad to Pretty Bad",
+        "comments": "Really just a lot of inexperience and monotonous performances"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Akela Cooper"
+        },
+        {
+          "name": "James Wan"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The story is pretty typical of regular horror movies of the same trope with the actual plot being pretty predictable"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Akela Cooper"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "Typical horror movie dialogue (though the jokes and non-sequitur moments were pretty funny); the symbolism and foreshadowing is really surface level"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Anthony Willis"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Used well in conjuction to help build suspense"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Peter McCaffrey"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty standard but used well to help build the horror"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jeff McEvoy"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Used to help build horror elements, but a bit overused to help rely on jumpscares"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "With the budget they had, they did a good job in creating the animatronics"
+    },
+    "plot_structure": "Plot Structure was kinda a fault of the movie as it spends a bit too much time on the exposition that it really pushes away building the conflict and the keeps the climax shorter than it could be",
+    "pacing": "Pacing was slower in the beginning and pretty fast after the 40 minute mark (really could have cut 10-15 minutes from the exposition to keep the pacing consistent overall)",
+    "climax": "climax was pretty typical to horror movies with some action component",
+    "tone": "tone was pretty atypical of horror movies as well there are moments of suspense, the movie does do a decent job in incorporating comedic elements to lighten the tone",
+    "final_notes": "",
+    "overall": "Overall, a movie that does a decent job at mixing horror elements with comedy, but falters when coming to direction, acting, and story as it is just a modern retelling of the possessed doll trope (which makes it pretty predictable)"
+  },
+  "release_year": 2022,
+  "review_date": "01/20/2023",
+  "redux": false,
+  "id": 315,
+  "imdb_id": "tt8760708"
+}

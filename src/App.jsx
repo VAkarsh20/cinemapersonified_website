@@ -19,6 +19,7 @@ import {
 } from 'lucide-react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import reviewsCatalog from './data/reviews_catalog.json';
 
 // Register GSAP plugins
 gsap.registerPlugin(ScrollTrigger);
@@ -485,14 +486,172 @@ function PublicationsPage({ navigateToSection }) {
 }
 
 // --- REVIEWS VIEW COMPONENT ---
-function ReviewsPage({ navigateToSection }) {
+function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId }) {
+  const [searchTerm, setSearchTerm] = useState("");
+  const [sortBy, setSortBy] = useState("newest");
+  const [ratingFilter, setRatingFilter] = useState("all");
+  const [decadeFilter, setDecadeFilter] = useState("all");
+  const [typeFilter, setTypeFilter] = useState("all");
+  const [currentPage, setCurrentPage] = useState(1);
+
+  // Detail review states
+  const [selectedReviewId, setSelectedReviewId] = useState(null);
+  const [selectedReview, setSelectedReview] = useState(null);
+  const [isDetailLoading, setIsDetailLoading] = useState(false);
+  const [activeTab, setActiveTab] = useState("verdict"); // "verdict" | "cast" | "crafts"
+
+  // Average rating computation (of the full catalog)
+  const averageRating = (
+    reviewsCatalog.reduce((sum, r) => sum + r.rating, 0) / reviewsCatalog.length
+  ).toFixed(1);
+
+  // Trigger detailed review load
+  const handleSelectReview = (reviewId) => {
+    setSelectedReviewId(reviewId);
+    setIsDetailLoading(true);
+    setSelectedReview(null);
+    setActiveTab("verdict");
+    window.location.hash = `/reviews/${reviewId}`;
+
+    fetch(`/reviews/${reviewId}.json`)
+      .then((res) => {
+        if (!res.ok) throw new Error("Review not found");
+        return res.json();
+      })
+      .then((data) => {
+        setSelectedReview(data);
+        setIsDetailLoading(false);
+      })
+      .catch((err) => {
+        console.error(err);
+        setIsDetailLoading(false);
+      });
+  };
+
+  const handleCloseReview = () => {
+    setSelectedReviewId(null);
+    setSelectedReview(null);
+    window.location.hash = "";
+  };
+
+  // Sync with deep-linked initialReviewId from router
+  useEffect(() => {
+    if (initialReviewId !== null) {
+      handleSelectReview(initialReviewId);
+      setInitialReviewId(null);
+    }
+  }, [initialReviewId]);
+
+  // Reset pagination on filter change
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchTerm, sortBy, ratingFilter, decadeFilter, typeFilter]);
+
+  // Filtering Logic
+  const filteredReviews = reviewsCatalog.filter((review) => {
+    // 1. Search term match (title or year)
+    const matchSearch =
+      review.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      review.release_year.toString().includes(searchTerm);
+
+    // 2. Rating tier match
+    let matchRating = true;
+    if (ratingFilter === "masterpiece") matchRating = review.rating >= 9.0;
+    else if (ratingFilter === "excellent")
+      matchRating = review.rating >= 8.0 && review.rating < 9.0;
+    else if (ratingFilter === "good")
+      matchRating = review.rating >= 7.0 && review.rating < 8.0;
+    else if (ratingFilter === "mixed") matchRating = review.rating < 7.0;
+
+    // 3. Decade match
+    let matchDecade = true;
+    if (decadeFilter === "2020s") matchDecade = review.release_year >= 2020;
+    else if (decadeFilter === "2010s")
+      matchDecade = review.release_year >= 2010 && review.release_year < 2020;
+    else if (decadeFilter === "2000s")
+      matchDecade = review.release_year >= 2000 && review.release_year < 2010;
+    else if (decadeFilter === "90s")
+      matchDecade = review.release_year >= 1990 && review.release_year < 2000;
+    else if (decadeFilter === "classics") matchDecade = review.release_year < 1990;
+
+    // 4. Type match
+    let matchType = true;
+    if (typeFilter === "redux") matchType = review.redux === true;
+    else if (typeFilter === "standard") matchType = review.redux !== true;
+
+    return matchSearch && matchRating && matchDecade && matchType;
+  });
+
+  // Sorting Logic
+  const sortedReviews = [...filteredReviews].sort((a, b) => {
+    if (sortBy === "oldest") return a.id - b.id;
+    if (sortBy === "highest") return b.rating - a.rating;
+    if (sortBy === "lowest") return a.rating - b.rating;
+    if (sortBy === "alphabetical") return a.title.localeCompare(b.title);
+    return b.id - a.id; // newest (default)
+  });
+
+  // Pagination Logic
+  const reviewsPerPage = 12;
+  const totalPages = Math.ceil(sortedReviews.length / reviewsPerPage);
+  const paginatedReviews = sortedReviews.slice(
+    (currentPage - 1) * reviewsPerPage,
+    currentPage * reviewsPerPage
+  );
+
+  const isFreeFormat = selectedReview && typeof selectedReview.review === "string";
+
+  // Helpers for Rendering detailed categories safely
+  const formatPeople = (peopleList) => {
+    if (!peopleList || peopleList.length === 0) return "";
+    return peopleList.map((p) => p.name).join(", ");
+  };
+
+  const CritiqueCard = ({ label, content }) => {
+    if (!content) return null;
+    return (
+      <div className="bg-white/50 border border-dark/10 rounded-[1.5rem] p-5 shadow-sm">
+        <p className="font-mono text-[9px] text-accent uppercase tracking-widest mb-2 font-bold">// {label} //</p>
+        <p className="text-sm font-sans leading-relaxed text-dark">{content}</p>
+      </div>
+    );
+  };
+
+  const CategoryCard = ({ title, peopleLabel, people, rating, comments }) => {
+    if (!rating && !comments && (!people || people.length === 0)) return null;
+    return (
+      <div className="bg-white/50 border border-dark/10 rounded-[1.5rem] p-5 shadow-sm flex flex-col gap-2.5">
+        <div className="flex justify-between items-start flex-wrap gap-2">
+          <p className="font-sans font-bold text-sm uppercase tracking-wider text-dark">{title}</p>
+          {rating && (
+            <span className="font-mono text-[9px] uppercase font-bold bg-accent/10 text-accent px-2 py-0.5 rounded">
+              Rating: {rating}
+            </span>
+          )}
+        </div>
+        {people && people.length > 0 && (
+          <p className="font-sans text-xs text-dark/70">
+            <span className="font-mono text-[9px] text-dark/40 uppercase block mb-0.5">{peopleLabel}</span>
+            {formatPeople(people)}
+          </p>
+        )}
+        {comments && (
+          <p className="text-xs font-sans leading-relaxed text-dark/80 border-t border-dark/5 pt-2 mt-1">
+            {comments}
+          </p>
+        )}
+      </div>
+    );
+  };
+
   return (
     <section className="pt-36 pb-32 px-6 md:px-20 bg-offwhite min-h-[85vh] text-dark transition-colors duration-500 relative">
       <div className="max-w-6xl mx-auto text-left">
+        {/* A. HEADER AREA */}
         <div className="border-b border-dark/10 pb-8 mb-12 flex flex-col md:flex-row md:items-end justify-between gap-6">
           <div>
             <p className="font-mono text-xs text-accent uppercase tracking-[0.2em] mb-2">Pillar // 1</p>
-            <h1 className="text-4xl md:text-6xl font-extrabold font-sans tracking-tight uppercase leading-none">
+            <h1 className="text-4xl md:text-6xl font-extrabold font-sans tracking-tight uppercase leading-none text-dark">
               Film Reviews
             </h1>
             <p className="text-dark/60 mt-3 text-base max-w-xl font-sans">
@@ -508,41 +667,544 @@ function ReviewsPage({ navigateToSection }) {
           </button>
         </div>
 
-        {/* Under Construction Container */}
-        <div className="border border-dark/10 rounded-brutalist bg-primary/5 p-8 md:p-12 text-left relative overflow-hidden max-w-3xl mx-auto my-12 shadow-sm">
-          {/* Top warning lights */}
-          <div className="flex items-center gap-2 mb-6">
-            <span className="w-2 h-2 rounded-full bg-accent animate-pulse-fast" />
-            <span className="font-mono text-[10px] text-accent uppercase tracking-widest font-bold">// SYSTEM UNDER CONSTRUCTION //</span>
+        {/* B. DATABASE STATS & CONTROLS */}
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8 mb-12">
+          {/* Stats Box */}
+          <div className="lg:col-span-1 bg-dark text-offwhite rounded-[2rem] p-6 flex flex-col justify-between relative overflow-hidden shadow-lg">
+            <div className="absolute -top-10 -right-10 w-24 h-24 bg-accent/15 rounded-full blur-xl animate-pulse" />
+            <div>
+              <p className="font-mono text-[10px] text-accent uppercase tracking-widest mb-1">// SYSTEM METRICS //</p>
+              <h3 className="text-xs uppercase font-sans font-bold text-offwhite/50 tracking-wider">LOGGED ARCHIVE</h3>
+            </div>
+            <div className="my-6">
+              <div className="text-5xl font-extrabold font-sans text-accent tracking-tighter leading-none">
+                {reviewsCatalog.length}
+              </div>
+              <p className="text-[10px] font-mono text-offwhite/40 mt-1 uppercase">Films Logged</p>
+            </div>
+            <div className="border-t border-offwhite/10 pt-4 flex justify-between text-xs">
+              <div>
+                <span className="font-mono text-accent block font-bold">{averageRating}/10</span>
+                <span className="text-[9px] text-offwhite/40 uppercase font-mono">Avg Score</span>
+              </div>
+              <div>
+                <span className="font-mono text-accent block font-bold">2001-2026</span>
+                <span className="text-[9px] text-offwhite/40 uppercase font-mono">Years Covered</span>
+              </div>
+            </div>
           </div>
 
-          <h2 className="text-2xl md:text-3xl font-bold font-sans uppercase tracking-tight text-dark mb-4">
-            Page Under Construction.
-          </h2>
-          
-          <p className="text-xs md:text-sm text-dark/70 leading-relaxed font-sans mb-8 max-w-xl">
-            This section is currently being reconstructed. In the meantime, you can find quick ratings and log histories on my Letterboxd account, or read full review notes and breakdowns on IMDb.
-          </p>
+          {/* Filtering and Search Controls */}
+          <div className="lg:col-span-3 bg-white/60 backdrop-blur-md border border-dark/10 rounded-[2rem] p-6 flex flex-col gap-6 shadow-sm">
+            {/* Search and Sort Row */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <div className="md:col-span-2 relative">
+                <input 
+                  type="text" 
+                  placeholder="Search by title or year..."
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
+                  className="w-full bg-offwhite border border-dark/15 rounded-full px-5 py-3 text-sm font-sans tracking-tight text-dark placeholder-dark/45 focus:outline-none focus:border-accent transition-colors"
+                />
+              </div>
+              <div>
+                <select 
+                  value={sortBy}
+                  onChange={(e) => setSortBy(e.target.value)}
+                  className="w-full bg-offwhite border border-dark/15 rounded-full px-5 py-3 text-sm font-sans font-medium text-dark focus:outline-none focus:border-accent transition-colors cursor-pointer appearance-none"
+                  style={{ backgroundImage: `url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E")`, backgroundPosition: 'right 1.25rem center', backgroundSize: '1rem', backgroundRepeat: 'no-repeat' }}
+                >
+                  <option value="newest">Sort: Newest Logged</option>
+                  <option value="oldest">Sort: Oldest Logged</option>
+                  <option value="highest">Sort: Highest Rated</option>
+                  <option value="lowest">Sort: Lowest Rated</option>
+                  <option value="alphabetical">Sort: Alphabetical</option>
+                </select>
+              </div>
+            </div>
 
-          <div className="flex flex-col sm:flex-row gap-4 mt-6">
-            <button 
-              onClick={() => window.open("https://letterboxd.com/akarshv/", "_blank", "noopener,noreferrer")}
-              className="magnetic-btn bg-[#ff8000] text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-md flex items-center gap-2 self-start"
-            >
-              <div className="bg-slide !bg-[#00e054]" />
-              <span>Letterboxd (Quick Reviews) →</span>
-            </button>
+            {/* Filter Pills Grid */}
+            <div className="flex flex-col gap-3.5">
+              {/* Decade filter */}
+              <div className="flex items-center gap-3 flex-wrap">
+                <span className="font-mono text-[10px] text-dark/45 uppercase tracking-wider min-w-[70px]">Decade:</span>
+                {["all", "2020s", "2010s", "2000s", "90s", "classics"].map((dec) => (
+                  <button
+                    key={dec}
+                    onClick={() => setDecadeFilter(dec)}
+                    className={`font-mono text-[10px] uppercase tracking-wider px-3.5 py-1.5 rounded-full border transition-all duration-300 ${
+                      decadeFilter === dec 
+                        ? "bg-accent border-accent text-offwhite font-bold" 
+                        : "bg-offwhite border-dark/10 text-dark hover:border-dark/30"
+                    }`}
+                  >
+                    {dec === "all" ? "All" : dec === "90s" ? "90s" : dec === "classics" ? "Classics (<90)" : dec}
+                  </button>
+                ))}
+              </div>
 
-            <button 
-              onClick={() => window.open("https://www.imdb.com/user/p.2xvicmhwmtxq7s57k63vanxnty/reviews/?ref_=up_ururv_sm", "_blank", "noopener,noreferrer")}
-              className="magnetic-btn bg-[#f5c518] text-[#000000] hover:text-[#f5c518] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-md flex items-center gap-2 self-start transition-colors duration-300"
-            >
-              <div className="bg-slide !bg-[#000000]" />
-              <span>IMDb (Full Notes) →</span>
-            </button>
+              {/* Rating filter */}
+              <div className="flex items-center gap-3 flex-wrap">
+                <span className="font-mono text-[10px] text-dark/45 uppercase tracking-wider min-w-[70px]">Rating:</span>
+                {[
+                  { value: "all", label: "All" },
+                  { value: "masterpiece", label: "Masterpieces (9+)" },
+                  { value: "excellent", label: "Great (8-9)" },
+                  { value: "good", label: "Good (7-8)" },
+                  { value: "mixed", label: "Mixed/Poor (<7)" }
+                ].map((tier) => (
+                  <button
+                    key={tier.value}
+                    onClick={() => setRatingFilter(tier.value)}
+                    className={`font-mono text-[10px] uppercase tracking-wider px-3.5 py-1.5 rounded-full border transition-all duration-300 ${
+                      ratingFilter === tier.value 
+                        ? "bg-accent border-accent text-offwhite font-bold" 
+                        : "bg-offwhite border-dark/10 text-dark hover:border-dark/30"
+                    }`}
+                  >
+                    {tier.label}
+                  </button>
+                ))}
+              </div>
+
+              {/* Redux vs Standard filter */}
+              <div className="flex items-center gap-3 flex-wrap">
+                <span className="font-mono text-[10px] text-dark/45 uppercase tracking-wider min-w-[70px]">Type:</span>
+                {[
+                  { value: "all", label: "All Reviews" },
+                  { value: "standard", label: "Standard Logs" },
+                  { value: "redux", label: "Redux Reviews" }
+                ].map((type) => (
+                  <button
+                    key={type.value}
+                    onClick={() => setTypeFilter(type.value)}
+                    className={`font-mono text-[10px] uppercase tracking-wider px-3.5 py-1.5 rounded-full border transition-all duration-300 ${
+                      typeFilter === type.value 
+                        ? "bg-accent border-accent text-offwhite font-bold" 
+                        : "bg-offwhite border-dark/10 text-dark hover:border-dark/30"
+                    }`}
+                  >
+                    {type.label}
+                  </button>
+                ))}
+              </div>
+            </div>
           </div>
         </div>
 
+        {/* C. REVIEW CARDS GRID */}
+        {filteredReviews.length === 0 ? (
+          <div className="border border-dark/10 rounded-[2rem] p-16 text-center bg-white/40 my-8">
+            <Sliders className="w-8 h-8 text-dark/30 mx-auto mb-4" />
+            <h3 className="text-xl font-bold font-sans text-dark uppercase tracking-tight">No reviews match filters</h3>
+            <p className="text-sm text-dark/60 mt-2 font-sans">Try modifying your search or reset filters to view reviews.</p>
+            <button 
+              onClick={() => { setSearchTerm(""); setRatingFilter("all"); setDecadeFilter("all"); setTypeFilter("all"); }}
+              className="mt-6 font-mono text-xs text-accent hover:underline uppercase tracking-wider font-bold"
+            >
+              Reset All Filters
+            </button>
+          </div>
+        ) : (
+          <>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+              {paginatedReviews.map((review) => (
+                <div 
+                  key={review.id}
+                  onClick={() => handleSelectReview(review.id)}
+                  className="bg-white/60 hover:bg-white border border-dark/10 hover:border-accent/40 rounded-[2rem] p-6 flex flex-col justify-between shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 cursor-pointer group"
+                >
+                  <div>
+                    <div className="flex justify-between items-start gap-4">
+                      <span className="font-mono text-[9px] text-dark/40 uppercase tracking-wider">
+                        #{review.id} // {review.release_year}
+                      </span>
+                      {review.redux && (
+                        <span className="bg-accent/15 text-accent text-[8px] font-mono font-bold px-1.5 py-0.5 rounded tracking-wide">
+                          REDUX
+                        </span>
+                      )}
+                    </div>
+                    <h4 className="text-lg md:text-xl font-extrabold font-sans uppercase tracking-tight text-dark mt-2 group-hover:text-accent transition-colors line-clamp-2 leading-snug">
+                      {review.title}
+                    </h4>
+                  </div>
+                  
+                  <div className="mt-6 border-t border-dark/5 pt-4">
+                    <div className="flex justify-between items-center">
+                      <div>
+                        <span className="text-2xl font-black font-sans text-accent tracking-tighter">
+                          {review.rating}
+                        </span>
+                        <span className="text-[10px] font-mono text-dark/40">/10</span>
+                      </div>
+                      <span className="font-mono text-[10px] text-dark/40 uppercase group-hover:text-accent transition-colors flex items-center gap-1">
+                        Breakdown <ArrowRight className="w-3 h-3 transition-transform group-hover:translate-x-1" />
+                      </span>
+                    </div>
+                    {/* Progress score bar */}
+                    <div className="w-full bg-dark/5 h-1 rounded-full overflow-hidden mt-3">
+                      <div className="bg-accent h-full rounded-full transition-all duration-500" style={{ width: `${review.rating * 10}%` }} />
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* D. PAGINATION NAVIGATION */}
+            {totalPages > 1 && (
+              <div className="flex items-center justify-center gap-2 mt-12 flex-wrap">
+                <button
+                  onClick={() => setCurrentPage((p) => Math.max(1, p - 1))}
+                  disabled={currentPage === 1}
+                  className="font-mono text-[10px] uppercase tracking-wider px-4 py-2 rounded-full border border-dark/10 bg-white/60 hover:bg-white text-dark disabled:opacity-30 disabled:pointer-events-none transition-all duration-300"
+                >
+                  Prev
+                </button>
+                
+                {/* Pages List */}
+                <div className="flex items-center gap-1.5 font-mono text-xs">
+                  {Array.from({ length: totalPages }).map((_, idx) => {
+                    const pageNum = idx + 1;
+                    // Render truncated page numbers if total pages is large
+                    if (
+                      totalPages > 6 &&
+                      pageNum !== 1 &&
+                      pageNum !== totalPages &&
+                      Math.abs(pageNum - currentPage) > 1
+                    ) {
+                      if (pageNum === 2 && currentPage > 3) return <span key={pageNum} className="px-1 text-dark/40">...</span>;
+                      if (pageNum === totalPages - 1 && currentPage < totalPages - 2) return <span key={pageNum} className="px-1 text-dark/40">...</span>;
+                      return null;
+                    }
+
+                    return (
+                      <button
+                        key={pageNum}
+                        onClick={() => setCurrentPage(pageNum)}
+                        className={`w-8 h-8 rounded-full border flex items-center justify-center font-bold transition-all duration-300 ${
+                          currentPage === pageNum
+                            ? "bg-dark border-dark text-offwhite"
+                            : "border-dark/10 bg-white/60 hover:bg-white text-dark"
+                        }`}
+                      >
+                        {pageNum}
+                      </button>
+                    );
+                  })}
+                </div>
+
+                <button
+                  onClick={() => setCurrentPage((p) => Math.min(totalPages, p + 1))}
+                  disabled={currentPage === totalPages}
+                  className="font-mono text-[10px] uppercase tracking-wider px-4 py-2 rounded-full border border-dark/10 bg-white/60 hover:bg-white text-dark disabled:opacity-30 disabled:pointer-events-none transition-all duration-300"
+                >
+                  Next
+                </button>
+              </div>
+            )}
+          </>
+        )}
+
+        {/* E. DETAIL DRAWER / OVERLAY MODAL */}
+        {selectedReviewId && (
+          <div className="fixed inset-0 z-50 bg-dark/50 backdrop-blur-md flex items-center justify-center p-4 md:p-8 animate-fade-in">
+            <div className="bg-[#FAF8F5] text-dark rounded-[2.5rem] w-full max-w-5xl h-[85vh] md:h-[80vh] flex flex-col relative overflow-hidden shadow-2xl border border-dark/10 animate-fade-in">
+              
+              {/* Modal Header */}
+              <div className="p-6 md:p-8 border-b border-dark/10 flex justify-between items-start gap-4">
+                <div>
+                  <div className="flex items-center gap-3 flex-wrap">
+                    {selectedReview && selectedReview.redux && (
+                      <span className="bg-accent text-offwhite text-[9px] uppercase font-mono tracking-widest font-bold px-2 py-0.5 rounded">
+                        REDUX REVIEW
+                      </span>
+                    )}
+                    <span className="font-mono text-[10px] text-dark/40 uppercase tracking-wider">
+                      // ID #{selectedReviewId} {selectedReview && `// RELEASED ${selectedReview.release_year}`} {selectedReview && selectedReview.review_date && `// LOGGED ${selectedReview.review_date}`} //
+                    </span>
+                  </div>
+                  <h2 className="text-2xl md:text-4xl font-extrabold font-sans tracking-tight uppercase mt-2 leading-none text-dark">
+                    {selectedReview ? selectedReview.title : "Loading Review..."}
+                  </h2>
+                </div>
+                
+                <div className="flex items-center gap-2">
+                  {selectedReview && selectedReview.imdb_id && (
+                    <button 
+                      onClick={() => window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}`, "_blank", "noopener,noreferrer")}
+                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:text-accent transition-all text-dark/60"
+                      title="View on IMDb"
+                    >
+                      <ExternalLink className="w-4 h-4" />
+                    </button>
+                  )}
+                  <button 
+                    onClick={handleCloseReview}
+                    className="p-2.5 rounded-full bg-dark text-offwhite hover:bg-accent transition-all shadow-md"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+                </div>
+              </div>
+
+              {/* Modal Body */}
+              <div className="flex-1 overflow-y-auto p-6 md:p-8">
+                {isDetailLoading ? (
+                  <div className="h-full flex flex-col items-center justify-center text-center">
+                    <span className="w-8 h-8 rounded-full border-2 border-accent border-t-transparent animate-spin mb-4" />
+                    <p className="font-mono text-xs text-dark/50 uppercase tracking-widest">Fetching review catalog assets...</p>
+                  </div>
+                ) : selectedReview ? (
+                  <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start">
+                    
+                    {/* Left Stats Column */}
+                    <div className="flex flex-col gap-6 lg:sticky lg:top-0">
+                      {/* Overall Score Box */}
+                      <div className="bg-dark text-offwhite rounded-[2rem] p-6 text-center flex flex-col items-center justify-center relative overflow-hidden shadow-lg">
+                        <div className="absolute -top-12 -right-12 w-24 h-24 bg-accent/20 rounded-full blur-xl" />
+                        <p className="font-mono text-[9px] text-accent uppercase tracking-widest mb-1">// OVERALL VERDICT //</p>
+                        <div className="text-6xl md:text-7xl font-extrabold font-sans text-accent tracking-tighter leading-none">
+                          {selectedReview.rating}
+                          <span className="text-sm text-offwhite/40 font-normal">/10</span>
+                        </div>
+                        {selectedReview.review && selectedReview.review.overall && (
+                          <p className="text-xs italic text-offwhite/85 mt-4 leading-relaxed font-sans border-t border-offwhite/10 pt-4 w-full text-center">
+                            "{selectedReview.review.overall}"
+                          </p>
+                        )}
+                      </div>
+
+                      {/* Info Panel */}
+                      <div className="border border-dark/10 rounded-[2rem] p-5 bg-white/50 flex flex-col gap-3.5 text-xs font-sans">
+                        <p className="font-mono text-[9px] text-dark/40 uppercase tracking-widest border-b border-dark/5 pb-2">// DIRECTORY METADATA //</p>
+                        {!isFreeFormat && selectedReview.review ? (
+                          <>
+                            <div>
+                              <span className="font-mono text-[9px] text-dark/40 uppercase block">Directed by:</span>
+                              <span className="font-bold text-dark">{formatPeople(selectedReview.review.direction?.director) || "N/A"}</span>
+                            </div>
+                            <div>
+                              <span className="font-mono text-[9px] text-dark/40 uppercase block">Written by (Story):</span>
+                              <span className="font-bold text-dark">{formatPeople(selectedReview.review.story?.writer) || "N/A"}</span>
+                            </div>
+                            {selectedReview.review.score?.composer && (
+                              <div>
+                                <span className="font-mono text-[9px] text-dark/40 uppercase block">Music by:</span>
+                                <span className="font-bold text-dark">{formatPeople(selectedReview.review.score.composer)}</span>
+                              </div>
+                            )}
+                            {selectedReview.review.cinematography?.cinematographer && (
+                              <div>
+                                <span className="font-mono text-[9px] text-dark/40 uppercase block">Cinematography:</span>
+                                <span className="font-bold text-dark">{formatPeople(selectedReview.review.cinematography.cinematographer)}</span>
+                              </div>
+                            )}
+                          </>
+                        ) : (
+                          <div>
+                            <span className="font-mono text-[9px] text-dark/40 uppercase block">Film Title:</span>
+                            <span className="font-bold text-dark">{selectedReview.title} ({selectedReview.release_year})</span>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Right Narrative/Breakdown Column */}
+                    <div className="lg:col-span-2">
+                      {isFreeFormat ? (
+                        /* Free Format Render */
+                        <div className="bg-white/70 border border-dark/10 rounded-[2rem] p-6 md:p-8 font-sans leading-relaxed text-dark text-base whitespace-pre-line shadow-sm">
+                          <p className="font-mono text-[10px] text-accent uppercase tracking-widest mb-4 font-bold border-b border-dark/5 pb-3">// FULL NOTES ARCHIVE //</p>
+                          {selectedReview.review}
+                        </div>
+                      ) : (
+                        /* Structured Tabbed View */
+                        <div className="flex flex-col gap-6">
+                          {/* Tabs selector */}
+                          <div className="flex border border-dark/10 rounded-full bg-white/60 p-1.5 self-start">
+                            {[
+                              { id: "verdict", label: "Verdict" },
+                              { id: "cast", label: "Acting & Story" },
+                              { id: "crafts", label: "Technical Crafts" }
+                            ].map((tab) => (
+                              <button
+                                key={tab.id}
+                                onClick={() => setActiveTab(tab.id)}
+                                className={`font-mono text-[9px] uppercase tracking-wider px-5 py-2.5 rounded-full transition-all duration-300 font-bold ${
+                                  activeTab === tab.id 
+                                    ? "bg-dark text-offwhite shadow-sm" 
+                                    : "text-dark/60 hover:text-dark"
+                                }`}
+                              >
+                                {tab.label}
+                              </button>
+                            ))}
+                          </div>
+
+                          {/* Tab Content panels */}
+                          <div className="flex flex-col gap-4">
+                            {activeTab === "verdict" && (
+                              <>
+                                <CritiqueCard label="Plot Structure" content={selectedReview.review.plot_structure} />
+                                <CritiqueCard label="Pacing & Timing" content={selectedReview.review.pacing} />
+                                <CritiqueCard label="Climax Breakdown" content={selectedReview.review.climax} />
+                                <CritiqueCard label="Tone & Atmospherics" content={selectedReview.review.tone} />
+                                <CritiqueCard label="Final Notes" content={selectedReview.review.final_notes} />
+                              </>
+                            )}
+
+                            {activeTab === "cast" && (
+                              <>
+                                <CategoryCard 
+                                  title="Direction" 
+                                  peopleLabel="Directors" 
+                                  people={selectedReview.review.direction?.director} 
+                                  rating={selectedReview.review.direction?.rating} 
+                                  comments={selectedReview.review.direction?.comments} 
+                                />
+                                <CategoryCard 
+                                  title="Story & Writing" 
+                                  peopleLabel="Writers" 
+                                  people={selectedReview.review.story?.writer} 
+                                  rating={selectedReview.review.story?.rating} 
+                                  comments={selectedReview.review.story?.comments} 
+                                />
+                                <CategoryCard 
+                                  title="Screenplay & Dialogue" 
+                                  peopleLabel="Screenplay Credits" 
+                                  people={selectedReview.review.screenplay?.writer} 
+                                  rating={selectedReview.review.screenplay?.rating} 
+                                  comments={selectedReview.review.screenplay?.comments} 
+                                />
+                                
+                                {/* Detailed Performances list */}
+                                {selectedReview.review.acting && (
+                                  <div className="bg-white/50 border border-dark/10 rounded-[1.5rem] p-5 shadow-sm flex flex-col gap-4">
+                                    <div className="flex justify-between items-center border-b border-dark/5 pb-2">
+                                      <h5 className="font-sans font-bold text-sm uppercase tracking-wider text-dark">Acting & Ensemble</h5>
+                                      {selectedReview.review.acting.rating && (
+                                        <span className="font-mono text-[9px] uppercase font-bold bg-accent/10 text-accent px-2 py-0.5 rounded">
+                                          Overall: {selectedReview.review.acting.rating}
+                                        </span>
+                                      )}
+                                    </div>
+                                    
+                                    {/* Performances grid */}
+                                    {selectedReview.review.acting.performance && selectedReview.review.acting.performance.length > 0 && (
+                                      <div className="flex flex-col gap-4">
+                                        {selectedReview.review.acting.performance.map((perf, idx) => (
+                                          <div key={idx} className="text-xs font-sans border-b border-dark/5 last:border-0 pb-3 last:pb-0">
+                                            <div className="flex justify-between items-center font-bold text-dark mb-1">
+                                              <span>{perf.actor?.name}</span>
+                                              <span className="font-mono text-[9px] uppercase text-accent font-semibold">{perf.rating}</span>
+                                            </div>
+                                            {perf.comments && <p className="text-dark/70 leading-relaxed italic">"{perf.comments}"</p>}
+                                          </div>
+                                        ))}
+                                      </div>
+                                    )}
+
+                                    {/* Cast commentary */}
+                                    {selectedReview.review.acting.cast && (
+                                      <div className="bg-dark/5 p-3 rounded-xl text-xs font-sans">
+                                        <span className="font-mono text-[9px] text-dark/40 uppercase block mb-1">Cast Ensemble Comments // Rating: {selectedReview.review.acting.cast.rating}</span>
+                                        {selectedReview.review.acting.cast.comments && <p className="text-dark/80 italic">"{selectedReview.review.acting.cast.comments}"</p>}
+                                      </div>
+                                    )}
+                                  </div>
+                                )}
+                              </>
+                            )}
+
+                            {activeTab === "crafts" && (
+                              <>
+                                <CategoryCard 
+                                  title="Cinematography" 
+                                  peopleLabel="Cinematographers" 
+                                  people={selectedReview.review.cinematography?.cinematographer} 
+                                  rating={selectedReview.review.cinematography?.rating} 
+                                  comments={selectedReview.review.cinematography?.comments} 
+                                />
+                                <CategoryCard 
+                                  title="Editing & Transitions" 
+                                  peopleLabel="Editors" 
+                                  people={selectedReview.review.editing?.editor} 
+                                  rating={selectedReview.review.editing?.rating} 
+                                  comments={selectedReview.review.editing?.comments} 
+                                />
+                                <CategoryCard 
+                                  title="Score & Musical Theme" 
+                                  peopleLabel="Composers" 
+                                  people={selectedReview.review.score?.composer} 
+                                  rating={selectedReview.review.score?.rating} 
+                                  comments={selectedReview.review.score?.comments} 
+                                />
+                                {selectedReview.review.soundtrack && (
+                                  <CategoryCard 
+                                    title="Soundtrack (Licensing)" 
+                                    rating={selectedReview.review.soundtrack.rating} 
+                                    comments={selectedReview.review.soundtrack.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.sound && (
+                                  <CategoryCard 
+                                    title="Sound Design & Mixing" 
+                                    rating={selectedReview.review.sound.rating} 
+                                    comments={selectedReview.review.sound.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.visual_effects && (
+                                  <CategoryCard 
+                                    title="Visual Effects" 
+                                    rating={selectedReview.review.visual_effects.rating} 
+                                    comments={selectedReview.review.visual_effects.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.animation && (
+                                  <CategoryCard 
+                                    title="Animation & Art style" 
+                                    rating={selectedReview.review.animation.rating} 
+                                    comments={selectedReview.review.animation.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.production_design && (
+                                  <CategoryCard 
+                                    title="Production Design (Set/Art)" 
+                                    rating={selectedReview.review.production_design.rating} 
+                                    comments={selectedReview.review.production_design.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.makeup && (
+                                  <CategoryCard 
+                                    title="Makeup & Hair" 
+                                    rating={selectedReview.review.makeup.rating} 
+                                    comments={selectedReview.review.makeup.comments} 
+                                  />
+                                )}
+                                {selectedReview.review.costumes && (
+                                  <CategoryCard 
+                                    title="Costumes & Styling" 
+                                    rating={selectedReview.review.costumes.rating} 
+                                    comments={selectedReview.review.costumes.comments} 
+                                  />
+                                )}
+                              </>
+                            )}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ) : (
+                  <div className="h-full flex items-center justify-center">
+                    <p className="font-sans text-dark/50">Error rendering review details.</p>
+                  </div>
+                )}
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </section>
   );
@@ -1083,6 +1745,27 @@ export default function App() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isNavbarDarkBg, setIsNavbarDarkBg] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [initialReviewId, setInitialReviewId] = useState(null);
+
+  // Parse deep-linking parameter on mount
+  useEffect(() => {
+    // 1. Check query parameter (e.g. ?review=244)
+    const params = new URLSearchParams(window.location.search);
+    const queryReviewId = params.get("review");
+    if (queryReviewId) {
+      setInitialReviewId(Number(queryReviewId));
+      setCurrentView("reviews");
+      return;
+    }
+
+    // 2. Check hash parameter (e.g. #/reviews/244)
+    const hash = window.location.hash;
+    const match = hash.match(/#\/reviews\/(\d+)/);
+    if (match) {
+      setInitialReviewId(Number(match[1]));
+      setCurrentView("reviews");
+    }
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -1478,7 +2161,11 @@ export default function App() {
         {currentView === "publications" ? (
         <PublicationsPage navigateToSection={navigateToSection} />
       ) : currentView === "reviews" ? (
-        <ReviewsPage navigateToSection={navigateToSection} />
+        <ReviewsPage 
+          navigateToSection={navigateToSection} 
+          initialReviewId={initialReviewId}
+          setInitialReviewId={setInitialReviewId}
+        />
       ) : currentView === "videos" ? (
         <VideosPage navigateToSection={navigateToSection} />
       ) : currentView === "about" ? (

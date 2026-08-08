@@ -1,0 +1,96 @@
+{
+  "title": "Big Shark",
+  "rating": 3.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Tommy Wiseau"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale feels like a mess because Tommy intentionally tried to make a bad movie and it shows; The direction on a microscale is very over the top and bad, something you would expect from Tommy; Storytelling is all over the place and bad, not having any of the charm from 'The Room' because he's intentionally trying to tell a bad story; He sets up tension in a very bad and campy way; This movie just feels like a shitty student film"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tommy Wiseau"
+          },
+          "rating": "Pretty Good",
+          "comments": "Johnny from 'The Room,' but Xaned out"
+        }
+      ],
+      "cast": {
+        "rating": "Terrible",
+        "comments": "What you would expect from a movie intentionally trying to be a bad movie;"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Tommy Wiseau"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The concept is just dumb and incoherent; The plot structure is all over the place; Character writing is nonexistent"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Tommy Wiseau"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is just awful and bad, having none of the charm from The Room because he's intentionally trying to make it bad; the humor is still somewhat there, half being from Tommy being Tommy and half from wondering how this movie even got made; the foreshadowing is nonexistent as he's making up the movie as he is going"
+    },
+    "soundtrack": {
+      "rating": "Bad",
+      "comments": "Tommy paid for the full song, and he is making sure he is getting his money's worth"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Cassiano Pereira"
+        },
+        {
+          "name": "Christoph Schultz"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "This movie is shot like a shitty YouTube student film"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Hunter Thomas"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "This movie is shot like a shitty YouTube student film"
+    },
+    "sound": {
+      "rating": "Terrible",
+      "comments": "This movie sounds like a shitty YouTube student film"
+    },
+    "visual_effects": {
+      "rating": "Terrible",
+      "comments": "I'm pretty sure Tommy did the VFX himself"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Tommy's hometown is New Orleans"
+    },
+    "pacing": "Pacing is very slow as Tommy is just trying to fill time; This movie feels like it was shot in a week",
+    "climax": "Climax is just a campy, bad movie, somewhat enjoyable, though;",
+    "tone": "\"Tone is just a bad movie\"; \"The charm about 'The Room' is that Tommy tried to make a good movie but it was so bad, this movie doesn't have any of that charm because he intentionally tried to just make a bad movie\"",
+    "final_notes": "Watched at Village East",
+    "overall": "Overall, the charm about \"The Room\" is that Tommy Wiseau tried to make a good movie but it was so bad, this movie has none of that because Tommy intentionally tried to make a bad movie and it shows; there are some moments that are enjoyable and have the camp that Tommy Wiseau is known for, but this movie at the end of the day just plays like a shitty YouTube student film"
+  },
+  "release_year": 2023,
+  "review_date": "07/13/2025",
+  "redux": false,
+  "id": 582,
+  "imdb_id": "tt9755806"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Babygirl",
+  "rating": 7.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Halina Reijn"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as they created an aesthetic that really suited the movie; The direction on a microscale is pretty good as they used tension and cringe to really heighten the scandal and power dynamic between the two; The storytelling is pretty simple; They use tension very well as the movie uses this to make the moments between the two leads uncomfortable; The movie is very much told from the female perspective and the director does a good job showing this"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Nicole Kidman"
+          },
+          "rating": "Good to Very Good",
+          "comments": "A very vulnerable performance as she shows why she is one of the best in Hollywood;  She shows a wide range of emotions; She has pretty good chemistry with Dickinson"
+        },
+        {
+          "actor": {
+            "name": "Harris Dickinson"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "He does the best with what is written for the character as his charisma suits the role; He has pretty good chemistry with Nicole Kidman"
+        },
+        {
+          "actor": {
+            "name": "Sophie Wilde"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the assistant character well and has decent chemistry with Kidman"
+        },
+        {
+          "actor": {
+            "name": "Antonio Banderas"
+          },
+          "rating": "Pretty Good",
+          "comments": "An experienced actor who gets his moments to show his work but is not really given that much screen time"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "More about the main cast, but the remaining cast does well in supporting roles"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Halina Reijn"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is interesting, but the story itself is pretty bland and predictable; The plot structure is very simple; Character writing is good, as you get a sense of how Romy's personal struggles and power dynamic are influencing her decisions, and Samuel's mystery helps make this an intriguing relationship for Romy"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Halina Reijn"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is sound but feels a little too Gen Z; the humor is decent; the symbolism is profound as the movie tackles issues with power dynamics, women in power, and sexual fantasies; the foreshadowing is not good as events toward the end just happen because that is what you expect"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Cristobal Tapia de Veer"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps establish the tone and aesthetic of the movie;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jasper Wolf"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Really enjoyed the cinematography as it gave it an aesthetic that really fit the hustling nature of the New York business world; Really enjoyed how they used the glass reflection as somewhat of a mirror"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Matthew Hannam"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The movie felt well-edited, especially toward the end"
+    },
+    "pacing": "Pacing is a little all over the place because it seems slow in many moments, yet they just speed through plot points in other moments; The passage of time is not really clear, so you have no idea what the time period is",
+    "climax": "Climax is all right but not really the best in execution;",
+    "tone": "Tone is very much an erotic thriller;",
+    "final_notes": "I liked the aesthetic of the movie more than the actual story;",
+    "overall": "Overall, a pretty good movie that is carried by its aesthetic and Nicole Kidman's performance, but it is held back by its lackluster writing"
+  },
+  "release_year": 2024,
+  "review_date": "12/31/2024",
+  "redux": false,
+  "id": 523,
+  "imdb_id": "tt30057084"
+}

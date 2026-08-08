@@ -1,0 +1,193 @@
+{
+  "title": "Dune",
+  "rating": 8.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Denis Villeneuve"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The film is incredible on a macroscale because it does an amazing job at accomplishing the goal for this movie, to build the world (especially Arrakis) and its inhabitants (Mostly the House of Atreides, the House of Harkonnen, and the Fremen); the movie is decent on a microscale because it just follows typical Sci-Fi style direction; the direction of actors is very typical to other Sci-Fi movies (so very stiff); the storytelling is very similar to other Sci-Fi epics (though it does do a good job in showing how grand the franchise is); Villeneuve builds tension very well as he uses action and sound to really showcase how epic the Dune series is"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Timothée Chalamet"
+          },
+          "rating": "Pretty Good",
+          "comments": "Holds his own as the lead towards the end, but he really does not feel like Paul Atreides (and was probably cast just for his name)"
+        },
+        {
+          "actor": {
+            "name": "Rebecca Ferguson"
+          },
+          "rating": "Good",
+          "comments": "Does a good job being the motherly figure to Paul and showing how he has a birthright to her bloodline as well"
+        },
+        {
+          "actor": {
+            "name": "Oscar Isaac"
+          },
+          "rating": "Good",
+          "comments": "Really embodies a moral leader and a guiding figure for who Paul will eventually be"
+        },
+        {
+          "actor": {
+            "name": "Josh Brolin"
+          },
+          "rating": "Good",
+          "comments": "Plays a good mentor figure to Paul and a good solider for Leto and the House of Atreides"
+        },
+        {
+          "actor": {
+            "name": "Stellan Skarsgård"
+          },
+          "rating": "Good",
+          "comments": "Plays the villain well and establishes the conflict between the House of Harkonnen and Atreides"
+        },
+        {
+          "actor": {
+            "name": "Dave Bautista"
+          },
+          "rating": "Decent",
+          "comments": "He's barely in the movie"
+        },
+        {
+          "actor": {
+            "name": "Stephen McKinley Henderson"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Zendaya"
+          },
+          "rating": "Decent",
+          "comments": "She's barely in the movie as she's meant to be a bigger character in Part 2"
+        },
+        {
+          "actor": {
+            "name": "Chang Chen"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Sharon Duncan-Brewster"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job at showing the relationship the Freman have with the Empire"
+        },
+        {
+          "actor": {
+            "name": "Jason Momoa"
+          },
+          "rating": "Good",
+          "comments": "Does a good job in showing the mentor/mentee relationship Duncan has with Paul, while at the same time showing how he is a loyal solider to the House of Atreides"
+        },
+        {
+          "actor": {
+            "name": "Javier Bardem"
+          },
+          "rating": "Good",
+          "comments": "Does a good job in showing the relationship the Freman have with Arrakis and their disdain for spice harvesters"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Everyone just feels like a character in a Sci-Fi movie"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jon Spaihts"
+        },
+        {
+          "name": "Denis Villeneuve"
+        },
+        {
+          "name": "Eric Roth"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is very true to the novel as it follows the first part of the book with its worldbuilding, but the characters and names are not as captivating as other Sci-Fi franchises; the plot structure is very spread out and dense as it uses its long-runtime to stay very true to the first part of the Dune novel (but this comes with a cost as it makes the movie feel very dragged out), the movie was a lot longer than it needed to be because at least 30 minutes could have been cut (especially towards the end); flow between sequences is kinda stiff/forced and similar to other dense Sci-Fi movies; character writing is pretty good as they created each group of people well and did a good job in establishing Paul Atreides's role in the overall conflict"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jon Spaihts"
+        },
+        {
+          "name": "Denis Villeneuve"
+        },
+        {
+          "name": "Eric Roth"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very Sci-Fi heavy as it uses a lot of jargon that they have to explain (jargon that honestly feels made up); the symbolism is pretty evident as you can see the metaphors that spice harvesting has with colonialization (plus the importance of morality vs capitalism), but the concept of a Lisan al Gaib/chosen-one is a trope very similar to other Sci-Fi epics; the foreshadowing is executed very well as it lays its roots throughout the movie to show Paul's powers and his purpose in the series"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "Used very well to build the world and tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Greig Fraser"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Has many grand breath-taking shots and is essential in building the world (especially the vastness of Arrakis)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Walker"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Makes the movie feel incredibly polished and well executed from a technical sense"
+    },
+    "sound": {
+      "rating": "Incredible",
+      "comments": "Does an amazing job in setting the tone, establishing how grand the world is, making the fights feel crisp, and building tension"
+    },
+    "visual_effects": {
+      "rating": "Incredible",
+      "comments": "Really helps establish how epic the Dune film franchise will be as it helps give it grand Sci-Fi feel"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Especially with establishing the Sci-Fi elements and the dunes of Arrakis"
+    },
+    "makeup": {
+      "rating": "Very Good",
+      "comments": "Helps give the film a unique Sci-Fi feel (especially with the blue eyes and the Harkonnen)"
+    },
+    "costumes": {
+      "rating": "Very Good",
+      "comments": "Felt unique and gave the movie a real Sci-Fi feel, mixed with desert themes"
+    },
+    "pacing": "Pacing is incredibly slow as the movie really drags a lot with its long and plot-heavy runtime",
+    "climax": "Climax is different because there were really two: the first climax was executed well but the second climax happens almost 30 minutes after that and it makes the movie feel dragged out in the end",
+    "tone": "Tone feels very similar to other Sci-Fi epics (especially with its forced jargon and tropes)",
+    "final_notes": "Seeing the movie in IMAX really did it justice as you see how much of a technical achievement this movie is (and the HBO Max same-day release really was an injustice for this movie); the movie is just worldbuilding as it is meant to set up Part 2 to being an amazing epic (something that is similar to how the book is written)",
+    "overall": "Overall, a technical achievement in film as the movie does a great job in planting roots and establishing what the Dune franchise will be, but the movie feels like a sacrifice as mirrors the source material in that it is entirely world-building and meant to set up an epic second part"
+  },
+  "release_year": 2021,
+  "review_date": "02/10/2024",
+  "redux": true,
+  "id": 223,
+  "imdb_id": "tt1160419"
+}

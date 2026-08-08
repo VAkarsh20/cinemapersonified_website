@@ -1,0 +1,133 @@
+{
+  "title": "Jurassic World Rebirth",
+  "rating": 4.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gareth Edwards"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is bland and formulaic, as it just feels like a Jurassic Park cash grab and also does a poor job at mixing the A and B storylines; the direction on a microscale is bad, as all the interpersonal scenes feel campy in the A plot and just bad in the B plot; the storytelling is very bad, as they have an A and a B plot that are not connected at all, and when they try to converge storylines, it is just very forced; they build tension pretty well, but that would be hard to mess up in a Jurassic Park movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Scarlett Johansson"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Uses her experience as an action lead to carry this performance, as she does make bad material somewhat enjoyable"
+        },
+        {
+          "actor": {
+            "name": "Mahershala Ali"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Really given nothing to work with as his character is barely given any screen time, despite him probably giving one of the best performances"
+        },
+        {
+          "actor": {
+            "name": "Jonathan Bailey"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Pretty unrecognizable, but his performance is memorable and I enjoyed it"
+        },
+        {
+          "actor": {
+            "name": "Rupert Friend"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Standard rich-action villain, and they make it even more formulaic with him being a part of an unnamed 'big pharma'"
+        },
+        {
+          "actor": {
+            "name": "Manuel Garcia-Rulfo"
+          },
+          "rating": "Bad",
+          "comments": "Genuinely don't understand why his character is in this movie and has no chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Ed Skrein"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Who?"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "The most campy and corny performances I have ever seen, as they are all shallow caricatures of what they were trying to convey; does not include child actors"
+      },
+      "rating": "Bad to Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Koepp"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is genuinely stupid, it's a shallow 'using the dinosaurs for evil big pharma'; the plot structure is very bad as there is an A and a B plot that are incredibly disjoint, with the former plot being genuinely useless; character writing is incredibly shallow and formulaic, as attested by the villain being an executive from a secret 'Big Pharma' company"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Koepp"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is so bad that I physically got mad at what they were saying; The humor is campy, so kind of funny how bad it is; The symbolism is so shallow that it hurts the message, it's a formulaic 'big pharma bad, open source the data' message; The foreshadowing makes the movie predictable and also creates no stakes"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty good, and does a pretty good job incorporating the classic themes"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Mathieson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "What you would expect from a big-budget Jurassic Park movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jabez Olssen"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "What you would expect from a big budget Jurassic Park movie; but some of the cuts are pretty bad"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "What you expect and want from a Jurassic Park movie is what helps make the dinosaurs realistic and scary"
+    },
+    "visual_effects": {
+      "rating": "Very Good",
+      "comments": "What you expect and want from a Jurassic Park movie is what helps make the dinosaurs realistic and scary"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "What you would expect from a Jurassic Park movie"
+    },
+    "pacing": "Pacing is incredibly fast in the exposition as they breeze through this; Pacing is incredibly slow afterwards as this A/B plot is genuinely useless considering the B plot adds nothing to the story",
+    "climax": "Climax is decently executed from an entertainment standpoint, but formulaic from a story standpoint",
+    "tone": "Tone is Jurassic Park, but in a campier way",
+    "final_notes": "They are going to keep making these movies because of how well they do at the box office because my theater was completely full;",
+    "overall": "Overall, while the movie is very much on par with other Jurassic Parks in its advanced visual effects and sound, the movie is very bad from a direction and writing standpoint as it is obvious this is just a shallow cash grab; even though they need to end this franchise, they are going to keep making Jurassic Park movies until the wheels fall off because of how well this movie is doing at the box office"
+  },
+  "release_year": 2025,
+  "review_date": "07/03/2025",
+  "redux": false,
+  "id": 578,
+  "imdb_id": "tt31036941"
+}

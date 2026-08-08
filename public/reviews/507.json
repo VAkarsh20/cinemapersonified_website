@@ -1,0 +1,104 @@
+{
+  "title": "The Room Next Door",
+  "rating": 4.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale feels very simple, lazy, and unfocused; the direction on a microscale feels unnatural and poorly executed, despite some good moments from these two experienced actors; the storytelling is incredibly simple"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tilda Swinton"
+          },
+          "rating": "Decent",
+          "comments": "It has some moments that are truly memorable and shows some range of depth, but the material and direction are just so bad that it is hard to take this performance seriously; her chemistry with Julianne Moore is not that good"
+        },
+        {
+          "actor": {
+            "name": "Julianne Moore"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Given very poor direction and material to work with as you can tell she is restricted from showing her natural ability; has bad chemsitry with Swinton"
+        },
+        {
+          "actor": {
+            "name": "John Turturro"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Really a minor character, as the movie is really about the two leads, but still is a victim of the bad material and direction"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "The movie is really about the two leads, but the minor characters are given very bad dialogue and direction that they really cannot do anything"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is interesting, it's just not put together well; the plot structure is very simplistic; character writing should be a lot better than it is, given what this movie is about, but the writing is just so shallow it ruins any opportunity to construct interesting characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is atrocious and unnatural; people do not talk this way; the dialogue was written as if the first draft was in a different language and then put through Google Translate to translate it to English; the dialogue is next door in quality to 'The Room'; the humor is unintentionally funny because of how bad the writing is; the symbolism is not presented well; the foreshadowing is pretty overt"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alberto Iglesias"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The composition is pretty good; it's just that it is poorly used in the movie and is poorly mixed at times, as it drowns out what is going on screen"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Edu Grau"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Simple and lazy"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Teresa Font"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Simple and lazy"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The music is poorly mixed into the movie, and this drowns out what is going on onscreen"
+    },
+    "pacing": "Pacing is incredibly slow given how bad the dialogue is and how little plot there actually is",
+    "climax": "The climax is anticlimactic and borderline funny with what actually happens",
+    "tone": "Tone is supposed to be a drama, but the movie and writing are so bad that it comes off as a black comedy",
+    "final_notes": "I saw the premiere at the Austin Film Festival",
+    "overall": "Overall, a bad movie that feels lazily put together; the quality of the direction and writing are so bad that they feel next to 'The Room'"
+  },
+  "release_year": 2024,
+  "review_date": "10/31/2024",
+  "redux": false,
+  "id": 507,
+  "imdb_id": "tt29439114"
+}

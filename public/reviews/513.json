@@ -1,0 +1,143 @@
+{
+  "title": "Gladiator II",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ridley Scott"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is good, as the world and action sequences feel grand and are entertaining; though it feels like they shot this movie with \"Napoleon\"; the direction on a microscale is pretty good, as the acting does feel better this time around from the main cast; the storytelling is exactly the same as \"Gladiator\" in content and \"Napoleon\" in style; they build tension similarly to the first movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Paul Mescal"
+          },
+          "rating": "Good to Very Good",
+          "comments": "He commands every scene he is in and really shows why he is one of the hottest names in Hollywood; He changes his emotions effortlessly; He has good chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Pedro Pascal"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "He uses his experience to play this role as if it were written with him in mind"
+        },
+        {
+          "actor": {
+            "name": "Joseph Quinn"
+          },
+          "rating": "Decent",
+          "comments": "A similar performance to Phoenix's in the first film; plays the pompous \"King Joffrey\" character"
+        },
+        {
+          "actor": {
+            "name": "Fred Hechinger"
+          },
+          "rating": "Bad",
+          "comments": "Plays a similar character to Quinn's, but with a few screws loose; Does not feel like he embodies the character well as it just comes off as more cringe and laughably bad than believable"
+        },
+        {
+          "actor": {
+            "name": "Connie Nielsen"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Very similar performance to her previous role; develops good chemistry with Mescal"
+        },
+        {
+          "actor": {
+            "name": "Denzel Washington"
+          },
+          "rating": "Very Good",
+          "comments": "A true scene stealer as he shows why he is one of the greatest actors of all time; a truly villainous performance as he is able to switch between multiple emotions in a cunning manner effortlessly; he has great chemistry with Mescal"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Filled with many Roman-era period performances; Help support the main cast"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Peter Craig"
+        },
+        {
+          "name": "David Scarpa"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is literally the same movie as the first; The plot structure is exactly the same as the first; Character writing is almost exactly the same as the first movie, with some more depth provided to Mescal's character; The story ruins much of the ambiguity of the first movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Scarpa"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is still clunky, like the first movie, but filled with moments meant to be iconic; The symbolism is the same as the first movie; The foreshadowing is nonexistent when you realize this is the same movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Harry Gregson-Williams"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Shares themes from the first movie and helps establish the tone and build tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Mathieson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helps make the movie feel grand but feels like it uses the exact same techniques as Napoleon"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Claire Simpson"
+        },
+        {
+          "name": "Sam Restivo"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Well-edited, minus the slow-motion/action-style shots; It feels like it uses the exact same techniques as \"Napoleon\""
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "Helps make this movie a grand Roman war epic"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Does help build the world and has some very good moments, but this movie feels incredibly saturated in CGI;  It makes the movie look exactly the same as \"Napoleon\""
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Helps create Rome into this grand idea, more than a city, but looks exactly the same as the \"Napoleon\" set designs"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "It helps set this movie during the Roman Empire;"
+    },
+    "pacing": "Pacing is a little faster than the first movie, but still on the slower side, given that this movie is still a Roman epic",
+    "climax": "The climax is executed well but feels like it has fewer consequences than the first movie",
+    "tone": "Tone is very much a Roman war epic;",
+    "final_notes": "It feels like they shot this movie concurrently with \"Napoleon\"; this movie is basically \"Gladiator\" retold",
+    "overall": "Overall, a pretty good Roman epic that is led by memorable performances from Paul Mescal and Denzel Washington, well-executed technicals, and entertaining action sequences; but, this movie feels like lazy and unoriginal filmmaking from Ridley Scott because the story is exactly the same as the first movie and looks exactly the same as \"Napoleon\""
+  },
+  "release_year": 2024,
+  "review_date": "11/28/2024",
+  "redux": false,
+  "id": 513,
+  "imdb_id": "tt9218128"
+}

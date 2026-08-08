@@ -1,0 +1,135 @@
+{
+  "title": "West Side Story",
+  "rating": 9.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Steven Spielberg"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Especially as he is able to transition through the serious moments and musical numbers, while simultaneously getting the most out of his cast; also, uses the cinematography and editing very well to drive the story forward"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ansel Elgort"
+          },
+          "rating": "Very Good",
+          "comments": "Able to hold his own throughout the movie and shows a surprisingly good singing voice"
+        },
+        {
+          "actor": {
+            "name": "Ariana DeBose"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Her acting was on the better side but I was not so much of a fan of her over-the-top, exaggerated singing as I felt it took too much out of the songs"
+        },
+        {
+          "actor": {
+            "name": "David Alvarez"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Mike Faist"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Rita Moreno"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Rachel Zegler"
+          },
+          "rating": "Great to Incredible",
+          "comments": "Able to show so much range in her feature debut as she navigates through the different parts of the film effortlessly and shows a powerful singing voice through all the numbers"
+        }
+      ],
+      "cast": {
+        "rating": "Good"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Tony Kushner"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Mostly takes from the original Broadway production and films (but still a great retelling of Romeo and Juliet filled with Puerto Rican and American influences), really helped show the audience why it is still a classic"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Tony Kushner"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "Filled with great dialogue that mixes both English and Spanish and is very true to the times it portrays (have not watched the original productions to say whether or not it is similar)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Leonard Bernstein"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Just a rendition of the original scores"
+    },
+    "soundtrack": {
+      "rating": "Very Good to Great",
+      "comments": "Musical renditions were either better, the same, or worse in this compared to the previous renditions; Choreography was incredible and needed to be highlighted though"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "\tJanusz Kamiński"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Especially with the way it uses light and different colors to make scenes more lively in such dark, torn-down areas"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Michael Kahn"
+        },
+        {
+          "name": "Sarah Broshar"
+        }
+      ],
+      "rating": "Great"
+    },
+    "sound": {
+      "rating": "Great",
+      "comments": "Makes it feel as if it was mixed and edited back in 1960"
+    },
+    "production_design": {
+      "rating": "Incredible",
+      "comments": "The clash between the color and dark elements really make the movie show the beauty in the poverty the characters live in"
+    },
+    "costumes": {
+      "rating": "Incredible",
+      "comments": "Similar to what the Production Design gives to the movie"
+    },
+    "plot_structure": "Plot Structure was mostly identical to the original movie (though it is still good in terms of how everything is laid out, I would have liked to have seen more in terms of moments between Maria and Tony)",
+    "pacing": "Pacing was good overall as it did not really feel rushed or dragging at points",
+    "climax": "Build to the climax is well done as we get to see tensions building from the rumble between the Sharks and the Jets and how the aftermath effects the characters; climax itself is a pivotal part in the movie as we get to see Tony and Maria's true love come out (though logically it needs to be pointed out how unrealistic the events actually would be)",
+    "final_notes": "",
+    "overall": "Overall, a great remake of the original as we get to hear and see new faces, and old, carry out iconic characters and numbers as this new rendition pays homage to the original in may ways while also holding its own as it brings back the flair and numbers that make West Side Story one of the most well-known musicals of all time"
+  },
+  "release_year": 2021,
+  "review_date": "12/25/2021",
+  "redux": false,
+  "id": 235,
+  "imdb_id": "tt3581652"
+}

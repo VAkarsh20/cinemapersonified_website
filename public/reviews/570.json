@@ -1,0 +1,152 @@
+{
+  "title": "National Treasure",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Jon Turteltaub"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is a fun, playful, and modern take on the 'Indiana Jones' treasure-hunting style movie, but in a very early 2000s way; the direction on a microscale is surprisingly entertaining because the chemistry in the main cast is good and you care about the characters and their relationships, even though these scenes can be a bit over-the-top; the storytelling is pretty simple and similar to Indiana Jones, mainly because this is a Disney family movie; the tension feels pretty forced"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Nicolas Cage"
+          },
+          "rating": "Good",
+          "comments": "Very Nic Cage performance with how over-the-top he is, but he commands the movie well and develops good chemistry with his cast mates; what you would expect from an 'Indiana Jones' dupe lead by Nic Cage"
+        },
+        {
+          "actor": {
+            "name": "Harvey Keitel"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Isn't really given that much screen time, but does the most with what he's given"
+        },
+        {
+          "actor": {
+            "name": "Jon Voight"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Basically plays the father figure to Cage"
+        },
+        {
+          "actor": {
+            "name": "Diane Kruger"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the female lead well and holds her own as she becomes the newest member of this treasure hunting trio, but her romantic chemistry with Cage seems a little forced"
+        },
+        {
+          "actor": {
+            "name": "Sean Bean"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a villain role that is suited to his strengths"
+        },
+        {
+          "actor": {
+            "name": "Justin Bartha"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the younger sidekick role well as he does a pretty good job inserting comedic relief and has good chemistry with Cage"
+        },
+        {
+          "actor": {
+            "name": "Christopher Plummer"
+          },
+          "rating": "Decent",
+          "comments": "Literally in the movie just for the opening scene"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "Just a lot of background actors you would expect from an early 2000s movie"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jim Kouf"
+        },
+        {
+          "name": "Oren Aviv"
+        },
+        {
+          "name": "Charles Segars"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a Disney dupe of 'Indiana Jones', centered around the Declaration of Independence and the Revolutionary War; The plot structure is the standard 'Indiana Jones' treasure hunting story template; There are way too many plot holes to count in this movie, as there are so many things that just happen in the characters' way or that the filmmakers never explain; The character writing is surprisingly good, as you really do care for the main treasure hunting trio despite them sharing a lot of similarities with 'Indiana Jones', the rest are just templated characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jim Kouf"
+        },
+        {
+          "name": "Cormac Wibberley"
+        },
+        {
+          "name": "Marianne Wibberley"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is fun and very entertaining, but is about as profound as you would get from a family Disney movie that is a copy of 'Indiana Jones'; there are a lot of quotable lines and moments from this movie, especially around them stealing the Declaration of Independence; the humor is pretty good as this movie is a light-hearted family movie at the end of the day; the symbolism is very surface level as this movie steals a lot from 'Indiana Jones', and many things just happen in the characters' favor; the foreshadowing is present, but is pretty overt as you know where this movie is heading"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Trevor Rabin"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels like an 'Indiana Jones' at home at times, but it is used decently well to establish the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Caleb Deschanel"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very early 2000s and it has not really aged that well"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "William Goldenberg"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Incredibly early 2000s with its sharp cuts mixed with slow motion; I'm happy we no longer do this style of editing because it truly was a fever dream"
+    },
+    "sound": {
+      "rating": "Pretty Bad",
+      "comments": "Very over the top to help exaggerate scenes"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "Incredibly early 2000s, as this style looks very tacky and outdated when watching this movie 20 years later"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Enjoyed how they shot a lot of this at real places in DC, like at the National Archives"
+    },
+    "pacing": "Pacing is a little on the faster side but about right; the reason this movie feels fast is that they just jam in a lot of plot and never clear up any plot holes",
+    "climax": "Climax is entertaining",
+    "tone": "Tone is basically a family movie that is a Disney dupe of 'Indiana Jones'",
+    "final_notes": "",
+    "overall": "Overall, an entertaining movie that is led by quotable dialogue and an iconic performance from Nic Cage, but it is basically a Disney dupe of 'Indiana Jones' with tacky 2000s editing and visual effects techniques"
+  },
+  "release_year": 2004,
+  "review_date": "06/16/2025",
+  "redux": false,
+  "id": 570,
+  "imdb_id": "tt0368891"
+}

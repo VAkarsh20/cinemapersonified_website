@@ -1,0 +1,134 @@
+{
+  "title": "House of Gucci",
+  "rating": 4.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ridley Scott"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The tone throughout the movie was incredibly inconsistent, the acting as a whole was not properly conveyed (especially with the accents), and many scenes displayed a sense of awkward silence"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Lady Gaga"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Her mannerisms were very spot on, but some moments definitely shinned more than others"
+        },
+        {
+          "actor": {
+            "name": "Adam Driver"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Though his accent can get very annoying at times"
+        },
+        {
+          "actor": {
+            "name": "Jared Leto"
+          },
+          "rating": "Terrible",
+          "comments": "Possibly one of the worst performances I have every seen, his accent is atrocious and he's comedic when his trying to be serious"
+        },
+        {
+          "actor": {
+            "name": "Jeremy Irons"
+          },
+          "rating": "Good",
+          "comments": "His accent was the only believable one in the entire cast"
+        },
+        {
+          "actor": {
+            "name": "Salma Hayek"
+          },
+          "rating": "Bad",
+          "comments": "Considering she is just using her Mexican Accent while playing an Italian character"
+        },
+        {
+          "actor": {
+            "name": "Al Pacino"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Has his iconic Al Pacino charm but there is still something off with his performance"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Becky Johnston"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Though the cut spends way too much on the exposition and the rise of Patrizia Reggiani that the inevitable fall is kinda rushed and not well developed; the storytelling was decent though it was inconsistent on what elements mattered the most in presenting the story"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Becky Johnston"
+        },
+        {
+          "name": "Roberto Bentivegna"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "While the symbolism is prevalent, the actual dialogue was filled with terrible jokes and forced sayings that made the conversations feel incredibly unnatural"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Harry Gregson-Williams"
+        }
+      ],
+      "rating": "Inconsistent",
+      "comments": "The score was used in moments it was needed and was absent in moments it was desperately needed; its absence helped set the inconsistent tone throughout the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Dariusz Wolski"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Claire Simpson"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Helped with some of the moments in the film"
+    },
+    "production_design": {
+      "rating": "Good"
+    },
+    "makeup": {
+      "rating": "Incredible",
+      "comments": "Considering Jared Leto was unrecognizable"
+    },
+    "costumes": {
+      "rating": "Good to Very Good",
+      "comments": "It was supposed to emulate Gucci after all"
+    },
+    "plot_structure": "Plot Structure was prevalent but not effectively carried out (the movie spends too much time on the rise of the unrecognizable Partizia, that the downfall, climax, and resolution are completely rushed and feel like afterthoughts)",
+    "pacing": "Pacing felt like it was fine until you realize that there is 30 minutes left of the movie and the real conflict has only started to be introduced (this left the final act incredibly rushed)",
+    "climax": "Build to the climax is present (but the audience is already disinterested in the movie at this point that it is kinda useless); the climax and actual key plot point of the movie is horribly conveyed as it is more comical than dramatic",
+    "tone": "Tone of the movie possibly is one of the major reasons the movie is held back as the movie does not know when to be serious or comedic and the lack of score and bad acting adds to the confusion of what importance most of these scenes have",
+    "final_notes": "The aura of the movie is present as it was good to see the 70s/80s/90s having an effect on the fashion and designs of Gucci and the soundtrack used to help show what time period the film is currently in",
+    "overall": "Overall, a very poorly executed movie that cannot be saved by performances from Lady Gaga and Adam Driver as the direction, screenplay, tone, and terrible acting make this movie extremely hard to watch and a mess overall"
+  },
+  "release_year": 2021,
+  "review_date": "11/30/2021",
+  "redux": false,
+  "id": 231,
+  "imdb_id": "tt11214590"
+}

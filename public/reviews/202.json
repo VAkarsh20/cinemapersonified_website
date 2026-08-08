@@ -1,0 +1,116 @@
+{
+  "title": "Black Swan",
+  "rating": 9.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Darren Aronofsky"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale is a controlled chaos, as Aronofsky creates a world where you don't know what is real and what is a lie; the direction on a microscale is very Aronofsky, as he shows he is the master of following a singular protagonist through a character study about dealing with mental illness, this time schizophrenia and perfectionism; the storytelling is great, as the movie builds to where you don't know what is real or fake throughout, then goes full send in the climax; it builds tension very well, as the movie is tense throughout as you piece together what is real and what is fake"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Natalie Portman"
+          },
+          "rating": "Incredible",
+          "comments": "Really makes this movie as she embodies the obsessed artist trope, as Nina's pursuit of greatness and perfection skews her perception of reality"
+        },
+        {
+          "actor": {
+            "name": "Vincent Cassel"
+          },
+          "rating": "Good",
+          "comments": "Plays his role well and has this dynamic with Portman that really helps move the story forward as Nina strives to be the best no matter what"
+        },
+        {
+          "actor": {
+            "name": "Mila Kunis"
+          },
+          "rating": "Very Good",
+          "comments": "Plays somewhat of a \"Mr. Ripley\" role well, as Nina's obsession and jealousy with Kunis feed into the protagonist's delusions"
+        },
+        {
+          "actor": {
+            "name": "Winona Ryder"
+          },
+          "rating": "Good",
+          "comments": "Feels cast because of her career path to that point, as a fading star jealous of being replaced by younger talent"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Everyone adds to the cast in helping move the story forward and aiding in Nina's delusions"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Andres Heinz"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "The concept is a rendition of the 'obsessed' artist trope, but told in a horror perspective as Nina's pursuit of perfection skews her perception of reality; the plot structure is good as the movie is the right length and keeps building to a boiling point that explodes in the climax; the character writing is amazing as this movie is a character study into Nina, a ballet dancer with the obsessed artist trope who wants to be the best and is striving for perfection at the behest of her mental health as her perception of reality skews to the point she doesn't know what is real and what is fake"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mark Heyman"
+        },
+        {
+          "name": "Andres Heinz"
+        },
+        {
+          "name": "John McLaughlin"
+        }
+      ],
+      "rating": "Great",
+      "comments": "A very simple yet complex screenplay (simple in terms of the dialogue as it was very forced/unnatural and made no sense at times, while very complex in terms of the content/subject matter/symbolism in how it presents it); Incredible symbolism and parallel construction on how the obsession of the artist turned the white/innocent swan that Nina was into the dark/lost soul black swan she became at the end of the movie (something that is parallel to Swan Lake)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Clint Mansell"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Blended in very nicely and really liked how they used romantic/Swan Lake motifs"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Matthew Libatique"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Feels very auteur driven with how the film is used and the perspectives they show, as it feels like a spotlight onto Nina the entire time"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Andrew Weisblum"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Great editing/visual effects in how it was molded together to show the hallucinations"
+    },
+    "visual_effects": {
+      "rating": "Very Good",
+      "comments": "See Editing I'm sorry, but I need the text you want me to proofread;"
+    },
+    "pacing": "Pacing was pretty fast/chaotic to mimic that of the mind of Nina (runtime was good (no need to add or cut scenes));",
+    "climax": "The build to the climax was great as you really do not know what is real and what is just made up in Nina's head as she slowly drives into madness on her way to perfection",
+    "final_notes": "",
+    "overall": "Overall, a great horror film that is a character study into the obsessed artist trope as Nina's perception of reality skews the more she strives for perfection, which is brought to life through Aronofsky's auteur-driven direction and Portman's incredible performance"
+  },
+  "release_year": 2010,
+  "review_date": "07/21/2025",
+  "redux": true,
+  "id": 202,
+  "imdb_id": "tt0947798"
+}

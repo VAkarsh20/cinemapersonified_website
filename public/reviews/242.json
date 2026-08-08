@@ -1,0 +1,103 @@
+{
+  "title": "Nobody",
+  "rating": 7.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ilya Naishuller"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Was able to move the story forward decently well even though he could not get the most out of his actors, action scenes were pretty well coordinated"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bob Odenkirk"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "RZA"
+          },
+          "rating": "Decent to Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Christopher Lloyd"
+          },
+          "rating": "Decent to Pretty Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Mainly due to inexperience"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It is kinda just an ex-army, John Wick Copy"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Kinda bland dialogue overall though"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "David Buckley"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Not rememberable"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Pawel Pogorzelski"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "William Yeh"
+        },
+        {
+          "name": "Evan Schiff"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt kinda cheap, though the repetitive editing in the beginning is very symbolic in a way that Requiem for a Dream had those sequences"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure followed the same generic plot structure of a John Wick/Action Movie",
+    "pacing": "Pacing felt very fast (the movie was less than 90 minutes)",
+    "climax": "Build to the climax was very good as it is a culmination of all the action that Odenkirk's character had in him; Climax was good as it was the most action packed moment of the entire movie and was well choreographed",
+    "tone": "Tone of the movie was very dark and grungy (adds to that John Wick feel)",
+    "final_notes": "the action scenes were well choreographed as a whole and shared a very similar stylistic choice to John Wick",
+    "overall": "Overall, a decent watch that was filled with action, though it entirely feels like a John Wick copy (which makes sense given who made the movie)"
+  },
+  "release_year": 2021,
+  "review_date": "03/01/2022",
+  "redux": false,
+  "id": 242,
+  "imdb_id": "tt7888964"
+}

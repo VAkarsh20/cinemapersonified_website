@@ -1,0 +1,126 @@
+{
+  "title": "Nightmare Alley",
+  "rating": 8.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Guillermo del Toro"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Was able to progress the story forward not only from a macro scale but on a micro scale as well (though there were some blimps on that micro scale (some of the scenes felt kinda like filler and empty space))"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bradley Cooper"
+          },
+          "rating": "Good to Very Good acting",
+          "comments": "Played the character very well, the issue was it was more of a mysterious character that only comes out towards the end of the movie (Especially the last 5 minutes)"
+        },
+        {
+          "actor": {
+            "name": "Cate Blanchett"
+          },
+          "rating": "Good to Very Good",
+          "comments": "It felt like a lot of the prep/performance was borrowed from her portrayal as Katharine Hepburn in The Aviator"
+        },
+        {
+          "actor": {
+            "name": "Toni Collette"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Willem Dafoe"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Rooney Mara"
+          },
+          "rating": "Pretty Good",
+          "comments": "Kinda a boring character altogether"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Guillermo del Toro"
+        },
+        {
+          "name": "Kim Morgan"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "A story surrounded in mystery and the passage of time is handled very well through its subtle details, though it may just be the source material because it almost feels like nothing major is happening throughout"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Guillermo del Toro"
+        },
+        {
+          "name": "Kim Morgan"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The symbolism is prevalent and the screenplay is pretty true to the time"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nathan Johnson"
+        }
+      ],
+      "rating": "Decent to Pretty Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Dan Laustsen"
+        }
+      ],
+      "rating": "Brilliant",
+      "comments": "Possibly one of the best shot movies I have ever scene, the transition and camera angles used to help tell the story was honestly breath-taking"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Cam McLauchlin"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Pretty Good to"
+    },
+    "visual_effects": {
+      "rating": "Good"
+    },
+    "production_design": {
+      "rating": "Incredible",
+      "comments": "It feels like this movie is from the same universe as The Shape of Water as the sets and styles feel awfully similar to that movie, which is fine because the Production design for that movie was also a standout"
+    },
+    "plot_structure": "Plot Structure is laid out very well as it is easy to follow where we are in the story and which part of the narrative arc we are",
+    "pacing": "Pacing was slow and consistent throughout the movie (not a bad thing)",
+    "climax": "Build to climax was very good as it was show overtly why the climax was important and what built up to it; climax was shown very well as it symbolizes the downfall of Cooper's character as he get's himself in too deep",
+    "tone": "Tone of the movie was very good as the Neo Noir style added to the historical and dark feel of the movie that was mysterious throughout",
+    "final_notes": "It may have been an issue from the source material but did not feel as if the movie was that new or captivating in what it was trying to show (it felt like a formulaic movie that was pretty surface level)",
+    "overall": "Overall, Good to Very Good movie that is visually appealing as we go through the mystery of the characters that was a fun and captivating watch, though it is a bit surface level in both its formulaic plot structure and story leaving us wanting more as it feels like nothing really happens"
+  },
+  "release_year": 2021,
+  "review_date": "03/15/2022",
+  "redux": false,
+  "id": 245,
+  "imdb_id": "tt7740496"
+}

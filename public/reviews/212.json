@@ -1,0 +1,96 @@
+{
+  "title": "The Wrestler",
+  "rating": 9.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Darren Aronofsky"
+        }
+      ],
+      "rating": "Great"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Mickey Rourke"
+          },
+          "rating": "Incredible"
+        },
+        {
+          "actor": {
+            "name": "Marisa Tomei"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "Evan Rachel Wood"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Some moments were good and some moments were pretty bad"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Anywhere from pretty bad to pretty good"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Robert Siegel"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The plot develops into seeing how being past his prime has an effect on the Ram as he tries to escape loneliness"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Robert Siegel"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "With some moments being Incredible with the dialogue and symbolism and some moments being pretty iffy"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Clint Mansell"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Use was subtle"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Maryse Alberti"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "On a spectrum; nauseating a lot of the times, but the single camera action does help show the loneliness of the Ram"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Andrew Weisblum"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Used well to show how the Ram still views/hold onto his life as a wrestler even though he is well past his prime (best scene to show this was his walkup to working his first shift at the deli)"
+    },
+    "pacing": "Pacing was good towards the ends of the movie but the third act out of 4 felt really slow and dragging at times; runtime was good (no need to add/cut scenes,maybe in that third act)",
+    "climax": "The build to the climax was a full 180 and very sudden (not executed very well overall) but the actual climax of the movie was its best moment (climax/ending of the movie was incredible and extremely well done as you see how the Ram comes to terms with the choices he has made and the path he sets for himself (especially on how he views his relationships with his lover and his daughter/ his relationship with the fans)",
+    "final_notes": "The character of the Ram was very well written as a lost soul who clings onto the highs of his life but instead dives deeper into the loneliness of humanity; very accurate representation of wrestling and wrestling technique",
+    "overall": "Overall, a Great to Incredible movie that shows the loneliness of clinging to the past and the eventual hole you can never get out of as we view the life of the Ram trying to come to terms with his life despite the best parts of his wrestling career being behind him (though the third act out of 4 was not as well executed as I would have liked it to be)"
+  },
+  "release_year": 2008,
+  "review_date": "07/24/2021",
+  "redux": false,
+  "id": 212,
+  "imdb_id": "tt1125849"
+}

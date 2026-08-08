@@ -1,0 +1,89 @@
+{
+  "title": "Full Metal Jacket",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Stanley Kubrick"
+        }
+      ],
+      "rating": "Great"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Matthew Modine"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Vincent D'Onofrio"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Lee Ermey"
+          },
+          "rating": "Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Most were pretty good but some were mediocre"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Stanley Kubrick"
+        },
+        {
+          "name": "Michael Herr"
+        },
+        {
+          "name": "Gustav Hasford"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Very good in the boot camp (first 40%) and Good during the Vietnam War parts"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Stanley Kubrick"
+        },
+        {
+          "name": "Michael Herr"
+        },
+        {
+          "name": "Gustav Hasford"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Deviates from the source material but is still very whitty and bends the line between comical and serious very well"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Douglas Milsome"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Very Kubrick in style but still is a bit different as it still has similar tones to traditional war movies"
+    },
+    "pacing": "Pacing was generally very slow but consistent to Kubrick style pacing",
+    "climax": "The build to the climax is not that well done as there are many jumps in the narrative and the resolution does not really exist",
+    "final_notes": "Very well choreography war scenes",
+    "overall": "Overall, a good movie that shows the horrors of war and the effects it has on soldiers, but is very shallow in its meaning and message when compared to Kubrick's other films"
+  },
+  "release_year": 1987,
+  "review_date": "12/23/2020",
+  "redux": false,
+  "id": 171,
+  "imdb_id": "tt0093058"
+}

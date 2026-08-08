@@ -1,0 +1,127 @@
+{
+  "title": "Frankenstein",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Guillermo del Toro"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is very typical of other GDT movies in how beautiful and expensive it is, creating a fantasy world in a science fiction realm that encompasses the gothic tone of the book; The direction on a microscale is fine and very typical of the Regency period, but I did not feel like the characters really connected or came across as they should have; The storytelling is a tale of two halves, as the first half feels incredibly boring because it tries to be more of a science fiction story rather than horror, even though that is what the book actually is, and the second half is better but feels slower than it needs to be; Tension is not built well as the movie trades horror for science fiction, which makes the movie more boring than entertaining"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Oscar Isaac"
+          },
+          "rating": "Decent",
+          "comments": "An example of a good actor that is miscast because I really don't feel like his strengths come out in a period piece; he feels very restricted in what he can do, and it just doesn't feel like this role is written for him; despite the fit, he does make the most out of the role"
+        },
+        {
+          "actor": {
+            "name": "Jacob Elordi"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Feels like anyone would do well in this role as he doesn't really bring too much to the character, but he does a good job portraying the human nature of the creature"
+        },
+        {
+          "actor": {
+            "name": "Mia Goth"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Feels miscast in this role because it does not suit her strengths at all, and there is a strong mismatch because of it"
+        },
+        {
+          "actor": {
+            "name": "Christoph Waltz"
+          },
+          "rating": "Good",
+          "comments": "The only character in this movie that was well-cast as he uses his experience to make the character feel accurately portrayed"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Many people in this movie feel miscast and it really detracts from the overall experience"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Guillermo del Toro"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a science fiction, gothic retelling of Mary Shelley's Frankenstein, so it trades campy horror to be more true to the book, but that also means the story is less interesting; The plot structure follows the Steve Coogan non-linear format of two halves that starts at the end and tells two sides of the story while jumping back to the conclusion; The first half of the movie is very boring and could have been cut by twenty minutes, and the second half is better but slow, so it could have been cut by ten minutes to make it more engaging; Character writing is surface level but does have meaning, especially toward the end as you find out who the real monster is while the creature tries to mature and learn from his surroundings; The remaining characters are templated Gothic Regency characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Guillermo del Toro"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is very gothic and typical of the Regency era, with nothing special; The symbolism is surface level but touches on themes of hypocrisy and what it means to be a sentient, moral human as we learn who the real monster is; The foreshadowing is good because of how the story is structured in its two-half nature that starts at the end and periodically jumps back to it"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score uses orchestral and gothic elements to bring to life the time period and science fiction nature of this movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Dan Laustsen"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Visually stunning from an artistic standpoint, the cinematography helps show the beauty in this gothic, science fiction world; It is very typical of other GDT movies in its grandiose and expensive look; While I felt it was visually stunning, it was a little too artistic for me because they would perform artistic pans during the most bland 1:1 scenes for no reason"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Evan Schiff"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The film is well edited and sharp"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "The sound design and effects help bring to life the gothic and science fiction world"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "The practical effects for this movie were good, but the CGI felt very tacky and fake, especially the animals"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "The sets for this movie were beautifully constructed as they created the gothic, science fiction world where you would imagine this story took place, coupled with the ornate European architecture of the Regency period"
+    },
+    "makeup": {
+      "rating": "Very Good",
+      "comments": "The makeup paints and brings to life the creature"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "The costumes were used in conjunction with the production design to create beautiful, ornate clothing that brings to life the Regency period and the Gothic era"
+    },
+    "pacing": "Pacing is a huge problem for this movie because it is incredibly slow, which makes it feel very boring; The second half picks up a bit more but still drags a good amount; If twenty minutes were cut from the first half and ten minutes from the second half, the flow of the movie would be much better",
+    "climax": "The climax is well executed and says a lot about the themes of the movie, but it did not feel worth the journey required to get there",
+    "tone": "The tone is very gothic and science fiction, which hurt the movie for me because I subconsciously thought there would be horror elements to make the movie more interesting, but there were not, and it made the movie feel more boring",
+    "final_notes": "",
+    "overall": "Overall, Guillermo del Toro's Frankenstein is visually stunning with its beautiful artistic elements and cinematography, but it ultimately does not live up to its potential as the performances feel miscast and the narrative is too bloated, causing the movie to feel boring in the first half and slow in the second"
+  },
+  "release_year": 2025,
+  "review_date": "01/26/2026",
+  "redux": false,
+  "id": 644,
+  "imdb_id": "tt1312221"
+}

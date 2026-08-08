@@ -1,0 +1,142 @@
+{
+  "title": "The Northman",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "I really enjoyed how he was able to progress the story forward with his use of continuous camera angles and action; also, he was able to get the most out of his actors in almost every scene"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Alexander Skarsgård"
+          },
+          "rating": "Very Good",
+          "comments": "Played more of a reserved character that could not get that much out of his talent, but he was still able to play his role very well and play the menacing character filled with trauma"
+        },
+        {
+          "actor": {
+            "name": "Nicole Kidman"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Her character was not showed as much as it should have but did a good job with the role she was given"
+        },
+        {
+          "actor": {
+            "name": "Claes Bang"
+          },
+          "rating": "Good",
+          "comments": "Played the antagonist very well and was an easy target to why Amleth wanted to get revenge on him"
+        },
+        {
+          "actor": {
+            "name": "Anya Taylor-Joy"
+          },
+          "rating": "Very Good",
+          "comments": "The accent was needing to get used to, but she was able to carry out her character very well"
+        },
+        {
+          "actor": {
+            "name": "Ethan Hawke"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Played his character well despite only being present in the beginning of the movie"
+        },
+        {
+          "actor": {
+            "name": "Willem Dafoe"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Very small presence in the movie but he had a very memorable performance due to the character being very Dafoe-esque"
+        }
+      ],
+      "cast": {
+        "rating": "Good"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Sjón"
+        },
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Pretty predictable because of it being closely tied to Hamlet, but the actual elements I did enjoy"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Sjón"
+        },
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Pretty simplistic due to it being a Norse epic (and how epics usually are), but had no major holes in it"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Robin Carolan"
+        },
+        {
+          "name": "Sebastian Gainsborough"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jarin Blaschke"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Especially how there were different tracking shots during the action scenes, as well as the different angles they chose throughout the movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Louise Ford"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "sound": {
+      "rating": "Very Good"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Especially during the hallucination scenes as they felt borderline cartoonish"
+    },
+    "production_design": {
+      "rating": "Good"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Especially the use of blood to show carnage"
+    },
+    "plot_structure": "Plot Structure was well laid out well as it was pretty simplistic (followed the generic epic/Hamlet plot structure)",
+    "pacing": "Pacing was good (nothing to really cut out or add)",
+    "climax": "Build to climax was prevalent and carried out very well as it was something that the movie was building towards for the entire movie; climax was carried out very nicely as it was the battle/revenge that Amleth was fighting for for the entire movie",
+    "tone": "Tone was very norse/epic-esque and was carried out pretty well given that was what the director was going for",
+    "final_notes": "I was still a fan of what they were able to carry out even with a very simplistic source material as I am usually not a fan of these types of movies",
+    "overall": "Overall, a epic that is a good watch filled with many good performances, great cinematography, and well carried out action scenes, but is still simplistic given the plot and how cliche/predictable it got at times"
+  },
+  "release_year": 2022,
+  "review_date": "05/24/2022",
+  "redux": false,
+  "id": 257,
+  "imdb_id": "tt11138512"
+}

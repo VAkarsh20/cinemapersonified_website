@@ -1,0 +1,138 @@
+{
+  "title": "Eternity",
+  "rating": 8.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Freyne"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale feels like an homage to 60s cinema, while also using the ridiculousness of the world to add to the humor; The direction on a microscale feels like 60s cinema, and it does a good job of bringing out the comedy and the relationships in the interpersonal scenes; Storytelling is pretty simple, often using comedy and love story tropes to fall back on to drive the story forward; Tension is built by using your interest in this love triangle to keep you invested in what happens next"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Miles Teller"
+          },
+          "rating": "Good",
+          "comments": "Has a lot of charisma and comedic timing; Has good chemistry with the cast, especially Olsen and Joy Randolph"
+        },
+        {
+          "actor": {
+            "name": "Elizabeth Olsen"
+          },
+          "rating": "Good",
+          "comments": "Plays the lead well and has this 60s aura that really works for her character; has good chemistry with Teller and Turner to help bring to life this love triangle"
+        },
+        {
+          "actor": {
+            "name": "Callum Turner"
+          },
+          "rating": "Pretty Good",
+          "comments": "Pretty good in his role and holds his own; He has pretty good chemistry with the cast, especially Olsen"
+        },
+        {
+          "actor": {
+            "name": "John Early"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays his role well, and he has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Olga Merediz"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has pretty good comedic timing and pretty good chemistry with the cast, especially Olsen"
+        },
+        {
+          "actor": {
+            "name": "Da'Vine Joy Randolph"
+          },
+          "rating": "Good",
+          "comments": "Shows her Oscar-winning talent as she fills up the room with her personality and charm and has great chemistry with Teller"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their role well in helping elevate the cast and playing to the comedy standards the movie sets"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Pat Cunnane"
+        },
+        {
+          "name": "David Freyne"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is a pretty unique idea for a love triangle as it explores this idea in the afterlife, touching on ideas of morality and love in a fun and cute way; The plot structure is pretty linear and formulaic; Character writing is pretty standard for a love triangle with characters being from the 50s and 60s"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Pat Cunnane"
+        },
+        {
+          "name": "David Freyne"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is funny as they do a good job trying to mix humor into the dialogue to make the movie funny and cute;  The humor is a big part of the storytelling as it makes the movie fun and enjoyable, even though it tries to be a little too funny with there being a joke in almost every piece of dialogue;  The symbolism is fun and cute as it touches on topics like love and morality, and how this plays into the afterlife;  The foreshadowing is present and fine for the most part, even though it is a bit predictable towards the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "David Fleming"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Pretty standard, helps with setting the tone and creating an entertaining energy"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good to Good",
+      "comments": "Pays homage to the 50s and 60s"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Ruairí O'Brien"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Standard for a Rom-Com;  pays a part in helping set up jokes and making the movie funny"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Sawyer"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Standard for a rom-com; pays a part in helping set up jokes and making the movie funny"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "Make this world feel unique, as the idea of a junction before finding your eternity plays a part in the messaging for the movie, and it plays a part in the humor because many of the jokes are laid into the production design itself"
+    },
+    "costumes": {
+      "rating": "Pretty Good"
+    },
+    "pacing": "Pacing is fine for the most part, but a bit slower in the second half",
+    "climax": "Climax is cute and enjoyable, but feels very formulaic with other rom-coms that involve a love triangle",
+    "tone": "Tone very much feels like a Rom-Com that pays homage to the 50s and 60s",
+    "final_notes": "Saw premiere at Austin Film Festival",
+    "overall": "Overall, a cute rom-com that explores the love triangle dynamic in a unique way by touching on themes of morality and the afterlife; this movie does a good job incorporating humor throughout, but is still pretty formulaic to the rom-Com template as the second half of the movie becomes pretty safe and predictable"
+  },
+  "release_year": 2025,
+  "review_date": "10/26/2025",
+  "redux": false,
+  "id": 621,
+  "imdb_id": "tt24950660"
+}

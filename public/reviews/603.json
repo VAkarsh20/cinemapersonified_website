@@ -1,0 +1,138 @@
+{
+  "title": "Forbidden City",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gabriele Mainetti"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale is good, as they show this Chinese world is embedded in Rome, and they do an amazing job building the kung-fu action sequences, as it makes this movie feel like an action-packed adventure; The direction on a microscale is good, as the movie is built on its interpersonal sequences between the characters, as it makes you empathize with their struggles; The storytelling is good for the most part, as you get invested in the story, but the structure feels like an adrenaline dump, as there are two climaxes; Tension is built well, as you really get emotionally invested in these characters, and tension is built well in the action sequences"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Enrico Borello"
+          },
+          "rating": "Decent to Pretty Goof",
+          "comments": "A little bit stiff at first, but comes into his own towards the midway point and plays a lead with some range well; has good chemistry with Liu"
+        },
+        {
+          "actor": {
+            "name": "Yaxi Liu"
+          },
+          "rating": "Good",
+          "comments": "Has a good amount of range and really embodies someone mourning the loss of her sister; shows poise and expertise in the action scenes; has good chemistry with Borello"
+        },
+        {
+          "actor": {
+            "name": "Marco Giallini"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Feels like an experienced actor who really steals scenes he is in and lifts up his cast mates; has good chemistry with Borello"
+        },
+        {
+          "actor": {
+            "name": "Sabrina Ferilli"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays her role well; Has pretty good chemistry with Borello; Isn't really given that much to work with"
+        },
+        {
+          "actor": {
+            "name": "Chunyu Shanshan "
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the typical menacing villain well"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Everyone plays their roles well and helps lift up the cast"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Stefano Bises"
+        },
+        {
+          "name": "Gabriele Mainetti"
+        },
+        {
+          "name": "Davide Serino"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is unique and interesting because it is a familial story told with different cultures that are interesting, with a Kung-Fu and romance movie attached as well; The plot structure is pretty good for the most part because it is a main story with two subplots, but this kind of hurts the ending because there is a climax and then a second climax right after because it had to end the main revenge story and then the familial conflicts right after; Character writing is good because you care about these characters and their struggles, painted with a lot of depth that makes them memorable"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Stefano Bises"
+        },
+        {
+          "name": "Gabriele Mainetti"
+        },
+        {
+          "name": "Davide Serino"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is good and well written; The humor is definitely there and helps make the movie feel genreless at times, and it helps ease the tension in the movie; The symbolism is strong in this movie because it touches on familial topics, cultures clashing and melting together, and romantic interests; The foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Fabio Amurri"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Blends Chinese and Italian influences to make this movie feel like a melting pot of both cultures; Used effectively to build tension and help set the tone, especially in the action sequences"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Paolo Carnera"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Executed and shot well, really helps bring to life the action sequences"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Francesco Di Stefano"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Executed and shot well really help bring to life the action sequences"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Executed and shot well really helps bring to life the action sequences"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Help really brings the actions to life, especially with the use of practical effects"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Helps show the juxtaposition of this Chinese culture inside Rome"
+    },
+    "pacing": "Pacing is pretty good for the most part, but gets kind of slow at times; The way the climaxes are structured, everything in the end of the movie feels slow as you had an adrenaline dump from the first climax",
+    "climax": "Climax is a big issue with this movie because there are two separate climaxes;  When the first climax ends, you have a huge adrenaline dump that doesn't allow you to experience the second climax",
+    "tone": "Tone is a mix of many genres, as this is truly a melting pot a kung-fu movie, a familial drama, and a romance",
+    "final_notes": "Saw premiere at Fantastic Fest",
+    "overall": "Overall, a true melting pot of a movie as it is a kung-fu, familial drama, and romance all wrapped up in one that juxtaposes Chinese and Italian cultures to make an entertaining experience; but, it is really held back by its dual climax structure because you have such an adrenaline dump after the first that you really do not want to go through a second"
+  },
+  "release_year": 2025,
+  "review_date": "09/20/2025",
+  "redux": false,
+  "id": 603,
+  "imdb_id": "tt27766538"
+}

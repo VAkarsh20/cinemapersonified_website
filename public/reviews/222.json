@@ -1,0 +1,138 @@
+{
+  "title": "28 Days Later",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Danny Boyle"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is very good, as he creates this post-apocalyptic England that has been infected by the RAGE Virus; but while I do think the raw grittiness and guerrilla style suits this film very well to add to this 'found footage' aesthetic, it is a bit dated and reeks of the early 2000s; the direction on a microscale is pretty good, as the interpersonal scenes make you care about the characters, although it falls apart towards the end as the supporting cast feels a little over-the-top and forced; the storytelling is very guerrilla and raw, to help aid this post-apocalyptic aesthetic; they build tension very well, as this adds to the horror aspects of this movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Cillian Murphy"
+          },
+          "rating": "Good",
+          "comments": "Plays the lead well and helps capture the traumatic experience of being part of this post-apocalyptic world; Has pretty good chemistry with Harris"
+        },
+        {
+          "actor": {
+            "name": "Naomie Harris"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the apocalyptic warrior well and has pretty good chemistry with Murphy"
+        },
+        {
+          "actor": {
+            "name": "Christopher Eccleston"
+          },
+          "rating": "Decent",
+          "comments": "A little over the top and stoic, but plays his role decently well"
+        },
+        {
+          "actor": {
+            "name": "Megan Burns"
+          },
+          "rating": "Decent",
+          "comments": "Child actor"
+        },
+        {
+          "actor": {
+            "name": "Brendan Gleeson"
+          },
+          "rating": "Good",
+          "comments": "Shows how experienced an actor he is, as he is able to connect with the remaining cast and show emotion and humor through such a tough time"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "Felt like low-budget background actors, though some showed emotion; Infected are, infected"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Alex Garland"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The concept is influential as it was a huge driving factor in reviving the infected/zombie genre in the early 2000s, though the inception of the virus was a pretty stupid idea; the plot structure is pretty good for the most part, but the third act felt very different, and the ending felt incredibly safe; character writing is good as you really do care for these characters and how they work through the trauma of the experience"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Alex Garland"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is memorable and profound as it makes you care about what these characters are going through, though it is a little corny at times; The symbolism is present as the movie talks about anarchy and what would happen with the spread of a virus and if the government is lost, something that is surprisingly relevant 20 years later; The foreshadowing is present, but it makes the movie feel a little corny and safe in the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Murphy"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Use these that have become iconic with both the franchise and the genre too; Helps with setting the tension"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Very early 2000s"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Anthony Dod Mantle"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Presents a raw feeling of fear and desolation; The found footage guerilla aesthetic helps set the tone for the movie, though it does play into the movie reeking of the early 2000s because the technology has not aged well"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chris Gill"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The jump cuts and style help play to this found footage guerilla aesthetic in this post-apocalyptic world, though it also reeks of the early 2000s"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps with establishing the fear, the tension, pretty good for a low-budget movie"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "For what the budget was and what technology was present at the time, they really pushed what was available to them as it helped create an entertainingly scary infected movie, though there are noticeable moments where it is obvious this is low budget"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "Helps show the abandoned Britain from this virus and lost society"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Help paint the infected"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Helps paint the infected;"
+    },
+    "pacing": "Pacing was the right pace for the first two acts, but feels like it drags in the final act",
+    "climax": "Climax was executed well from an action standpoint, but it felt like it dragged a bit; the ending was not necessarily bad, but incredibly safe",
+    "tone": "Tone is an early 2000s post-apocalyptic film that is shot in a guerilla style; I enjoyed how the movie was more about finding hope rather than living in fear",
+    "final_notes": "",
+    "overall": "Overall, a good horror movie that revived the infected/zombie genre in the 2000s, as Danny Boyle, Alex Garland, and Cillian Murphy push the bounds with this low-budget movie to create a post-apocalyptic Britain, even though the movie badly reeks of the early 2000s"
+  },
+  "release_year": 2002,
+  "review_date": "06/21/2025",
+  "redux": true,
+  "id": 222,
+  "imdb_id": "tt0289043"
+}

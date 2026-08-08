@@ -1,0 +1,124 @@
+{
+  "title": "Toy Story",
+  "rating": 9.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "John Lasseter"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "The direction on a macroscale is as this build, this world told from the perspective of Toy Level, making everything bigger than it looks; the direction on a microscale is incredible, as the dynamic between all the toys is iconic, especially between Woody and Buzz; the storytelling is amazing, as they really tell such a rich story with very little runtime, it is concise and gets to the point that it is easy to understand for everyone; they build tension surprisingly well, as it is more about caring for these iconic characters as they encounter challenges in the story"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Hanks"
+          },
+          "rating": "Brilliant",
+          "comments": "Redefined the voice acting industry with this role as he perfectly embodies not only Woody but the emotions the character is going through as well; He has excellent chemistry with Allen"
+        },
+        {
+          "actor": {
+            "name": "Tim Allen"
+          },
+          "rating": "Incredible",
+          "comments": "A pillar in CGI voice acting as he perfectly embodies the stiff nature of Buzz Lightyear, while simultaneously giving him emotion despite his character not having any in the first half;  He has excellent chemistry with Hanks"
+        },
+        {
+          "actor": {
+            "name": "Don Rickles"
+          },
+          "rating": "Great",
+          "comments": "The true comedic relief character for this movie is as he's basically just playing himself, but toned down for a family audience"
+        }
+      ],
+      "cast": {
+        "rating": "Very Good",
+        "comments": "Everyone plays their role very well as this cast is cohesive and has great chemistry"
+      },
+      "rating": "Great to Incredible"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "John Lasseter"
+        },
+        {
+          "name": "Pete Docter"
+        },
+        {
+          "name": "Andrew Stanton"
+        },
+        {
+          "name": "Joe Ranft"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "The concept is iconic, as telling a story and building a world from the perspective of toys is one of the most important stories and franchises in animated history; the plot structure is short and to the point, as there is no fluff in this 80 minute runtime; character writing is iconic, as they created such iconic characters that have become such a mainstay in animated history, also making them fallible by making Woody jealous, and Buzz delusional and depressed"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Joss Whedon"
+        },
+        {
+          "name": "Andrew Stanton"
+        },
+        {
+          "name": "Joel Cohen"
+        },
+        {
+          "name": "Alec Sokolow"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is iconic and fits all ages, being friendly and profound at the same time; The humor is fun and playful for all ages, especially from Don Rickles; The symbolism is strong for an animated movie, as the movie touches on themes of jealousy, identity, and judgment; The foreshadowing is what you would expect from an animated movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Randy Newman"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Playful and iconic, truly the start of not only establishing the Toy Story franchise but also how other Pixar movies sound"
+    },
+    "soundtrack": {
+      "rating": "Great",
+      "comments": "\"You got a friend in me\" is one of the most iconic songs in movie history and plays an integral part in not only the score but the movie's themes; the rest of the songs are good too"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Robert Gordon"
+        },
+        {
+          "name": "Lee Unkrich"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Well stitched together and helps make the movie feel tight, while not being simultaneously either bloated or rushed"
+    },
+    "sound": {
+      "rating": "Great",
+      "comments": "Helps make this move feel playful and fun, ushering in a new way we hear animated movies"
+    },
+    "animation": {
+      "rating": "Incredible",
+      "comments": "Groundbreaking for the time, Pixar took CGI animation to new limits with this, ushering in a new era of 3D animation that became the mainstay in movie history; feels a little dated looking, but holds up pretty well regardless"
+    },
+    "pacing": "Pacing is surprisingly tight for only an 80-minute runtime, as it doesn't feel rushed or dragging at any moment; this is a testament to a well-structured plot that has no fluff",
+    "climax": "Climax is fun and entertaining for all ages, and it brings closure to the 80-minute journey you go on with these characters",
+    "tone": "Tone ushered in a new way we view animated movies as this created the \"Pixar\" feel with 3D animated stories that are for children yet are profound in their messaging for all ages",
+    "final_notes": "Watched 30th-year anniversary re-release",
+    "overall": "Overall, a milestone in animation, Toy Story reinvented the stories we could tell with animation and how we told them, with its groundbreaking CGI animation, profound storytelling, and iconic characters that have become a mainstay in pop culture"
+  },
+  "release_year": 1995,
+  "review_date": "09/14/2025",
+  "redux": false,
+  "id": 598,
+  "imdb_id": "tt0114709"
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Primate",
+  "rating": 5.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Johannes Roberts"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is pretty good, as they capture the gory horror aesthetic well and make you crawl in your seat with the rage and rampage you are watching; the direction on a microscale is bad because it's Outer Banks level acting and writing that makes it feel like a stupid teen comedy; storytelling is pretty minimal because there really isn't any story; tension is built pretty well as you crawl in your seat with what you're watching on screen, while simultaneously being mad at them making dumb decisions"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Johnny Sequoyah"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Typical Final Girl performance, feels like Outer Banks level acting in the teen comedy moments"
+        },
+        {
+          "actor": {
+            "name": "Jessica Alexander"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Outer Banks-level acting and decision-making"
+        },
+        {
+          "actor": {
+            "name": "Troy Kotsur"
+          },
+          "rating": "Good",
+          "comments": "The only experienced actor in the cast, as it shows when he is acting and interacting with his castmates; He has poise and really makes his scenes better"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Does not include any child actors; Outer Banks level acting from the entire cast as it is just bad and cringey teen movie acting"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Johannes Roberts"
+        },
+        {
+          "name": "Ernest Riera"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is simple, basically a chimp goes crazy from rabies; The plot structure is basically just a rampage for an hour with very minimal exposition; Character writing is there, but you don't really care for any of these characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Johannes Roberts"
+        },
+        {
+          "name": "Ernest Riera"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is extremely bad because it's Outer Banks level writing; the humor is dumb teen comedy humor; the symbolism is what you would expect from a dumb comedy; I did enjoy the linguistics and deaf aspects of this movie; the foreshadowing is what you expect from a movie like this considering it's not original at all"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "execs ask \"what's the most popular song of summer 2024\" for a movie that comes out in 2026"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Stephen Murphy"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels high budget and polished; helps with establishing tension"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Peter Gvozdas"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels high budget and polished; helps with establishing tension"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps with establishing tension, what you would expect from a horror movie"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Really enjoyed the use of practical effects and puppetry; made the kills feel gory yet realistic"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "helps showcase the gore and destruction"
+    },
+    "pacing": "Even though this movie is less than 90 minutes, it still moves very slowly because there isn't any plot; it's just carnage for an hour",
+    "climax": "Climax is entertaining and well executed, more about creating a show rather than having any substance",
+    "tone": "Tone is very much a teen-led, high-budget horror movie that feels like an Outer Banks teen comedy at moments; the horror tones were pretty standard",
+    "final_notes": "Saw press screening at Fantastic Fest",
+    "overall": "Overall, an entertaining horror movie that is just carnage for an hour with cool practical effects, but Primate knows what it is trying to be because there is no effort to give this movie a story and direct these Outer Banks level teen actors"
+  },
+  "release_year": 2025,
+  "review_date": "09/19/2025",
+  "redux": false,
+  "id": 600,
+  "imdb_id": "tt33028778"
+}

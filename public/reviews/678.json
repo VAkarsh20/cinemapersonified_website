@@ -1,0 +1,125 @@
+{
+  "title": "Tuner",
+  "rating": 8.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Daniel Roher"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macro scale feels like a heist thriller with its topic and premise, but it also has an indie feel with the editing and tone; Despite being an indie movie, it still looks very polished and like a big-budget heist movie; The direction on a micro scale is very much what you would see from an indie drama; The storytelling is good, as it is clear what the motives are and how the story progresses; Tension is built well, as it uses sound to mimic how the protagonist views the world, making moments feel deafening when it gets either too muffled or too loud"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Leo Woodall"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays the character well as his charisma is felt coming off the screen; works with some really good material towards the end of the movie, with his monologue before the climax feeling very powerful; has good chemistry with Hoffman and Liu"
+        },
+        {
+          "actor": {
+            "name": "Havana Rose Liu"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the love interest well, and has moments where she shines, but it honestly feels like she's play a very templated character I've seen before; has good chemistry with Woodall"
+        },
+        {
+          "actor": {
+            "name": "Lior Raz"
+          },
+          "rating": "Pretty Good",
+          "comments": "Makes him pretty obnoxious and your templated Villain, making it a bit obvious what his role in the movie is; fine overall and makes his presence on screen known, mainly because of how loud he is"
+        },
+        {
+          "actor": {
+            "name": "Dustin Hoffman"
+          },
+          "rating": "Good",
+          "comments": "Glad to see he's still got his fastball because he really takes over his scenes and shows why he is one of cinemas greatest actors; has good chemistry with Woodall"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone in the cast plays their role well and helps with moving the story forward; chemistry in the cast overall is pretty good "
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Daniel Roher"
+        },
+        {
+          "name": "Robert Ramsey"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is quite interesting, as it uses the protagonist's condition to show his musical background and the world he enters with his hypersensitive hearing, helping the movie cater to both the indie crowd and a broader audience with its safecracking premise; The plot structure is quite simple and standard; The character writing is good for the protagonist, as it shows how much he has lost with his hearing condition and how much it has affected him and his worldview, especially in his monologue toward the end; The rest of the characters are very formulaic and predictable"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Daniel Roher"
+        },
+        {
+          "name": "Robert Ramsey"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is strong and sharp, making the movie flow well while also being profound at moments; The humor is quite good, as it helps the movie feel entertaining; The symbolism is quite strong, as the movie deals extensively with motivation and intent, especially regarding how the protagonist cracks safes and steals not because he wants the money, but because he wants to help the people he cares about; The foreshadowing is not the best, as the ending becomes quite predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Will Bates[1]"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The score really helps set the tone for the movie, both in the heist-thriller sequences and in the musical jazz sequences; With sound and music being instrumental to the story, the score does it justice by helping complement its themes"
+    },
+    "soundtrack": {
+      "rating": "Good to Very Good",
+      "comments": "The soundtrack uses many famous jazz and classical pieces to show the piano and musical background of the character, which makes sense because he is a piano tuner, after all"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Lowell A. Meyer"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The film is shot very well, as it makes the movie feel like both a big-budget action heist in the thriller moments and a warm indie movie in the interpersonal scenes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Greg O'Bryant"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "It is edited very well, making the movie feel like both a big-budget action heist in the thriller moments and an innovative indie movie in the music and tuning scenes, especially when it uses fast, hip-hop edits"
+    },
+    "sound": {
+      "rating": "Great",
+      "comments": "Sound is integral to telling the story because of the protagonist's condition, and the filmmakers did him justice by using sound to help establish the tone, as it makes the movie feel deafening when it is muffled and when it is too loud, allowing the audience to share the same ears as the protagonist; Seeing this movie in Dolby Cinema did it justice, as it was the first time I could really hear the Dolby Atmos difference for a movie, which accentuated his hearing condition"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "I thought the theater sequences looked very well designed, and the movie uses New York City well"
+    },
+    "pacing": "The pacing is about right, but it does feel a bit slower toward the end",
+    "climax": "The climax is a little predictable, but it ends the movie well, especially with the resolution",
+    "tone": "The tone is unique for this movie because it has a big-budget heist feel on a macro scale for the heist sequences, but it also has a warm indie feel for the interpersonal scenes to show that this is inherently an indie movie",
+    "final_notes": "Seeing this in Dolby Cinema really made a difference, as the sound felt so crisp and precise, complementing the great sound design for the movie",
+    "overall": "Overall, 'Tuner' is a good movie that feels like a big-budget heist thriller despite its indie roots, carried by strong performances from Leo Woodall and Dustin Hoffman and well-executed technicals, especially its sound, as it immerses you in the protagonist's unique auditory experience and sensitivity to sound, which was fully amplified by Dolby Atmos"
+  },
+  "release_year": 2025,
+  "review_date": "05/17/2026",
+  "redux": false,
+  "id": 678,
+  "imdb_id": "tt33296751"
+}

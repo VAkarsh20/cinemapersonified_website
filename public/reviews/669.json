@@ -1,0 +1,131 @@
+{
+  "title": "Pizza Movie",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Brian McElhaney"
+        },
+        {
+          "name": "Nick Kocher"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale feels as if the Disney Channel somehow wanted to make a stoner comedy for college kids; The direction on a microscale is very Disney Channel coded, as if it were somehow a stoner movie made for college kids; The storytelling is pretty basic; Tension is pretty fake, as it is very much exaggerated for comedic effect, especially if you are high"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Gaten Matarazzo"
+          },
+          "rating": "Pretty Good",
+          "comments": "Kinda uses his experience as Dustin from Stranger Things to play this awkward kid who is actually smart and witty; has decent chemistry with Giambrone"
+        },
+        {
+          "actor": {
+            "name": "Sean Giambrone"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "He plays his character fine as this awkward and shy college kid, but I just hated his voice the entire time (which is probably what they were going for); has decent chemistry with Matarazzo"
+        },
+        {
+          "actor": {
+            "name": "Lulu Wilson"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just is there; her chemistry is alright with the main two characters"
+        },
+        {
+          "actor": {
+            "name": "Jack Martin"
+          },
+          "rating": "Good",
+          "comments": "This dude acted his ass off in this movie as he's funny with all his movie references, especially the Inglorious Basterds parody, and really steals the show playing this parody of a villain"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Very Disney Channel coded, especially for the bullies; some of the cast did have their moments, but they are kinda just pidgeonholed by the tone of the movie and the roles they are playing"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Brian McElhaney"
+        },
+        {
+          "name": "Nick Kocher"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is honestly so dumb that it is kind of funny; I respect that this movie knows it is not serious and that it was just people trying to have fun, which shows in the final product; The plot structure is basically that of an adventure movie but within the confines of a college campus; The plot structure feels very Disney Channel coded; Character writing is pretty Disney Channel coded, but as if it talked more about issues with college and trying to fit in"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Brian McElhaney"
+        },
+        {
+          "name": "Nick Kocher"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The dialogue is honestly so stupid that it is funny at times; The humor is pretty funny, especially if you are high; I really enjoyed the meta-humor with the movie references and the scene where they break the fourth wall in the climax; The symbolism is very forced Disney Channel-type messaging about friendship, but this is a 'Pizza Movie,' so I would not have expected anything less; The foreshadowing is there"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Leo Birenberg"
+        },
+        {
+          "name": "Zach Robinson"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Very Disney Channel coded"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bella Gonzales"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very bland and Disney Channel coded, which very much made this feel like a straight-to-streaming movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Matt McBrayer"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty basic editing, but it does help with splicing in the humor and drug sequences"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Standard Disney Channel streaming movie sound"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Very druggy and trippy, but in a Disney Channel way somehow"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "The production design sets the movie up in a very Disney Channel school setting, but this time in college instead of high school"
+    },
+    "pacing": "Pacing is a tad slower than I would have liked, as they could have cut 10 to 15 minutes, especially in the second half, but I also was not in the right headspace to know what this movie's actual pacing is like",
+    "climax": "The climax was fun and entertaining, but it was a bit long and felt very much like a 'Disney Channel' movie",
+    "tone": "The tone is somehow as if a Disney Channel movie made a college stoner comedy",
+    "final_notes": "I may not have been in the best headspace while watching this movie, and you definitely should not be watching this movie",
+    "overall": "Overall, I took an edible and all I cared about the entire time was if they were going to say 'Pizza Movie' (they did)"
+  },
+  "release_year": 2026,
+  "review_date": "04/17/2026",
+  "redux": false,
+  "id": 669,
+  "imdb_id": "tt37209937"
+}

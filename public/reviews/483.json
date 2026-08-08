@@ -1,0 +1,151 @@
+{
+  "title": "Beetlejuice",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Tim Burton"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is very gothic and campy, and shows glimpses of a style that Burton will later be known for; The direction on a microscale is pretty good as the performances help move the movie, but still feel very 80s camp; The storytelling is a bit linear and 80s, but has a lot of the gothic charm you see from other Tim Burton films"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Alec Baldwin"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the lead well and works well with Geena Davis"
+        },
+        {
+          "actor": {
+            "name": "Geena Davis"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the lead well and works well with Alec Baldwin"
+        },
+        {
+          "actor": {
+            "name": "Jeffrey Jones"
+          },
+          "rating": "Pretty Good",
+          "comments": "He plays the capitalist father well and does pretty well in the comedic moments"
+        },
+        {
+          "actor": {
+            "name": "Catherine O'Hara"
+          },
+          "rating": "Good",
+          "comments": "She has her signature comedic motherly charm"
+        },
+        {
+          "actor": {
+            "name": "Winona Ryder"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the emo daughter well and holds her own well at such a young age"
+        },
+        {
+          "actor": {
+            "name": "Michael Keaton"
+          },
+          "rating": "Good to Very Good",
+          "comments": "His over-the-top, raunchy comedy helps make this an iconic character and performance"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "They are more just background characters, but help support the main cast"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Michael McDowell"
+        },
+        {
+          "name": "Larry Wilson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is pretty interesting as it is somewhat of a satire on the horror/haunting genre; the plot structure is pretty linear and simple, but the exposition feels too short; character writing is good as Beetlejuice is such an iconic character, and the remaining characters have clear wants and relationships"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Michael McDowell"
+        },
+        {
+          "name": "Warren Skaaren"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very over-the-top and humorous; the humor is pretty good for the most part as it makes the movie funny; the symbolism is somewhat prevalent as it deals with issues of death and grief and it is a satire on the horror/haunting genre; the foreshadowing is pretty prevalent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Danny Elfman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It helps establish the tone and gives the movie an iconic Tim Burton feel, like their other collaborations"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Used well throughout to help establish the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Thomas E. Ackerman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Uses forced perspective and VFX well to help show the differences in sizes and help navigate the space"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jane Kurson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Feels polished and feels seamless when they move from the mock sets to the real world"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Very '80s"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Very campy and 80s, but used well"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "Helps give this movie a gothic, Tim Burton feel"
+    },
+    "makeup": {
+      "rating": "Incredible",
+      "comments": "Iconic and helps bring to life the characters in this haunted world"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "Iconic and helps bring to life the characters in this haunted world"
+    },
+    "pacing": "Pacing is pretty fast; the movie goes through a lot of plot in such a short period of time; the exposition is too short",
+    "climax": "Climax is pretty good, but feels a little too fast and chaotic, which may be intended",
+    "tone": "The tone is very Tim Burton, as it feels like a dark comedy that makes fun of the horror/haunting genre",
+    "final_notes": "",
+    "overall": "Overall, a pretty good black comedy that launched the careers of Tim Burton and Michael Keaton; the film shows the twisted, dark vision of the former and the over-the-top comedic timing of the latter"
+  },
+  "release_year": 1988,
+  "review_date": "09/07/2024",
+  "redux": false,
+  "id": 483,
+  "imdb_id": "tt0094721"
+}

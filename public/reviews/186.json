@@ -1,0 +1,82 @@
+{
+  "title": "The Dark Knight Rises",
+  "rating": 9.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Christopher Nolan"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Incredible Direction at a grand scale but the interpersonal scenes were kinda lacking at times"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Very Good",
+        "comments": "Incredible acting by the main cast (Tom Hardy a huge standout), though the extras/side characters were pretty meh at times"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Christopher Nolan"
+        },
+        {
+          "name": "David S. Goyer"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jonathan Nolan"
+        },
+        {
+          "name": "Christopher Nolan"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "Though some of the dialogue did feel stiff at times; filled with iconic quotes from Bane and others"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Wally Pfister"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "In Wally Pfister's last movie with Nolan"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Lee Smith"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "sound": {
+      "rating": "Incredible"
+    },
+    "plot_structure": "Plot Structure was very steady and built very well to the climax",
+    "climax": "Climax was Brilliant not only for the movie but for the trilogy as a whole",
+    "final_notes": "Movie had some of the best points and highlights in the entire trilogy (but there were some scenes that were meh)",
+    "overall": "Overall, one of the best endings for a trilogy that ties a lot of the loose ends together and closes The Dark Knight story in an incredible fashion"
+  },
+  "release_year": 2012,
+  "review_date": "05/11/2021",
+  "redux": false,
+  "id": 186,
+  "imdb_id": "tt1345836"
+}

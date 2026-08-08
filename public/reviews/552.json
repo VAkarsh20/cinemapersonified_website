@@ -1,0 +1,99 @@
+{
+  "title": "The Dutchman",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Andre Gaines"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale is pretty good, as they create this ominous world that the protagonist has to navigate through; the direction on a microscale feels like a play, as the director lets the actors act and work off each other; the storytelling is pretty good, as they inject the narrator into the story to help move it forward; they build tension pretty well, as it helps build tension and unease throughout the movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "André Holland"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Truly embodies the protagonist as he takes control of the movie and the tone throughout the film; he makes his scene partners better as if he were on stage for a play"
+        },
+        {
+          "actor": {
+            "name": "Kate Mara"
+          },
+          "rating": "Good",
+          "comments": "Plays a real sinister character that creates a sense of unease whenever she's on screen; she has good chemistry with Holland in creating this dynamic that exposes racial tension in America"
+        },
+        {
+          "actor": {
+            "name": "Zazie Beetz"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "A more subdued character, but she makes her presence known onscreen and has good chemistry with Holland"
+        },
+        {
+          "actor": {
+            "name": "Stephen McKinley Henderson"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "An ominous figure, always present throughout the story, acts as the narrator, helping move the story forward"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "It does a pretty good job supporting the main cast and acting as a background for the two-person scenes, emulating a play"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Qasim Basir"
+        },
+        {
+          "name": "Andre Gaines"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept builds on the one-act play \"The Dutchman,\" but it honestly feels like it is trying to stall for time in new parts; the plot structure is centered around a one-act play, but has elements added to elongate this one act; the character writing is very good as each character has an important part in displaying racial issues in America"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Qasim Basir"
+        },
+        {
+          "name": "Andre Gaines"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The dialogue feels very theatrical, which makes sense because this is based on a play; the symbolism is very profound, as the messages deal with what it means to be Black in America and relations between white and Black populations in the country; the foreshadowing is present and plays a part toward the end"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Frank G. DeMarco"
+        }
+      ],
+      "rating": "Good",
+      "comments": "I took some liberties to create unique shots that make the movie interesting and captivating"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It helps make the movie look like a play in some scenes, as if the story were already written before"
+    },
+    "pacing": "Pacing is an issue because the movie feels slow and it is stalling for time; the movie is based on a one-act play that is really only 50 minutes, so the 20–30 minutes they added show because it feels like they are stalling for time",
+    "climax": "Climax feels a little anticlimactic; the ending feels very unfinished",
+    "tone": "Tone is similar to other supernatural thrillers",
+    "final_notes": "Saw the secondary premiere at SXSW",
+    "overall": "Overall, a pretty good thriller that emulates the original play source material to discuss race relations in America, carried by André Holland's performance; However, because the original play is only one act, the movie feels dragged out as they attempt to stall for time to make the movie longer than it needs to be"
+  },
+  "release_year": 2025,
+  "review_date": "03/14/2025",
+  "redux": false,
+  "id": 552,
+  "imdb_id": "tt29214162"
+}

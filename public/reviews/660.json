@@ -1,0 +1,122 @@
+{
+  "title": "Normal",
+  "rating": 5.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ben Wheatley"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macro and micro scale is pretty generic for the genre and literally feels like a 'Nobody' dupe; The action sequences are very over-the-top but still entertaining; The storytelling is pretty messy and also just feels like a 'Nobody' and 'John Wick' dupe; Tension is built through its action sequences, which are pretty good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bob Odenkirk"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "tries his best to hold together a bad script as he's basically playing his Nobody character again"
+        },
+        {
+          "actor": {
+            "name": "Henry Winkler"
+          },
+          "rating": "Decent",
+          "comments": "He's basically an extended cameo in this movie"
+        },
+        {
+          "actor": {
+            "name": "Lena Headey"
+          },
+          "rating": "Decent",
+          "comments": "She's basically an extended cameo in this movie"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "filled with a bunch of random bad actors, but it's fine cause most of them are just for action purposes; there's like no chemistry at all in this cast, and that kinda stems from bad character writing cause they don't give the characters anything they can be relatable on"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        },
+        {
+          "name": "Bob Odenkirk"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is kind of a mess because the movie tries to force this Yakuza storyline onto this small town in a pretty bad way, and the sheriff being in the middle of all this feels forced; Also, this movie just feels like an off-brand 'Nobody' but more of a noir; The plot structure is kind of a mess because the exposition does not do a good job of explaining the plot, and the ending is just poorly executed and does not make any sense from a logical perspective; The character writing is not good because you genuinely do not care for any of these characters as their backstories and motivations are not written well"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is very unnatural and forced; The humor is forced and has a pretty low hit rate; The movie does subvert your expectations, but it also just makes the movie feel unnatural in its story construction"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Harry Gregson-Williams"
+        },
+        {
+          "name": "Ryder McNair"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "It establishes the tone and tension"
+    },
+    "soundtrack": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Armando Salas"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "It is pretty good as it builds the world and helps show the action sequences"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jonathan Amos"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It helps make the movie feel like a noir and helps put together the action sequences"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "It helps paint the action sequences, though it feels a bit over the top"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It is a little over the top, but it does work to help make the movie entertaining"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "It helps set this movie in a small town during the winter in Minnesota"
+    },
+    "pacing": "The pacing is slow mainly because the movie just is not good",
+    "climax": "The climax is very weird and unnatural, but the final fight sequence is entertaining",
+    "tone": "The tone tries to be a noir dupe of 'Nobody' and 'John Wick'",
+    "final_notes": "I saw the premiere at SXSW",
+    "overall": "Overall, 'Normal' just feels like a bad 'Nobody' dupe as they basically try to make the same movie again but just make it a messy noir; Despite Bob Odenkirk trying his hardest to save this movie and the action sequences being somewhat enjoyable, 'Normal' is just a little too normal in the end, which ultimately makes it pretty forgettable"
+  },
+  "release_year": 2025,
+  "review_date": "03/18/2026",
+  "redux": false,
+  "id": 660,
+  "imdb_id": "tt31195136"
+}

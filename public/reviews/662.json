@@ -1,0 +1,122 @@
+{
+  "title": "Project Hail Mary",
+  "rating": 8.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Phil Lord"
+        },
+        {
+          "name": "Christopher Miller"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale in the space sequences feels fun and adventurous as we explore new territory with Grace, but the direction for the flashback sequences on Earth looks dull and boring; the direction on a microscale is pretty funny because it feels like the directors just let Ryan Gosling do his own thing and have his own natural charisma and likability carry the scenes; the direction on a microscale for the flashback sequences is pretty dull, but does have its memorable moments; the storytelling is good as it uses space optimism and hope to keep you invested in their mission, using the flashback sequences to build Grace's backstory and show the importance of the mission; while I did enjoy the storytelling for the movie, I feel like it lost a lot of the charm the book had by switching the movie from first person to third person; they emotionally build tension very well as they make you feel so attached to these characters that you genuinely care about their fate, especially with the rollercoaster of emotions they put you on for Rocky"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ryan Gosling"
+          },
+          "rating": "Very Good",
+          "comments": "This character feels written for Ryan Gosling as it showcases his natural charisma and silly comedic timing to bring to life the protagonist and make him relatable; his chemistry with Rocky is fantastic and carries the movie, and this showcases how talented he is as an actor as he is basically acting all by himself considering the rock is just a Puppet"
+        },
+        {
+          "actor": {
+            "name": "Sandra Hüller"
+          },
+          "rating": "Good",
+          "comments": "Makes the most out of her limited screen time as she shows her talent as an actress playing this stern, european character and has good chemistry with Ryan Gosling"
+        },
+        {
+          "actor": {
+            "name": "James Ortiz"
+          },
+          "rating": "Very Good",
+          "comments": "Really brings to life Rocky as he is just so cute and adorable that you feel so invested in his fate the entire movie; his dynamic with Gosling is what makes this movie"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The movie has a pretty minimal cast as it focuses primarily on Ryan Gosling alone in space, but the supporting cast does their job well and helps move the story, despite having limited screen time"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Drew Goddard"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept brings to life the famous book Project Hail Mary, which is a fun adventure to try and save the world, but I do think the book is better because of its first person perspective as it provides more insight into the protagonist's thoughts and feelings; the plot structure is not traditional as you start at the midway point and periodically get flashbacks to the beginning to fill in the story and give perspective on Grace as he is slowly remembering everything; the plot structure does take a hit in the last hour because it feels like there are three different climaxes that ultimately feel like an adrenaline dump that makes the movie drag; character writing is a big issue with this movie because the movie loses a lot of its depth by switching from first person to third person as you are not in Grace's head anymore, so you lose a lot of the protagonist's deep thoughts and feelings as he is slowly remembering everything"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Drew Goddard"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is funny and witty as it mixes in humor with the seriousness of the situation; the humor is integral in making the movie entertaining as it helps paint Grace's personality; the symbolism is present as it shows the impact this voyage has on Grace and the severity of the situation as the fate of the world rests on his shoulders; the movie also delves into eco-consciousness with its conflict; the foreshadowing is important and presented well"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Pemberton"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Very memorable and does a very good job in setting the tone and building tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Greig Fraser"
+        }
+      ],
+      "rating": "Good",
+      "comments": "A tale of two formats: the IMAX shots are stunning and help create this space world with its beauty and vastness, but the flashback sequences just look so dull and boring; IMAX is used as an important tool in storytelling as the IMAX sequences are the present and the flashback sequences use the standard format"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chris Dickens"
+        },
+        {
+          "name": "Joel Negron"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Edited very well and shows how much effort and time went into making this movie"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "Integral in creating the tension and atmosphere of the movie; helps bring to life space and the spaceship"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "Makes this movie look and feel very beautiful as they build up both the vastness and detail of outer space; the use of puppetry for Rocky is fantastic as it makes him feel very human despite being an alien"
+    },
+    "production_design": {
+      "rating": "Good to Very Good",
+      "comments": "Creates a spaceship and space world that help define this movie and the story; the Earth sets are also well designed as they feel like something from a science facility or NASA"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "They create fun space suits that set the setting"
+    },
+    "pacing": "Pacing is a big issue for the movie because the movie drags at certain moments, especially in the final hour, as things start to feel repetitive (fifteen to twenty minutes could have been cut to make the movie feel tighter)",
+    "climax": "The climax is incredibly entertaining, but this movie feels like it has three climaxes that ultimately create an adrenaline dump that makes the actual climax feel less impactful; the movie overall just feels a little too safe as there really doesn't feel like there are any stakes during the actual mission",
+    "tone": "The tone is a mix of sci-fi, adventure, and comedy to make this movie an incredibly fun watch",
+    "final_notes": "Saw both in IMAX and standard format",
+    "overall": "Overall, 'Project Hail Mary' is an incredibly fun watch that is elevated by Ryan Gosling's performance as Grace and his dynamic with Rocky as both work together to create this space odyssey that is fun and filled with adventure; while this movie does excel in many areas, like its technicals and performances, it feels weaker than the book because the shift from first person to third person loses the depth of the protagonist and the movie just feels a little too safe overall in order to appeal to a wider audience"
+  },
+  "release_year": 2026,
+  "review_date": "03/24/2026",
+  "redux": false,
+  "id": 662,
+  "imdb_id": "tt12042730"
+}

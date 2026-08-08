@@ -1,0 +1,103 @@
+{
+  "title": "Friendship",
+  "rating": 9.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Andrew DeYoung"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale feels very auteur-driven, as the movie feels like it was shot by P.T. Anderson, but in a parody style; The direction on a microscale feels like an \"I Think You Should Leave\" sketch for 97 minutes, and it's executed to perfection; the storytelling uses templates you would see from a hardcore thriller like *Uncut Gems* or *Prisoners*, but is just parody because of what the movie is actually about; they build tension incredibly well, because the movie just comes off as satire because of how seriously they make the stakes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tim Robinson"
+          },
+          "rating": "Incredible",
+          "comments": "I love you so much; you are everything I want you to be; He basically plays his \"I Think You Should Leave\" persona for the entire movie; he develops great chemistry with the cast, especially Rudd; it borderline feels method"
+        },
+        {
+          "actor": {
+            "name": "Paul Rudd"
+          },
+          "rating": "Very Good",
+          "comments": "Plays the straight man very well, and his stature and aura help make the movie realistic in Robinson's being so attracted to wanting to be his friend; he has great chemistry with Robinson"
+        },
+        {
+          "actor": {
+            "name": "Kate Mara"
+          },
+          "rating": "Good",
+          "comments": "Plays the wife character well and has good chemistry with Robinson"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Everyone in the cast really brings something to the table; they work very well with the main cast to make the movie funny and such a great experience"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Andrew DeYoung"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The concept is so simple because it is just friends breaking up, but because they make it seem more dramatic than it actually is, the movie just becomes even more funny; the plot structure is pretty standard; character writing is great as you really get a sense of who Robinson's and Rudd's characters are as they create a relationship that feels like a parody of \"Talented Mr. Ripley\" or \"Saltburn\"; the character writing makes these characters feel like they are in a dramatized production of \"I Think You Should Leave\""
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Andrew DeYoung"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue feels like it came straight from an \"I Think You Should Leave\" sketch; it is surprising that this movie wasn't written by Tim Robinson; the humor is great, as the movie is just an \"I Think You Should Leave\" sketch for 97 minutes; the symbolism is surprisingly there, as they talk about themes of loneliness, friendship, and obsession; the foreshadowing is prevalent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Keegan DeWitt"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps make the movie feel mysterious and complements the tone shifts"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Andy Rydzewski"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Makes the movie feel like it was shot by an auteur, as each camera angle feels like an art piece; The director said he drew inspiration from \"The Master,\" and it shows"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sophie Corra"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Makes the movie feel like it was cut together by an auteur"
+    },
+    "sound": {
+      "rating": "Pretty Good"
+    },
+    "pacing": "Pacing is the right pace for the most part, as it uses its runtime well; Because the movie is a cringe comedy, it can feel slow at times; it definitely feels like they could have cut 5 minutes to make the movie a little tighter",
+    "climax": "The climax is executed to perfection as it feels like a culmination of this comedic ride we've been taken on",
+    "tone": "The tone is dramatic and thriller-esque, juxtaposed with \"I Think You Should Leave\" to create a movie that just feels like a parody of auteur-driven movies",
+    "final_notes": "",
+    "overall": "Overall, an \"I Think You Should Leave\" sketch, if it were 97 minutes long and shot by an auteur; this movie uses such a simple idea, like a friends breaking up, but dramatizes it so heavily and shoots it like a P.T. Anderson movie that it becomes the perfect parody; all brought together by Tim Robinson's cringe comedic style"
+  },
+  "release_year": 2024,
+  "review_date": "03/11/2025",
+  "redux": false,
+  "id": 549,
+  "imdb_id": "tt30505698"
+}

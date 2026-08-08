@@ -1,0 +1,76 @@
+{
+  "title": "Fargo",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joel Coen"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Frances McDormand"
+          },
+          "rating": "Great"
+        },
+        {
+          "actor": {
+            "name": "William H. Macy"
+          },
+          "rating": "Very Good"
+        },
+        {
+          "actor": {
+            "name": "Steve Buscemi"
+          },
+          "rating": "Good to Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Good from the remaining main cast, and decent from the supporting cast and extras"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Joel and Ethan Coen"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Though is very surface level in its imagery and symbolism"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Joel and Ethan Coen"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Laced with witty, quirky midwestern dialogue (as seen by the intentional awkward pauses during the Minnesotan conversations)"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Roger Deakins"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "Especially the distant panning shots that show the contrast between the main images and the snow"
+    },
+    "pacing": "Pacing is Great for the most part given its short runtime (but is incredibly rushed towards the end (particularly the final 15-20 minutes))",
+    "final_notes": "",
+    "overall": "Overall, the Coen brothers give a prime example of why they are some of the best screenwriters in Hollywood as they make a short runtime filled with many memorable, funny moments (even though it may not be as incredible as their other movies), but it does falter towards the end as it is incredibly rushed as it feels like it could've used 15 more minutes to keep up to the pace it had for the majority of the movie"
+  },
+  "release_year": 1996,
+  "review_date": "11/22/2020",
+  "redux": false,
+  "id": 168,
+  "imdb_id": "tt0116282"
+}

@@ -1,0 +1,110 @@
+{
+  "title": "Rental Family",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Hikari"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is cute and feel-good as it helps capture the loneliness in a foreign country; the direction on a microscale is pretty good and does a good job invoking emotions out of you as you empathize with the characters, which is all you can ask for in a feel-good movie; the storytelling is pretty basic as it uses your emotional investment in the characters to keep you drawn in; they use your emotional attachment to the characters and story to build tension"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Brendan Fraser"
+          },
+          "rating": "Good",
+          "comments": "Plays this lovable character that really suits his real world persona as you just want to give him a hug and show him he is not alone; has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Takehiro Hira"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays his role well and has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Mari Yamamoto"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really enjoyed her performance as her dynamic with Fraser was really entertaining and show a lot for both of their characters"
+        },
+        {
+          "actor": {
+            "name": "Shannon Mahina Gorman"
+          },
+          "rating": "Pretty Good",
+          "comments": "Very cute and feels like the emotional compass for the movie; has a good dynamic with Fraser"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The movie does a pretty good job at having Fraser be a heliocentric character that everyone else orbits around as they all play off his energy to help bring out the emotions in the story"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Hikari"
+        },
+        {
+          "name": "Stephen Blahut"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is pretty interesting as it uses this concept of renting actors to be real people to explore people's lives, their insecurities, and their loneliness; the plot structure has these different sub-plots that converge every now and then with Fraser, but it felt like this mad the movie drag a bit as you could have easily shortened some of the weaker plot lines to shave 20 minutes; character writing is a strong point for this movie as the movie explores Fraser's loneliness in a foreign city he is trying to acclimate himself into, and how he makes these connections with people by being artificially placed into their lives"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Hikari"
+        },
+        {
+          "name": "Stephen Blahut"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty heartwarming; the symbolism is pretty good as it touches on topics like loneliness in a way I find films rarely do; the foreshadowing is pretty formulaic and predictable"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Takurô Ishizaka"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Does a good job contrasting the protagonist in such a big and busy city like Tokyo; does show some of the beauty of the country"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Alan Baumgarten"
+        },
+        {
+          "name": "Thomas A. Krueger"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Shows the beauty and serenity of Japan, acting as a character that the protagonist has to assimilate into"
+    },
+    "pacing": "Pacing is fine for the first half, but really drags in the second half (they could have cut 20 minutes by shortening some of the unnecessary storylines)",
+    "climax": "Climax is pretty emotionally satisfying as you feel like the protagonist has finally found a sense of closure and community",
+    "tone": "Tone is very feel-good and heartwarming",
+    "final_notes": "",
+    "overall": "Overall, 'Rental Family' is a feel-good movie that uses Brendan Fraser as a heliocentric character for other characters to revolve around as he uses these artificial relationships he creates to explore his own character's loneliness in an accurate way I rarely see in films; while the movie does drag in the second half due to some unnecessary storylines, the relatable character writing and heartwarming tone make this movie an entertaining watch with the family"
+  },
+  "release_year": 2025,
+  "review_date": "11/27/2025",
+  "redux": false,
+  "id": 630,
+  "imdb_id": "tt14142060"
+}

@@ -1,0 +1,116 @@
+{
+  "title": "This is Spinal Tap",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Rob Reiner"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction feels like a low-budget mockumentary that makes fun of the absurd lifestyle of rock stars who hate to admit they are past their prime"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Everyone in the cast plays their role well in helping show how out of touch and dumb these rock stars are from the rest of society; the chemistry in the cast is pretty good and this helps with the comedy"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Christopher Guest"
+        },
+        {
+          "name": "Michael McKean"
+        },
+        {
+          "name": "Harry Shearer"
+        },
+        {
+          "name": "Rob Reiner"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is a mockumentary about a group of rock stars past their prime, with the whole movie making fun of how dumb and out of touch they are; The plot structure is really short, as this movie is only 80 minutes and feels very rushed in the final 30; Character writing is pretty good, as it creates all of these characters as dunces and gives them some personality that makes you wonder if they are based on anyone in real life; This concept of the mockumentary helped pioneer the genre and made this movie iconic because you really think it is based on a real band"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Christopher Guest"
+        },
+        {
+          "name": "Michael McKean"
+        },
+        {
+          "name": "Harry Shearer"
+        },
+        {
+          "name": "Rob Reiner"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is filled with dumb humor, as it shows how stupid these rock stars are; The movie is filled with iconic quotes and jokes that make this movie memorable, as it is able to stand over 40 years later"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "It makes you wonder if Spinal Tap is a real band, as it is integral to helping tell the story"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Peter Smokler"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concert shots feel like they were taken from live performances from the 70s and 80s, as they feel like something Led Zeppelin would put out; The handycam shots are integral to making this movie feel like a mockumentary"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Robert Leighton"
+        },
+        {
+          "name": "Kent Beyda"
+        },
+        {
+          "name": "Kim Secrist"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It helps make the movie feel like a mockumentary about a rock band"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It is very 80s; It helps mix in the rock moments"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It is very 80s and helps with the comedy, especially the spontaneous combustion"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "The stage set pieces are integral to the comedy and help show how everything is going wrong for the band"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It makes the characters feel like rock stars from the 80s"
+    },
+    "costumes": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It makes the characters feel like rock stars from the 80s"
+    },
+    "pacing": "Pacing is incredibly fast, as this movie is only 80 minutes long when it should be at least 90 minutes",
+    "climax": "The climax is very rushed but gets the job done",
+    "tone": "The tone is very much a mockumentary about a fake rock band that has fallen into irrelevance; This movie helped pioneer how the mockumentary was told, and a big part of that was its tone",
+    "final_notes": "",
+    "overall": "Overall, \"This Is Spinal Tap\" is instrumental in helping popularize the mockumentary, as Rob Reiner is able to captivate us with a fake documentary about a fake band, but it is just way too short to have a cohesive plot"
+  },
+  "release_year": 1984,
+  "review_date": "12/17/2025",
+  "redux": false,
+  "id": 634,
+  "imdb_id": "tt0088258"
+}

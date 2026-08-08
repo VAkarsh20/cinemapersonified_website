@@ -1,0 +1,155 @@
+{
+  "title": "Ballerina",
+  "rating": 6.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Len Wiseman"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is very much on par with the rest of the franchise, as the action sequences continue to be a highlight, with how detailed and well-executed they are; There are many sequences that are truly new highs for the franchise, with how crazy they are; The stunt choreography continues to push the boundaries of stunts in action movies; The direction on a microscale is very much on par with the rest of the franchise, as all the performances and interpersonal scenes are toneless and have barely any emotion, filled with poor line delivery from almost every actor; The storytelling is very bare-bones and traditional to other John Wick movies; They build tension decently well, as the action sequences continue to get more suspenseful the more the stakes are raised"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ana de Armas"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "A performance very much on par with the titular character; she does a good job in the action sequences and carries herself well for the most part; however, she has very bad line delivery and barely shows any emotions"
+        },
+        {
+          "actor": {
+            "name": "Anjelica Huston"
+          },
+          "rating": "Bad to Pretty Bad",
+          "comments": "Feels very toneless and does not have any chemistry with her castmates; Feels very offbeat, especially when she tries to be very Slavic, though this is most likely because she is given terrible material to work with"
+        },
+        {
+          "actor": {
+            "name": "Gabriel Byrne"
+          },
+          "rating": "Decent",
+          "comments": "Has decent lines and decent line delivery; is able to get a decent amount out of his costars; the villain, as well, has some menacing nature to him"
+        },
+        {
+          "actor": {
+            "name": "Lance Reddick"
+          },
+          "rating": "Decent",
+          "comments": "A decent final sendoff for Reddick in this franchise as he gets to say goodbye on his own terms; his presence will definitely be missed"
+        },
+        {
+          "actor": {
+            "name": "Norman Reedus"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Feels more like a cameo as he's barely in the movie; uses his experience playing similar roles to carry this performance"
+        },
+        {
+          "actor": {
+            "name": "Ian McShane"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "He uses his experience playing this role to carry his performance, but has some noticeable issues at the beginning because he is not given any material to work with"
+        },
+        {
+          "actor": {
+            "name": "Keanu Reeves"
+          },
+          "rating": "Bad to Pretty Bad",
+          "comments": "He acts like he does not want to be in this movie; his line delivery in the one-on-one interpersonal scenes is very toneless and bad as he has no chemistry with De Armas; he uses his experience playing John Wick to carry himself in his action sequences"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Continues the tradition of John Wick movies with bad acting from the remaining cast as it is filled with toneless performances and bad line delivery;  It does not include child actors"
+      },
+      "rating": "Bad to Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Shay Hatten"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is basically a female version of John Wick, mixed with the little girl avenging her father trope; The plot structure is pretty straightforward and linear; Character writing is decent, as they do provide some depth to the protagonist, as you can clearly see her motives, and the villain has some depth to him as well; They also provide more depth into the Ruska Roma crime family"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Shay Hatten"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is atrocious and unnatural; this movie continues the trend of the John Wick franchise having horrible writing; the humor is more shock value from the fighting sequences, but there are some funny moments; the symbolism is the typical little girl getting revenge trope, touching on revenge and feminism themes; the foreshadowing is decent; whenever they allude to John Wick it's always so funny because they just mention dogs"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Tyler Bates"
+        },
+        {
+          "name": "Joel J. Richard"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "On par with the rest of the franchise as it incorporates themes from the main franchise's score and uses good electronic music for the action sequences and club scenes"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Pretty on par with the rest of the franchise"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Romain Lacourbas"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helps build the world with these giant panning shots over each scene; A key factor to why the action sequences are well-choreographed is that they break the bounds of how fluid and seamless action sequences can be; I was not a huge fan when they showed multiple angles of the same shot because it felt tacky"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jason Ballantine"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Help will build the world;  The action sequences are well-choreographed, making them feel very fluid and seamless"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "It helps bring to life the action sequences and is very much on par with the rest of the franchise"
+    },
+    "visual_effects": {
+      "rating": "Very Good",
+      "comments": "Very much on par with the rest of the franchise, as it uses a mix of practical effects and CGI to bring to life crazy firefights and amazing action sequences"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Where a lot of the budget went, I felt as though they shot in lush and grand places in Europe"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "It helps bring to life the gore and blood of the action sequences"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Pretty on par with the rest of the franchise, and it was nice to see John Wick in his traditional suit"
+    },
+    "pacing": "Pacing is right, as this movie knows what it is, as it balances action with story",
+    "climax": "The climax is executed very well; it is some of the best action sequences of the franchise; although the best sequence in this movie was the armory",
+    "tone": "Tone is a continuation of the John Wick franchise, as it follows the template of a lone, gritty assassin from a Russian family",
+    "final_notes": "Continuing the John Wick legacy with amazing action sequences that top any action franchise currently in Hollywood",
+    "overall": "Overall, an entertaining movie that is very much on par with the \"John Wick\" franchise with its amazing action sequences and well-executed stunt choreography, but it is also on par with the franchise with its horribly clunky dialogue and toneless acting"
+  },
+  "release_year": 2025,
+  "review_date": "06/02/2025",
+  "redux": false,
+  "id": 567,
+  "imdb_id": "tt7181546"
+}

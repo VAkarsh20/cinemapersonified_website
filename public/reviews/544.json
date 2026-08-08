@@ -1,0 +1,122 @@
+{
+  "title": "The Accountant 2",
+  "rating": 4.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gavin O'Connor"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale has no personality and is very bland, but the action sequences are decently executed; the direction on a microscale is dull and bland; the storytelling is simple and unoriginal; they build tension poorly"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ben Affleck"
+          },
+          "rating": "Decent",
+          "comments": "Plays a neurodivergent character decently well and has command of the scenes he is in; he has pretty good chemistry with Bernthal and the academy"
+        },
+        {
+          "actor": {
+            "name": "Jon Bernthal"
+          },
+          "rating": "Decent",
+          "comments": "He plays a tough-guy role we are used to from him and commands the scenes he is in; he has pretty good chemistry with Affleck"
+        },
+        {
+          "actor": {
+            "name": "Cynthia Addai-Robinson"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Just a stereotypical female supporting character you would see in a male-driven action movie"
+        },
+        {
+          "actor": {
+            "name": "Daniella Pineda"
+          },
+          "rating": "Bad",
+          "comments": "Your typical nonverbal action assassin who is just there for looks and action sequences"
+        },
+        {
+          "actor": {
+            "name": "J. K. Simmons"
+          },
+          "rating": "Decent",
+          "comments": "Basically a cameo"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Tale of two casts: the neurodivergent cast members actually do a very good job portraying their characters and helping move the story forward in their roles, but the remaining cast is just your stereotypical bad action supporting characters"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Bill Dubuque"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept feels like a cast grab because there is almost no plot whatsoever; the plot structure is bad because the movie chases after a plot that has no stakes; the character writing is somewhat sad because it still treats autism in this \"Sevant-like\" stereotype often seen in movies without providing any nuance, but I did think it did a good job showing awareness; the character writing for the remaining cast is basically nonexistent"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Bill Dubuque"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is dull and boring; the humor is pretty forced but hits sometimes; the symbolism is pretty shallow; the foreshadowing is very obvious"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bryce Dessner"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very bland"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Seamus McGarvey"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very bland and has no personality"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Richard Pearson"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very bland and it has no personality"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "About as good as you're going to get for a bad action movie"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Helps make the action sequences somewhat entertaining"
+    },
+    "pacing": "Pacing is very fast, considering they never actually lay out what the conflict is and why it is important",
+    "climax": "Climax is entertaining, but fails to provide any stakes as to why the conflict is important",
+    "tone": "Tone is what you would expect from a cash-grab action-thriller sequel",
+    "final_notes": "Saw the world premiere at SXSW; while I do commend this movie for showing autistic characters and hiring neurodivergent actors to be a part of the academy, I feel like we can move past autistic characters always being this \"savant-like\" stereotype because that is something I would expect from the 80s and 90s",
+    "overall": "Overall, a bad action movie that just feels like a cash grab with no personality because the movie fails to provide any stakes on why the conflict is important; while I do commend the movie for showing autistic characters and hiring neurodivergent actors, I feel like we can move past autistic characters being this \"savant-like\" stereotype because it has been overblown in Hollywood at this point and fails to provide any nuance to the disorder"
+  },
+  "release_year": 2025,
+  "review_date": "03/08/2025",
+  "redux": false,
+  "id": 544,
+  "imdb_id": "tt7068946"
+}

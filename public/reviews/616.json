@@ -1,0 +1,130 @@
+{
+  "title": "Christy",
+  "rating": 6.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Michôd"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is a major issue for the movie because it just feels generic, especially in the first hour and the final 15 minutes; The macroscale direction in the 3rd act is good, but the problem for this movie is that it does not know what it wants to be; The direction on a microscale is pretty generic, a little dull at times because there really isn't that much chemistry in the cast and a lot of the performances feel exaggerated or over-the-top; The storytelling is a major issue for this movie because for Act 1, 2, and the resolution, it is just a generic boxing movie that sprinkles in personal issues; I did enjoy the storytelling in Act 3 because it deals more with the personal issues of Christy, but ultimately in the end, this movie does not know what story it wants to tell (her career or her personal struggles) as it tries to do both when it can't; Tension is pretty predictable and bland for Act 1, 2, and the resolution, but it is very good in the third act because it uses our uncomfortable feelings with what is going on screen to make you feel very uneasy"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sydney Sweeney"
+          },
+          "rating": "Pretty Good",
+          "comments": "Definitely one of her better performances, as she transforms herself for the role; even though the accent work is a little rough at times, and it doesn't really seem like she is doing anything special, she delivers a pretty powerful performance in the third act"
+        },
+        {
+          "actor": {
+            "name": "Ben Foster"
+          },
+          "rating": "Bad to Pretty Bad",
+          "comments": "Just such an over-the-top performance that feels like over-acting at times than realistic definitely feels menacing and his lack of chemistry with Sweeney helps, but this is just more how the character is written rather than his performance"
+        },
+        {
+          "actor": {
+            "name": "Merritt Wever"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Very subdued and quiet performance; is meant to show lack of emotion and empathy, yet still somehow doesn't feel believable when she does this"
+        },
+        {
+          "actor": {
+            "name": "Katy O'Brian"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Just a generic performance; nothing really stands out about it"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "There doesn't feel like there is any chemistry between any of the cast members; the background actors just feel generic"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Katherine Fugate"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is the life of Christy Martin, but the movie tries to touch on both her boxing career and her personal struggles when it should only really touch on the latter to be profound; The plot structure is a major issue for this movie because it is this generic boxing movie for Acts 1, 2, and the Resolution, but it is a different movie in the third Act; Because of its weird structure, the movie does not know what it wants to be; Character writing is pretty good to good for Christy because it does paint her as a flawed character who projects negativity because of the trauma she receives at home, but every other character is just a generic trope"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mirrah Foulkes"
+        },
+        {
+          "name": "David Michôd"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is so generic and bland; the humor is decent; the symbolism is profound in act three because of the DV issues they talk about, but it is generic for the most part; the foreshadowing is a massive issue for this movie because it's very obvious where this movie is heading with on the nose roots the movie places throughout the movie; I was shocked that the crowd didn't know things were going to happen because I read this movie like a book"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Antony Partos"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Standard helps with establishing tone and tension"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Generic boxing movie soundtrack;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Germain McMicking"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Standard; nothing special; what you would expect from a boxing movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Matt Villa"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Standard; nothing special; what you would expect from a boxing movie"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Crisp; what you want from a boxing movie"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "helps show gore and injuries; does not age the people well"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Helps show gore and injuries; Does not age people well"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Gives Christy iconic boxing outfits"
+    },
+    "pacing": "Pacing is slow in Act 1, 2, and the resolution because of how generic it is; pacing is just right in Act 3 because it helps with building the tension",
+    "climax": "Climax is the best part of the love, as it is executed very well, making you uneasy with what is going on; the ending is straight up a Dhar Mann narration",
+    "tone": "This movie doesn't know what it wants to be; it tries to be both a sports movie and a hard-hitting drama about trauma, but it tries to play both sides and doesn't do a good job being right for the whole movie",
+    "final_notes": "Saw premiere at Austin Film Festival",
+    "overall": "Overall, this movie does not know what it wants to be, as it tries to be both a sports movie and a hard-hitting drama about trauma, but does not give enough time to be great at either; the first two acts and resolution are just a generic boxing movie, but the third act truly is a powerful drama about trauma and abuse, as Sydney Sweeney delivers a pretty powerful performance in this portion of the movie"
+  },
+  "release_year": 2025,
+  "review_date": "10/23/2025",
+  "redux": false,
+  "id": 616,
+  "imdb_id": "tt32323252"
+}

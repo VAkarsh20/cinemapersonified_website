@@ -1,0 +1,112 @@
+{
+  "title": "Together",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Michael Shanks"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale takes influences from horror movies like \"Hereditary\" and \"Barbarian\" with how it builds the conflict and the world, but has some comedic flavors; the direction on a microscale is too corny and white-couple-centric that it was too cringey to sit through, though there were some humorous moments I did enjoy; the storytelling is similar to \"Hereditary\" and \"Barbarian\" in how it searches for the conflict, then goes full send after it is revealed; they build tension very well, especially when building up the body horror sequences"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dave Franco"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Basically, he plays every character he always plays; he has good chemistry with Brie, mainly because they are actually married"
+        },
+        {
+          "actor": {
+            "name": "Alison Brie"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Really takes control of the movie as she has charisma and good screen presence; she has good chemistry with both main cast members, but especially with Franco"
+        },
+        {
+          "actor": {
+            "name": "Damon Herriman"
+          },
+          "rating": "Pretty Good",
+          "comments": "He plays his role well and has good chemistry with Brie"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The cast is really small, but the main cast does work together well"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Michael Shanks"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is pretty unique and interesting, but I really wasn't that big a fan of the actual conflict once it is revealed; the plot structure is similar to \"Hereditary\" and \"Barbarian\" in the way the movie tries to build up to the conflict reveal, then goes full speed towards the climax once it hits the inflection point; the character writing is decent"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Michael Shanks"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is too cringey and very stereotypically white; the humor is pretty prevalent, mainly because of the director and actors' comedy backgrounds; the symbolism is there, but I don't know if I am too much of a fan of it; the foreshadowing is very good as the movie drops clues on what the conflict is, well in advance of its reveal"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Cornel Wilczek"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps set tension and tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Germain McMicking"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Feels well-shot, especially with the budget's size"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sean Lahiff"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Feels well-edited, especially considering the budget's size"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps build tension"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Despite its low budget, the visual effects blended with the practical effects help make this movie look realistic, especially in the body horror sequences"
+    },
+    "makeup": {
+      "rating": "Very Good",
+      "comments": "Done very well to help create the body horror sequences"
+    },
+    "pacing": "Pacing is two-pronged because it is slow toward the conflict reveal, then very fast afterward; while the pacing was intentional, I would have liked to have seen maybe 10 minutes cut from the buildup to the climax to make the movie feel more balanced",
+    "climax": "Climax is executed well, even the resolution is a little forced",
+    "tone": "The tone is very body horror but has comedic flavors",
+    "final_notes": "Saw the Texas premiere at SXSW",
+    "overall": "Overall, a decent body horror movie that has well-executed horror sequences and good chemistry between Dave Franco and Alison Brie; but I personally wasn't a big fan of the conflict once it's revealed and thought the movie was very cringey at times"
+  },
+  "release_year": 2025,
+  "review_date": "03/07/2025",
+  "redux": false,
+  "id": 542,
+  "imdb_id": "tt31184028"
+}

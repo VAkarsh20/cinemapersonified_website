@@ -1,0 +1,103 @@
+{
+  "title": "Gone Girl",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Fincher"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale uses signature Fincher Thriller & Mystery charm to create an ominous environment that keeps you on the edge of your seat; the direction on a microscale is very bland as these scenes really feel like they have a limit in acting and don't really move the needle; very signature Fincher storytelling to keep you on the edge of your seat as you are invested in trying to solve this mystery, though it does fall apart towards the end; builds tension very well as it is a key component in moving the mystery forward and keeping you invested in trying to find the truth"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ben Affleck"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Feels written for him as his mediocre acting aids into everything thinking he is the main suspect in the disappearance; has decent chemistry with the cast, but definitely hits limits"
+        },
+        {
+          "actor": {
+            "name": "Rosamund Pike"
+          },
+          "rating": "Good",
+          "comments": "The star of the show, but is very stoic and ominous as she really is a force of chaos that tries to change the narrative to suit her needs; has decent chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Carrie Coon"
+          },
+          "rating": "Good",
+          "comments": "My favorite performance in the movie as she shows a good amount of range and emotion in trying to support her brother even with the world trying to go after them; has pretty good chemistry with Affleck"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "Everyone feels like they are hitting acting limits and the chemistry is just okay"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Gillian Flynn"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a psychological thriller about a woman who disappears and the husband who becomes the prime suspect; the plot structure is non-linear, presenting different perspectives to provide depth to the story and keep you guessing what happened in the disappearance; while I did enjoy how the story was told, the final 40 minutes kinda ruined what they were building to and made the ending feel underwhelming; character writing is pretty surface level, which is sad cause they could have really painted her as a complex character with more depth"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Gillian Flynn"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is pretty bad and unnatural; the symbolism is pretty void; the foreshadowing is good for the most part as it helps present clues as you try to solve the mystery, but feels kinda irrelevant towards the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Trent Reznor"
+        },
+        {
+          "name": "Atticus Ross"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Feels like a continuation of their partnership with Fincher that they started with The Social Network; really helps build the ominous and tense atmosphere that is needed for this movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jeff Cronenweth"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The Blurry, lack of color, and low-lighting does create this ominous environment that aids to the eerie tone of the movie, but it also just makes the movie hard to watch because you can't see anything on screen"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Kirk Baxter"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "the editing was a little to basic and cheap because it over-relies on fading cuts, with some scenes having consecutive cuts that are just annoying to watch"
+    },
+    "pacing": "Pacing is about right for the most part as it builds tension and keeps you on the edge of your seat as you try to solve this mystery, but feels incredibly rushed in the final 30-40 minutes",
+    "climax": "Climax is pretty underwhelming as it just feels like a letdown after building so much tension and mystery throughout the movie",
+    "tone": "Tone is a dark and ominous tone that you would expect from a Fincher mystery-thriller, but it also just feels dull with its cinematography, limited acting, and bland dialogue",
+    "final_notes": "",
+    "overall": "Overall, 'Gone Girl' showcases signature David Fincher direction as it is a psychological thriller that lays out a mystery designed to keep you on the edge of your seat as they try to solve the disappearance, but the film ultimately is held back by its bland tone, unnatural dialogue, and underwhelming climax that makes the movie feel like a letdown after building so much tension throughout"
+  },
+  "release_year": 2014,
+  "review_date": "11/25/2025",
+  "redux": false,
+  "id": 628,
+  "imdb_id": "tt2267998"
+}

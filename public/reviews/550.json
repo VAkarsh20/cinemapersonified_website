@@ -1,0 +1,113 @@
+{
+  "title": "Ash",
+  "rating": 3.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Flying Lotus"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale is basically void, as it does a bad job building the world and showing the importance of the conflict; the direction on a microscale is nonexistent because the movie mostly follows González's character solo, but when there are interpersonal scenes, they are very boring; the storytelling is a mess because it tries to start the movie at the end and continually jump back chronologically to tell the story, but it does so poorly; they build tension poorly because the movie does a bad job explaining what the conflict is or its importance, they just throw jump scares and poor gory visuals to make you 'feel scared'"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Eiza González"
+          },
+          "rating": "Bad",
+          "comments": "Such a bland and emotionless performance because half the movie is just close-ups on her face, and she does a bad job actually reacting to the conflict"
+        },
+        {
+          "actor": {
+            "name": "Aaron Paul"
+          },
+          "rating": "Pretty Bad",
+          "comments": "It really feels like he's in this movie just so they have somewhat of a big name, because he provides nothing"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "There is barely a supporting cast, but when there is, they do not provide anything valuable to the story; The supporting cast is basically just an off-brand \"Alien\""
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jonni Remmler"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is literally just \"Alien\" but if it started at the end and worked its way backward; the plot structure is a complete mess as the movie starts at the end and constantly jumps back in the timeline to tell the story but does so in a very bad way; character writing is nonexistent because you learn nothing about the characters or why they are a part of this mission"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jonni Remmler"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is so bland and boring; the symbolism is lacking; the foreshadowing is bad because the movie starts at the end and does a bad job building the importance of the conflict and you basically already know how this movie is going to end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Flying Lotus"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Overbearing and makes the scenes hard to follow"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Richard Bluck"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Probably the only somewhat enjoyable thing about this movie is that it created some visuals I enjoyed and did a decent job creating tension"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Bryan Shaw"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The edit just makes this movie feel like a mess because there are all these fast cuts and edits to try to create panic; but this just makes the movie convoluted and hard to follow"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The score and sounds were poorly mixed"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "The visuals look so tacky and fake that it feels like they were created by Gen AI"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Takes a lot of inspiration from \"Alien\""
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "What you would expect from a low-budget movie, but it does help create some gore"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "Decently designed, as they show the characters in space"
+    },
+    "pacing": "Pacing is a mess because of all the cuts in the storyline, so the movie ends up being slow and boring",
+    "climax": "Climax is a mess because it is just chaos, and you do not really feel anything resolved",
+    "tone": "Tone is basically \"Alien\" but pretentiously amplified to be more of a horror movie;",
+    "final_notes": "Saw the world premiere at SXSW",
+    "overall": "Overall, a very bad movie that does a poor job explaining the conflict's importance, is filled with visuals that look AI-generated, and feels very derivative, as the movie is basically what would happen if we started the movie at the end of \"Alien\" and told the story like it was \"Memento,\" but in a convoluted yet boring way"
+  },
+  "release_year": 2025,
+  "review_date": "03/11/2025",
+  "redux": false,
+  "id": 550,
+  "imdb_id": "tt17489650"
+}

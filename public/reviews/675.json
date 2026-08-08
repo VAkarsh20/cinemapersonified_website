@@ -1,0 +1,98 @@
+{
+  "title": "Hokum",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Damian McCarthy"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale uses a lot of similar horror techniques found in the 'haunted house' genre, relying heavily on building suspense and jump scares; Despite its use of clichés, it does a pretty good job of keeping you on the edge of your seat and engaged with the story; The direction on a microscale is surprisingly good for a low-budget horror film as it tackles themes of grief and trauma in a way you do not see in many horror films; Storytelling is pretty good as it uses more of a mystery-style template to move the story forward rather than relying on traditional horror storytelling; The film builds tension very well as the whole movie is about building suspense to keep you on the edge of your seat or crawl in it when things go bad"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Adam Scott"
+          },
+          "rating": "Pretty Good",
+          "comments": "Man what an asshole, even though he does do a good job leading the movie and playing horror well, he is just very surface level in trying to play the asshole side of this character"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The supporting cast does a pretty good job at moving the story forward and playing off of Adam Scott's character, even when he can be a lot"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Damian McCarthy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is not very unique as, at the end of the day, it is a 'haunted hotel' story, but it does touch on themes of grief and trauma in a way you do not see in many horror films; The plot structure is more of a mystery template as it follows a writer trying to find out what is happening in this hotel, especially after a tragedy; Character writing is a little surface-level for the main character as they paint him to be a generic dick, but it does touch on themes of grief and trauma to explain why he is the way he is"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Damian McCarthy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty sharp and witty, which makes sense because the main character is a writer; The humor is pretty good and helps give this movie some personality; The symbolism is a little overt, but it is integral in telling the story as it is about the main character's grief and trauma that he has tried to overcome since he was a child; The foreshadowing is good as it helps show why the main character is in this Irish hotel by himself, though it is a little predictable with how they plant the roots very early on"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Joseph Bishara"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The score does a good job of helping build the tone and atmosphere of the movie, building suspense that makes the horror sequences feel very tense"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Colm Hogan"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The film is shot very well for a low-budget horror film as it feels very polished and professional"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brian Philip Davis"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The film is edited very well for a low-budget horror film as it feels very polished and professional"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Sound is used very well to help build suspense and tension, especially in the horror sequences, as the whole movie relies on sound to build up the horror elements and the jump scares"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The visual effects are used well for a low budget as they feel minimal and effective"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The production design uses the one-setting location to its advantage as the whole movie follows the 'haunted hotel in the woods' trope"
+    },
+    "pacing": "Pacing is pretty good for the most part as the movie does a good job of using suspense and tension so the film does not feel too slow, though it does have five to ten minutes that could have been trimmed",
+    "climax": "The climax is executed well and feels like a natural conclusion to the story",
+    "tone": "The tone feels more like a mystery than a horror film, as the protagonist is trying to figure out a disappearance at a haunted hotel, but it still has horror elements that make it feel like a supernatural horror film, especially in the climax",
+    "final_notes": "",
+    "overall": "Overall, 'Hokum' is a pretty good horror movie that plays more like a mystery as it uses a disappearance to navigate the 'haunted hotel' trope; while it does rely on horror clichés like jump scares, it is executed very well from a technical standpoint and creates a suspenseful atmosphere that keeps you on the edge of your seat or crawling in it"
+  },
+  "release_year": 2026,
+  "review_date": "05/08/2026",
+  "redux": false,
+  "id": 675,
+  "imdb_id": "tt35672862"
+}

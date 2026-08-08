@@ -1,0 +1,67 @@
+{
+  "title": "Rush",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ron Howard"
+        }
+      ],
+      "rating": "Good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Daniel Brühl"
+          },
+          "rating": "Great"
+        }
+      ],
+      "cast": {
+        "rating": "Good"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Peter Morgan"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Pretty true to the story"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Anthony Dod Mantle"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Daniel Hanley"
+        },
+        {
+          "name": "Mike Hill"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very unique editing sequences that were good at times and very extra at others"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "final_notes": "The movie felt very short and rushed a lot in terms of the plot (no pun intended)",
+    "overall": "Overall, a good movie that I will compare a lot to Ford v. Ferrari where this movie had a better story and was more serious while the other movie is more of a fun watch with better technicals"
+  },
+  "release_year": 2013,
+  "review_date": "05/11/2021",
+  "redux": false,
+  "id": 185,
+  "imdb_id": "tt1979320"
+}

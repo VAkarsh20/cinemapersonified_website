@@ -1,0 +1,114 @@
+{
+  "title": "Anemone",
+  "rating": 7.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ronan Day-Lewis"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is stunning, as this is a very visual and beautiful movie; The direction on a microscale is very theater-esque, as it is just a two-man play, with Daniel Day-Lewis doing all the heavy hitting; The storytelling is a big problem, as there really isn't any story to tell, despite them trying to force one; The way they build tension is poor, because it gets kind of avant-garde and surrealist, as moments to emotionally invest yourself into what is going on; Even though it is good on a macro and microscale, they don't do a good job connecting the two, as they are very disjointed"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Daniel Day-Lewis"
+          },
+          "rating": "Very Good",
+          "comments": "It's nice to see Day-Lewis still has it because he shows why he is one of the greatest actors of all time;  Shows the trauma that Ray feels and how it made him the person he is, escaping the world to hide from the horrors he left behind;  Has good chemistry with Bean, as this movie really feels like a two-act play about nothing, similar to Waiting for Godot"
+        },
+        {
+          "actor": {
+            "name": "Sean Bean"
+          },
+          "rating": "Good",
+          "comments": "Holds his own in his scenes with Day-Lewis as he is meant to absorb the trauma dumping the protagonist gives him, and this works because of his good chemistry with him"
+        },
+        {
+          "actor": {
+            "name": "Samantha Morton"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows some emotion, but isn't really given that much to work with, as it's really a movie about the main two"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The movie is really about the main two actors, but their chemistry is pretty strong"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ronan Day-Lewis"
+        },
+        {
+          "name": "Daniel Day-Lewis"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a little too simple, as it is just a familial drama, but it doesn't really have that much substance to make it interesting; the plot structure is pretty linear, just very shallow in substance, it ends how it should, but is not well, as it feels too abstract to get to that point; character writing is the best part of the writing because it paints Ray as an old man filled with so much trauma that he has to escape the world to find peace"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ronan Day-Lewis"
+        },
+        {
+          "name": "Daniel Day-Lewis"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is very play-esque, not amazing but filled with depth and trauma the characters experience; the symbolism is present as it deals with trauma and how it affects the protagonist as he secludes himself from the world to find peace"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bobby Krlic"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Really enjoyed it, as it felt like a punk experimental score that really fit the vibe and aesthetic of the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Ben Fordesman"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Such a beautifully shot movie is visually stunning as it is filled with beautiful landscapes and scenery, and is a reason to watch this movie alone; a massive feat considering this is a low-budget directorial debut"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nathan Nugent"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Not well edited, as many of the scenes felt unnecessarily long, and it left these awkward pauses and silences that just made the movie feel slower than it actually is"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Felt too abstract and unnecessary at points;  Is used well to help build the scenery"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "More about the landscapes, they filmed it as it was stunning scenery"
+    },
+    "pacing": "Pacing is incredibly slow because the movie has so many scenes that are just two-person conversations with unnecessary pauses; this movie could have been cut by 20 minutes to be a lot tighter",
+    "climax": "Climax really hurts this movie as it is too abstract and surreal to be taken seriously, and it kind of ruins what they built up to that point",
+    "tone": "Tone is very play-esque, as a majority of the movie is two-person conversations, though the macroscale scenes do make it feel like an avant-garde film",
+    "final_notes": "",
+    "overall": "Overall, a movie that has many stunning individual pieces such as the stunning cinematography, experimental score, and very good performance from Daniel Day-Lewis that should be applauded on their own, but the story and writing fail to provide any glue to hold these pieces together as there really isn't much going on"
+  },
+  "release_year": 2025,
+  "review_date": "10/05/2025",
+  "redux": false,
+  "id": 612,
+  "imdb_id": "tt33549648"
+}

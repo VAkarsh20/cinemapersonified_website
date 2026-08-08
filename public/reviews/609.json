@@ -1,0 +1,121 @@
+{
+  "title": "The Vile",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Majid Al Ansari"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is pretty good because it creates this supernatural ambiance that helps add to the fear and horror of the movie, while simultaneously looking polished; The direction on a microscale is good because this is where the familial drama shines and the jealousy the protagonist has with this new wife coming into her life, and how this wife is a parasite in planting herself; The storytelling is pretty good because it uses an interesting story with a horror concept to make you invested in what happens, as it slowly unravels the conflict and its purpose; They build tension very well because this helps build up the supernatural aspect of this movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bdoor Mohammad"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Really embodies her character well and shows the paranoia and jealousy that her character is going through; Has pretty good chemistry with her co-stars"
+        },
+        {
+          "actor": {
+            "name": "Sarah Taibah"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Really plays this cunning and ominous second wife character well as her character really has a dark aura about her, despite trying to be so friendly; Has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Iman Tarik"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well, and she has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Jasem Alkharraz"
+          },
+          "rating": "Decent",
+          "comments": "Not really in the movie that much, but he is really nothing special when he is in it; He has decent chemistry with the rest of the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "The movie is really about the main three, but everyone plays their roles well"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Majid Al Ansari"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is interesting as on the surface the movie is a supernatural movie, but at its core it is a movie about Arab families and the jealousy women can feel when a second wife is brought into the family; the plot structure is pretty standard for a supernatural movie; character writing is good as it shows the jealousy the protagonist feels in this situation and creates a sense of mystery with the second wife"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Majid Al Ansari"
+        },
+        {
+          "name": "Johnnie Alward"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is standard, nothing special; the symbolism is pretty good, as it touches on jealousy and Arab familial dynamics; the foreshadowing is what you expect because you kind of see where this movie is going based on its genre and what is introduced in the beginning"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jerry Lane"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps with building tension and an ominous tone you would expect from a supernatural horror movie;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Benjamin Kirk Nielsen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very well shot for an Indie movie, as there are many camera angles and techniques that make this movie feel auteur driven; uses camera angles and rule of thirds well for the supernatural moments to build anticipation and fear"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ghalya Lacroix"
+        },
+        {
+          "name": "Hafedh Laridhi"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Well edited and feels auteur driven"
+    },
+    "sound": {
+      "rating": "Pretty Good to Good",
+      "comments": "Use sound well to build anticipation and help in the supernatural moments, even though it can rely a little too much on jump scares"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Decent, but nothing special as it does look a little low-budget at times"
+    },
+    "pacing": "Pacing is just right, as it does not feel too fast or slow",
+    "climax": "Climax is a typical supernatural horror ending, nothing special; ending was a little predictable",
+    "tone": "Tone on the surface is a supernatural horror movie, but at its core, the tone is a familial drama",
+    "final_notes": "Saw it at Fantastic Fest",
+    "overall": "Overall, a pretty good and polished supernatural horror movie that at its core is a profound familial drama; this movie is carried by its strong performances and interesting story that is told well through auteur-esque cinematography and horror techniques, even though it is a little predictable towards the end"
+  },
+  "release_year": 2025,
+  "review_date": "09/25/2025",
+  "redux": false,
+  "id": 609,
+  "imdb_id": "tt37371373"
+}

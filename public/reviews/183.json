@@ -1,0 +1,68 @@
+{
+  "title": "The Royal Tenenbaums",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Wes Anderson"
+        }
+      ],
+      "rating": "Good"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Good",
+        "comments": "The cast overall was good (but individual performances were pretty good to decent from how bland they can be)"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        },
+        {
+          "name": "Owen Wilson"
+        }
+      ],
+      "rating": "Good"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        },
+        {
+          "name": "Owen Wilson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "But quirky"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Robert Yeoman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Was Wes Anderson to a Tee from the amount of shots/angle changes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Dylan Tichenor"
+        }
+      ],
+      "rating": "Good"
+    },
+    "final_notes": "There really was no real plot to movie but themes of overcoming a toxic family dynamic was shown very well",
+    "overall": "Overall, a pretty good watch that shows how broken pieces of a family can still come together to make a single unit through adversity in what is a prime example of Wes Anderson filmmaking with its quirks and cinematography"
+  },
+  "release_year": 2001,
+  "review_date": "01/24/2021",
+  "redux": false,
+  "id": 183,
+  "imdb_id": "tt0265666"
+}

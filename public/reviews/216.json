@@ -1,0 +1,114 @@
+{
+  "title": "Magnolia",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Paul Thomas Anderson"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Cruise"
+          },
+          "rating": "Incredible",
+          "comments": "Though he was literally just playing himself"
+        },
+        {
+          "actor": {
+            "name": "Philip Baker Hall"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Philip Seymour Hoffman"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "William H. Macy"
+          },
+          "rating": "Great"
+        },
+        {
+          "actor": {
+            "name": "Julianne Moore"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "John C. Reilly"
+          },
+          "rating": "Good to Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Decent"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Paul Thomas Anderson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "I liked the way the store points ran parallel in narrative but intersected at many points throughout the movie; though, it does falter in the last 20-30 minutes"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Paul Thomas Anderson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "There is a lot of symbolism throughout the movie which I really enjoyed but the dialogue was just very basic, unnatural, and hard to watch"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jon Brion"
+        }
+      ],
+      "rating": "Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Robert Elswit"
+        }
+      ],
+      "rating": "Great"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Dylan Tichenor"
+        }
+      ],
+      "rating": "Great"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good"
+    },
+    "plot_structure": "The runtime of the movie is extremely long even with the 8 different stories (2-3 of the stories should have been cut to make a more polished product); the ending of the movie was very poor as it had to pick up the pieces from its very weird climax and only tied up the loose ends for like half of the stories (leaving the other half unfinished and questioning)",
+    "pacing": "Pacing was extremely slow (Especially dragging at some points) in the first half of the movie and extremely fast in the second half)",
+    "climax": "The build to the climax was great and executed very nicely but the actual climax was a 180 from what it was building to and completely threw off the flow and experience of the movie (like I get why PTA did it but it still was just very poorly executed and threw off the movie for no reason)",
+    "final_notes": "The conveying of tramua and emotions was pretty good and well executed as many of the characters are guilted and haunted by their pasts but at times it felt like the acting was a bit over the top (this also ties in with the use of the symbols as it explains these moments of trauma very well)",
+    "overall": "Overall, a Pretty Good movie that has a lot of great moments and shows how the different characters lives intersect as they deal with their past trauma, but it falters from its inconsistent pace, terrible use of runtime (Given that it is extremely long and still does not manage to tie up loose ends), and very questionable ending (Something I see a lot from PTA)"
+  },
+  "release_year": 1999,
+  "review_date": "08/09/2021",
+  "redux": false,
+  "id": 216,
+  "imdb_id": "tt0175880"
+}

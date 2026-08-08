@@ -1,0 +1,112 @@
+{
+  "title": "Bullet Train",
+  "rating": 5.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Leitch"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The choreography of the action scenes was well done but the overall moving of the story forward with the very sharp cuts to try to create humor were not that well executed (with the actors also not really given that much to work with)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Brad Pitt"
+          },
+          "rating": "Good",
+          "comments": "Really has to pull from his experience in the role as he isn't given that much from the director or script to work with, but he still does do a fine job (mainly because he is playing someone who is close to his real life persona)"
+        },
+        {
+          "actor": {
+            "name": "Joey King"
+          },
+          "rating": "Pretty Bad",
+          "comments": "It is understandable that her character was portrayed to be annoying, but she really was not that good in the role"
+        },
+        {
+          "actor": {
+            "name": "Aaron Taylor-Johnson"
+          },
+          "rating": "Good to Very Good",
+          "comments": "A joint performance with Brian Tyree Henry as they both really do a good job at playing off each other to build comedy and action"
+        },
+        {
+          "actor": {
+            "name": "Brian Tyree Henry"
+          },
+          "rating": "Good to Very Good",
+          "comments": "See Aaron Taylor-Johnson"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "But there was a real issue of screen-time with a huge cast like this"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Zak Olkewicz"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The actual concept and idea was decent but the overall story was very poorly laid out to the point that the ending becomes very tiring"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Zak Olkewicz"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue was filled with way too much meta humor in that it tries so hard to be like Deadpool but just ends up being very annoying (though some jokes and moments were funny (like the cameos))"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Dominic Lewis"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jonathan Sela"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Especially during the fight scenes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Elísabet Ronaldsdóttir"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "visual_effects": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure was very poorly laid out as it has a big issue in building things up as if they are important then bringing them down in minutes (with this happening so many times that it just gets boring towards the end)",
+    "pacing": "Pacing was very fast but could have still cut out some time (like 20 mins) because of how dense in content it is",
+    "climax": "Build to climax was there but not that exciting cause it was the standard preparing for a battle trope; climax was well done and a good fighting scene",
+    "tone": "Tone was way too much like Deadpool to the point where it is very annoying",
+    "final_notes": "The 75% of the movie's action scenes and best moments were shown in the trailer to the point where everything else that is shown is just boring or redundant",
+    "overall": "Overall, a movie that is entertaining for the action elements and some comedic moments, but is not a good movie in terms of writing, story structure, and overall feel"
+  },
+  "release_year": 2022,
+  "review_date": "08/19/2022",
+  "redux": false,
+  "id": 288,
+  "imdb_id": "tt12593682"
+}

@@ -1,0 +1,120 @@
+{
+  "title": "When Harry Met Sally",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Rob Reiner"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is very cute and quick as it helps set the tone for the relationship, but leaves more room for the microscale to build these characters up; The direction on microscale is very good as the chemistry the cast has is strong, especially Crystal and Ryan as you can see the romantic tension masked by their strong friendship; Storytelling is simple and cute; Tension is typical of a Rom-Com, coming out towards the end in a cute, but formulaic way"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Billy Crystal"
+          },
+          "rating": "Very Good",
+          "comments": "Mike Wazowski; his chemistry with Ryan really makes this movie"
+        },
+        {
+          "actor": {
+            "name": "Meg Ryan"
+          },
+          "rating": "Very Good",
+          "comments": "Plays her role well; her chemistry with Crystal really makes this movie"
+        },
+        {
+          "actor": {
+            "name": "Carrie Fisher"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Bruno Kirby"
+          },
+          "rating": "Good"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "This close cast plays its role well as there is chemistry among the actors, especially the two leads"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Nora Ephron"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is simple and cute, basically chronicling two friends throughout their lives with romantic tension; The plot structure is pretty linear and cut up into chapters with the way they interject the interviews; Character writing is good as it makes you really care about the two leads and whether or not they can truly be friends"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Nora Ephron"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is pretty witty and well written for a rom-com, having many memorable lines; The humor is good for an 80s rom-com; The symbolism is somewhat there, but the movie is more about being cute and simple; The foreshadowing is there as the movie ends how you want it to, despite it being a little too 80s Hollywood"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Marc Shaiman"
+        },
+        {
+          "name": "Harry Connick Jr."
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The jazzy mood really sets the tone for an 80s rom-com set in New York"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The use of jazz really sets the tone for an 80s rom-com in New York"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Barry Sonnenfeld"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Nothing really special"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Robert Leighton"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Nothing really special"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Nothing really special"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Set and shot in New York to make this really feel like a New York movie, with iconic places like Katz's Deli"
+    },
+    "pacing": "Pacing is right because the movie uses its 90-minute runtime effectively with no frills",
+    "climax": "Climax is very cute and what you wanted, despite it being a little too formulaic and simple",
+    "tone": "Tone is a cute 80s rom-com set in New York",
+    "final_notes": "",
+    "overall": "Overall, a cute rom-com that works because of Billy Crystal and Meg Ryan's strong chemistry; even though the movie is a little too simple and formulaic, it's all you really want from an 80s rom-com"
+  },
+  "release_year": 1989,
+  "review_date": "07/10/2025",
+  "redux": false,
+  "id": 580,
+  "imdb_id": "tt0098635"
+}

@@ -1,0 +1,112 @@
+{
+  "title": "All of Us Strangers",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Andrew Haigh"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Has a very unique way of telling the story as subtly creates a sense of blur and mystery in what is reality and what is an illusion, and he uses cinematography and editing well to create this effect; has somewhat control on a microscale as the one-on-one scenes between actors are directed well; gets a decent amount from his actors (it is just the movie is a bit dry in getting as much as he can)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Andrew Scott"
+          },
+          "rating": "Very Good",
+          "comments": "The center of the movie and really embodies someone who is dealing with repressed trauma from the loss of his family, dealing with his sexuality in a heteronormative culture, and finding love when very few love him back"
+        },
+        {
+          "actor": {
+            "name": "Paul Mescal"
+          },
+          "rating": "Pretty Good",
+          "comments": "Mumbling the whole movie so it is so hard to hear what he is saying; does have good chemistry with Scott"
+        },
+        {
+          "actor": {
+            "name": "Jamie Bell"
+          },
+          "rating": "Good",
+          "comments": "Plays off of Scott very well (Especially in their one-on-one scenes)"
+        },
+        {
+          "actor": {
+            "name": "Claire Foy"
+          },
+          "rating": "Good",
+          "comments": "Shows a lot of emotion when dealing with her son (especially in their one-on-one scenes and their final scene in the movie)"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "There is no other cast besides these four"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Andrew Haigh"
+        }
+      ],
+      "rating": "Good",
+      "comments": "A unique story and is told very subtly (to help keep with the mystery and blur what is reality); this storytelling and construction is really minimal and leaves a lot open for interpretation on what actually happened; the flow between sequences is not really that clear (which can be argued is the point as it helps show how unreliable a storyteller the protagonist is); the character writing for the protagonist is good as the movie unpeels a lot about his backstory and trauma the more the movie goes on (with the ending showing who he really is)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Andrew Haigh"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is pretty minimal and simple (but does a good job and is profound when it needs to be); the romantic and emotional moments are captured very well in the screenplay and act as a good blueprint for the story to unravel; the symbolism is very profound and used very well to show the message and themes; the foreshadowing is very good and helps with creating the twist in the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Emilie Levienaise-Farrouch"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty minimal and just used to set the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jamie D. Ramsay"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Very artsy and helps show how skewed the protagonist's view of reality was"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jonathan Alberts"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Artsy for the most part; felt a bit tacky at times (especially the opening shot and the drug scene)"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The dialogue sound mixing was bad because it was muffled and just hard to hear; the aspects of sound just felt like they were cheap (especially in the beginning)"
+    },
+    "plot_structure": "Plot Structure was a bit more complex as the dream sequences interject the story from moving forward as the protagonist uses them to fight his issues from the past (in a good); the culmination to the climax and the eventual exposition is laid out very well",
+    "pacing": "Pacing was slow (and the exposition was incredibly slow); the runtime could have been cut 10-15 minutes by making the pace a bit faster",
+    "climax": "Climax was executed very well as it was both closure for the protagonist and a big twist as it opened the door for interpretation",
+    "tone": "Tone felt a bit sci-fi with its blur in reality (and felt like a really stripped down Eternal Sunshine with it favoring more of a dramatic tone)",
+    "final_notes": "Saw a premiere at Austin Film Fest",
+    "overall": "Overall, a well-written movie that is carried out by its good performances (especially Andrew Scott's) as the blurred perception of reality creates a unique movie about dealing with trauma and identity, though it is very slow and a victim of its own convoluted storytelling at times"
+  },
+  "release_year": 2023,
+  "review_date": "10/30/2023",
+  "redux": false,
+  "id": 380,
+  "imdb_id": "tt21192142"
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Don't Look Up",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Adam McKay"
+        }
+      ],
+      "rating": "Good"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Leonardo DiCaprio"
+          },
+          "rating": "Great",
+          "comments": "Though it is not one of his better performances"
+        },
+        {
+          "actor": {
+            "name": "Jennifer Lawrence"
+          },
+          "rating": "Very Good",
+          "comments": "Played her character very well, her performance was just limited by what the script allowed her to do"
+        },
+        {
+          "actor": {
+            "name": "Rob Morgan"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Jonah Hill"
+          },
+          "rating": "Great",
+          "comments": "Playing a character he built his name off of early in his career (which is great to see)"
+        },
+        {
+          "actor": {
+            "name": "Mark Rylance"
+          },
+          "rating": "Very Good",
+          "comments": "Especially with the awkwardness of the tech character"
+        },
+        {
+          "actor": {
+            "name": "Cate Blanchett"
+          },
+          "rating": "Very Good"
+        },
+        {
+          "actor": {
+            "name": "Meryl Streep"
+          },
+          "rating": "Good to Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Adam McKay"
+        },
+        {
+          "name": "David Sirota"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Though it is a mess in terms of how the plot is structured (a given from McKay nowadays)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Adam McKay"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The jokes were actually pretty funny and back to his old self as his script really was not taking itself too seriously as it was in McKay's previous two movies (standout joke being the non-sequiturs to the General asking for money for the snacks; it is pretty obvious at how the movie tries to force politics into its message, its just extremely overt and not well carried out cause of how overt it is)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nicholas Britell"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Linus Sandgren"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Hank Corwin"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure was a bit of the mess (there are really two climaxes (and while the movie does a good job heading into the first one, it becomes a huge mess after the this as it goes to the end))",
+    "pacing": "No consistent pace at all in the movie (some parts felt slow and some parts felt really fast)",
+    "climax": "Build to the climax (or two climaxes) is done well as the real climax is more built off of the suspense coming down with the characters' having their realizations",
+    "final_notes": "The forced political message of the movie really makes it a mess as the inconsistent structure and very simple showing of this message really hurts at what the movie is trying to show",
+    "overall": "Overall, it is great to see Adam McKay play more to his roots at not taking himself too seriously as he creates a funny comedy that has some real highlights, though he still has a big mess on his hands from a pretty poorly structured plot and forced political message that is not told well"
+  },
+  "release_year": 2021,
+  "review_date": "01/06/2022",
+  "redux": false,
+  "id": 240,
+  "imdb_id": "tt11286314"
+}

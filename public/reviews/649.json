@@ -1,0 +1,122 @@
+{
+  "title": "Nirvanna the Band the Show the Movie",
+  "rating": 9.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Matt Johnson"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macro scale is a guerrilla-style mockumentary that really complements the DIY style of indie filmmakers like Matt Johnson; The movie has many flavors of beloved mockumentaries like Borat; The direction on a micro scale is very funny, as the movie feels like improv in the way Matt and Jay banter back and forth while their friendship really comes to life through their chemistry; The storytelling is pretty silly, as it is basically a rehash of Back to the Future, but for their show"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Matt Johnson"
+          },
+          "rating": "Very Good",
+          "comments": "Basically just plays hyper-fictionalized version of himself as he is this funny, awkward guy that is the comedy in this movie; has great chemistry with Jay to play this funny-straight man dynamic"
+        },
+        {
+          "actor": {
+            "name": "Jay McCarrol"
+          },
+          "rating": "Good",
+          "comments": "Plays the straight man in this straight man-funny guy dynamic with Johnson, and it works so well because they have great chemistry since they are real life best friends"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The movie is really just the two leads as everyone else is just Real world IRL people you would see in Borat"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Matt Johnson"
+        },
+        {
+          "name": "Jay McCarrol"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is funny, as it is basically just a rehash of Back to the Future, but in the context of Nirvanna the Band the Show; The plot structure is the same as the plot structure in Back to the Future; I really enjoyed the bookend of the movie; Character writing is good, as the dynamic of Jay and Matt's relationship comes to life in this story, showing how they are growing apart after 17 years, the tensions that brew to lead them to a breaking point, and the aftermath of being apart"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matt Johnson"
+        },
+        {
+          "name": "Jay McCarrol"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is incredibly funny, as the whole movie is basically a constant joke, making the film incredibly entertaining; The humor is so funny, and it is some of the most I have laughed in a theater in a while; There is a wide variety of jokes because they include improv, a Borat-style mockumentary approach, meta-humor, and jokes that touch on how dated 2008 has become; The humor is absolutely the reason to go watch this movie; The symbolism is basically the same as in Back to the Future, with some symbolism about friendship (it is kind of funny how much of a rehash it is, because they have no shame in letting the audience know); The foreshadowing is prevalent because this movie, at the end of the day, is a time-travel movie; The use of flashbacks to double down on the foreshadowing is a joke in itself"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jay McCarrol"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It helps make this movie feel musical and on-brand for the band; The way they try to circumvent the Back to the Future copyright is really funny"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "It uses Turnstile, which is a big plus; The way they try to circumvent the Back to the Future copyright is really funny"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jared Raab"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It makes this movie feel like a guerrilla mockumentary with its handy-cam style; It makes the movie feel like Borat in the way they film in the real world"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Curt Lobb"
+        },
+        {
+          "name": "Robert Upchurch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It makes this movie feel like a guerrilla mockumentary with its editing style; It makes the movie feel like Borat in the way they film in the real world"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "It is about as good as you would expect for a low-budget indie movie like this"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "They are pretty cheap, but they help add to the makeshift feel of the movie and are what you will get from a low-budget movie like this"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "It shows the streets of Toronto, both in 2025 and in 2008"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "They wear their signature costumes"
+    },
+    "pacing": "The pacing is just about right, as the movie uses comedy very well to keep the story moving",
+    "climax": "The climax is literally the exact same ending as Back to the Future, which is funny considering how much they are willing to rehash it for this movie",
+    "tone": "The tone is very guerrilla mockumentary, as the movie has Borat and improv flavors to show how DIY this movie is",
+    "final_notes": "The fact that this movie cost less than a quarter-million dollars just shows how much Matt and Jay lean into this project, as at the end of the day, their friendship and chemistry are what make this movie work, essentially taking a DIY approach to making the film",
+    "overall": "Overall, this mockumentary shows what can be made on a shoestring budget, as Matt Johnson and Jay McCarroll's dynamic and comedy make this movie one of the funniest theater experiences I have had in a while"
+  },
+  "release_year": 2025,
+  "review_date": "02/09/2026",
+  "redux": false,
+  "id": 649,
+  "imdb_id": "tt35522483"
+}

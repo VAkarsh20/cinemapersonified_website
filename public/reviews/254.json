@@ -1,0 +1,139 @@
+{
+  "title": "Almost Famous",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Was able to move the story forward with his well written screenplay/story, but did not really get the best of his actors"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Patrick Fugit"
+          },
+          "rating": "Pretty Good",
+          "comments": "Was able to play the child character very well but it was easy to see where his acting limits were in the more intense and dramatic scenes"
+        },
+        {
+          "actor": {
+            "name": "Billy Crudup"
+          },
+          "rating": "Good",
+          "comments": "Does a decent job in changing his emotions to fit the scenes"
+        },
+        {
+          "actor": {
+            "name": "Frances McDormand"
+          },
+          "rating": "Very Good",
+          "comments": "Seasoned actor who plays the over-protective mom very well"
+        },
+        {
+          "actor": {
+            "name": "Kate Hudson"
+          },
+          "rating": "Great Job",
+          "comments": "Really plays the ditsy girl well but also shows some character when trying to be more mature and have thoughts that are more than people think she's capable of"
+        },
+        {
+          "actor": {
+            "name": "Jason Lee"
+          },
+          "rating": "Good performance form Jason Lee (Plays the serious/comedic relief role well as he can switch"
+        },
+        {
+          "actor": {
+            "name": "Anna Paquin"
+          },
+          "rating": "Good"
+        },
+        {
+          "actor": {
+            "name": "Philip Seymour Hoffman"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Plays a role very suitable to his strengths and has a good mentorship relationship with the main character"
+        },
+        {
+          "actor": {
+            "name": "Jimmy Fallon"
+          },
+          "rating": "Terrible",
+          "comments": "It was just so hard to watch how off-beat he was and it felt like he could not read any of his lines"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Anywhere from Pretty Bad to Pretty Good"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Typical bildungsroman story mixed with different elements of early 2000s Rom-Com/Feel-good moments; the overall plot was structured well but the ending was a little too safe/feel-good for me"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue was very well written and the movie flows very nicely from its different elements, the symbols and allusions to different rock elements were also nice to see"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nancy Wilson"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "soundtrack": {
+      "rating": "Very Good",
+      "comments": "Really helped capture the feel of the early 70s and its era in Rock"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Toll"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Hutshing Saar Klein"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good to Very Good",
+      "comments": "Very noticeable in the music performances"
+    },
+    "plot_structure": "Plot Structure was laid out pretty nicely but the final 40 minutes of the movie feels like it starts to fall apart with the lack of effort put in by a lot of moving pieces (it is as if the movie should have ended at the 90 minute mark because the climax and resolution feel very forced)",
+    "pacing": "Pacing was good for the most part (it is just that the end really does not come together very nicely because it almost alludes to doing something new but just ends up being safe in the end)",
+    "climax": "Build to climax was not really there; climax was very mediocre cause it is common cliche and does not really add anything but comedic moments",
+    "tone": "Tone of the movie was handled very nicely because you are almost immersed in the early 70s culture through the language and music/really gets that feel-good feel similar to movies like Dazed and Confused",
+    "final_notes": "The movie is very feel-good and plays to a lot of the style that early 2000s movies had (which is fine) but it just feels like it tries to be very safe as it is going in one direction by falls apart as is corrects itself in being more safe",
+    "overall": "Overall, a well written movie that was a fun watch with some good performances but plays a little too safe and kinda falls apart towards the end"
+  },
+  "release_year": 2000,
+  "review_date": "04/29/2022",
+  "redux": false,
+  "id": 254,
+  "imdb_id": "tt0181875"
+}

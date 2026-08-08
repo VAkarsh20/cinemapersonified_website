@@ -1,0 +1,161 @@
+{
+  "title": "Megalopolis",
+  "rating": 3.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale is very as there doesn't feel like there is any clear vision on what he wanted as the imagery on screen feels like it keeps changing style and the visual effects look too tacky for a movie with a 120 million dollar budget; the direction on a microscale is terrible as all the performances feel monotonous and all the interpersonal scenes do not feel like they are going anywhere; the storytelling has no direction as they introduce so many plot points that have no context to what is going on, and these plot points never feel like they connect or have closure; he does not build well at all tension"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Adam Driver"
+          },
+          "rating": "Bad",
+          "comments": "Somehow, it feels like he never got out of character from \"House of Gucci\""
+        },
+        {
+          "actor": {
+            "name": "Giancarlo Esposito"
+          },
+          "rating": "Bad",
+          "comments": "Feels like he is acting on stage in front of no audience;  he has bad chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Nathalie Emmanuel"
+          },
+          "rating": "Pretty Good",
+          "comments": "Just a bland female lead performance that does not provide anything to the story; it has no chemistry with Driver"
+        },
+        {
+          "actor": {
+            "name": "Aubrey Plaza"
+          },
+          "rating": "Decent",
+          "comments": "The best performance in the movie, which does not really say a lot, as it felt like she was the only one having fun acting in this movie"
+        },
+        {
+          "actor": {
+            "name": "Shia LaBeouf"
+          },
+          "rating": "Bad",
+          "comments": "Felt like Coppola's direction to him was to just \"go nuts\" ; feels like Shia went method acting playing Shia LaBeouf"
+        },
+        {
+          "actor": {
+            "name": "Jon Voight"
+          },
+          "rating": "Bad",
+          "comments": "Feels like he has no energy and does not look like he was all there"
+        },
+        {
+          "actor": {
+            "name": "Laurence Fishburne"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Monotonous and really only here for his narration voice"
+        },
+        {
+          "actor": {
+            "name": "Kathryn Hunter"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Does not feel like she was given anything to work with; she has no chemistry with Esposito"
+        },
+        {
+          "actor": {
+            "name": "Dustin Hoffman"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Feels like he was just in the movie because he missed out on getting to work with Coppola in both their primes, and it clearly feels like they are both not theirs anymore; just feels like a cameo"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Provide nothing to the main cast and just feel like montonous, inexperienced extras"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is never actually explained as they just throw so many things at the wall, and none of them stick; I still have no idea what the actual conflict was; the plot structure is laid out into chapters, but this does not really do anything to split the movie up; the character writing is very bad as all the characters feel like they were written by either a five year old or a senial old man; Cesar Catilina is given like so many different attributes, but like none of them stick or provide any context to who he is; Mayor Franklyn Cicero is the arch-rival of Cesar Catilina, but is so sterotypically written that is kinda laughable"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is atrocious, but is at least fun bad; the humor is surprisingly somewhat there, but it is mainly because of how fun-bad the movie is; they try to inject symbolism into the movie, but I refuse to accept or understand whatever message they were trying to project as the movie is just so poorly written; the foreshadowing is non-existent because of how many ideas they introduced in this movie, with a lot of them never getting closure"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Osvaldo Golijov"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Light an inoffensive, but so poorly mixed into the movie that it ruins a lot of scenes"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Mihai Mălaimare Jr."
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Tacky, but it does its job"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Cam McLauchlin"
+        },
+        {
+          "name": "Glen Scantlebury"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "It feels like the movie was edited in Movie Maker with how stiff the cuts and edits were"
+    },
+    "sound": {
+      "rating": "Very Bad",
+      "comments": "Feels incredibly cheap and poorly mixed, making some scenes hard to hear"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "So tacky and cheap that it makes the movie look incredibly fake, which is sad considering the budget for this movie"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "The sets were pretty interesting and had this futuristic, New York City feel; the problem is that they are just covered in CGI, it made it feel incredibly fake in the end"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "I did like the costume design, as it felt very lavish and paid homage to the 1920s in a way"
+    },
+    "pacing": "Pacing is incredibly fast as they go through so much plot that some has to get dropped by the end of the movie; I feel like they shot 4 hours of footage and cut it down to a little over 2 hours",
+    "climax": "Climax has some fun-bad moments, but is just so poorly executed and bad that it epitomizes what this movie is",
+    "tone": "Tone is this pretentious science fiction epic that feels like a futuristic utopian movie, but is just so poorly executed that it becomes a fun-bad comedy",
+    "final_notes": "There was no clear direction with this movie, as it felt like Coppola was given no notes and just put every idea he had out there on screen; this movie feels like if 'The Room' got a $120 million movie.",
+    "overall": "Overall, a complete misfire from one of cinema's most respected auters as it feels like Coppola is out of touch with reality, but this movie is fun-bad movie and can be watched for that becaue it feels like if 'The Room' had a 120 million dollar budget"
+  },
+  "release_year": 2024,
+  "review_date": "09/29/2024",
+  "redux": false,
+  "id": 487,
+  "imdb_id": "tt10128846"
+}

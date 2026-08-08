@@ -1,0 +1,141 @@
+{
+  "title": "Supergirl",
+  "rating": 5.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Craig Gillespie"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is very basic and bland, as it looks like every other DC movie with its ugly world and fight sequences; It was also very obvious that this movie was directed by a man and not a woman; The direction on a microscale is very unnatural, very forced, and very basic, which leads to poor chemistry between the characters (especially between Milly Alcock and the child actor); The storytelling is incredibly basic and predictable, as I was anticipating every move this movie was making by the end; This movie tries to be an edgy female John Wick, but it can only go so far with its PG-13 rating; Tension is virtually non-existent because the whole movie is so predictable that you can read it like a book, leading to a climax and ending that are very uninteresting"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Milly Alcock"
+          },
+          "rating": "Decent",
+          "comments": "Her performance is fine, though the depth she shows is very minimal; she makes the most out of the material she is given; she has good chemistry in her sequences with David Corenswet, but her chemistry with the child actor is just not good because of the material they have to work with"
+        },
+        {
+          "actor": {
+            "name": "Matthias Schoenaerts"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Plays the most predictable villain ever; I genuinely do not even remember his name or why he is important."
+        },
+        {
+          "actor": {
+            "name": "Eve Ridley"
+          },
+          "rating": "Decent",
+          "comments": "I will not say anything bad about a child actor, but she was given some of the most clunky, worst dialogue to play with, which really hurt her performance and led to not good chemistry with Milly Alcock."
+        },
+        {
+          "actor": {
+            "name": "David Corenswet"
+          },
+          "rating": "Pretty Good",
+          "comments": "I actually did enjoy his performance; he has the charisma to play Superman and it really shows, especially in his sequences with Milly Alcock where they share good chemistry."
+        },
+        {
+          "actor": {
+            "name": "Jason Momoa"
+          },
+          "rating": "Pretty Bad",
+          "comments": "His performance felt like he was just there; it felt like he wanted to still be in DC and misses being Aquaman, so they just let him play himself"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Everyone else's performance was not good; the villain is the most predictable villain ever that I genuinely do not remember his name or why he is important; the chemistry across the cast feels very unnatural and forced due to the basic direction on the microscale and incredibly clunky dialogue"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ana Nogueira"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept tries to create an edgy, punk counterculture superhero that ultimately becomes a female John Wick knockoff; The overall conflict is your typical revenge plot against the villain, which makes the movie very boring and basic; The plot structure is incredibly basic, predictable, and easy to read like a book, making it feel like they are just hitting plot points to hit plot points; Character writing is weak overall, with Supergirl showing minimal depth, the child actor's performance ruined by clunky dialogue, and a villain who is so predictable and forgettable that I didn't even care to remember his name"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ana Nogueira"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is so predictable, basic, and unnatural that it hurts the performances, as the actors have to deliver the clunkiest dialogue ever, especially what was given to the child actor; The movie tries to be way too funny but ends up having a low hit rate of maybe one in five, and when a joke does land, it isn't that great; The symbolism and themes are very surface-level and shallow; The foreshadowing is incredibly basic and easy to guess, making the entire movie predictable; This movie is so predictable that I ended up reading it like a book by the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Claudia Sarne"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The score is fine; It did its job and was appropriate for a blockbuster movie, but it is nothing memorable"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "It features some very questionable choices, like a slowed-down female a cappella version of 'The Middle' that made me genuinely start laughing because of how out of place it was"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Rob Hardy"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The cinematography was fine for the most part, but some of the sequences felt very nauseating, particularly her flying sequences and the way the climax was shot"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tatiana S. Riegel"
+        },
+        {
+          "name": "Fred Raskin"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "It is very basic for a DC blockbuster movie"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The sound is pretty good for a blockbuster movie, sounding very similar to the sound design of Superman"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "I am not a huge fan of the VFX; While the character VFX is fine and Krypto is understandable since you cannot use a real dog, the blue screen was incredibly obvious and it tried to put way too much on the screen, especially during the climax; The VFX for the world-building created an ugly world and movie overall"
+    },
+    "production_design": {
+      "rating": "Pretty Bad",
+      "comments": "The overreliance on VFX to build the world created a very ugly world overall; The actual sets were nothing memorable because they just felt like an off-brand Disney Star Wars set"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "The makeup was pretty good and really helped paint the aliens"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "The costumes were good and basically the same ones used in Superman, which works well"
+    },
+    "pacing": "The pacing feels very slow and boring because the entire movie is so basic and predictable, making it feel like a chore to get through as they just hit plot points to hit plot points",
+    "climax": "The climax is incredibly predictable and easy to read like a book, as I was correctly guessing every single move they were making; It is further ruined by uninteresting, nauseating fight sequences and a very obvious, ugly blue screen",
+    "tone": "The tone tries to be an edgy, punk female John Wick, but it ultimately feels very boring, basic, bland, and dull",
+    "final_notes": "I saw an early screening at Bullock",
+    "overall": "Overall, \"Supergirl\" is genuinely one of the most predictable, basic, and boring movies I have ever seen, as they tried to create a female John Wick knockoff that misses the mark with a poorly written script, ugly visual effects, and nauseating fight sequences; Milly Alcock and David Corenswet do the best they can with the material they were given, but the clunky dialogue drags down not only the interpersonal sequences but also the performances of the cast as a whole"
+  },
+  "release_year": 2026,
+  "review_date": "06/22/2026",
+  "redux": false,
+  "id": 687,
+  "imdb_id": "tt8814476"
+}

@@ -1,0 +1,116 @@
+{
+  "title": "The Housemaid",
+  "rating": 6.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Paul Feig"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale feels like a white woman's BookTok mystery; The direction on a microscale feels incredibly forced, especially when Sydney Sweeney is acting; The storytelling is surprisingly good, as the whole second half is very interesting and entertaining and makes up for the mishaps in the first half, but the movie does not stick the landing with its formulaic climax and forced ending; Tension is manufactured artificially but does help make this movie feel like a thriller at moments"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sydney Sweeney"
+          },
+          "rating": "Bad",
+          "comments": "My god is this one of the most emotionless and toneless performances I have ever seen; Sweeney shows no range whatsoever as almost all of her expessions feel unnatural and not how humans would react to things; her chemistry with the other characters feels forced and unnatural; the only thing going for Sweeny throughout this movie is she is actively trying to distract you from her bad acting"
+        },
+        {
+          "actor": {
+            "name": "Amanda Seyfried"
+          },
+          "rating": "Good",
+          "comments": "The real only saving grace for this movie as she shows why she is an actually good actress; she shows a lot of range in her character, especially in the second half when she is given more material to work with; without giving anything away, her character is the true focal point for the movie and makes up for the bad aspects of this movie that it actually makes you empathize with her character; while her chemistry with Sklenar is fine and her chemistry with Sweeney is a bit forced, her performance really is a one-woman show as she has to carry this entire movie on her back and she does a good job with it"
+        },
+        {
+          "actor": {
+            "name": "Brandon Sklenar"
+          },
+          "rating": "Decent",
+          "comments": "He would have been such a bigger actor in the late 2000s as that was a time-period where looks and charisma alone could get you jobs; however, his performance is fine and he does have an entertaining character; the chemistry he has with the two leads is a bit forced but fine"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Typical Booktok style acting"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Rebecca Sonnenshine"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is a little all over the place, as the movie tries to be something at the start but totally flips its narrative at the halfway mark, with the second half being way more entertaining than the first; The plot structure is a bit of a mess with how the movie is structured into two halves, but the second half is more entertaining and allows Amanda Seyfried to show why she is a good actress; The ending for this movie sets up an unnecessary sequel that makes the movie's important message feel campy; Character writing is pretty forced and shallow"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Rebecca Sonnenshine"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is so bad and unnatural that it made me cringe at so many moments, especially when Sydney Sweeney speaks; The humor is somewhat present, as it does elevate the entertainment a bit; The symbolism is decent in the grand scheme of things but feels very forced and only becomes relevant towards the end; The foreshadowing is a key component of this movie, as there is a shift at the halfway point, and it does a good job of keeping the audience on their toes and making them surprised by what happens next"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Theodore Shapiro"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The score helps establish the tone and tension, even though it can feel a bit manufactured"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "The soundtrack feels very catered to a white woman audience on BookTok"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Schwartzman"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The cinematography feels very much like a white woman's BookTok movie but is used to help establish tension in the thriller elements; It also feels like many of the shots are just to establish this lavish house"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brent White"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The editing style feels very much like a white woman's BookTok movie, but it is used to help establish tension in the thriller elements"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Sound is used to artificially manufacture tension and make this feel more like a thriller"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The old-money style house shows the world the housemaid is entering, as their wealth acts as a plot point for what Seyfried and Sweeney's characters desire"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "The costumes showcase how rich this community is, but many of the clothes Sydney Sweeney wears are very unrealistic for a housemaid, with Seyfried even calling this out in the movie, as it looks like she is wearing them to distract from her bad acting"
+    },
+    "pacing": "The pacing is a bit slow in the first half but moves at the right pace in the second half",
+    "climax": "The climax is a bit formulaic for a BookTok thriller, and the ending sets up a sequel that feels completely unnecessary",
+    "tone": "The tone is very much that of a white woman's BookTok thriller",
+    "final_notes": "",
+    "overall": "Overall, this movie is saved by its second half being genuinely entertaining, as Amanda Seyfried shows why she is a good actress by entirely carrying this movie on her back, having to pick up the pieces of Sydney Sweeney's bad acting, unnatural dialogue, and BookTok-style filmmaking"
+  },
+  "release_year": 2025,
+  "review_date": "01/10/2026",
+  "redux": false,
+  "id": 641,
+  "imdb_id": "tt27543632"
+}

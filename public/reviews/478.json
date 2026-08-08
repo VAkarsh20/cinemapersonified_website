@@ -1,0 +1,129 @@
+{
+  "title": "Alien: Romulus",
+  "rating": 7.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Fede Álvarez"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is good, as the horror elements are well executed; the direction on a microscale is decent, but pretty standard; the storytelling is a horror rendition of the original Alien movie (following a similar template after the exposition); they build tension very well, as it makes this movie feel like a true horror movie as opposed to the previous movies"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Cailee Spaeny"
+          },
+          "rating": "Pretty Good",
+          "comments": "Pretty standard horror performance and does a pretty good job as the lead"
+        },
+        {
+          "actor": {
+            "name": "David Jonsson"
+          },
+          "rating": "Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Archie Renaux"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Isabela Merced"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Spike Fearn"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Very typical 'screws loose' British teen"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "The entire cast captured youth well and played their roles during the horror sequences"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Fede Álvarez"
+        },
+        {
+          "name": "Rodo Sayagues"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a stand-alone sequel to the original Alien franchise that feels more like a traditional horror movie; the plot structure takes cues from both horror movies and the original Alien movie; character writing is pretty shallow and feels kinda similar to the original movie for the protagonist and antagonist (but not as good); the story relies a little too much on the original movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Fede Álvarez"
+        },
+        {
+          "name": "Rodo Sayagues"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is decent; the symbolism piggybacks on the original Alien movie because a lot of the themes and messages are the same; the foreshadowing is pretty good"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Benjamin Wallfisch"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps establish the tone and tension of the horror sequences"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Galo Olivares"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helps capture the horror sequences"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jake Roberts"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helps make this movie feel polished"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Helps capture the horror sequences"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Helps bring to life the horror sequences, but the deep-fake technology felt a little tacky"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Pays homage to the original movie"
+    },
+    "pacing": "The pacing is pretty fast-paced and good for a horror movie",
+    "climax": "Climax is executed well but is a little too similar to the original movie, feeling almost like a shot for shot remake at some points",
+    "tone": "Tone is a blend of horror with sci-fi (something the original movie tried to do)",
+    "final_notes": "It does a pretty good job picking up right where Alien left off, but it kinda feels like it relies on it a bit too much",
+    "overall": "Overall, a pretty good movie as this feels like the first Alien film that truly feels like a horror movie, but it relies so much on the original film that it does not feel like Alien: Romulus is adding too much to the story"
+  },
+  "release_year": 2024,
+  "review_date": "08/20/2024",
+  "redux": false,
+  "id": 478,
+  "imdb_id": "tt18412256"
+}

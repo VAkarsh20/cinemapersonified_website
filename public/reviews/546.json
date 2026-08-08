@@ -1,0 +1,112 @@
+{
+  "title": "Holland",
+  "rating": 5.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mimi Cave"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is pretty good, as it creates this mystery set in a society stuck in the past, like Holland, Michigan; the direction on a microscale is pretty good, mainly because the main cast is filled with experienced actors, especially Nicole Kidman; the storytelling holds the movie back because it intentionally leads you down the wrong path in the mystery they are trying to solve, and once the actual conflict is revealed, it does not provide any context or explanation for why it happens; they artificially create tension to make this movie a thriller, but not in a good way because it feels obviously forced"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Nicole Kidman"
+          },
+          "rating": "Good",
+          "comments": "Nicole Kidman can never give a bad performance; it shows here because she really embodies the character and makes the most of what she is given; she has good chemistry with Macfayden and Bernal"
+        },
+        {
+          "actor": {
+            "name": "Matthew Macfadyen"
+          },
+          "rating": "Pretty Good",
+          "comments": "Basically plays Tom Wambsgans, but more mysteriously; he has good chemistry with Kidman"
+        },
+        {
+          "actor": {
+            "name": "Gael García Bernal"
+          },
+          "rating": "Pretty Good",
+          "comments": "He has pretty good charisma and has good chemistry with Nicole Kidman"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "A bunch of minor supporting characters do a decent job supporting the main cast"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Andrew Sodorski"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept as a whole is pretty good as it presents a conflict across a perfect, stuck-in-time utopia like Holland, Michigan; but that conflict is pretty poor as it intentionally leads the audience down the wrong path to subvert its expectations; the plot structure is a big issue for this movie because the movie basically leads you down an adventure to figure out a mystery, but then when you find out what the actual mystery is, it basically just ends the movie without giving any context or closure; it genuinely feels like 20-30 minutes of this movie was cut because the movie feels unfinished, evidenced by Rachel Sennott's one scene and the ending; the character writing is what you would expect for a movie like this because it follows your vanilla housewife in a traditional family investigating her mysterious husband"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Andrew Sodorski"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The dialogue is decent and gives the actors something to work with; the humor is decent and helps lighten the mood; the symbolism is not really that good because the movie never really builds on anything or shares why certain plot elements are important; the foreshadowing is a big problem for this movie because the movie foreshadows what the actual conflict for this movie is overtly and very early in the movie, but then the movie foreshadows and goes down a different path throughout the movie; however, because you remember what the foreshadowing was early in the movie, plus the promotional material makes the conflict pretty obvious, it is not shocking at all when the real conflict is revealed, so you just feel like you wasted 40 minutes to get to this point"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alex Somers"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps create mystery and tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Pawel Pogorzelski"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Feels polished"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Martin Pensa"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels polished; the cut for this movie feels a little unfinished"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Helps create tension and suspense"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps create Holland, Michigan, this stuck-in-time utopian city"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Helps bring Holland, Michigan to life"
+    },
+    "pacing": "Pacing is fine up until the actual conflict is revealed; then the movie just feels very mismanaged and rushed to get to the finishing line; I genuinely think that 20-30 minutes of this movie was cut, and that was needed to help provide needed context",
+    "climax": "The climax is very lackluster, with the ending feeling unfinished",
+    "tone": "Tone is what one would expect from a mystery thriller;",
+    "final_notes": "Saw the second premiere at SXSW",
+    "overall": "Overall, a lackluster mystery thriller that Nicole Kidman cannot save because the movie does a bad job trying to subvert your expectations because it tries to lead you down a bad path when searching for the mystery, but the foreshadowing in the beginning and promotional material for this movie already give the conflict away; the movie genuinely feels like 20-30 minutes worth of scenes were cut because there was a lack of context throughout and the movie just feels unfinished towards the end"
+  },
+  "release_year": 2025,
+  "review_date": "03/10/2025",
+  "redux": false,
+  "id": 546,
+  "imdb_id": "tt3045628"
+}

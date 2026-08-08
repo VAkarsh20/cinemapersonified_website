@@ -1,0 +1,115 @@
+{
+  "title": "No Other Choice",
+  "rating": 9.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Park Chan-wook"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale is great, as it mixes both suspense and goofiness to create such an entertaining experience; The direction on a microscale is both profound and fun, as it explores the characters' emotions in such an exaggerated way to help emphasize the messages of the movie; Storytelling is both profound and goofy in such an exaggerated way that it helps emphasize the messages of the story, in such an entertaining way; He builds tension in such a funny way that makes you invested in what is going on, yet laughing at the same time"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Lee Byung-hun"
+          },
+          "rating": "Very Good",
+          "comments": "Really takes control of the story in his own hands as he shows the struggles of unemployment and doing whatever it takes to financially support his family, even if it is over-the-top and goofy; He has very good chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Son Ye-jin"
+          },
+          "rating": "Good",
+          "comments": "Plays the wife compatriot well as she shows how supportive she is of her husband and how she tries to keep the family together despite the struggles they are facing; has good chemistry with Lee Byung-hun"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good",
+        "comments": "Everyone plays their role well and has good chemistry with the rest of the cast; everyone feels authentic, and the exaggerations they put off help emphasize the messages of the movie in a goofy way"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Park Chan-wook"
+        },
+        {
+          "name": "Don McKellar"
+        },
+        {
+          "name": "Lee Kyoung-mi"
+        },
+        {
+          "name": "Lee Ja-hye"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The concept at its core is about the struggles a man will endure to find a job to provide for his family, in an exaggerated way of killing his unemployed competition to get the job; the plot structure is linear, but it feels a little imbalanced as it feels more weighted in the first half than the second half feels a little rushed; character writing is incredibly strong as they create this exaggerated character who, at his heart, does not want to be unemployed as he wants to provide for his family and not seem like a failure, having no other choice but to kill his competition to show as a symbol how competitive the job market is with work being automated and taken over by private capital"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Park Chan-wook"
+        },
+        {
+          "name": "Don McKellar"
+        },
+        {
+          "name": "Lee Kyoung-mi"
+        },
+        {
+          "name": "Lee Ja-hye"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is strong, profound, and goofy, making the whole experience meaningful and entertaining; The humor is very goofy and fun; The symbolism is profound as it's exaggerated to put emphasis on its message; The movie touches on themes of unemployment being so bad for a man and his purpose that he is willing to kill his competition to get a job, showing how competitive the world is with private equity cutting jobs and automation shrinking the workforce; The foreshadowing is pretty strong, which is a given with how the story is structured"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jo Yeong-wook"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "helps with establishing the tone"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Helps with establishing the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Kim Woo-hyung"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The pans and zooms help with making the movie feel very goofy, while still emphasizing the emotions of the characters; it feels very experienced and intentional"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Kim Sang-bum"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The editing helps emphasize the goofy tone of the movie while still keeping you invested in the story; feels very experienced and intentional"
+    },
+    "pacing": "Pacing is a bit of an issue for this movie because the first half feels a bit slow, while the second half feels a bit rushed to get through more of the story in such a shorter amount of time; runtime should have been the same, but there should have been a better balance between the two halves",
+    "climax": "Climax is executed well and feels like closure for the movie, even though the AI message does feel a bit tacked on",
+    "tone": "Tone is both a profound drama and a goofy comedy, as they use the latter to help emphasize the themes of the former",
+    "final_notes": "Saw premiere at Austin Film Festival",
+    "overall": "Overall, the movie is a unique blend of humor and social commentary that uses its goofy humor to help emphasize its profound themes about unemployment and the struggles of providing for a family in such a competitive world; Park Chan-wook's direction is both experienced and intentional as he tells this story through the lens of Lee Byung-hun's memorable performance"
+  },
+  "release_year": 2025,
+  "review_date": "10/24/2025",
+  "redux": false,
+  "id": 618,
+  "imdb_id": "tt1527793"
+}

@@ -1,0 +1,119 @@
+{
+  "title": "Conclave",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Edward Berger"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale is very sharp and artistic, as there seems to be a great attention to detail; the direction on a microscale is great, as these scenes really showcase the ability of this talented cast, but there are some limitations given that this is a PG movie; direction of the storytelling is very good, as they use an interesting story and tension very well to keep you hooked to see how this conclave plays out in choosing the next pope"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ralph Fiennes"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Truly takes command of the movie as he steals every scene and showcases his experience as a veteran actor; the role feels written for him as it showcases a lot of his signature acting charm and mannerisms"
+        },
+        {
+          "actor": {
+            "name": "Stanley Tucci"
+          },
+          "rating": "Very Good",
+          "comments": "Shows a wide range of emotions and has very good chemistry with Fiennes; feels very flexible and not limited at all"
+        },
+        {
+          "actor": {
+            "name": "John Lithgow"
+          },
+          "rating": "Good",
+          "comments": "Showcases his experience as an actor and has a good range of emotions; he has good chemistry with Fiennes and the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Isabella Rossellini"
+          },
+          "rating": "Good",
+          "comments": "She does a good job in the scenes she is in, but her performance really feels more like a cameo as she isn't given that much screen time or anything to work with"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "The remaining cast does a good job in helping move the story forward as they feel experienced and have good chemistry with the main cast"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Peter Straughan"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is very interesting as it is an important part of Catholicism that is rarely shown, as if they are opening the doors of one of the Vatican's most secret traditions; the plot structure is good for the most part as they do a good job at introducing the conflict and moving it towards the climax, it is just the movie really falls apart towards the end with its predictable climax; the character writing is good as you see Lawrence as a symbol for a \"crisis of faith\" and the remaining characters as symbols for conservative and liberal ideologies, though in a bit overt way"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Peter Straughan"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very good, polished, and full of metaphors, even though it is a bit overt at times with its messages; the symbolism is good, but very overt as it is very obvious that this movie is a metaphor for the 2024 US election; the foreshadowing is a huge problem for this movie because it is so obvious where this movie is going and how it is going to end because of how they set up the beginning, and this makes the movie incredibly predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Volker Bertelmann"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Used very well throughout the movie and does a very good job building tension and setting the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Stéphane Fontaine"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Feels very sharp and crisp, and it is used well to make this movie feel very auteur driven"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nick Emerson"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Feels very sharp and crisp, and it is used well to make this movie feel very auteur driven"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Used well to make this movie feel very tense"
+    },
+    "production_design": {
+      "rating": "Very Good",
+      "comments": "Helps construct the setting at the Vatican"
+    },
+    "costumes": {
+      "rating": "Very Good",
+      "comments": "Feels well-designed and is used well to dress the conclave"
+    },
+    "pacing": "Pacing is pretty fast, given how tense and thrilling this movie is; it feels like it slows down a bit towards the end, but not in a good way",
+    "climax": "The climax is not executed well, as the overt foreshadowing in the beginning makes the ending incredibly predictable and anticlimactic",
+    "tone": "Tone is very similar to a thriller, and they do a good job building this",
+    "final_notes": "The movie is a good example of how you can make such a good movie that is PG, as it does not really need to have adult language to tell the story, but it just feels like it unnecessarily censors itself at times to get this rating",
+    "overall": "Overall, a very good movie that feels like it is executed well from a direction and acting standpoint, especially from Ralph Fiennes; but the writing holds this movie back from being something great as it is very obvious that this movie is a metaphor for the 2024 election, and the foreshadowing is very bad that the ending becomes incredibly predictable"
+  },
+  "release_year": 2024,
+  "review_date": "11/04/2024",
+  "redux": false,
+  "id": 508,
+  "imdb_id": "tt20215234"
+}

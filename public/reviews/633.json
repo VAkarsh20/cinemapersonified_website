@@ -1,0 +1,154 @@
+{
+  "title": "Ella McCay",
+  "rating": 2.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James L. Brooks"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The direction on a macroscale is so out of touch because this is a feel-good movie that should have been made in the mid-2000s starring Anne Hathaway, not in 2025; The direction on a microscale is unintentionally campy because all the performances feel forced and there is no chemistry in the entire cast; The storytelling is incredibly dated as it feels like a feel-good movie from the 2000s"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Emma Mackey"
+          },
+          "rating": "Bad",
+          "comments": "Has no charisma to lead this movie what so ever as her timing is very off and she has no chemistry with the entire cast; they tried to recreate 2000s Anne Hathaway, and there is only ONE Anne Hathaway"
+        },
+        {
+          "actor": {
+            "name": "Jamie Lee Curtis"
+          },
+          "rating": "Very Good",
+          "comments": "Such an over-the-top performance that has no chemistry or flow with any of the cast, especially with Mackey"
+        },
+        {
+          "actor": {
+            "name": "Jack Lowden"
+          },
+          "rating": "Terrible",
+          "comments": "Has no chemistry or flow at all, especially in his scenes with Mackey, as everything with his character is forced"
+        },
+        {
+          "actor": {
+            "name": "Kumail Nanjiani"
+          },
+          "rating": "Bad",
+          "comments": "I hope you got a nice paycheck for this movie because he has like at most 5 lines"
+        },
+        {
+          "actor": {
+            "name": "Ayo Edebiri"
+          },
+          "rating": "Terrible",
+          "comments": "Her character is genuinely irrelevant; if they removed her from the movie, it would be the exact same"
+        },
+        {
+          "actor": {
+            "name": "Spike Fearn"
+          },
+          "rating": "Bad",
+          "comments": "Has no chemistry with Mackey, and the material he has to work with is just bad"
+        },
+        {
+          "actor": {
+            "name": "Julie Kavner"
+          },
+          "rating": "Very Bad",
+          "comments": "This over-the-top, slapstick performance that embodies how dated this movie is because her performance feels like it would have been funny in the 1990s"
+        },
+        {
+          "actor": {
+            "name": "Albert Brooks"
+          },
+          "rating": "Decent",
+          "comments": "Probably the best performance in the movie, which isn't saying a lot, because he is given a very basic character to work with"
+        },
+        {
+          "actor": {
+            "name": "Woody Harrelson"
+          },
+          "rating": "Bad",
+          "comments": "Dude, why are you in this movie; they basically told Woody to go wild and none of his comedy or chemistry connected"
+        }
+      ],
+      "cast": {
+        "rating": "Terrible",
+        "comments": "Everyone thought this was going to be their big acting break, and it very much was not; there is not a single ounce of chemistry or flow in the entire cast"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James L. Brooks"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The concept is just dumb and dated as nobody cares about Ella McCay or the 2008 financial crisis in the year of our Lord 2025; This movie is just incredibly dated as Ella McCay feels like a mid-2000s Anne Hathaway feel-good movie; The plot structure is bland; Character writing is incredibly forced as they try to paint Ella McCay as this interesting character to root for, but she has the personality of chicken and rice"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James L. Brooks"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue is so unnatural and bad that it is genuinely concerning how this movie made it to the big screen; The humor is dated as it is something you would expect from a mid-2000s movie; The symbolism is too forced to even care about; The foreshadowing is irrelevant"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Congratulations Intern #7"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Robert Elswit"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Shot like a feel-good movie from the 2000s starring Anne Hathaway"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tracey Wadmore-Smith"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Edited like a feel-good movie from the 2000s starring Anne Hathaway"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The sound is so poorly mixed in that the score does not help the mood of the scenes at all"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "The fact that they had to CGI someone drooling shows how bloated this movie's budget was and how skewed Brooks' perception of reality is"
+    },
+    "production_design": {
+      "rating": "Bad",
+      "comments": "In typical 'Simpsons' fashion, the movie is set in an unnamed state and continues to reference it"
+    },
+    "pacing": "The pacing is so slow that the movie feels like it is dragging to fill up time, and it should have been cut by about 30 minutes, which still would not be enough",
+    "climax": "The climax is just dumb and unsatisfying",
+    "tone": "The tone is incredibly dated as this movie feels like a feel-good movie from the mid-2000s starring Anne Hathaway",
+    "final_notes": "#EllaMcCayChallenge is the only thing keeping this movie alive",
+    "overall": "Overall, this movie should be shot into the sun because everything about it is bad, and it all stems from the fact that 'Ella McCay' came out 20 years too late as this movie feels like a feel-good movie from the mid-2000s starring Anne Hathaway"
+  },
+  "release_year": 2025,
+  "review_date": "12/14/2025",
+  "redux": false,
+  "id": 633,
+  "imdb_id": "tt30096221"
+}

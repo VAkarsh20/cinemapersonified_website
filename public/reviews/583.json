@@ -1,0 +1,158 @@
+{
+  "title": "Superman",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macro scale feels very James Gunn, as this movie feels very similar to Guardians of the Galaxy; The direction on a micro scale feels similar to Guardians of the Galaxy, but is still profound in getting the most out of the actors in the more dramatic moments; The storytelling is very similar to Guardians of the Galaxy, but is a little too simple and overt for the audience; They build tension in a way similar to other superhero movies"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "David Corenswet"
+          },
+          "rating": "Good",
+          "comments": "He has the charisma and character to fill the suit, as he really embodies the role; He has good chemistry with Brosnahan; Side note, this dude just seems like a really chill guy that I would want to hang out with"
+        },
+        {
+          "actor": {
+            "name": "Rachel Brosnahan"
+          },
+          "rating": "Good",
+          "comments": "Plays Lois Lane very well as she is smart and independent, yet a strong love interest to Kent, led by the good chemistry she has with Corenswet"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Hoult"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays Lex Luthor well, as casting someone who lost the part of Superman was a genius move; A little over the top, but it is pretty obvious this role is supposed to emulate Elon Musk and Jeff Bezos, even though that is just who Lex Luthor really is"
+        },
+        {
+          "actor": {
+            "name": "Edi Gathegi"
+          },
+          "rating": "Pretty Good",
+          "comments": "Basically the typical comedic relief character you see in James Gunn movies"
+        },
+        {
+          "actor": {
+            "name": "Anthony Carrigan"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays his role well"
+        },
+        {
+          "actor": {
+            "name": "Nathan Fillion"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "A comedic relief character that is traditional to Gunn movies, but I enjoyed the banter he had with Superman throughout the movie"
+        },
+        {
+          "actor": {
+            "name": "Isabela Merced"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really was not used well, but I enjoyed her presence and wish to see more of her in future DCU movies"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone feels like their role is carved out by Gunn because they all help tell this quirky, comedic superhero movie that the director is known for"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is Superman at his lowest as he is learning he is not as invincible as he thinks he is, which is a bold strategy to start your Superman on; I do admit it is very commendable for them to use their biggest property to tackle real-world issues, but it was a little too on-the-nose and shallow that it kind of just makes the audience feel dumb when they talk about these things; The plot structure is pretty linear and traditional to other Gunn movies; Character writing is surprisingly good as they build moral compasses for all these characters that superhero movies really shy away from, and this makes you actually care about them and want to see what happens next"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Gunn"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very James Gunn, quirky and filled with humor, but it does have its profound moments; The humor is very traditional to James Gunn; The symbolism is honestly a little too on-the-nose and shallow, as it is not subtle at all what these conflicts are supposed to mirror in the real world, but them discussing morality and duty is pretty good; The foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Murphy"
+        },
+        {
+          "name": "David Fleming"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Interpolates the original John Williams themes throughout the movie and modernizes them to create a modern Superman"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Feels very James Gunn curated, so good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Henry Braham"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "I honestly hated the cinematography for this movie because it was just way too close to the subjects and was nauseating at times; If you are shooting in IMAX, please effectively use your mise-en-scène and not just make every image just Superman"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "William Hoy"
+        },
+        {
+          "name": "Craig Alpert"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Nothing really special is better than the cinematography"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Strong, as what you would expect from a superhero movie"
+    },
+    "visual_effects": {
+      "rating": "Good to Very Good",
+      "comments": "Not too over-the-top, and helps complement this world and what is out of this world; Did we really need to CGI the dog throughout the entire movie"
+    },
+    "production_design": {
+      "rating": "Pretty Good to Good",
+      "comments": "Took a bit of getting used to as most of this world is definitely CGI, but it is fine in helping create Metropolis and the Fortress of Solitude"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Helps create what is out of this world and makes Superman look rugged and prone to being hurt"
+    },
+    "costumes": {
+      "rating": "Good to Very Good",
+      "comments": "Feels like an homage to old Superman iterations and older DC properties"
+    },
+    "pacing": "Pacing felt about right as the movie did not feel too slow or fast; the humor definitely helped make the movie not drag",
+    "climax": "Climax is definitely meant to be a spectacle, and it was an enjoyable action sequence, even though it is a little too safe and predictable",
+    "tone": "Tone is very similar to James Gunn's other superhero movies, as there are many quirky and funny interjections throughout the movie to make it feel playful",
+    "final_notes": "Watched at AMC Lincoln Square in IMAX;",
+    "overall": "Overall, a pretty good superhero movie that lays the foundation for James Gunn's DCU and David Corenswet's Superman; the former uses his traditional quirky and humorous interjection style, which he was known for with Guardians of the Galaxy, to make an entertaining movie, and the latter has the charisma and character to fill the suit; while I do commend them for taking such a big risk talking about real world issues in their biggest property, it does so in such an on-the-nose and shallow way that it makes the audience feel dumb"
+  },
+  "release_year": 2025,
+  "review_date": "07/14/2025",
+  "redux": false,
+  "id": 583,
+  "imdb_id": "tt5950044"
+}

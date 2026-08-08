@@ -1,0 +1,123 @@
+{
+  "title": "Creed II",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Steven Caple Jr."
+        }
+      ],
+      "rating": "Good",
+      "comments": "Was able to put together a good movie with its cut and getting the story to move forward"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Michael B. Jordan"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "Jordan plays the same character he plays in every movie (someone who feels he needs to prove doubters wrong trope) and really is one-dimensional in this performance; he is able to show emotion but he really cannot act emotional (especially in the love scenes with Tessa Thompson)"
+        },
+        {
+          "actor": {
+            "name": "Sylvester Stallone"
+          },
+          "rating": "Very Good",
+          "comments": "Not as good as his last Creed performance but still is a vital part of the movie and a reason to watch as he continues to be the father figure to Creed while he is trying to come to terms with being a father to his actual son"
+        },
+        {
+          "actor": {
+            "name": "Tessa Thompson"
+          },
+          "rating": "Good",
+          "comments": "The love scenes between her and Michael B. Jordan were not the best but besides that she was able to hold her own"
+        },
+        {
+          "actor": {
+            "name": "Dolph Lundgren"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Really took a once 1-dimensional character and gave him more personality to where you sympathize with his struggle"
+        }
+      ],
+      "cast": {
+        "rating": "Decent"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Sascha Penn"
+        },
+        {
+          "name": "Cheo Hodari Coker"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Some elements of the story were way too safe/mismanaged (the overall plot of fighting from the perspective of Creed (like the default in the first fight)), but I did enjoy the elements when it came to Rocky (and how it closed the character's story line), Drago (and how his story closed his arc from Rocky 4), and the Baby"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Juel Taylor"
+        },
+        {
+          "name": "Sylvester Stallone"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The scenes when it came to Rocky and Drago were very well written and had that charm of the old movies, but all the scenes regarding just Creed and his relationship with other characters (besides Rocky) were pretty poorly written/felt unnatural"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Ludwig Göransson"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Mixed the allusions to the original movies nicely"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Kramer Morgenthau"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Dana E. Glauberman"
+        },
+        {
+          "name": "Saira Haider"
+        },
+        {
+          "name": "Paul Harb"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "makeup": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure was a bit mismanaged as it felt they were trying to fit in a little too much into this movie and did not have enough time to do so (though the moments from building to the climax to the resolution were executed very well)",
+    "pacing": "Pacing was alright",
+    "climax": "Build to climax was very typical of Rocky but was overall very good (a real turning point for the movie); climax had decent execution (it was basically the same as the last movie)",
+    "tone": "Tone was a little bit too much to that of a sports movie when rocky is really not about that (rocky is about someone finding themselves (it just happens to be in the context of boxing), and the touch of becoming a father was nice but really does not help too much in this regard)",
+    "final_notes": "The emotional touches of this movie were well done and the film was an overall good conclusion to the Rocky Balboa character as he gets closure in something he has been hoping for for so long",
+    "overall": "Overall, a movie that is a good conclusion to Rocky's story line and has really good moments when it comes to his and the legacy characters, but is really held back by the Creed core in terms of the depth they can really go"
+  },
+  "release_year": 2018,
+  "review_date": "07/03/2022",
+  "redux": false,
+  "id": 270,
+  "imdb_id": "tt6343314"
+}

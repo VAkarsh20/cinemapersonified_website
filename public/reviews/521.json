@@ -1,0 +1,148 @@
+{
+  "title": "Nosferatu",
+  "rating": 8.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The direction on a macroscale feels very grand, with a gothic aesthetic that pays homage to the original story; His direction on a grand scale shows how he is truly an auteur in the horror genre; The direction on a microscale is good, as it brings the most out of these actors and helps establish the gothic, European scene; The storytelling is very good, as he uses tension to move the story forward, as you are on the edge of your seat to see what happens next; He builds tension masterfully, as the whole movie relies on tension to bring out the horror elements and move the story forward"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bill Skarsgård"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays a menacing Count Orlok well in a way unique to previous interpretations; It took a while for me to get used to it but I stuck the landing in the end"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Hoult"
+          },
+          "rating": "Good",
+          "comments": "Carries the movie well and feels polished in showing his range"
+        },
+        {
+          "actor": {
+            "name": "Lily-Rose Depp"
+          },
+          "rating": "Very Good to Great",
+          "comments": "A true scream queen, as she shows a wide range of emotions to show the distraught of her experience; she has very good chemistry with the rest of the cast; it really feels like Eggers' muse when making this movie"
+        },
+        {
+          "actor": {
+            "name": "Aaron Taylor-Johnson"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "It feels like he is hitting a limit in his acting as he does not match the level of his other castmates; but he holds his own"
+        },
+        {
+          "actor": {
+            "name": "Emma Corrin"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well"
+        },
+        {
+          "actor": {
+            "name": "Willem Dafoe"
+          },
+          "rating": "Good",
+          "comments": "A very typical Willem Dafoe performance;"
+        },
+        {
+          "actor": {
+            "name": "Simon McBurney"
+          },
+          "rating": "Very Good",
+          "comments": "It really shows the demented nature of the character as he will do anything for Count Orlok"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "This movie is more about the main cast, but the cast as a whole really feels like they did their job in making this an engaging experience"
+      },
+      "rating": "Good to Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is a remake of the silent film classic Nosferatu, an unofficial adaptation of Dracula; The plot structure is pretty standard, though the movie does drag at some moments and the build to the climax was a bit boring; The character writing is very good as they do a good job bringing to life these classic characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Robert Eggers"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The dialogue is polished and very Gothic and true to the time period; The foreshadowing is very good, as the movie uses roots planted throughout to help close the movie in the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Robin Carolan"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Used very well to build tension;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jarin Blaschke"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Helps make this movie feel both gothic yet auteur-esque to Eggers' vision"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Louise Ford"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Helps make this movie feel polished; helps establish the tension and horror elements"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "Helps build tension and make this a horrifying movie; Might have just been my Dolby Cinema theater, but the subwoofers under the seat made this movie feel like a 4D experience"
+    },
+    "visual_effects": {
+      "rating": "Very Good",
+      "comments": "Helped make this movie feel genuinely scary and grotesque;"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Helped create this Gothic landscape that brings to life the time period and Orlok's castle"
+    },
+    "makeup": {
+      "rating": "Incredible",
+      "comments": "It really brings to life Count Orlok and the horror elements with the blood"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "Helps bring to life the time period and paint Count Orlok"
+    },
+    "pacing": "Pacing is fine for the most part, but feels a bit slow at some moments; Maybe 15–20 minutes could have been cut to keep the pace consistent",
+    "climax": "Climax is good as it brings together all of that tension; The build to the climax dragged a bit as it was a bit boring",
+    "tone": "Tone is very Gothic horror;",
+    "final_notes": "My experience in Dolby Cinema felt like a 4D experience, with the subwoofer blasting the sound",
+    "overall": "Overall, a very good horror movie that establishes Robert Eggers as an auteur in the genre as he remakes a horror classic with his vision"
+  },
+  "release_year": 2024,
+  "review_date": "12/25/2024",
+  "redux": false,
+  "id": 521,
+  "imdb_id": "tt5040012"
+}

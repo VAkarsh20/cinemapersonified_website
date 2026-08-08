@@ -1,0 +1,125 @@
+{
+  "title": "The Godfather",
+  "rating": 9.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Incredible to Brilliant"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Marlon Brando"
+          },
+          "rating": "Brilliant"
+        },
+        {
+          "actor": {
+            "name": "Al Pacino"
+          },
+          "rating": "Incredible"
+        },
+        {
+          "actor": {
+            "name": "James Caan"
+          },
+          "rating": "Great to Incredible"
+        },
+        {
+          "actor": {
+            "name": "Robert Duvall"
+          },
+          "rating": "Great to Incredible"
+        },
+        {
+          "actor": {
+            "name": "Diane Keaton"
+          },
+          "rating": "Great"
+        },
+        {
+          "actor": {
+            "name": "Talia Shire"
+          },
+          "rating": "Great"
+        }
+      ],
+      "cast": {
+        "rating": "Very Good to Great"
+      },
+      "rating": "Great to Incredible"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Mario Puzo"
+        },
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Incredible to Brilliant",
+      "comments": "Though its storytelling is a bit confusing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mario Puzo"
+        },
+        {
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "rating": "Brilliant",
+      "comments": "Mixed with the nuances of subtly and symbolism"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nino Rota"
+        }
+      ],
+      "rating": "Great"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Gordon Willis"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Uses Sound/Cinematography/Film Editing to really show the mood of the scenes and emotions of the characters"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "William Reynolds"
+        },
+        {
+          "name": "Peter Zinner"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "See Cinematography"
+    },
+    "sound": {
+      "rating": "Incredible",
+      "comments": "See Cinematography"
+    },
+    "plot_structure": "Plot Structure was good and unexpecting (considering I did not expect how the turns of the story went the way they did)",
+    "pacing": "Pacing was slow and steady; Runtime was log but it is hard to take out/cut any scenes because each scene feels like it is important to the story",
+    "climax": "The build to the climax was great with the final moments of the movie being amazing and full of symbolism",
+    "final_notes": "The Michael Corleone Story was incredible in showing how an outsider of the family could never escape the life made for him (even though he tried really hard to never be a part of it)",
+    "overall": "Overall, and Incredible Movie that stands up to being 'One of the best movies ever made' as it is the definition of subtly and symbolism (helping drive the story forward and influencing the characters decisions/emotions) in a movie as Coppola delivers a magnum opus not only in his career but for the whole film industry (something that others have tried to learn from)"
+  },
+  "release_year": 1972,
+  "review_date": "06/10/2021",
+  "redux": false,
+  "id": 199,
+  "imdb_id": "tt0068646"
+}

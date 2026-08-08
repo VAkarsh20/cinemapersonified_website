@@ -1,0 +1,108 @@
+{
+  "title": "The Smashing Machine",
+  "rating": 5.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale has this documentary style, as if you are following Kerr in his private life; The direction on a microscale is genuinely boring, as most of this movie is just passive aggressive argumentation, even though Blunt and Johnson do have chemistry; The storytelling is the biggest issue for this movie because there is just no story to tell, so everything just comes off as boring, as you don't really care for what's going on since nothing is going on; It builds tension poorly because this movie is just so boring"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dwayne Johnson"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Really transforms himself into this performance as he becomes this gentle giant that wants to love and respect others but cannot reciprocate that to himself;  He has good chemistry with Blunt, even though their scenes are kind of boring;  His physical transformation is something that also should be applauded as he gained 30 lbs of muscle for the role"
+        },
+        {
+          "actor": {
+            "name": "Emily Blunt"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays this multifaceted character that cares for Kerr, but is simultaneously self-destructive when he won't let her in, trying to enable his bad behavior so that she isn't alone in being the monster; Has good chemistry with Johnson, even though their scenes are kind of boring"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Considering this movie uses a lot of non-actors, Safdie does a good job bringing the most out of them, as no actor really turns in a bad performance in this movie, even though it does get a bit boring at times with the material"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is a letdown because it is a biopic on Mark Kerr, but it just comes off as a boring documentary since there is no story to follow; the plot structure is nonexistent; character writing is pretty good as you do understand these characters and their struggle, but it is not enough to really cover up for the story mistakes"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue has no flavor as it is just very bland and boring; the symbolism is kind of forced and just surface-level; the foreshadowing is predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nala Sinephro"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Really ruined the tone and the vibe of the movie as it was too spacey"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Maceo Bishop"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The use of 16 mm made the movie feel like a documentary, but the motion in a lot of the scenes just felt nauseating and unnecessary; This has to be the most useless way to ever use IMAX cameras in a movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The film is not edited well, as there are many shots that are just too long, and the overall editing just feels poorly cut, making this movie feel slower than it actually is"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Practical effects, the MMA fights were entertaining, but they did not feel like anything special"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps recreate the time period and the"
+    },
+    "makeup": {
+      "rating": "Great",
+      "comments": "Without a doubt, the best aspect of this movie is how they fully transform the Rock into Mark Kerr, making him almost unrecognizable"
+    },
+    "pacing": "Pacing is incredibly slow because this movie has no story to go through; They could have genuinely cut 30 minutes and it would have been the same movie",
+    "climax": "Climax pretty lackluster despite its action;",
+    "tone": "Tone feels like a slice-of-life documentary rather than an MMA biopic; it's trying really hard to be 'Rocky,' but with boring characters",
+    "final_notes": "",
+    "overall": "Overall, such a boring movie cannot be saved by its memorable performances from Dwayne Johnson and Emily Blunt as well as its great makeup because the story is so nonexistent; the dialogue is so bland; and the interpersonal scenes are all passive-aggressive arguments"
+  },
+  "release_year": 2025,
+  "review_date": "10/03/2025",
+  "redux": false,
+  "id": 611,
+  "imdb_id": "tt11214558"
+}

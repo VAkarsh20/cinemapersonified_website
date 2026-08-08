@@ -1,0 +1,108 @@
+{
+  "title": "Hoppers",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Daniel Chong"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale feels very Pixar, but it also has some unique aspects to it with its world-building; The direction on a microscale is surprisingly pretty dark for a Pixar movie as the film deals a lot with more mature themes, but it still has its Pixar charm; The storytelling is somewhat fresh for a Pixar movie as it follows the Pixar story template, but it also takes its own liberties to be more unique"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Piper Curda"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Holds her own as the lead and gives a memorable performance, something you want from a Pixar lead"
+        },
+        {
+          "actor": {
+            "name": "Bobby Moynihan"
+          },
+          "rating": "Pretty Good",
+          "comments": "Fun and cute, with a good dynamic with Curda"
+        },
+        {
+          "actor": {
+            "name": "Jon Hamm"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Holds his own"
+        },
+        {
+          "actor": {
+            "name": "Dave Franco"
+          },
+          "rating": "Decent",
+          "comments": "The most obvious Dave Franco role ever cause you can spot him from a mile away since he's literally just yelling into the mic with his actual voice"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The supporting cast doesn't really have too much material to work with, but everyone does their job in helping move the story forward"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Daniel Chong"
+        },
+        {
+          "name": "Jesse Andrews"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is basically Avatar, and they call this out very early in the movie; The plot structure follows the standard Pixar story template, but it drags a bit in the second half; The character writing is pretty good for the protagonist as you empathize with her struggle to try to do what is right even though everything is against her, while the remaining characters are just templated characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jesse Andrews"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is typical of Pixar and well-written; The humor is typical for Pixar and well-written; The symbolism is surprisingly mature for a Pixar movie as it deals a lot with deforestation, along with themes of trying to do what is right despite always being shot down, so it is basically Avatar; The foreshadowing is what you expect from the Pixar team, and it is strong and helps make the story feel well-structured"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Mark Mothersbaugh"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score helps with setting the tone"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Axel Geddes"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The editing feels pretty generic, like Pixar’s B-team"
+    },
+    "sound": {
+      "rating": "Pretty Good"
+    },
+    "animation": {
+      "rating": "Pretty Good",
+      "comments": "The animation is fine from an artistic standpoint, but it honestly felt very flat, as if this movie was animated by Pixar’s B-team"
+    },
+    "pacing": "The pacing is pretty slow as the second half drags on longer than it needs to; This movie could have been cut by 10 minutes in the second half to make it tighter",
+    "climax": "The climax is emotionally strong and well-made, though it does feel like an adrenaline dump due to how dragged out the second half is",
+    "tone": "The tone is surprisingly mature for a Pixar movie as it deals with more mature themes, but it still has its signature Pixar charm",
+    "final_notes": "",
+    "overall": "Overall, 'Hoppers' feels like a breath of fresh air from Pixar as it is a more mature movie that feels unique in its storytelling while still having the signature Pixar charm from its industry-leading story team, but the animation ultimately falls flat as it is pretty obvious this was designed by Pixar's B-team, considering most of their resources this year are going towards Toy Story 5"
+  },
+  "release_year": 2026,
+  "review_date": "04/20/2026",
+  "redux": false,
+  "id": 670,
+  "imdb_id": "tt26443616"
+}

@@ -1,0 +1,142 @@
+{
+  "title": "The Rivals of Amziah King",
+  "rating": 6.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Andrew Patterson"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale infuses mystery with Southern musical elements to make the movie feel like a Southern adventure; the direction on a microscale is pretty fast-paced and quick to simulate Southern culture; the storytelling is a tale of two movies as the first half feels very family-oriented and musical and the second half is a straight adventure mystery, though the two halves really don't connect because the inflection point is really meant to shock you and shift the tension in the room; the movie builds tension by shocking the audience at the inflection point by splitting the movie into two completely different stories and you are more confused and surprised about what is happening"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Matthew McConaughey"
+          },
+          "rating": "Good",
+          "comments": "He fills up the room with his presence as his heliocentric charisma has all the characters revolving around him; The character really feels like it is written for him and his real-life persona, so this is the perfect movie for McConaughey to return to acting after six years; he has pretty good chemistry with the remaining cast, and good chemistry with LookingGlass"
+        },
+        {
+          "actor": {
+            "name": "Angelina LookingGlass"
+          },
+          "rating": "Pretty Good",
+          "comments": "Her character really grows and opens up as the movie goes on; what's needed from her becomes more as the movie progresses; she does a pretty good job holding her own when she needs to and works well with other actors, especially McConaughey"
+        },
+        {
+          "actor": {
+            "name": "Kurt Russell"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Really a minor character, but makes his presence known when he's called upon"
+        },
+        {
+          "actor": {
+            "name": "Cole Sprouse"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "More of a cameo, it has pretty good chemistry with LookingGlass"
+        },
+        {
+          "actor": {
+            "name": "Owen Teague"
+          },
+          "rating": "Decent",
+          "comments": "Decent chemistry with Looking Glass"
+        },
+        {
+          "actor": {
+            "name": "Rob Morgan"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays \"the adult in the room\" character pretty well; has decent chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Tony Revolori"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "More of a comedic relief character, and he does a pretty good job doing that; he has decent chemistry with the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "There really isn't that big of a supporting cast because it's just minor characters coming and going; but they do a decent job helping tell the story and working off the main cast"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Andrew Patterson"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is a mix of many different ideas to create a southern adventure to explore the characters, and these ideas are music, mystery, and family; yhe plot structure is a tale of two stories, with a strong inflection point separating the two parts; The plot structure was a big issue for this movie because it made the movie feel very bloated and unnecessarily long; they should have cut either story in half to put more emphasis on the opposing part; the character writing is good as the movie is really driven by its characters, especially Amziah King and Kateri, because they create interesting characters with unique qualities about them"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Andrew Patterson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is heavily influenced by Southern culture and feels pretty authentic; the humor is pretty Southern and helps set the tone and vibe for the movie; the symbolism is present; the foreshadowing is set early on as it helps set up different parts of the movie, especially the inflection point between the two halves of the movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Erick Alexander"
+        },
+        {
+          "name": "Jared Bulmer"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Very Southern and helps set the tone and vibe for the movie;"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Filled with many songs that feel personal to the story and make this movie feel very Southern"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "M.I. Littin-Menz"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Do not really commit to one style because they try many different angles and techniques; and while this is unique, it would have been nice to see them commit to things long term"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Patrick J. Smith"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Try many different techniques and styles throughout the movie, but it really felt like they would introduce different editing techniques once but then never commit to them; I would have liked to see them commit to different editing styles and techniques throughout"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps set this movie in the rural South, hidden among the pines"
+    },
+    "pacing": "Pacing is pretty slow as the movie feels rather bloated; The movie is structured in two parts, and I would have liked to see them cut one part in half to put more emphasis on the other",
+    "climax": "Climax is decent, but you feel kind of exhausted up to this point",
+    "tone": "The tone is very Southern and mixes elements of mystery, family, drama, and musical",
+    "final_notes": "Saw the world premiere at SXSW",
+    "overall": "Overall, a decent movie that feels very Southern with its music, dialogue, and tone, that is carried by Matthew McConaughey's return to acting after six years; however, the movie is a tale of two halves, and I feel like this made the movie feel very bloated, as either half could have been cut in half to put more emphasis on the other part"
+  },
+  "release_year": 2025,
+  "review_date": "03/10/2025",
+  "redux": false,
+  "id": 548,
+  "imdb_id": "tt27706593"
+}

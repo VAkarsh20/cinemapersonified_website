@@ -1,0 +1,116 @@
+{
+  "title": "Jerry Maguire",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Keeps the movie entertaining, but the overall execution is very bland and similar to other Rom-Coms from the 90s"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Cruise"
+          },
+          "rating": "Very Good",
+          "comments": "Really carries the movie and is the focal point for other actors to play off of, but he is just playing himself and it really shows"
+        },
+        {
+          "actor": {
+            "name": "Cuba Gooding Jr."
+          },
+          "rating": "Very Good",
+          "comments": "Really helps play off of Cruise and match his level of animation as the chemistry they build together helps keep the story going"
+        },
+        {
+          "actor": {
+            "name": "Renée Zellweger"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Does not have any chemistry with Cruise and her scenes are sometimes hard to watch as the delivery sometimes comes off as cringy"
+        },
+        {
+          "actor": {
+            "name": "Regina King"
+          },
+          "rating": "Good",
+          "comments": "Does her job really well and does a good job in playing off the other actors to help keep her scenes interesting"
+        },
+        {
+          "actor": {
+            "name": "Jonathan Lipnicki"
+          },
+          "rating": "Good",
+          "comments": "Does a good job in being the adorable character that helps give Cruise a moral compass to keep coming back to the family"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The overarching story was entertaining but it is an incredibly safe movie that is very predictable; the storytelling was also very amateur as it does so much telling what is going on rather than showing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Cameron Crowe"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Very simplistic dialogue (even though it has very memorable lines) that has very surface-level meaning with all the messages being outright explained in the movie; also, the movie suffers from complete narcissism in how much they mention Jerry Maguire's name (which could be a symbol of how highly the character thinks of himself and his notoriety but it comes off as more annoying than symbolic)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nancy Wilson"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Janusz Kamiński"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Hutshing"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Everything is very sharp with little transitions between the cuts"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "Nothing seems fluid and it is obvious where the editing and mixing is"
+    },
+    "plot_structure": "Plot Structure was good for the most part as it follows as very simplistic Rom-Com structure",
+    "pacing": "Pacing was good (not too slow or fast)",
+    "climax": "Build to climax was very typical of Rom-Coms and was very easy to tell what was going to happen; climax was entertaining but very predictable (both for the sports side and the romantic side)",
+    "tone": "Tone was very 90s Rom-Com that has elements of sports in the background",
+    "final_notes": "",
+    "overall": "Overall, an entertaining movie that has memorable performances by Tom Cruise and Cuba Gooding Jr., but is filled with many cliches of 90s comedies as it is very formulaic and predictable with its decent direction and predictable storyline"
+  },
+  "release_year": 1996,
+  "review_date": "09/28/2022",
+  "redux": false,
+  "id": 296,
+  "imdb_id": "tt0116695"
+}

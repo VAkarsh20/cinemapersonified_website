@@ -1,0 +1,139 @@
+{
+  "title": "The Running Man",
+  "rating": 4.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Edgar Wright"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale feels very cheap and low effort; the direction on a microscale tries to emulate 80s camp for some reason, when it just makes the movie feel more tacky than fun; the storytelling is decent because the movie is pretty simple and linear, but still somehow feels rushed because of the pace the movie goes at; they build tension decently well as they use action sequences and the hunt to raise the stakes for the protagonist"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Glen Powell"
+          },
+          "rating": "Pretty Bad",
+          "comments": "For some reason tries to play this 80s macho character that just feels very out of place and awkward; he has the charisma to be a leading man in this movie, but the material he is working with just causes this clash of vision that hurts the performance overall; cannot really connect with the cast because of how this movie is directed and how fast paced the story goes; at the end of the day, this just feels like he is working with bad material that does not accentuate his strengths as an actor"
+        },
+        {
+          "actor": {
+            "name": "William H. Macy"
+          },
+          "rating": "Decent",
+          "comments": "Basically feels like a cameo, but did enjoy his presence in the movie"
+        },
+        {
+          "actor": {
+            "name": "Michael Cera"
+          },
+          "rating": "Decent",
+          "comments": "Basically plays Michael Cera"
+        },
+        {
+          "actor": {
+            "name": "Emilia Jones"
+          },
+          "rating": "Bad",
+          "comments": "Really just feels out of place and has no emotion with Powell whatsoever"
+        },
+        {
+          "actor": {
+            "name": "Colman Domingo"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has the best performance in this movie as the material is written to show his cool charisma as his stage presence steals the show"
+        },
+        {
+          "actor": {
+            "name": "Josh Brolin"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Basically plays Josh Brolin, but has decent chemistry with the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Everyone just feels like unexperienced actors who were thrown into this movie by a studio; very still chemistry with the cast that makes this movie feel low effort"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Michael Bacall"
+        },
+        {
+          "name": "Edgar Wright"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is another adaptation of a Stephen King novel, after the 1980s Arnold Schwarzenegger movie, but the real question is whether or not we needed another adaption because the book didn't seem super popular and the movie was not well received critically or commercially; the plot structure is just this boring linear story that follows the protagonist on this chase and the friends he makes along the way, and it is very obvious the original ending tested poorly and they didn't have enough movie to reshoot it, so they just something on the spot; character writing is tacky because they try to create this macho campy 80s action hero that just feels dated in 2025, and the supporting characters are barely given enough time to paint them with any personality"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Michael Bacall"
+        },
+        {
+          "name": "Edgar Wright"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is just bad 80s camp that just feels dated, tacky, and cheap in 2025; the movie tries to be funny a lot and has a pretty low hit rate; the symbolism is obviously a criticism of capitalism and the lengths we may need to go to provide for our family in a dystopian future, but this is literally the second Stephen King Movie that came out this year like this that it kinda just feels like he's beating a dead horse; the foreshadowing is just dumb because they do a makeshift, tacky job at trying to subvert our expectations to the point that it feels like the original ending was scrapped because it tested poorly so they had to make something up on the spot"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Steven Price"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Felt like a generic studio action score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Chung-hoon Chung"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Felt genuinely cheap and tacky; no personality and what you would expect from an a generic studio action movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Paul Machliss"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Felt cheap and tacky"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "Felt genuinely cheap and tacky; no personality and what you would expect from an a generic studio action movie"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "Felt genuinely cheap and tacky; no personality and what you would expect from an a generic studio action movie"
+    },
+    "costumes": {
+      "rating": "Pretty Bad",
+      "comments": "Had no real personality to them"
+    },
+    "pacing": "Pacing was both incredibly fast in how they moved through the story and slow in each scene cause it felt like they were stalling for time",
+    "climax": "Climax genuinely felt like the original ending tested very poorly and they had no money to reshoot it, so they put something together at the last moment",
+    "tone": "Tone tries to emulate this campy 80s action movie for some reason and does a poor job at trying to instill comedy, so not playing to Edgar Wright's strengths at all",
+    "final_notes": "",
+    "overall": "Overall, 'The Running Man' completely misses the mark as it attempts to be a campy 80s action film in 2025 but ultimately comes off as tacky, cheap, and lacking personality; the ending genuinely feels like the original conclusion tested poorly and the studio either had no money or no time for a reshoot, forcing them to hastily put something together at the last minute, symbolizing the entire movie as a whole"
+  },
+  "release_year": 2025,
+  "review_date": "11/17/2025",
+  "redux": false,
+  "id": 627,
+  "imdb_id": "tt14107334"
+}

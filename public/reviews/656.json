@@ -1,0 +1,141 @@
+{
+  "title": "Ready or Not 2: Here I Come",
+  "rating": 6.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Matt Bettinelli-Olpin"
+        },
+        {
+          "name": "Tyler Gillett"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is typical of a studio horror-comedy; The microscale is what you would expect from a studio horror-comedy; The storytelling is pretty straightforward; The tension is pretty artificial, but it does work in making the movie entertaining"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Samara Weaving"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Holds her own well as the lead and shows a decent range of emotion, but it just feels like she is there for the paycheck; does not really have the best chemistry with the cast, epsecially Kathryn Newton"
+        },
+        {
+          "actor": {
+            "name": "Kathryn Newton"
+          },
+          "rating": "Pretty Bad",
+          "comments": "I honestly felt her character was pretty annoying and didn't really have any chemistry with Weaving"
+        },
+        {
+          "actor": {
+            "name": "Sarah Michelle Gellar"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just there"
+        },
+        {
+          "actor": {
+            "name": "Shawn Hatosy"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the villain decently well, but really just feels pretty formulaic"
+        },
+        {
+          "actor": {
+            "name": "Elijah Wood"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just plays this stoic character who is somewhat of a overseer/judge for the whole game"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "Just a cast of people filling in roles for a formulaic studio horror-comedy; the chemistry is a bit forced"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Guy Busick"
+        },
+        {
+          "name": "R. Christopher Murphy"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept continues where the first movie left off and is a larger game of survival, though it is hard to say how it compares since I did not watch the first movie; The plot structure is linear and straightforward; The character writing is shallow, which is what you would expect from a studio horror-comedy"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Guy Busick"
+        },
+        {
+          "name": "R. Christopher Murphy"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is fine and typical of a studio film; The humor is present, but they try a little too hard to be funny; The foreshadowing kind of gives the movie away and makes it feel safe"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Sven Faulconer"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The score helps establish the tone and tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Brett Jutkiewicz"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jay Prychidny"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "The sound helps establish the tone and tension and makes this movie feel like it has a larger budget"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "The visual effects are standard for a studio horror-comedy and are nothing groundbreaking"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "The production design sets the movie in a grand mansion to continue where the last movie left off"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "The makeup shows the gore and blood to make this movie feel like a horror movie"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "The costumes show the regal nature of the movie and the after-effects of the first movie"
+    },
+    "pacing": "The pacing is decent, though it does move quickly in certain moments",
+    "climax": "The climax is entertaining and is definitely the best part of the movie",
+    "tone": "The tone is very much that of a studio horror-comedy that feels safe overall",
+    "final_notes": "I saw the world premiere at SXSW",
+    "overall": "Overall, Ready or Not 2 feels like a generic studio horror-comedy that is meant to provide a good time, but it does not leave you thinking about what you watched; I have not seen the first movie, but it feels like this movie was a cash grab considering it feels very safe and does not have any of the indie charm of the first film"
+  },
+  "release_year": 2026,
+  "review_date": "03/13/2026",
+  "redux": false,
+  "id": 656,
+  "imdb_id": "tt33978029"
+}

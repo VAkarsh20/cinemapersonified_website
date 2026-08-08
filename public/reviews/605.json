@@ -1,0 +1,108 @@
+{
+  "title": "Silent Night, Deadly Night",
+  "rating": 3.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mike P. Nelson"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale genuinely feels very cheap and tacky, the kill sequences are entertaining, but they are nothing really special; the direction on a microscale is so bland and bad, but not even like campy to where it is entertaining; storytelling is so straightforward that it dumbs down what is going on for the audience, especially with the out-of-place narration; builds tension very poorly because everything looks tacky or is just explained to the audience"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Rohan Campbell"
+          },
+          "rating": "Very Bad",
+          "comments": "Shows no emotion or range whatsoever; has no chemistry with his co-stars; and is just kinda there in the action sequences"
+        },
+        {
+          "actor": {
+            "name": "Ruby Modine"
+          },
+          "rating": "Very Bad",
+          "comments": "Feels very forced and unnatural; doesn't have much chemistry with her co-stars"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Everyone just gives very flat and lifeless performances that you would expect from a low-budget horror movie; there is no chemistry in the cast as everything feels stiff and unnatural"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Mike P. Nelson"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is honestly pretty stupid and not really that interesting; even though it is explained, the conflict just does not make any sense because there is no 'why'; the plot structure is very linear because it is basically an advent calendar and it is explained via days on screen; character writing is very bad because they explain why these characters do what they do, but they are just so surface-level and so poorly written that you do not care for them at all"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mike P. Nelson"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is very bad, and not even campy bad; The humor is forced and not good, maybe hitting one every six times; The symbolism is too shallow to care; The foreshadowing is not really that good"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Blitz//Berlin"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Christmas-themed"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Nick Junkersfeld"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "Feels very low budget and tacky"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Geoff Klein"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "Feels very low-budget and tacky; I thought the Scott Pilgrim style kill edits were pretty cool"
+    },
+    "sound": {
+      "rating": "Very Bad",
+      "comments": "Feels very low-budget and tacky; So many times where the movie is just void of sound or is improperly mixed in"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "Looks incredibly low-budget and tacky; Even though this is probably a low-budget film, I have seen way better kill sequences done for cheaper"
+    },
+    "costumes": {
+      "rating": "Pretty Bad",
+      "comments": "Just a generic Santa costume"
+    },
+    "pacing": "Pacing is incredibly slow for how bad it is",
+    "climax": "Climax is honestly not that interesting because I was just waiting for this movie to end",
+    "tone": "Tone is just a bad, low-budget slasher movie that poses as a Christmas movie",
+    "final_notes": "Saw the world premiere as a secret screening at Fantastic Fest",
+    "overall": "Overall, a very bad, low-budget Christmas slasher movie that just feels tackier and more boring than campy and fun; to be fair, this movie isn't really for me and I watched it at midnight, so I really wasn't in the mood to watch it"
+  },
+  "release_year": 2025,
+  "review_date": "09/21/2025",
+  "redux": false,
+  "id": 605,
+  "imdb_id": "tt34508974"
+}

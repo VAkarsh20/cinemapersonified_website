@@ -1,0 +1,145 @@
+{
+  "title": "Dead Man's Wire",
+  "rating": 7.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gus Van Sant"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale has elements of 70s thrillers mixed with the goofiness of the era; The microscale is a little goofy, but it is still executed well in the interpersonal scenes; The storytelling feels like a throwback to the 70s mixed with goofiness to make this movie both thrilling and entertaining; They build tension well to show the weight of the situation as it feels like a bomb is going to go off as emotions continue to build up"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bill Skarsgård"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has this mixture of unease and goofiness that works well for the character; He accurately portrays the mental state of someone who feels cheated by the system, but also shows goofiness that makes him more relatable to both the audience and the world of the movie; Has pretty good chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Dacre Montgomery"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows sense of empathy for Skarsgård's character despite the situation, creating a believable dynamic between the two"
+        },
+        {
+          "actor": {
+            "name": "Colman Domingo"
+          },
+          "rating": "Good",
+          "comments": "Has this soulful DJ performance that you would see from that era; Feels very authentic and effortless as he shows why he is one of the best actors in Hollywood today; Has good chemistry with Skarsgård"
+        },
+        {
+          "actor": {
+            "name": "Myha'la"
+          },
+          "rating": "Decent",
+          "comments": "Feels kind of like a templated character"
+        },
+        {
+          "actor": {
+            "name": "Cary Elwes"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays his role well as he uses his experience to help elevate the scenes he is in"
+        },
+        {
+          "actor": {
+            "name": "Al Pacino"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "A little over-the-top, but it feels like an excuse to have him in the movie; It was pretty obvious they came to him to film these scenes"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Everyone plays their role well and has decent chemistry with the cast; everyone feels authentic to the era and the situation"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Austin Kolodney"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is interesting because it is based on the real Kiritsis situation; The plot structure is pretty standard and follows the situation pretty closely, despite its Hollywood moments; Character writing is pretty good, as they create a main character that you can empathize with despite his extreme actions, and they do a pretty good job creating supporting characters that are caricatures of the era"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Austin Kolodney"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is true to the time and pretty goofy, helping set the tone and keeping you invested; the humor is pretty funny considering how goofy and old-timey this movie is; the symbolism is decently strong as it uses empathy to make you relate to the struggles of the main character, who feels cheated by the system; the foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Danny Elfman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps set the tone and era of the movie"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Helps establish the time period and mood"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Arnaud Potier"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps set the style and tone for the era and the situation, feeling like a news 70s broadcast right on the scene of the situation"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Saar Klein"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps set the style and tone for the era and the situation, feeling like a 70s FBI thriller"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps give the movie a 70s feel with its sound design and mixing"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Give the movie a 70s feel with its practical effects and minimal CGI"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps create the world of the film and establish the time period"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Bill Skarsgård's try not to use his actual face challenge failed again; helps style the time period"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Helps style the time period"
+    },
+    "pacing": "Pacing is a little all over the place, but that helps with the hectic nature of the movie",
+    "climax": "Climax is a pressure cooker that finally explodes",
+    "tone": "Tone is very 70s in both style and goofiness",
+    "final_notes": "Saw premiere at Austin Film Festival",
+    "overall": "Overall, an homage to the 70s in both its style and goofiness, this thriller creates an entertaining experience that makes you empathize with the main character in his fight against the system, creating a pressure cooker that finally explodes in the climax"
+  },
+  "release_year": 2025,
+  "review_date": "10/23/2025",
+  "redux": false,
+  "id": 617,
+  "imdb_id": "tt15181326"
+}

@@ -1,0 +1,132 @@
+{
+  "title": "Titanic",
+  "rating": 9.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Very Good to Great from",
+      "comments": "He is able to get a lot from the macro scale of the movie as he builds this grand voyage that comes to its demise, and he does a good job in the more interpersonal scenes as he makes the audience care for the characters; there are issues with how he cut the film and uses pacing as the final half of the movie feels very dragged out despite it being a chaotic event (to where the ending becomes a bit too boring despite it being captivating)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Leonardo DiCaprio"
+          },
+          "rating": "Good",
+          "comments": "Shows some of his inexperience but plays the lead role very well as he commands the scenes he is in"
+        },
+        {
+          "actor": {
+            "name": "Kate Winslet"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Does not show too much depth throughout the movie but really does show the loving emotions well to make you care about the relationship she has with Jack"
+        },
+        {
+          "actor": {
+            "name": "Billy Zane"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Takes a lot from the rich-villain trope as he uses that to fuel his performance (with nothing being too spectacular)"
+        },
+        {
+          "actor": {
+            "name": "Kathy Bates"
+          },
+          "rating": "Good",
+          "comments": "Plays a very Kathy Bates character as she has the southern charm who is considerate when looking at the different socioeconomic situations"
+        },
+        {
+          "actor": {
+            "name": "Gloria Stuart"
+          },
+          "rating": "Pretty Good to Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Filled with many iconic moments and stays very true to what happened, the main issue is how not dense it is for its long runtime (meaning some scenes feel like they are dragged out longer than they need to be)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is of the time and very iconic, the movie is filled with a lot of foreshadowing (though a bit overt), and the symbolism between the separation of classes was a nice touch to see given how much of an issue it was on the actual ship"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "James Horner"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Very Iconic with one of the most iconic/best songs for film every created"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Russell Carpenter"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Helps paint how grand of an experience and event the Titanic was"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Conrad Buff"
+        },
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "Richard A. Harris"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "sound": {
+      "rating": "Very Good"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "Helped with painting the scene"
+    },
+    "production_design": {
+      "rating": "Very Good"
+    },
+    "costumes": {
+      "rating": "Very Good",
+      "comments": "Helped with separating the different classes in the movie"
+    },
+    "plot_structure": "Plot Structure was a major drawback for the movie as the climax was way longer than it needed to be (with it being dragged for the final hour and a half of the movie (which I do get cause they said the boat will sink within an hour))",
+    "pacing": "Pacing was on the slower side despite them trying to make a fast/tense mood in the climax (The runtime of the climax could have been cut in half (30-45 minutes) because it felt like there were many unnecessary scenes or scenes that were longer than they needed to be)",
+    "climax": "Climax was a big focal point for the movie and while there were many great/iconic moments it was longer than it needed to be",
+    "tone": "There were two different tones as the historical/romantic genre tone was done very well in the first half in helping build the scene but the more anxious/desperation scenes was not as well executed",
+    "final_notes": "The switching between the present and the past was surprisingly captivating as it helped portray some of the trauma Rose still lives with; the movie tries to be two movies in one when I would have really preferred it give more time before the crash as it would have helped build the relationship between Jack and Rose a lot better",
+    "overall": "Overall, a great movie that has many iconic elements to depict a grand and tragic event as we see James Cameron step outside of his comfort zone to create one of the best love stories ever told on film, though it is really held back from its long runtime that really could have been cut to make the climax more tight"
+  },
+  "release_year": 1997,
+  "review_date": "02/26/2023",
+  "redux": false,
+  "id": 319,
+  "imdb_id": "tt0120338"
+}

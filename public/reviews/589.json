@@ -1,0 +1,94 @@
+{
+  "title": "Magazine Dreams",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Elijah Bynum"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is an artistic, indie character study into a lonely, traumatized man who has ambitions of grandeur, though it can be a little pretentious at times; the direction on a microscale feels disconnected, and it feels pretty intentional because Majors can't really connect with others because his character doesn't know how; the storytelling is pretty similar to other obsession-of-the-artist movies like Whiplash, but has stalkerish vibes like 'Stan'; it emotionally builds tension to make you feel invested in the character as you just feel sorry for him throughout the whole movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jonathan Majors"
+          },
+          "rating": "Good",
+          "comments": "Really immerses himself in this role as an obsessed and aspiring bodybuilder who is filled with trauma and cannot connect with others, probably because he is on the spectrum; Although this isn't the best obsession of the artist's portrayal, it is a commendable one because you can tell the effort he put in to bring this character to life; Considering how his character cannot connect with others, the interpersonal scenes are pretty bad, but this feels kind of intentional"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "This movie really is a one-man show, as it is about a lonely bodybuilder who cannot connect with others, so the strong disconnect in the acting kind of helps the cast; At the end of the day, the background cast are just generic background characters you would see in an indie movie"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Elijah Bynum"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is basically a combination of Whiplash and Stan as the movie follows an aspiring bodybuilder who is obsessed with his idols and has trouble connecting with others because he is filled with trauma and is most likely on the spectrum; The plot structure is a little bloated and the plot is linear for the most part, but the ending does break this linear train, albeit in a very safe and predictable way; Character writing is what makes this movie as it is about the obsession of the artist, the aspiring bodybuilder, who is obsessed with his idols and has trouble connecting with others because of it, as well as because he is filled with trauma and is most likely on the spectrum"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Elijah Bynum"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is a big drawback for this movie because it feels very cringey and just shallow, making this movie feel a little too indie and inexperienced from a writing perspective; The symbolism is what you would see in movies about the obsession of the artist, stalker tendencies, and mental illness; The foreshadowing makes this movie really predictable at times"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jason Hill"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Light and helps with tone"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Helps establish tone and mood"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Adam Arkapaw"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Definitely gives this movie an indie look, as it feels very artistic; they use a lot of lens flare throughout the movie to help show how the protagonist's viewpoint is blurry and too focused on the light, but it kind of gets annoying at times"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jon Otazua"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Pretty polished for an indie movie, as it helps with giving this movie an artistic feel"
+    },
+    "sound": {
+      "rating": "Pretty Bad to Decent",
+      "comments": "It was pretty obvious when they did the sound editing, as many moments did not feel real, but it was fine for the most part"
+    },
+    "pacing": "Pacing is definitely on the slower side, as this movie does move very slowly like other artistic indie movies, and I think this is because the movie just has a lot of unnecessary plot points, they could have easily cut 15 minutes to help with this",
+    "climax": "Climax is definitely emotionally draining; and while I was not a fan of how the movie ended, it definitely was the right ending",
+    "tone": "Tone is a mixture of the obsession of the artist (Whiplash) mixed with stalking idols (Stan) mixed with trouble connecting with people as an obsessed artist (The Wrestler)",
+    "final_notes": "I feel like I have seen this movie played out better in Whiplash and The Wrestler",
+    "overall": "Overall, a decent movie that follows Killian Maddox, an obsessed artist (aspiring body-builder) who is obsessed with his idols (like Stan), as both cause him to not be able to connect with others along with his past trauma and him most likely being on the spectrum; what works in this movie's favor is how they bring to life the protagonist through a good performance from Jonathan Majors and pretty good character writing, but this movie just feels a little too bloated in artistic, indie plot and I feel like I have seen this type of movie played out better in Whiplash and The Wrestler"
+  },
+  "release_year": 2023,
+  "review_date": "08/06/2025",
+  "redux": false,
+  "id": 589,
+  "imdb_id": "tt13652142"
+}

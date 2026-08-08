@@ -1,0 +1,163 @@
+{
+  "title": "Black Panther: Wakanda Forever",
+  "rating": 6.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Ryan Coogler"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Able to take command of his actors and drive the story forward (that be in a very Marvel way)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Letitia Wright"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Really shows a range of emotions throughout the movie and is able to get through some of the tough moments very well; she is able to command lead in this film and really play a character trying to go through the grieving process"
+        },
+        {
+          "actor": {
+            "name": "Lupita Nyong'o"
+          },
+          "rating": "Pretty Good",
+          "comments": "Nothing spectacular but she does hold her own"
+        },
+        {
+          "actor": {
+            "name": "Danai Gurira"
+          },
+          "rating": "Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Winston Duke"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Really shows his presence with his charisma, power and humor in all the scenes he is in"
+        },
+        {
+          "actor": {
+            "name": "Dominique Thorne"
+          },
+          "rating": "Decent",
+          "comments": "A character kinda just thrown into the movie, but she does a decent job with what she was given"
+        },
+        {
+          "actor": {
+            "name": "Tenoch Huerta Mejía"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the role decently well and shows some range (it just isn't really his fault given he isn't given that much to work with)"
+        },
+        {
+          "actor": {
+            "name": "Martin Freeman"
+          },
+          "rating": "Pretty Good",
+          "comments": "Continues where he left off from the previous film"
+        },
+        {
+          "actor": {
+            "name": "Angela Bassett"
+          },
+          "rating": "Very Good",
+          "comments": "The best performance of the movie as she uses her experience very well to be a powerful and loving figure that tries to pick up the pieces of a fractured nation"
+        }
+      ],
+      "cast": {
+        "rating": "Decent"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ryan Coogler"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The overall narrative follows the boilerplate Marvel formula, but the moments dealing with grief were surprising and pretty good overall (especially for a marvel movie); the conflict overall was very boring as the villains and their world were just not that interesting (and pretty similar to Avatar)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ryan Coogler"
+        },
+        {
+          "name": "Joe Robert Cole"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Dialogue was pretty average for a marvel movie; the humor is very hit or miss (but when it hits it is very clever); the foreshadowing and symbolism was pretty predictable for a marvel movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Ludwig Göransson"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad to Decent",
+      "comments": "At least in comparison to the previous soundtrack cause it does not match on the same level"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Autumn Durald Arkapaw"
+        }
+      ],
+      "rating": "Decent to Pretty Bad",
+      "comments": "For the most part it is pretty typical of other Marvel movies but there are moments when it gets very nauseating"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Michael P. Shawver"
+        },
+        {
+          "name": "Kelley Dixon"
+        },
+        {
+          "name": "Jennifer Lame"
+        }
+      ],
+      "rating": "Good",
+      "comments": "There were some edits that were very good like the parallelism in the climax and when it shows the villains mom getting older, but some of the editing techniques were not that appealing (like the slow-motion editing)"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Felt very tacky (especially with raising his body) and feels like how other Marvel movies are in recent times (which is not a good thing)"
+    },
+    "production_design": {
+      "rating": "Good"
+    },
+    "makeup": {
+      "rating": "Good"
+    },
+    "costumes": {
+      "rating": "Pretty Bad to Decent",
+      "comments": "The overall Wakanda costumes were good, its just Shuri's fits when being a regular person were pretty bad"
+    },
+    "plot_structure": "Plot Structure was very typical of marvel movies",
+    "pacing": "Pacing was the same pacing of marvel movies",
+    "climax": "Build to climax was good and shows the transition of power in the movie; climax was very typical of Marvel movies; the ending was incredibly safe and very predictable",
+    "tone": "Tone did share the same aspects of other marvel movies but there were more depressing tones throughout the movie due to the major themes of dealing with grief and loss",
+    "final_notes": "this movie does venture away a bit from the typical marvel model through its tributes to Boseman (which was a nice touch that they never actually showed his face) and how the characters have to deal with his death (something they had to change the whole direction of the movie for)",
+    "overall": "Overall, a marvel movie that is a bit different considering how it deals with loss and grief, but is still flawed with its uninteresting plot and boilerplate Marvel template"
+  },
+  "release_year": 2022,
+  "review_date": "12/03/2022",
+  "redux": false,
+  "id": 301,
+  "imdb_id": "tt9114286"
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Goodfellas",
+  "rating": 9.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Martin Scorsese"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "With the ability to handle such fast paced moments with a lot of moving parts at once and the conversations between characters"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Robert De Niro"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Though his character really does not have that much of a presence in relation to his billing for the movie"
+        },
+        {
+          "actor": {
+            "name": "Ray Liotta"
+          },
+          "rating": "Great",
+          "comments": "Was the right person to drive the story forward, just was not that amazing in the very emotional and sad parts"
+        },
+        {
+          "actor": {
+            "name": "Joe Pesci"
+          },
+          "rating": "Incredible",
+          "comments": "In a very Joe Pesci way"
+        },
+        {
+          "actor": {
+            "name": "Lorraine Bracco"
+          },
+          "rating": "Very Good to Great",
+          "comments": "Though the interjections in narration from her character were not that great"
+        }
+      ],
+      "cast": {
+        "rating": "Good to Very Good",
+        "comments": "Which is telling considering the number of characters in this movie"
+      },
+      "rating": "Great"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Nicholas Pileggi"
+        },
+        {
+          "name": "Martin Scorsese"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "With Ray Liota's narration being an iconic feature for the movie in depicting the life of Henry Hill, though the final parts of the plot did drag on a bit"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Nicholas Pileggi"
+        },
+        {
+          "name": "Martin Scorsese"
+        }
+      ],
+      "rating": "Incredible to Brilliant",
+      "comments": "With the language being so fluid yet vulgar, the actions conveying the tone of the film, and the film being filled with iconic moments and lines"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Ballhaus"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Helped with setting the tone and keeping the pace going"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Thelma Schoonmaker"
+        }
+      ],
+      "rating": "Great to Incredible"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure was good (though more time was spent in the first half introducing elements, the climax and the resolution dragged for a bit; the first half of the plot had a lot of elements displayed very fast while the second half had less elements and took longer that expected to explain them); I feel that the exposition and rising action were the real key points of the movie as that was what the most time was spent on and really shows the development of the characters",
+    "pacing": "Pacing was very quick except towards the end (where the final 40 minutes really dragged on, and it probably could have been cut in half (still felt it dragged even though it was quick))",
+    "climax": "In my eyes there were 2 real climaxes for the movie (the build to the first one was great as they really laid out the suspense of its nature, the second climax (while not as big) was not developed that well); did not really like the ending because I felt it was very abrupt",
+    "tone": "Tone and mood of the movie is carried out so well by Martin Scorsese as this movie is a prime example of why this formula/movie genre works so well from him (in what might be his prime example for mob movies)",
+    "final_notes": "Pretty Good score (despite not officially having one); Good soundtrack (helped set the tone of the movie); the key points of the movie that make it one of the most famous crime/mob movies is the characters that carry out incredible dialogue as it keeps the audience really hooked and care for the main three characters",
+    "overall": "Overall, a Great movie that is incredible for the first 3/4 as you get to see Martin Scorsese work in his natural element to create one of the mob movies that defined him as you go through the life of Henry Hill and his rise in crime, though the final 1/4 of the movie felt dragging and underdeveloped (leaving the audience not as satisfied as they were throughout the film earlier)"
+  },
+  "release_year": 1990,
+  "review_date": "11/23/2021",
+  "redux": false,
+  "id": 229,
+  "imdb_id": "tt0099685"
+}

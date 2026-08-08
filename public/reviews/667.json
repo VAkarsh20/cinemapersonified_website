@@ -1,0 +1,101 @@
+{
+  "title": "The Drama",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kristoffer Borgli"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is very unique as it blends elements of rom-com and psychological thriller to make the overall experience feel very unsettling; The direction on a microscale makes the movie, as the interpersonal scenes are where we learn about these characters as they react to the very unsettling news; The storytelling uses tension to really drive the story forward as you really feel for these characters as they come to terms with what they have experienced and what they choose to do about it; Tension is pivotal in this movie as it really makes this movie feel very uneasy as you cringe in your seat as you see how events transpire"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Zendaya"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Feels like a performance she's given before but holds her own and has good chemistry with Pattinson"
+        },
+        {
+          "actor": {
+            "name": "Robert Pattinson"
+          },
+          "rating": "Good",
+          "comments": "Feels like a performance he's given before but definitely is the main character as he carries the emotional weight of the movie; has good chemistry with Zendaya"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The supporting cast is pretty minimal, but they do their job in helping build the uneasy tension of the movie and making everything just feel very awkward overall"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Kristoffer Borgli"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is honestly very weird, but I think it does ask some very pressing questions by bait-and-switching from a rom-com to create a psychological drama about morality; The plot structure is a kettle, slowly building this uneasy movie that eventually explodes in the final 30 minutes as you just want to cringe and crawl up into your seat; Character writing is good as it does paint these characters as flawed and makes you question their morality"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Kristoffer Borgli"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The dialogue is very awkward and blunt, which adds to the movie's uneasy tension; The humor is decently good as it does rely on puns and situational comedy to make light of very tense situations; The symbolism is certainly present as the whole movie questions morality and whether or not people should be forgiven for their past beliefs; The foreshadowing is very present as it does set the tone for the ending and closes the movie very nicely, though it is a bit predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Pemberton"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The score does a good job of building tension and unease throughout the film, especially with its use of woodwinds"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "It helps with setting the tone and building out these characters"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Arseni Khachaturan"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It feels very New York film student-coded, but it is well executed"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joshua Raymond Lee"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "It feels very New York film student-coded, but it is well executed"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "It helps with building tension and creating an uneasy environment that makes you want to crawl up into your seat as you cringe at what is happening on screen"
+    },
+    "pacing": "The pacing is not the best as the movie does drag a bit with how it runs around in circles, which somewhat symbolizes Pattinson's thought process",
+    "climax": "The climax is well executed as it lifts the lid on this kettle that has been boiling throughout the entire movie, unleashing an incredibly tense environment that makes you want to crawl up into your seat as you cringe at what is happening on screen; The ending of the movie is good and ties a bow on what is a very weird movie",
+    "tone": "The tone is a bait and switch as they definitely marketed this movie as a rom-com and it does have many rom-com elements, but the movie is really a psychological thriller as they keep building up this tense environment as you go through Pattinson's character's head while he processes the news he has heard and questions his future and own morality",
+    "final_notes": "The whole marketing for this movie has been very weird as they clearly try to bait and switch you, but it just feels a little off-putting given what the topic of this movie is actually about",
+    "overall": "Overall, 'The Drama' is honestly a very weird movie that tries to bait and switch you into watching a rom-com with a psychological drama; despite this, the movie actually is an interesting character study into morality regarding whether people can honestly change despite how egregious their past actions may be, and they are able to keep you invested in this story by using tension as a storytelling device to create a kettle that slowly boils until the climax, where the lid comes off and all you want to do is cringe and crawl up into your seat as you see how chaos ensues"
+  },
+  "release_year": 2026,
+  "review_date": "04/05/2026",
+  "redux": false,
+  "id": 667,
+  "imdb_id": "tt33071426"
+}

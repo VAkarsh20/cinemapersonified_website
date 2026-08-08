@@ -1,0 +1,133 @@
+{
+  "title": "After the Hunt",
+  "rating": 3.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Luca Guadagnino"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale both does too much and too little at the same time, as there are so many moments where it unnecessarily has these weird pans and build ups, without ever saying anything; The direction on a microscale is very bad because there are so many moments in the interpersonal scenes where it feels like there is no director in the room, causing the actors to just ramble; The storytelling is very bad as it initially tried to present two sides of a situation, but it is very obvious which side is correct, so you aren't really invested in what is going on; There is just so much unnecessary plot and dragging moments that the movie as a whole feels like it is making no commentary, despite it being so on the nose with its messaging; Tension is incredibly forced, to where it is just had, as they exaggerate the score and sounds to where it becomes more annoying than intriguing"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Julia Roberts"
+          },
+          "rating": "Decent",
+          "comments": "Feels like it is limited as there is a clear ceiling she hits in the dramatic moments; There is nothing inherently wrong with her performance, but it is just not that interesting"
+        },
+        {
+          "actor": {
+            "name": "Ayo Edebiri"
+          },
+          "rating": "Bad",
+          "comments": "Feels miscast in the role as it doesn't play to her strengths, as she feels a little out of her element in the more emotional scenes, which are definitely necessary considering the topic of the movie"
+        },
+        {
+          "actor": {
+            "name": "Andrew Garfield"
+          },
+          "rating": "Bad",
+          "comments": "Just so exaggerated and feels incredibly unnatural; For someone who has a 'usual' at an Indian restaurant, he eats Indian food like he's never seen food before in his life"
+        },
+        {
+          "actor": {
+            "name": "Michael Stuhlbarg"
+          },
+          "rating": "Pretty Bad",
+          "comments": "They use this subtle, dramatic actor in a comedic relief way that just doesn't work; either play to his strengths or don't use him at all"
+        },
+        {
+          "actor": {
+            "name": "Chloë Sevigny"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Incredibly misused because she maybe has like two scenes where she actually has dialogue, and in those scenes she maybe speaks twice"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Such bad background acting that feels completely unnatural and toneless; There is no chemistry in this cast whatsoever, which is a huge problem for a movie that is supposed to be about relationships and interpersonal scenes"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Nora Garrett"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is topical and interesting, they just do such a poor job articulating it and give a terrible rationale for the conflict or why things are going on; the plot structure is just so bloated with unnecessary plot and misdirections that you feel like you are wasting your time, this movie could have been 30 minutes shorter, and it still would have been too bloated; character writing is terrible, as you cannot empathize with the older generation, and they are so on the nose with the messaging with the younger generation that it becomes annoying to watch"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Nora Garrett"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is so bad because of how forced and unnatural it is, as it comes off as more pretentious than profound; the humor is not funny; the symbolism is so on the nose that it hurts its messaging rather than making a profound statement about a necessary topic to discuss; the foreshadowing is so bad because it is so obvious where this movie is heading in every scene that you become so bored by what is going on; I read this movie like a book, with every step they were going, that it makes the movie so predictable and boring"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Trent Reznor"
+        },
+        {
+          "name": "Atticus Ross"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The actual music was fine and had nice jazz and classical motifs you would hear in higher education; it is just so poorly mixed into the movie that it becomes incredibly distracting as it forcefully tries to build tension with how sudden and loud it is"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "An extension of the score, with its same good and bad reasons"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Malik Hassan Sayeed"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "While it does have this interesting pan, it is really excessive with its panning and just feels like they left a camera in the room and forgot that they hit record"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Marco Costa"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "So many sharp and bad cuts make me think this movie was shot and edited over a weekend"
+    },
+    "sound": {
+      "rating": "Terrible",
+      "comments": "So many sharp and bad cuts make me think this movie was shot and edited over a weekend"
+    },
+    "production_design": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Shot on a campus that helps give this movie its academic feel"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "The real crime was wearing white after Labor Day"
+    },
+    "pacing": "Pacing is atrocious as the movie is just bloated with so much unnecessary plot and slice-of-life scenes that it drags down the entire movie; they could have cut 30 minutes out, and it would have still been slow",
+    "climax": "Climax tries to make a profound statement, but it is so obvious what will happen that you can predict it ahead of time, a sign of terrible foreshadowing",
+    "tone": "Tone tries to be this psychological thriller, but it does not know how; this movie feels like Tár at home, but so much worse",
+    "final_notes": "This movie genuinely felt like it was shot and edited over a weekend",
+    "overall": "Overall, a complete misfire from Luca Guadagnino, as the lazy direction, bad acting, and incredibly on-the-nose messaging and writing make this movie a chore to sit through; for a movie that is supposed to have such profound commentary on an important topic, it has no idea what story it wants to tell as it tries to play both sides for a clearly one-sided argument"
+  },
+  "release_year": 2025,
+  "review_date": "10/21/2025",
+  "redux": false,
+  "id": 615,
+  "imdb_id": "tt32159989"
+}

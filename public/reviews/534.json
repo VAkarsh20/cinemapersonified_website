@@ -1,0 +1,112 @@
+{
+  "title": "Companion",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Drew Hancock"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale feels unique, as the movie both feels genreless and very visual; the direction on a microscale is pretty good between the two leads, as you can feel there is a good amount of chemistry between them, but alright with the rest of the cast; Storytelling is very visual, as the director prefers to show rather than tell, especially in the flashbacks and action sequences; they build tension very well to make this movie uphold its thriller/horror name"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sophie Thatcher"
+          },
+          "rating": "Good",
+          "comments": "Really embodies the character as her character's emotions build throughout the movie; she has a good range by the end; she really controls the scenes she is in and has established herself as a future scream queen; she has good chemistry with Quaid, and you really feel her character is a companion who cares about her lover"
+        },
+        {
+          "actor": {
+            "name": "Jack Quaid"
+          },
+          "rating": "Pretty Good",
+          "comments": "He has strong charisma onscreen and is really establishing himself as a film lead; He shows a pretty good range of emotions; he has good chemistry with Thatcher as he is one half of a very complicated relationship"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Very standard background characters hold their own but don't do anything to really lift up the two leads"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Drew Hancock"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is very unique as it very much feels like an \"Ex-Machina at home,\" but at the same time stays original and unique with all its twists and turns; the plot structure is pretty standard, but deviates a bit with all its twists and turns; character writing is good for Iris as the character not only looks at the morality of AI but explores female independence too"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Drew Hancock"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty lackluster and unnatural, but it does have good lines; the humor is a big element for this movie because it makes it feel very genreless; the symbolism is strong as it uses a discussion on AI and this flawed relationship as a way to explore female independence; the foreshadowing is very good as the movie uses a lot of twists and turns to make it unique and interesting, but is still very full-circle through its foreshadowing"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hrishikesh Hirway"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Used to establish tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Eli Born"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "I enjoyed it because it was important in helping build the world, create tension, and show Iris's perspective;"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brett W. Bachman"
+        },
+        {
+          "name": "Josh Ethier"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Cut in a way that brought out both humor and tension; it was pretty integral to the storytelling"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Influential in building tension, but pretty standard compared to other thrillers in many areas"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Stays true to the low-budget horror movie feel, but is pretty good with its mix of practical effects and subtle ways to make Iris who she is"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Mainly for Iris, as her hairstyle made her feel very 1950s and subservient, something that her \"boyfriend\" was trying to make her look like"
+    },
+    "costumes": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Mainly for Iris, as her costumes made her feel very 1950s and subservient, something that her boyfriend was trying to make her look like"
+    },
+    "pacing": "Pacing is fine as the movie uses its runtime effectively",
+    "climax": "Climax is executed well, as it is full of unexpected twists and turns; the ending makes this movie come together full circle",
+    "tone": "Tone is very genreless as it combines black comedy, drama, thriller, and horror elements;",
+    "final_notes": "Telugu was mentioned, but probably not for a good reason; Saw this as an \"AMC Scream-Unseen,\" and that was the way to see it because this is very much a mystery movie that you should go into blind, especially because the trailer and poster give nothing",
+    "overall": "Overall, a pretty good horror movie that feels very genreless; the film's unpredictable story, brought to life by Sophie Thatcher's performance, effectively uses its \"mystery\" premise to explore female independence; I saw this movie as an \"AMC Scream-Unseen\" and that was honestly the way to see it because this is very much a mystery movie that you should go in blind"
+  },
+  "release_year": 2025,
+  "review_date": "01/27/2025",
+  "redux": false,
+  "id": 534,
+  "imdb_id": "tt26584495"
+}

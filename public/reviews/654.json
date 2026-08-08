@@ -1,0 +1,117 @@
+{
+  "title": "The Bride",
+  "rating": 2.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Maggie Gyllenhaal"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The direction on a macroscale tries to be a feminist punk movie, but it is just so messy and poorly executed that it made the whole movie look and feel tacky and incoherent; The direction on a microscale is terrible because literally every piece of dialogue is incoherent and nobody connects in this movie; Storytelling is terrible, and I refuse to speak any further on what I witnessed; Tension is there in the very hard-to-watch moments, but it is there more because of the actual subject matter and not the direction"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jessie Buckley"
+          },
+          "rating": "Terrible to Very Bad",
+          "comments": "She lost all the good will she got from Hamnet because this was one of the worst performances I've ever seen; she only has like one good scene, which is probably the most important scene in the movie so if she messed up that scene it actually would make me very sad; has absolutely no chemistry with Bale or the cast"
+        },
+        {
+          "actor": {
+            "name": "Christian Bale"
+          },
+          "rating": "Very Bad",
+          "comments": "He's starting to really piss me off with his career choices because this performance just feels very forced and inauthentic; has no chemistry with Buckley whatsoever"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "filled with very big names that do their job, it's just not a good enough.script to take advantage of their talent"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Maggie Gyllenhaal"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The concept is a hybrid of Promising Young Woman and Joker: Folie à Deux, with a Clarice Starling FBI subplot from Silence of the Lambs; The plot structure is pretty straightforward, but I just hated the story; The climax felt very rushed and the ending was so predictable; Character writing is terrible, and I hated all of the characters in this movie, especially the two characters Buckley played"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Maggie Gyllenhaal"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue is the most incoherent, nonsensical language I have ever heard, so it genuinely hurt listening to this movie; The humor is forced and not funny, and it actually physically hurt me wondering why they tried; The symbolism is important, but it is just so messy in this presentation and unoriginal that it was sad to see because it is an important topic that needs to be taken seriously; The foreshadowing is bad because this movie is very predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hildur Guðnadóttir"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "It was just there"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "They, in fact, did the Monster Mash"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Lawrence Sher"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The slow-motion and close-up shots try to make this movie feel profound, but it ends up not being so"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Dylan Tichenor"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "It was just messy"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The sound was very cartoony because it tries to emulate the 1930s, and I just did not like it as a whole because it felt inconsistent in its presentation; The visual effects were bad; They wasted this budget"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "They wasted this budget"
+    },
+    "production_design": {
+      "rating": "Bad",
+      "comments": "It genuinely looks so tacky as it tries to emulate the time period"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "It was the only somewhat good thing for this movie because it does paint these characters, but it just feels unoriginal"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "It feels like an impression of the 1930s"
+    },
+    "pacing": "The pacing was so off because this movie just felt incredibly slow, mainly because the movie is just so bad",
+    "climax": "The climax was so rushed and poorly executed, but it made me somewhat happy because it meant the movie was almost over",
+    "tone": "The tone tried to be a feminist punk movie that felt very Harley Quinn and Promising Young Woman, but it is just so poorly executed that it ended up hurting the movie's messaging",
+    "final_notes": "",
+    "overall": "Overall, Maggie Gyllenhaal tries to revive the mind of Promising Young Woman with the body of Joker: Folie à Deux, but what she ends up creating is a monster that should not be seen by the public because I genuinely wish I could unsee this movie; The Bride does absolutely nothing right and is so bad that it ends up hurting the movie's messaging, which is a shame because the topics they talk about are important; Jessie Buckley has lost all the goodwill I gave her after Hamnet because there is no way she went from delivering one of the decade's best performances to delivering one of its worst"
+  },
+  "release_year": 2026,
+  "review_date": "03/08/2026",
+  "redux": false,
+  "id": 654,
+  "imdb_id": "tt30851137"
+}

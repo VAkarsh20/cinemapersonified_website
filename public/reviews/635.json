@@ -1,0 +1,118 @@
+{
+  "title": "Avatar: Fire & Ash",
+  "rating": 5.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is great, as Cameron shows why he is a visionary on a grand scale by creating this beautiful world of Pandora, filled with both nature and violence; The direction on a microscale is bad, as you do not care about any of these characters, their relationships, or the story because everything is just so generic; The storytelling is bad because you do not care about anything that is going on, as there really isn't a new conflict in this movie, making Fire & Ash feel like a Way of Water DLC; The movie builds tension poorly because you do not feel emotionally invested in these characters, so you do not really care about them"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "None of the performances in this movie are memorable; the cast has decent chemistry, but you don't really care about any of their relationships to make their performances memorable"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "Rick Jaffa"
+        },
+        {
+          "name": "Amanda Silver"
+        },
+        {
+          "name": "Josh Friedman"
+        },
+        {
+          "name": "Shane Salerno"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is basically a Way of Water DLC because nothing new is introduced in this movie, making it feel like there is no conflict introduced; The plot structure is bad, as this movie is an hour longer than it needs to be, making many parts of this movie feel boring and useless; Character writing is bad because none of these characters are memorable, making it hard to feel invested in the story"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "Rick Jaffa"
+        },
+        {
+          "name": "Amanda Silver"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is generic and uninteresting; The symbolism is the same anti-capitalist, respect Mother Nature message that the other two movies have; The foreshadowing makes this movie too predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Simon Franglen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It uses themes from the previous movie to make this feel like part of the franchise; It helps with setting the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Russell Carpenter"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The movie is incredibly shot, as it shows the beauty of Pandora and the adventure we go on with these characters"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Stephen E. Rivkin"
+        },
+        {
+          "name": "David Brenner"
+        },
+        {
+          "name": "Nicolas de Toth"
+        },
+        {
+          "name": "John Refoua"
+        },
+        {
+          "name": "Jason Gaudio"
+        },
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It feels like a box office production, as it is tightly edited"
+    },
+    "sound": {
+      "rating": "Great",
+      "comments": "It helps make this movie feel like a blockbuster with how it uses its sound to complement the visuals"
+    },
+    "visual_effects": {
+      "rating": "Incredible",
+      "comments": "It uses its almost $400 million budget to help beautifully animate this world through CGI, as the visuals are the only reason anyone should go see the Avatar movies; Also, CGI helps animate the production design, costumes, and makeup for this movie, as everything is done through computer graphics"
+    },
+    "pacing": "Pacing is unbearably slow, as this movie does not need to be 3.25 hours long; They could have cut one hour to save this movie because it gets so boring at moments",
+    "climax": "The climax is not worth it because you are just so exhausted from watching more than 2.5 hours to care about what goes on, and even then, the climax is just too formulaic and predictable",
+    "tone": "The tone is like the other Avatar movies, a CGI sci-fi adventure",
+    "final_notes": "",
+    "overall": "Overall, this movie is only worth watching for the visuals and technical aspects since there is nothing memorable about the conflict, story, or characters, making Avatar: Fire & Ash feel like a boring Way of Water DLC"
+  },
+  "release_year": 2025,
+  "review_date": "12/24/2025",
+  "redux": false,
+  "id": 635,
+  "imdb_id": "tt1757678"
+}

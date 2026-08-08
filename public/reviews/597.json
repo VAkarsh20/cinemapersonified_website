@@ -1,0 +1,130 @@
+{
+  "title": "The Long Walk",
+  "rating": 6.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Francis Lawrence"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is going as it does, building the world well and helping show the stakes of this contest, but it doesn't do that amazing of a job showing how dystopian the world has become; The direction on a microscale is not that good because many of the interpersonal scenes have these weird pauses and aren't tight, but the one-on-one scene between the two leads is pretty good, as it makes you care about their struggles in the conflict; Storytelling is simple and good, as it doesn't really over complicate things, it's a linear journey that raises the stakes the more the characters endure their torture; Tension is built very well, as it's the best part of the direction, you get invested in these characters' lives as they go through The Long Walk and fight for their way to be the last one, while overcoming personal stakes as well"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Cooper Hoffman"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the titular character well and has some range of emotion, though there are some limitations; Enjoyed his chemistry with Jonsson"
+        },
+        {
+          "actor": {
+            "name": "David Jonsson"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Has a strong screen presence and plays off Hoffman well"
+        },
+        {
+          "actor": {
+            "name": "Ben Wang"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "Feels a bit one-dimensional, it's promising in the first half and then flat in the second"
+        },
+        {
+          "actor": {
+            "name": "Judy Greer"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the concerned mother character well"
+        },
+        {
+          "actor": {
+            "name": "Mark Hamill"
+          },
+          "rating": "Pretty Good",
+          "comments": "Uses a Joker-esque voice for his character as he plays a live-action villain; Isn't really given too much to work with as his character is pretty one dimensional"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Everyone plays these concerned characters, with a range of them being scared and fearful while some just feel a little inexperienced"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "JT Mollner"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is simple and interesting as it's a dystopian \"Hunger Games\"-like competition that shows the authoritarian regime providing hope for an oppressed people; the plot structure is very linear as it's literally just The Long Walk, with no exposition or resolution; character writing is pretty good as it paints the two leads' motives and gives reasons to root for certain characters in the competition, though it shallowly paints the villains"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "JT Mollner"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The dialogue is very bad, as it is so forced and basic that it makes you cringe, with the amount of times they say \"The Long Walk\" making you bang your head in your seat harder every time; the humor helps lighten the mood a little bit and makes you care for the characters as they endure this; the symbolism is a little too on the nose, but it is relevant and clear, as it talks about authoritarian governments and rebelling through suffering; the foreshadowing is not the best, as you kind of expect what is going to happen towards the end based on how the story is structured, though it does keep you on your toes in some moments"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jeremiah Fraites"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Pretty basic, though it does set the tone; Horribly mixed, as it is just way too loud in moments"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jo Willems"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Helps make the movie feel grand as it helps build the world as you go on this long walk with the cast; Feels a little too high budget for what should have been more of a low budget film"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Mark Yoshikawa"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "There were many moments where the movie just had these awkward pauses, as it felt like the movie was not cut properly; other cuts just felt basic"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "The sound effects were fine for the most part and helped add to the suspense; the score was not mixed into the movie well"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Standard for an action horror movie; Helps show the gore in the killshots"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Really minimal as it is more about the trail and journey you go on with these characters, and the world they do create has this sense of bliss in the rural environment"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "The gore and the killshots felt realistic and helped add to the tension and horror for the movie"
+    },
+    "pacing": "Pacing was definitely on the slower side, as the movie feels a little bloated at moments and is very repetitive at times; the movie could have been cut a little tighter to remove these awkward pauses and to cut some scenes to make it about fifteen minutes shorter",
+    "climax": "Climax is a little abrupt, but is where the movie should end",
+    "tone": "Tone is definitely a thriller, but it does touch on more dramatic themes as you watch these characters try to survive",
+    "final_notes": "",
+    "overall": "Overall, a thrilling Stephen King adaptation that creates a tense world from an interesting concept, but is held back by its cringey dialogue and slow pace"
+  },
+  "release_year": 2025,
+  "review_date": "09/11/2025",
+  "redux": false,
+  "id": 597,
+  "imdb_id": "tt10374610"
+}

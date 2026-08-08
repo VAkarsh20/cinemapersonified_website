@@ -1,0 +1,139 @@
+{
+  "title": "The Life of Chuck",
+  "rating": 6.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mike Flanagan"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as it does connect the three acts together and helps set the tone and messages of the movie, but 'Act Two' and 'Act One' feel a lot better than 'Act Three' because this act feels separate as if it was directed by the assistant director, who had no connection to the other two acts; the direction on a microscale is pretty stiff and play-like, especially for 'Act Three', but it is fine for the other two acts as it overall feels good and makes you care about Chuck's ordinary life; the storytelling is pretty good from an overarching perspective as the movie talks about ordinary life in a philosophical way, and the storytelling of 'Act One' is good and helps tie the movie to the rest of the acts, but the storytelling in 'Act Three' just feels completely different and lazy overall narration definitely slows this movie down and oversimplifies what goes on"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Hiddleston"
+          },
+          "rating": "Decent",
+          "comments": "Basically a cameo in his own movie"
+        },
+        {
+          "actor": {
+            "name": "Chiwetel Ejiofor"
+          },
+          "rating": "Decent",
+          "comments": "He is not really given the best material to work with, but does show his experience and carries his scenes"
+        },
+        {
+          "actor": {
+            "name": "Karen Gillan"
+          },
+          "rating": "Decent",
+          "comments": "Clearly tries to act past the material she is given, but she can only do so much with how her scenes are directed and written"
+        },
+        {
+          "actor": {
+            "name": "Mia Sara"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Enjoyed her chemistry with the child Chuck and really feels like his mother or grandmother figure"
+        },
+        {
+          "actor": {
+            "name": "Carl Lumbly"
+          },
+          "rating": "Decent",
+          "comments": "Is noticeable in his scenes and has good chemistry, but is really not in the movie that long"
+        },
+        {
+          "actor": {
+            "name": "Benjamin Pajak"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the child Chuck well, as he really embodies the character's innocence and has good chemistry with his castmates"
+        },
+        {
+          "actor": {
+            "name": "Jacob Tremblay"
+          },
+          "rating": "Decent",
+          "comments": "He is really a cameo, I would have liked to have seen this Chuck's storyline for longer"
+        },
+        {
+          "actor": {
+            "name": "Mark Hamill"
+          },
+          "rating": "Pretty Good",
+          "comments": "The best actor in the movie embodies his character and has a good father/grandfather dynamic with Chuck"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "The extras in the movie feel very inexperienced and have a lot of stiffness to them, especially in 'Act Three'; the child actors play their roles well, as there is a sense of warmth and innocence with what they are portraying"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Mike Flanagan"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is an ode to ordinary life as it goes through different stages of Chuck's life, although 'Act Three' feels very off and different from the remaining acts; the plot structure is unique as the movie is told in reverse chronological order, going from 'Act Three' to 'Act One' with the first act connecting the dots of all the acts in the movie; the character writing for Chuck is good as the movie really paints the ordinary life of Chuck and how beautiful it was, but the character writing for the remaining characters is a little over-simplified"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mike Flanagan"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is very simple and pretty unnatural, especially in 'Act Three'; despite how simple the dialogue is, the screenplay does have its profound moments, even though it is a bit forced; the humor is decent; the symbolism is profound as it talks about the beauty in ordinary life; the foreshadowing is good for a reverse chronology story as 'Act One' clears up a lot of the confusion and roots planted in 'Act Three' and 'Act Two'"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "The Newton Brothers"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty subtle, but it is used well to establish the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Eben Bolter"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The cinematography in 'Act Three' feels very stiff and not well shot, but the cinematography in the other two acts is pretty good and feels pretty personal; the movie increases its aspect ratio through each Act to symbolize the amount of time Chuck has and how open he is in the earlier parts of his life"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Mike Flanagan"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels a little stiff, especially in the first part"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Feels very tacky and cheap, especially in 'Act Three'"
+    },
+    "pacing": "Pacing is very slow as the narration really slows the movie down;'Act Three' moves incredibly slow as so much is thrown at you and you don't really care for any of it, but these issues are fixed in the later two acts; You can only go so fast with a movie about ordinary life",
+    "climax": "Climax is pretty good, as it connects everything in the movie and makes \"Act Three\" feel meaningful, despite its issues",
+    "tone": "Tone in 'Act Three' is pretty apocalyptic and sci-fi, but the first two acts feel heart-warming and coming-of-age",
+    "final_notes": "Chuck made the right decision going to the 'University of Illinois,' even though it's pretty obvious Nick Offerman slipped that in; 'Act Three' feels like a completely different movie than the other two acts and is honestly annoying considering what its purpose actually is; If I were constructing this story, I would remove 'Act Three', start with 'Act Two', and split 'Act One' into two parts",
+    "overall": "Overall, a decent movie that explores the beauty in ordinary life through three stages of Chuck's life, but it is really held back by its boring opening 'Act Three' as it feels completely disjointed from the other two acts and is honestly annoying when you figure out its purpose"
+  },
+  "release_year": 2024,
+  "review_date": "06/14/2025",
+  "redux": false,
+  "id": 569,
+  "imdb_id": "tt12908150"
+}

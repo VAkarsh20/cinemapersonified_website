@@ -1,0 +1,143 @@
+{
+  "title": "Clown in a Cornfield",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Eli Craig"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as they do a good job blending slasher with comedy, making this an entertaining experience; the direction on a microscale feels very similar to other low-budget teenage horror to start with, but the movie really starts to get into its groove towards the 30-minute mark as it begins to subvert stereotypes and blend humor with horror; the storytelling is decent as it uses the stereotypical teenage slasher movie to lay the groundwork for the plot, then either subverts these expectations or calls out and makes fun of its stereotypes in a meta way; they build tension decently well, but it is a bit formulaic at times as it builds up to horror moments"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Katie Douglas"
+          },
+          "rating": "Pretty Good",
+          "comments": "Even though she starts the movie off with many stereotypical teen horror scream-queen mannerisms, she grows into her own and has good stage presence by the end of the movie; she has decent chemistry with the rest of the cast, especially Abrams"
+        },
+        {
+          "actor": {
+            "name": "Aaron Abrams"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the fatherly figure pretty well, despite his corny moments; he has pretty good chemistry with Douglas"
+        },
+        {
+          "actor": {
+            "name": "Carson MacCormac"
+          },
+          "rating": "Decent",
+          "comments": "He plays his role decently well, especially as more weight is lifted off his shoulders as the movie goes on; he has decent chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Kevin Durand"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Has a presence on screen that is felt; has decent chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Will Sasso"
+          },
+          "rating": "Pretty Good",
+          "comments": "Uses his comedic presence to make his character both funny yet Machiavellian"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "While the movie is filled with stereotypical teenage slasher performances, they do a decent job with what they are given and definitely get better as the movie goes on; they help support building tension and the main cast decently well"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Carter Blanchard"
+        },
+        {
+          "name": "Eli Craig"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is your typical clown slasher movie, but mixed with comedic elements to make the movie bend what genre it is; the plot structure is pretty standard for a slasher movie; character writing is surprisingly pretty good, as while the movie does have its fair share of stereotypical tropes that it calls out, these characters grow in ways that surprise the audience"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Carter Blanchard"
+        },
+        {
+          "name": "Eli Craig"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is filled with corny dialogue you would expect from low-budget, teen slasher movies; but the dialogue definitely gets better as the movie goes on; the humor is an integral part of this movie as it helps prevent the movie from being a straight slasher movie, being meta at times and making the movie feel pretty unique; the symbolism is present and somewhat profound; the foreshadowing is present and helps lay crumbs for how the story will transpire"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Brandon Roberts"
+        },
+        {
+          "name": "Marcus Trumpp"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels a little similar to other horror movies; very over-the-top in how it builds suspense for the horror moments"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Brian Pearson"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Typical of other low-budget slasher movies"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sabrina Pitre"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Typical of other low-budget horror movies"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Helps build suspense and tension similar to other low-budget slasher movies"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Good use of practical effects because this is what you want from a slasher movie"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Sets the cornfield for \"Clown in a Cornfield\""
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "It helps display the blood and gore for the kills; it helps paint the clowns"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Helps dress the clown for \"Clown in a Cornfield\""
+    },
+    "pacing": "Pacing is slow at the beginning and then very fast once the conflict is introduced, so basically, every slasher movie",
+    "climax": "The climax is pretty good and brings everything together but is somewhat predictable considering where the movie was heading",
+    "tone": "Tone is not your typical low-budget clown slasher movie; the movie sprinkles in comedy throughout to bend the genre and make the movie unique",
+    "final_notes": "Saw the world premiere at SXSW",
+    "overall": "Overall, a pretty good slasher movie that infuses comedy to make the film genre-bending and unique; while there are many moments that are stereotypical of other low-budget slasher movies, \"Clown in a Cornfield\" does a pretty good job subverting expectations or calling out and making fun of its stereotypes in a meta way to make the experience entertaining and fun"
+  },
+  "release_year": 2025,
+  "review_date": "03/10/2025",
+  "redux": false,
+  "id": 547,
+  "imdb_id": "tt23060698"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Whistle",
+  "rating": 6.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Corin Hardy"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction is your generic horror teen movie drama, though it does build tension decently well considering the story is somewhat interesting"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dafne Keen"
+          },
+          "rating": "Decent",
+          "comments": "Plays her role decently well, but there does not feel like too much depth or range"
+        },
+        {
+          "actor": {
+            "name": "Sophie Nélisse"
+          },
+          "rating": "Decent",
+          "comments": "Plays her role decently well; has decent chemistry with Keen"
+        },
+        {
+          "actor": {
+            "name": "Sky Yang"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Typical teen movie performance by someone who is clearly not a teen; this dude is 26"
+        },
+        {
+          "actor": {
+            "name": "Jhaleil Swaby"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Typical teen movie performance by someone who is clearly not a teen, this dude is 26"
+        },
+        {
+          "actor": {
+            "name": "Ali Skovbye"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Typical white chick performance in a teen horror movie, I also can't tell whether she was mean or nice"
+        },
+        {
+          "actor": {
+            "name": "Percy Hynes White"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "Plays the typical bad guy in a teen horror movie; isn't necessarily bad, but is just very forced"
+        },
+        {
+          "actor": {
+            "name": "Michelle Fairley"
+          },
+          "rating": "Decent",
+          "comments": "Basically, a cameo"
+        },
+        {
+          "actor": {
+            "name": "Nick Frost"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Dude, why are you in this movie; I kind of gasped and pointed to the screen when I saw him"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "What you expect from a teen horror movie going straight to streaming; this does not count any child actors, but this movie is basically mid-20-year-olds acting like they're in high school"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Owen Egerton"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The concept is somewhat interesting, but on a macro scale is pretty generic; the plot structure is your typical teen movie horror movie structure, but the epilogue was unnecessary; character writing is fine, I just didn't really care about these characters besides the lead because it's just templated characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Owen Egerton"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is your typical teen horror movie dialogue; The humor is your typical teen horror movie dialogue; The symbolism is pretty shallow; The foreshadowing is somewhat present, but is also a bit predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Doomphonic"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Björn Charpentier"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nicholas Emerson"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Felt a little tacky and of its budget"
+    },
+    "pacing": "Pacing is fine but a little bit on the slower side; it could have shaved five minutes to make it tighter",
+    "climax": "Climax is entertaining, but the epilogue was completely unnecessary and kind of ruined the movie",
+    "tone": "Tone is very much like your low-budget teen horror movie",
+    "final_notes": "Saw world premiere at Fantastic Fest",
+    "overall": "Overall, it is very much your typical teen horror movie as it follows almost every trope to a tee, but it is still entertaining"
+  },
+  "release_year": 2025,
+  "review_date": "09/25/2025",
+  "redux": false,
+  "id": 610,
+  "imdb_id": "tt29550683"
+}

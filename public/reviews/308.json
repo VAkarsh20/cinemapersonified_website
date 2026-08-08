@@ -1,0 +1,144 @@
+{
+  "title": "Avatar: The Way of Water",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Does a very good job at helping build the world and moving the story forward (plus helping create the action and suspense); does do a better job this time in getting more from his actors, but nothing seems very innovative since the last movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sam Worthington"
+          },
+          "rating": "Decent",
+          "comments": "While there were similar flaws to the previous performance, he did improve a lot and shows a bit more experience this time around"
+        },
+        {
+          "actor": {
+            "name": "Zoe Saldaña"
+          },
+          "rating": "Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Sigourney Weaver"
+          },
+          "rating": "Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Stephen Lang"
+          },
+          "rating": "Pretty Good",
+          "comments": "Kinda just plays the same character as last time and just goes off of the same villain trope that is pretty standard"
+        },
+        {
+          "actor": {
+            "name": "Kate Winslet"
+          },
+          "rating": "Pretty Good"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "Rick Jaffa"
+        },
+        {
+          "name": "Amanda Silver"
+        },
+        {
+          "name": "Josh Friedman"
+        },
+        {
+          "name": "Shane Salerno"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "It honestly feels like the same story as the last movie and suffers from the same flaws as well; moreover, the movie just tries to fit in so much plot that the final part of the story just becomes boring considering how long the movie is"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Cameron"
+        },
+        {
+          "name": "Rick Jaffa"
+        },
+        {
+          "name": "Amanda Silver"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue does improve a bit and does not feel as forced as last time (but still very similar to other Sci-Fi movies); the allegory for the story is literally the same as last time but it is just something else that is being exploited (once again exploiting natives for their resources and not caring about the humanity trope)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Simon Franglen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Has some iconic elements to it and builds on the previous score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Russell Carpenter"
+        }
+      ],
+      "rating": "Great",
+      "comments": "It is easier to tell now what is done using cinematography and it is very well done (even though most of the movie is CGI)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Stephen Rivkin"
+        },
+        {
+          "name": "David Brenner"
+        },
+        {
+          "name": "John Refoua"
+        },
+        {
+          "name": "James Cameron"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "sound": {
+      "rating": "Very Good"
+    },
+    "visual_effects": {
+      "rating": "Incredible",
+      "comments": "Even though it might become dated like the last movie, currently it was very stunning how pretty the movie was and how the use of CGI made this world not only above land but below it"
+    },
+    "plot_structure": "Plot Structure was the same but dragged out more",
+    "pacing": "Pacing was not the issue as it never felt super slow (but there is just so much plot that it drags for the final third of the movie to where it just gets really boring)",
+    "climax": "Climax was good as it is the most action packed part of the movie",
+    "tone": "Tone tries to be a mix of sci-fi and colonization movies but ends up being very bland overall",
+    "final_notes": "This movie looks very good now but may turn out to be dated like the previous film (so it is hard to tell how it will hold up over time)",
+    "overall": "Overall, an improvement in terms of the technical aspects and the acting, but overall just feels like the same movie as the first as the story coupled with the very long runtime make the movie pretty hard to watch towards the end (though it is still a decent watch in terms of how pretty the world they created was)"
+  },
+  "release_year": 2022,
+  "review_date": "01/10/2023",
+  "redux": false,
+  "id": 308,
+  "imdb_id": "tt1630029"
+}

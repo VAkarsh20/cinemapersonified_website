@@ -1,0 +1,118 @@
+{
+  "title": "Jaws",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Steven Spielberg"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "For an amateur director at the time, he does a really good just in executing what he wants and how he wants to architect his movie and story; while there were some shots that were well executed, some of the horror moments really showed signs of amateur film-making"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Roy Scheider"
+          },
+          "rating": "Good",
+          "comments": "Does a good job playing the lead of the film but really does not go above and beyond in any way"
+        },
+        {
+          "actor": {
+            "name": "Robert Shaw"
+          },
+          "rating": "Good",
+          "comments": "Plays his role well but is a bit discombobulating at times"
+        },
+        {
+          "actor": {
+            "name": "Richard Dreyfuss"
+          },
+          "rating": "Very Good",
+          "comments": "The most animated out of all the characters and shows a full range of emotion that goes above and beyond the other characters"
+        },
+        {
+          "actor": {
+            "name": "Murray Hamilton"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the Town Mayor who is unethical trope and has no major issues in the performance"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Peter Benchley"
+        },
+        {
+          "name": "Carl Gottlieb"
+        }
+      ],
+      "rating": "Good",
+      "comments": "A revolutionary story for movies that came after it but is pretty simplistic in what actually happens"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Peter Benchley"
+        },
+        {
+          "name": "Carl Gottlieb"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Even though there are iconic lines, the overall screenplay was a bit simple and bland, with some questionable dialogue at times"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Williams"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Fueled by an iconic theme that is widely know today"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bill Butler"
+        }
+      ],
+      "rating": "Good to Very Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Verna Fields"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "sound": {
+      "rating": "Very Good"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "Especially for the time"
+    },
+    "plot_structure": "Plot Structure was pretty simplistic and really lacks an resolution",
+    "pacing": "Pacing was fine (no major complaints)",
+    "climax": "Build to climax was present and decently executed as you know it is there; climax was well executed but was a bit long (could have been shortened for like 10 minutes and given it to a resolution)",
+    "tone": "Tone was pretty similar to that of other horror-hunting movies",
+    "final_notes": "",
+    "overall": "Overall, a groundbreaking film for its technical achievements and different elements, but is pretty simplistic in terms of writing and plot-based elements"
+  },
+  "release_year": 1975,
+  "review_date": "06/28/2022",
+  "redux": false,
+  "id": 268,
+  "imdb_id": "tt0073195"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "How to Train Your Dragon",
+  "rating": 7.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Dean DeBlois"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is good, as he uses his experience directing the first one to translate the animated Berk into this live-action version to give the world more depth and make it look more realistic; They effectively translate the flight and action sequences to the live-action world, as they look more realistic with the advanced technology and real-world sets; The direction on a microscale is exactly the same as the first movie, as almost all of the scenes are a shot-for-shot remake of the first movie; The storytelling is exactly the same as the first movie, as it is a shot-for-shot remake, but it does use its 30 minutes of extra runtime to slow down the pace and make the story breathe a little more"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Mason Thames"
+          },
+          "rating": "Pretty Good",
+          "comments": "He holds his own and plays the teenage Hiccup well; it's pretty on par with the original"
+        },
+        {
+          "actor": {
+            "name": "Nico Parker"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Given more material than the original character, and it does a decent job with it; It has decent chemistry with Thames"
+        },
+        {
+          "actor": {
+            "name": "Gerard Butler"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "The only returning actor from the original movie makes the most of his experience as he picks up where he left off to bring Stoick to life in live-action form"
+        },
+        {
+          "actor": {
+            "name": "Nick Frost"
+          },
+          "rating": "Pretty Good",
+          "comments": "Uses his experience playing similar characters well as he has good comedic relief and plays a mentor figure well to Hiccup"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Everyone feels rightly cast and helps support the main cast and move the story forward"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Dean DeBlois"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is literally a shot-for-shot remake of the original, with most of the scenes and dialogue being the exact same; The plot structure is the exact same as the original movie, but at a slower pace to allow the scenes to breathe more; The character writing is the exact same as the original movie, a \"Dances with Wolves\"-esque teen learning to live with the dragons despite his father and tribe wanting to kill them"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Dean DeBlois"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is almost the exact same as the original, making this basically a shot-for-shot remake of the original; The humor is the same as the original; The symbolism is the exact same as the original movie, but still profound in showing the father-son dynamic between two generations with different morals; The foreshadowing is the same as the original, but it is even worse considering this movie is a shot-for-shot remake so you know exactly what's going to happen if you watched the original"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Powell"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Basically, the same as the original, but it is still used well to make the movie feel like an extension of the original and help build this world"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bill Pope"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It helps capture the world and is used well to basically mimic all the shots from the original movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Wyatt Smith"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Editing feels sharp and clean as it seamlessly stitches together the higher-production shots this time around"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Makes the movie feel grand and makes the movie feel more realistic; something you wish for with a higher production budget and real-world sets"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Uses updated technology to help provide more depth to Berk and make the world look more realistic; I was not a huge fan of the dragon designs because it took away from the adorable charm of the original movies"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "It feels more natural and real, as the real sets and advanced technology paint more depth in Berk than the original movie could at the time"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Helps bring to life the Vikings from the original movie"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Helps make the characters emulate the originals and look like Norse Vikings"
+    },
+    "pacing": "Pacing is a lot better this time around because they use the extra 30 minutes of runtime to really slow things down and let scenes breathe;",
+    "climax": "Climax is executed well as it does not feel as rushed as the original movie and used more advanced CGI technology to paint the scene; Despite these improvements, the climax is literally exactly the same as the original",
+    "tone": "Tone is the same as the original, heavily influenced by Norse and dragon mythology and this being a family movie",
+    "final_notes": "What they should have done was release a remastered version of the original with enhanced CGI and additional scenes (but that would make no money); this is a well-made movie, it is just not necessary",
+    "overall": "Overall, a pretty good movie that uses its longer runtime and modern CGI to improve on the rushed pace and dated animation of the original movie, but it is almost a shot-for-shot remake without adding anything new; what they should have done was release a remastered version of the original How to Train Your Dragon with updated graphics and additional scenes, but that would also make no money"
+  },
+  "release_year": 2025,
+  "review_date": "05/31/2025",
+  "redux": false,
+  "id": 566,
+  "imdb_id": "tt26743210"
+}

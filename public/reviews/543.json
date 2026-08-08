@@ -1,0 +1,118 @@
+{
+  "title": "The Ballad of Wallis Island",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Griffiths"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is pretty good, as it creates this feel-good tone filled with many musical moments; the direction on a microscale is good, as it creates scenes that are both silly and profound, and in the microscale moments you can really tell the director just lets the actors act; the storytelling is pretty good; they build tension pretty well"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Basden"
+          },
+          "rating": "Good",
+          "comments": "Plays the straight man well; does a good job in the musical moments; has good chemistry with Mulligan and very good chemistry with Key"
+        },
+        {
+          "actor": {
+            "name": "Tim Key"
+          },
+          "rating": "Good",
+          "comments": "Plays the silly comic relief character well; has very good chemistry with Basden"
+        },
+        {
+          "actor": {
+            "name": "Carey Mulligan"
+          },
+          "rating": "Good",
+          "comments": "She uses her experience to carry the role and shows why she is one of the best in the business"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "There isn't that much of a supporting cast, but the three leads have good chemistry with one another"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Tom Basden"
+        },
+        {
+          "name": "Tim Key"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is good, as it really is about the friendship building between the two leads, and Basden's character reliving his past partnership with Mulligan's character; the plot structure is simple; character writing is very good, as you really understand what these characters are searching for in this movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Tom Basden"
+        },
+        {
+          "name": "Tim Key"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is pretty silly and goofy, yet it has its profound moments; the humor is very silly and goofy; the symbolism is pretty good; the foreshadowing is good, as the movie has a full-circle ending"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Adem Ilhan"
+        }
+      ],
+      "rating": "Good",
+      "comments": "It infuses folk music into the score to set the tone"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Folk songs that help create the character's musical background"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "G. Magni Ágústsson"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels a little low-budget, but fine"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Quin Williams"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Nothing really special"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Nothing really special"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "It feels like they shot on location to show the seclusion of the island"
+    },
+    "pacing": "Pacing is a bit on the slower side, but this lets the movie develop and the characters grow; 10-15 minutes could have been cut",
+    "climax": "Climax is pretty profound as it builds to a feel-good moment you want to see as the movie develops; the movie ended how I would have wanted it to end",
+    "tone": "The tone is mostly silly comedy, but infused with folk musical and dramatic moments",
+    "final_notes": "Saw the Texas premiere at SXSW",
+    "overall": "Overall, a well-made feel-good movie that infuses silly comedy and folk musical moments to keep the tone lighthearted yet profound; The film is carried by the performances of Tom Basden, Tim Key, and Carey Mulligan, as their chemistry really makes you want to see how these characters grow in the movie"
+  },
+  "release_year": 2025,
+  "review_date": "03/08/2025",
+  "redux": false,
+  "id": 543,
+  "imdb_id": "tt27674982"
+}

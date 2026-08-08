@@ -1,0 +1,77 @@
+{
+  "title": "Monsters, Inc.",
+  "rating": 9.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Pete Docter"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Billy Crystal"
+          },
+          "rating": "Brilliant",
+          "comments": "May have the best voice acting performance of all time as Mike"
+        }
+      ],
+      "cast": {
+        "rating": "Incredible"
+      },
+      "rating": "Incredible Voice"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Pete Docter"
+        },
+        {
+          "name": "Jill Culton"
+        },
+        {
+          "name": "Jeff Pidgeon"
+        },
+        {
+          "name": "Ralph Eggleston"
+        }
+      ],
+      "rating": "Brilliant",
+      "comments": "Especially character writing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Andrew Stanton"
+        },
+        {
+          "name": "Daniel Gerson"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Filled with emotions and wit/humor"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Randy Newman"
+        }
+      ],
+      "rating": "Great"
+    },
+    "plot_structure": "Plot Structure is great as all the scenes add to the plot as there is nothing wasted",
+    "pacing": "Pacing is Great (Given its short runtime)",
+    "climax": "Build to the climax is very evident and the climatic sequence is executed very well",
+    "final_notes": "Only drawback for the movie is that it is too short",
+    "overall": "Overall, the best Pixar movie (a little biased) that shows the loving dynamic of a father-daughter relationship through an animation filled adventure; lives up to how much I loved it as a kid and more, especially Mike Wazowski"
+  },
+  "release_year": 2001,
+  "review_date": "01/09/2021",
+  "redux": false,
+  "id": 177,
+  "imdb_id": "tt0198781"
+}

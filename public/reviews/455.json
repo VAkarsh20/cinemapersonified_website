@@ -1,0 +1,118 @@
+{
+  "title": "Lights Out",
+  "rating": 5.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David F. Sandberg"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is pretty good as they use paranormal horror techniques to build suspense; the direction on a microscale is decent for a low budget horror movie, but it still has its issues; the storytelling is not that great as the entire conflict feels rushed because there just is not enough runtime to tell a more holistic story; they build tension well as this movie cares more about jump scares and horror rather than storytelling"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Teresa Palmer"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the horror lead well enough"
+        },
+        {
+          "actor": {
+            "name": "Gabriel Bateman"
+          },
+          "rating": "Decent",
+          "comments": "Plays the horror child character role well enough"
+        },
+        {
+          "actor": {
+            "name": "Alexander DiPersia"
+          },
+          "rating": "Decent",
+          "comments": "Plays the stereotypical boyfriend/partner role"
+        },
+        {
+          "actor": {
+            "name": "Maria Bello"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Mostly pulls from her experience, but plays the 'mentally ill' horror character stereotype well"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "There isn't really that much of a cast outside of the main actors"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Eric Heisserer"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is pretty interesting as the 'Lights Out' concept combines paranormal tropes with 'asylum' tropes; the plot structure is not that great because the runtime is too short, so there isn't enough runway to lay out a holistic story; the character writing uses stereotypical paranormal, insane tropes"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Eric Heisserer"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is typical of horror movies in this genre; the foreshadowing is somewhat prevalent (but it also makes the movie a bit predictable)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Benjamin Wallfisch"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Does not fit the tone well"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Marc Spicer"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps support the horror elements and induce jump scares"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Kirk Morri"
+        },
+        {
+          "name": "Michel Aller"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps support the horror elements"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps amplify the jump scares"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Used well to show the conflict and create horror"
+    },
+    "pacing": "Pacing is too fast as the runtime is just too short (there really is only 2-3 plot points); they could have added 15 minutes to help support the movie",
+    "climax": "Climax has good horror elements (but the conflict resolution is incredibly forced)",
+    "tone": "Tone is paranormal/insane horror",
+    "final_notes": "",
+    "overall": "Overall, a paranormal horror movie that does a pretty good job at eliciting fear through an interesting concept and jump scares; but there just isn't enough runtime to make this a holistic story"
+  },
+  "release_year": 2016,
+  "review_date": "05/29/2024",
+  "redux": false,
+  "id": 455,
+  "imdb_id": "tt4786282"
+}

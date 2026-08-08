@@ -1,0 +1,108 @@
+{
+  "title": "American Hunter",
+  "rating": 4.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Arizal"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is incredibly 80s camp from a world-building standpoint, but it is very well executed and over-the-top from an action standpoint, even though it can be campy at times; The direction on a microscale is just lazy and so campy that it is obvious the director had no interest in directing these scenes, which kinda adds to the fun bad movie nature of this movie; The storytelling is just so lazy and bad that it makes the movie entertaining because there is no way this movie can be taken seriously when there is no story to tell; They surprisingly build tension decently well because the 80s score and the high-stakes action scenes make it an exhilarating experience"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Christopher Mitchum"
+          },
+          "rating": "Bad",
+          "comments": "Such a campy and bad performance that feels so disconnected from the story and cast, but it is just so fun to watch because of how bad it is"
+        },
+        {
+          "actor": {
+            "name": "Bill Wallace"
+          },
+          "rating": "Bad",
+          "comments": "Your typical bad 80s villain performance in a bad low-budget action movie, but it is just campy enough that it's funny"
+        },
+        {
+          "actor": {
+            "name": "Ida Iasha"
+          },
+          "rating": "Bad",
+          "comments": "Your typical bad 80s damsel in distress performance is just so campy and bad that it's funny"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Everyone is just so bad that it's funny, what you would expect from a low-budget 80s action movie that is campy in nature"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Deddy Armand"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "What story; There is only a story because they needed something to move the action scenes along, because it is very obvious Arizal just wanted to make an action movie for 90 minutes, but didn't have the money to do that"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Deddy Armand"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue is just so campy and bad that it is entertaining; the humor is 80s camp, considering how dumb this movie can get; the foreshadowing is nonexistent because things just kind of happen in the movie, especially considering how it ends"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Billy J. Budiarjo"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "80s action movie score that really fits the tone of the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "H. Asmawi"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "There are some moments where the cinematography is actually pretty good, like in the action sequences, but there are some moments that it is just so bad that it is funny because there are many scenes where the actors are just completely out of frame"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Benny M.S."
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The editing is just so lazy and bad that this movie feels like it was put together in a weekend, and that helps add to the camp and fun"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Helps make this movie feel like an over-the-top 80s action movie"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The practical effects for this movie are actually good for a low-budget 80s action movie because it feels like that is where all the money went, as the movie is filled with over-the-top practical effects that make this movie feel like a spectacle; though there are some moments where you see the limitations in the budget, like the electrocution scene; it is very obvious this movie was shot in a different country because there is no regard for life with the stunt coordination"
+    },
+    "pacing": "Pacing is fast in the action sequences and incredibly slow in the dramatic sequences, which makes me believe Azizal just wanted to make an action movie and did not care about actually telling a story",
+    "climax": "Climax is so all over the place that it's actually pretty funny to watch because there is no way people act like this in real life",
+    "tone": "Tone is incredibly 80s low-budget action movie camp that it's so bad that it's good and entertaining to watch; like if Tommy Wiseau made a low-budget 80s action movie",
+    "final_notes": "Watched for Weird Wednesday at Alamo Drafthouse for Hyperreal Film Journal; saw 35mm print",
+    "overall": "Overall, it's very obvious Arizal just wanted to make a 90 minute action movie because all the money and budget went into creating these over-the-top action sequences that truly feel illegal to watch, leaving no money or effort whatsoever for the acting and writing; Is this movie a bad movie? Yes; Is this movie entertaining to watch? Absolutely, because the good action moments mixed with the terrible dramatic scenes synergize to make such a campy fun bad movie"
+  },
+  "release_year": 1989,
+  "review_date": "09/17/2025",
+  "redux": false,
+  "id": 599,
+  "imdb_id": "tt0281587"
+}

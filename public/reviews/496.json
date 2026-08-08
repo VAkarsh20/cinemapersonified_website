@@ -1,0 +1,106 @@
+{
+  "title": "Dirty Harry",
+  "rating": 8.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Don Siegel"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale feels very similar to other noirs from this time period, mixed with elements from urban westerns; the microscale is the direction of actors is pretty good and similar to other films in noirs and gritty crime movies; direction really highlights the magnitude of Clint Eastwood as an action star; storytelling is clear and interesting as it keeps on heightening the stakes of the conflict; they build tension well as it is a key element in heightening the stakes of this noir"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Clint Eastwood"
+          },
+          "rating": "Good to Very Good",
+          "comments": "An iconic performance filled with grit and action, showcasing his magnitude as an action star during this time period and his commanding presence on screen"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "All do their jobs well and buttress Eastwood as the star of the movie"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Harry Julian Fink"
+        },
+        {
+          "name": "R.M. Fink"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is iconic as it places the protagonist in an \"urban western\" as he tries to fight for justice based on his own morals; the plot structure is pretty similar to other noirs and westerns, creating the idea of the \"urban western\"; the character writing is great as they created the iconic Dirty Harry who is the last of his kind as he controversially fights for what he believes is right, blending the ideals of the gunslinger with the rogue detective"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Harry Julian Fink"
+        },
+        {
+          "name": "R.M. Fink"
+        },
+        {
+          "name": "Dean Riesner"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is good, as it is gritty and iconic, creating some of the most memorable lines in action cinema; the humor is good, as it helps lighten the tone; the symbolism is surprisingly profound, as the movie deals a lot with doing what is right, even if it is against the law; the foreshadowing is good, as it shows how much Harry will fight to do what is right"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Lalo Schifrin"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps build that gritty noir feel for the movie; helps build tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bruce Surtees"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Carl Pingitore"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very similar to other movies from this time period"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Similar to other movies from the time period, it helps paint the action scenes and build tension"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Good use of practical effects, especially for the time period"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Helps show the significance of San Francisco to Dirty Harry and how he navigates through the environment"
+    },
+    "pacing": "Pacing is good as it is not too fast for a noir and not too slow for an action movie",
+    "climax": "The climax is executed well, as it shows what Dirty Harry will do for justice",
+    "tone": "Tone popularized the urban western as it mixes the noir genre with the western",
+    "final_notes": "I saw a retrospective at the Austin Film Festival",
+    "overall": "Overall, an iconic movie that popularized the urban Western as Clint Eastwood brings to life Dirty Harry, the last of his kind willing to protect his community, even if that means breaking the law"
+  },
+  "release_year": 1971,
+  "review_date": "10/25/2024",
+  "redux": false,
+  "id": 496,
+  "imdb_id": "tt0066999"
+}

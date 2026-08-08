@@ -1,0 +1,99 @@
+{
+  "title": "John Wick",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Chad Stahelski"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The choreography of action sequences was very well done (Some of the best I have seen), but the moving of the story forward and the direction of actors was bad considering how dull the movie really was"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Keanu Reeves"
+          },
+          "rating": "Pretty Good",
+          "comments": "Able to handle the action sequences in a great way and is a strong prominent figure throughout the movie (With some good moments in dramatic acting), but has some really questionable scenes that may be in fault from the direction he was given"
+        }
+      ],
+      "cast": {
+        "rating": "Bad to Pretty Bad",
+        "comments": "Acting on a Spectrum, anywhere from very bad and emotionless (like Alfie Allen) to decent acting (like Willem Dafoe)"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Though it is filled with cliches of an ex-conman coming back into the fold, the storytelling and character writing of John Wick is very good to paint him as the ultimate figure to not be messed with"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Derek Kolstad"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue was very bland but there were some good moments"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Tyler Bates"
+        },
+        {
+          "name": "Joel J. Richard"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Just present (but did help in the action scenes)"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jonathan Sela"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Elísabet Ronalds"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good to Very Good"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Especially, when showing the firefights"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Even though it is just a suit, they really helped create an iconic character in John Wick"
+    },
+    "plot_structure": "Plot Structure was decent for the most part (but does follow a typical action-movie one)",
+    "pacing": "Pacing was incredible fast to where the runtime was very short (But this helps in giving pace to the character of John Wick)",
+    "climax": "Build to climax was prevalent and noticeable in its prep for the action; climax was well executed and a fun part of the movie",
+    "tone": "Tone of the movie was very dark and grungy (adds to that John Wick feel); but there is a lot of dryness from the deadpan that it kinda takes away from this",
+    "final_notes": "The action scenes of the movie were some of the best choreographed action scenes I have ever seen as it is just so physical and technical that it keeps the audience engaged and wanting more",
+    "overall": "Overall, a movie that is not so great in its own right with its lackluster direction, acting, and screenplay, but is an enjoyable watch because of its intense action scenes and character writing of John Wick (painting a character that will be fun to see what happens next to him)"
+  },
+  "release_year": 2014,
+  "review_date": "08/21/2022",
+  "redux": false,
+  "id": 290,
+  "imdb_id": "tt2911666"
+}

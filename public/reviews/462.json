@@ -1,0 +1,105 @@
+{
+  "title": "Rain Man",
+  "rating": 7.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Barry Levinson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is very 1980s; the direction on a microscale is pretty 1980s, but does have good interpersonal moments between the two leads; the storytelling is pretty 1980s, but clear; they build tension pretty well"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dustin Hoffman"
+          },
+          "rating": "Good",
+          "comments": "A performance that hasn't aged the best, but is still good and is a scene-stealer;  it has good chemistry with Tom Cruise"
+        },
+        {
+          "actor": {
+            "name": "Tom Cruise"
+          },
+          "rating": "Pretty Good",
+          "comments": "Pretty over-the-top, but has good charisma and chemistry with Dustin Hoffman"
+        },
+        {
+          "actor": {
+            "name": "Valeria Golino"
+          },
+          "rating": "Decent",
+          "comments": "Kinda a forced female interest, but does not do anything wrong"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Very minor characters, as the movie is really about the two leads"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Barry Morrow"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is a pretty simple road comedy, but it is more about the relationship between two long-lost brothers; the plot structure is pretty simple as it is about the journey to get from point A to point B, but the climax and exposition feel very dragged out; the character writing is pretty good as you see how gifted Raymond is with his ability and how much Charlie grows to love him as they get to know each other"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Barry Morrow"
+        },
+        {
+          "name": "Ronald Bass"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty standard for an 80s movie, but has some iconic lines and moments; the humor is pretty standard; the symbolism is pretty simple as it is about two brothers bonding, but the movie does bring awareness to Autism (which was pretty groundbreaking for the time, even though it can be stereotypical at times); the foreshadowing is pretty standard for an 80s movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Pretty '80s, but it helps complement the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Seale"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Stu Linder"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Pretty '80s"
+    },
+    "pacing": "Pacing is pretty 1980s",
+    "climax": "The climax is pretty dragged out and borderline unnecessary; it could have been cut 20 minutes and it would have been the same movie",
+    "tone": "Tone is an 80s road comedy",
+    "final_notes": "The movie was groundbreaking for showing autism to a larger audience and bringing awareness to the condition, even though it can play into stereotypes at points",
+    "overall": "Overall, a typical 80s road comedy that has iconic moments and is groundbreaking for bringing awareness to Autism, even though it can be stereotypical at times"
+  },
+  "release_year": 1988,
+  "review_date": "06/19/2024",
+  "redux": false,
+  "id": 462,
+  "imdb_id": "tt0095953"
+}

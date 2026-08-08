@@ -1,0 +1,92 @@
+{
+  "title": "Pride & Prejudice",
+  "rating": 5.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joe Wright"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is uses golden hour very well to highlight this regent time period; the direction on a microscale is very much what you would expect from the time-period; storytelling is pretty bland; tension is not built well because the relationship between Liz and Mr. Darcy is written well enough to emotionally invest yourself in"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Keira Knightley"
+          },
+          "rating": "Pretty Good",
+          "comments": "Holds her own well as the lead and shows some range of emotion, but feels very similar to her other performances; has decent chemistry with Matthew Macfadyen, but not as much as you would want from a movie who's central plotline is their relationship"
+        },
+        {
+          "actor": {
+            "name": "Matthew Macfadyen"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Has decent screen presence as the love interest, but is not given that much to work with given the material; Has decent chemistry with Keira Knightley, but not as much as you would want from a movie who's central plotline is their relationship"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Everyone plays their role well in helping establish the setting and time-period, but none of them really stand out"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Deborah Moggach"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is a retelling of Jane Austin's famous work, in what feels like a very abridged way; the plot structure is a huge issue for this movie because the movie just feels abridged and cut too short, making the climax feel very anticlimactic cause it feels like there are only a couple of scenes that build up the main relationship, when that should've been the focal point for the movie; character writing is the biggest issue for this movie because they do a terrible job building up the relationship between Liz and Mr. Darcy, when it is supposed to be the central part of this movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Deborah Moggach"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is what you would expect from a movie set during the regency era; the symbolism is pretty shallow and what you would expect from a love story in the regency era; the foreshadowing makes the movie very predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Dario Marianelli"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Complements the tone of the movie as it does make the movie feel beautiful, definitely one of the highlights of the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Roman Osin"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Uses golden hour very well to highlight this regent time period; some very beautiful shots of the English countryside"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Helps establish the regency era setting well through the use of locations and set pieces"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "Does establish the regency era, but the dresses and costumes just look tacky and not as lavish as I would have expected from the time period"
+    },
+    "pacing": "Pacing moves through the story incredibly fast as it makes the movie feel abridged; but the actual scenes feel very slow because it doesn't feel like there is much story progression happening in each scene",
+    "climax": "Climax makes the movie feel a bit anticlimactic because you don't feel emotionally satisfied with how everything plays out because everything just feels forced and rushed",
+    "tone": "Tone is very much a love story set during the regency era",
+    "final_notes": "",
+    "overall": "Overall, while the movie does have beautiful cinematography and a great score, 'Pride & Prejudice' just feels very dry and uneventful because the plot structure feels very abridged and the character writing does a terrible job building up the relationship between Liz and Mr. Darcy, when it is supposed to be the central part of this movie, as it feels like they only converse in maybe four scenes."
+  },
+  "release_year": 2005,
+  "review_date": "11/15/2025",
+  "redux": false,
+  "id": 626,
+  "imdb_id": "tt0414387"
+}

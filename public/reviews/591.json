@@ -1,0 +1,107 @@
+{
+  "title": "Freaky Friday",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mark Waters"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale feels like a DCOM, just with a bigger budget, that is a teen movie from the early 00s; the direction on a microscale is pretty good as the scenes between Curtis and Lohan make this movie really entertaining as their dynamic is what make's this movie worth watching, the remaining macroscale moments are just typical 2000s teen movie, DCOM moments; the storytelling is very much a 2000s teen movie mixed with DCOM elements; tension is pretty forced"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jamie Lee Curtis"
+          },
+          "rating": "Good",
+          "comments": "Her chemistry with Lohan really makes this movie as both are two halves to an entertaining duo that make this movie fun and interesting"
+        },
+        {
+          "actor": {
+            "name": "Lindsay Lohan"
+          },
+          "rating": "Good",
+          "comments": "Her chemistry with Lee Curtis really makes this movie as both are two halves to an entertaining duo that make this movie fun and interesting"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Generic background DCOM style actors, what you would expect from a movie like this"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Heather Hach"
+        },
+        {
+          "name": "Leslie Dixon"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is a retelling of its source material and original movie, but has become more iconic than the originals as the two lead performances are really one as they effortlessly switch between two difference characters; the plot structure is simple and formulaic as its what you would expect from a 2000s Disney Movie; character writing is suprisingly good as they provide depth to the two lead characters to make you care about them, and do a pretty good job showing the personalities of the two lead characters as they switch bodies"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Heather Hach"
+        },
+        {
+          "name": "Leslie Dixon"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue very much feels like a DCOM with a bigger budget, but is still entertaining; the dialogue is very much of the time as it makes this movie feel like a 2000s teen movie; the humor is pretty stuck in it's time period, but is still somewhat funny and makes this movie entertaining; the symbolism is pretty forced and formaulic, but still profound as it targets families of all ages; the foreshadowing makes this movie incredibly obvious, considering this is a Disney family movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Rolfe Kent"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Makes this movie feel VERY 2000s Teen movie"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Makes this movie feel VERY 2000s Teen movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Oliver Wood"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Makes this movie feel VERY 2000s Teen movie, especially with a lot of the fast then stop cuts they use"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Bruce Green"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Makes this movie feel VERY 2000s Teen movie, especially with a lot of the hip-hop edits and transitions they use"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "The wardrobe is very much of the time-period as it shoves in your face that this very much is a early 2000s teen movie"
+    },
+    "pacing": "Pacing is on the faster side as this movie is only 90 minutes, which made it perfect to watch on a plane",
+    "climax": "Climax is very much what you would expect from a movie that feels like a DCOM, but it is still heartwarming and works well enough for the film",
+    "tone": "Tone is very much a early 2000s teen movie that is basically a DCOM with a bigger budget",
+    "final_notes": "Watched this on an airplane",
+    "overall": "Overall, a pretty good movie that only works because of Lindsay Lohan and Jamie Lee Curtis' strong chemistry because it's basically a DCOM with a bigger budget"
+  },
+  "release_year": 2003,
+  "review_date": "08/12/2025",
+  "redux": false,
+  "id": 591,
+  "imdb_id": "tt0322330"
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Drop",
+  "rating": 6.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Christopher Landon"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is pretty good, as it builds the world and sets the stakes well; the direction on a microscale is pretty good, as there is pretty good chemistry with the main cast, but there definitely are some corny moments; the storytelling is decent, as it uses tension and raises the stakes to move the story forward, even though it does get a bit repetitive at times; they build tension well, as it constantly builds to raise the stakes of the situation and keep you on the edge of your seats for this thriller"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Meghann Fahy"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has pretty good screen presence and a lot of confidence playing the \"trapped girl\" stereotype; commands the scenes she is in; has good chemistry with Sklenar and the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Brandon Sklenar"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "He has a lot of charisma in his on-screen presence and has good chemistry with Fahy, but more in a rom-com type way instead of what is needed in a thriller"
+        },
+        {
+          "actor": {
+            "name": "Reed Diamond"
+          },
+          "rating": "Decent",
+          "comments": "Your typical mysterious character who is important at the end of the movie"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "The remaining cast is really just filled with minor characters as the movie is really about the main two leads, but they do a decent job supporting the main cast"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jillian Jacobs"
+        },
+        {
+          "name": "Chris Roach"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is a new take on the \"trapped girl\" archetype, but with a modern twist; even though the concept does seem simple, they do make it engaging and thrilling; the plot structure is pretty good for the most part, even though I do feel like there are many moments in the movie where they are just stalling to add time because the movie gets very repetitive; the character writing is decent as it gives typical archetypes you would see from a movie like this"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jillian Jacobs"
+        },
+        {
+          "name": "Chris Roach"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is surprisingly pretty sharp for a concept this simple; the humor is forced but pretty good as it helps alleviate the tension; the foreshadowing is good as the movie feels closed-ended and does a pretty good job leaving clues for who is sending the texts"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bear McCreary"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps build tension"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Marc Spicer"
+        }
+      ],
+      "rating": "Pretty Bad to Good",
+      "comments": "Feels a little exaggerated at times as they were trying to do too much to capture our attention"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ben Baudhuin"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "More of a personal preference, but I really did not like how they overlaid the texts on screen because it made the movie look very tacky"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Felt very exaggerated and loud, to make the stunts feel very real and hard-hitting"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "Felt a little too over-the-top and unnecessary"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "It uses one singular location and does a decent job of making the characters feel trapped there"
+    },
+    "pacing": "Pacing feels artificially fast because the movie is a thriller and keeps you engaged; but it simultaneously feels slow at the same time because the movie really drags out the plot",
+    "climax": "Climax is decently executed, even though it feels a little over-the-top; the ending feels close-booked and how it should have ended; the chase sequence is factually incorrect because there is no way she drove from the Loop in Chicago to the suburbs in about two minutes",
+    "tone": "Tone is very much a thriller, but has many rom-com elements to ease the tension",
+    "final_notes": "Saw the world premiere at SXSW",
+    "overall": "Overall, an entertaining rom-com, thriller that is carried by Meghann Fahy's performance and tension that constantly builds throughout, but the movie feels like the plot is a little too stretched at times and the editing style makes this movie feel like it was made for Gen Z"
+  },
+  "release_year": 2025,
+  "review_date": "03/09/2025",
+  "redux": false,
+  "id": 545,
+  "imdb_id": "tt32149847"
+}

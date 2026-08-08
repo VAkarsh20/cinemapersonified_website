@@ -1,0 +1,135 @@
+{
+  "title": "The Naked Gun",
+  "rating": 8.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Akiva Schaffer"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The direction on a macro scale is good because they do a good job at capturing the charm of the original film and modernizing it; The direction on a micro scale is good because it is the same silly, pun-filled humor that the original is known for; The storytelling is funny because it is a parody of the neo-noir detective film, told in a silly and punny way; The combination of Lonely Island, Seth MacFarlane, and Liam Neeson is perfect for this movie because all the pieces complement each other to revive such a classic comedy franchise"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Liam Neeson"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Perfectly cast for this movie because he basically plays the tough, action star he's become that perfectly juxtaposes the silliness around him; he's done this before and I think that's how he really shines in comedy"
+        },
+        {
+          "actor": {
+            "name": "Pamela Anderson"
+          },
+          "rating": "Good",
+          "comments": "Continues the resurgence she has been having as she plays this silly Noir girl well and complements her scene partners; Feels like a full circle moment because she originally was up for the part for LA Confidential; Has great chemistry with Neeson, which might have factored into them actually getting together"
+        },
+        {
+          "actor": {
+            "name": "Paul Walter Hauser"
+          },
+          "rating": "Good",
+          "comments": "Really, he has started to become the king of comedic relief side characters as he is genuinely funny and complements Neeson well; you can tell he had a lot of fun making this movie"
+        },
+        {
+          "actor": {
+            "name": "Danny Huston"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the villain role well; basically emulates a conglomeration of all the tech billionaires today"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good",
+        "comments": "Everyone is just so silly and plays their part that it makes this movie work"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Dan Gregor"
+        },
+        {
+          "name": "Doug Mand"
+        },
+        {
+          "name": "Akiva Schaffer"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is a legacy sequel/reboot of the original Naked Gun, with a modern twist; The plot structure is pretty linear as this movie is only 85 minutes long and fits in a lot of plot; Character writing has many parallels to the original movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Dan Gregor"
+        },
+        {
+          "name": "Doug Mand"
+        },
+        {
+          "name": "Akiva Schaffer"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is filled with puns and silly humor that really pays homage to the original movie's comedy style; the humor is very good as I was cracking up and crying out loud many times, as this movie has a high hit rate; the symbolism is a parody of neo-noir detective movies"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Lorne Balfe"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Really complements this noir style that they are trying to parody"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Typical big budget action comedy movie soundtrack"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Brandon Trost"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty standard, it does complement the comedy at times"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brian Scott Olds"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty standard, it does complement the comedy"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Standard comes out in the action sequences; It does complement the comedy at times"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Helps make the action sequences feel a bit big budget"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Helps make the movie funny and adds to the humor"
+    },
+    "pacing": "Pacing is incredibly fast in terms of story as the movie is only 85 minutes long, but the comedy and the humor help slow it down so that it is the perfect length; Can we please have more movies less than 90 minutes long",
+    "climax": "Climax is a typical action sequence you would see in an action comedy",
+    "tone": "Tone is a silly, pun-driven parody of Neo-Noir movies that the original series is known for, as this movie continues the ZAZ legacy; the combination of The Lonely Island, Seth MacFarlane, and Liam Neeson makes this movie perfect, as each piece completes the movie and helps set the tone",
+    "final_notes": "",
+    "overall": "Overall, an extremely funny movie that is carried by the combination of The Lonely Island, Seth MacFarlane, and Liam Neeson as all three pieces perfectly complement each other to revive such a classic comedy franchise"
+  },
+  "release_year": 2025,
+  "review_date": "08/01/2025",
+  "redux": false,
+  "id": 587,
+  "imdb_id": "tt3402138"
+}

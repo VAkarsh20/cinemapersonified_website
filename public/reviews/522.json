@@ -1,0 +1,148 @@
+{
+  "title": "A Complete Unknown",
+  "rating": 6.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "James Mangold"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is pretty surface-level, as it just feels like they are moving the plot forward, using two distinct periods of Dylan's life; The direction on a microscale is pretty good, as you do get to see Dylan's character and how he interacts with people, the problem is that he is just very boring; The storytelling is very surface-level, I feel like I do not learn that much about Bob Dylan on a deeper level; It feels like he only took this project on because music biopics are hot and he did Walk the Line"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Timothée Chalamet"
+          },
+          "rating": "Good",
+          "comments": "Brings to life Bob Dylan and does a good job playing his songs; but it feels like a very one-dimensional performance because of how boring Bob Dylan is; it is noticeable at parts that he is not a musician; he does not do a great job building chemistry with the rest of the cast; but this might just be how Bob Dylan was"
+        },
+        {
+          "actor": {
+            "name": "Edward Norton"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the folk mentor to Chalamet in a pretty good way and captures the essence of the character; it is just his chemistry with Chalamet isn't great to make this a memorable performance"
+        },
+        {
+          "actor": {
+            "name": "Elle Fanning"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the non-famous love interest well and has decent chemistry with Chalamet"
+        },
+        {
+          "actor": {
+            "name": "Monica Barbaro"
+          },
+          "rating": "Good",
+          "comments": "Plays Joan Baez well and has decent chemistry with Chalamet"
+        },
+        {
+          "actor": {
+            "name": "Boyd Holbrook"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a decent Johnny Cash; James Mangold literally could have done the best marketing ever and gotten Joaquin Phoenix to reprise his role in \"Walk the Line\" to make this like within the same universe; His relationship with Bob Dylan is very surface-level because it just feels like he was added to show that this was the same director of \"Walk the Line\""
+        },
+        {
+          "actor": {
+            "name": "Dan Fogler"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the agent role well"
+        },
+        {
+          "actor": {
+            "name": "Scoot McNairy"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays a sick Woody Guthrie well as he uses his actions and facial mannerisms to show how he is feeling;"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Feels like everyone plays their role well;"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Mangold"
+        },
+        {
+          "name": "Jay Cocks"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is not the best as it feels like a surface-level biopic on Bob Dylan because all you learn is that he is a boring person; The plot structure is a little all over the place because the movie is split into two parts, with the first part dragging a lot and the second part moving too fast; The character writing was not good because this is just such a surface-level biopic where we learn nothing about Bob Dylan"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "James Mangold"
+        },
+        {
+          "name": "Jay Cocks"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty good and true to the time; The symbolism is pretty good, as the movie shares the sentiments that Bob Dylan felt when he felt like he was a monkey dancing for fans and his label, and why he wanted to branch into a new genre so that he could own his own piece of work; The foreshadowing is not handled well"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "It uses a lot of Bob Dylan and folk music from that time period"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Phedon Papamichael"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty standard; it captures the performance shots well"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Andrew Buckland"
+        },
+        {
+          "name": "Scott Morris"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty standard;"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Pretty standard;"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Manhattan from that time period;"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "It helps show Bob Dylan's look in his two time periods"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "It helps show Bob Dylan's look in his two time periods"
+    },
+    "pacing": "Pacing is all over the place because the first half felt too slow and the second half felt too fast; The movie really needed about 15–20 more minutes because it feels like a lot of the movie was cut out; The passage of time is not handled well",
+    "climax": "The climax feels more head-scratching than interesting because it feels like it overly dramatizes what happens; like they act as if Bob Dylan committed a hate crime",
+    "tone": "Tone is a huge problem for this movie because the tone is very PG-13, but it is only rated R because the movie becomes edgy and starts saying the F-word when Bob becomes rebellious",
+    "final_notes": "This movie is unnecessarily rated R because it could have easily been PG-13; The problem with this movie is that Bob Dylan is a boring person so we don't learn anything interesting about him",
+    "overall": "Overall, a decent biopic that has good music and good performances from Timothée Chalamet and the rest of the cast, but the movie just feels very surface-level in its storytelling because all I learned from this movie was that Bob Dylan was a very boring person"
+  },
+  "release_year": 2024,
+  "review_date": "12/25/2024",
+  "redux": false,
+  "id": 522,
+  "imdb_id": "tt11563598"
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Theater Camp",
+  "rating": 9.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Molly Gordon"
+        },
+        {
+          "name": "Nick Lieberman"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Really told the story well through this mockumentary lens as we get to see a guerrilla style approach to how the theater camp is a mess; uses transitions very well instead of narration to help provide non-sequitur moments to move the plot forward (especially in a comedic way); really gets a lot out of the actors (especially the child actors) as they are allowed to play through improv to build comedy"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Molly Gordon"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Really plays off of Platt's character well as she plays the out of touch with reality character very well"
+        },
+        {
+          "actor": {
+            "name": "Ben Platt"
+          },
+          "rating": "Very Good",
+          "comments": "The real force that other characters play off of as he uses his theater experience well to show someone who is trapped in a world they do not want to leave"
+        },
+        {
+          "actor": {
+            "name": "Noah Galvin"
+          },
+          "rating": "Good",
+          "comments": "Plays the steady role very well throughout the movie but really comes out towards the end"
+        },
+        {
+          "actor": {
+            "name": "Jimmy Tatro"
+          },
+          "rating": "Very Good",
+          "comments": "Has basically perfected this role from all the similar roles he has been in as he effortlessly plays this douchey, finance bro"
+        }
+      ],
+      "cast": {
+        "rating": "Good to Very Good",
+        "comments": "Especially the child actors as they do a great job in using improv to help build scenes and create humor"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Molly Gordon"
+        },
+        {
+          "name": "Nick Lieberman"
+        },
+        {
+          "name": "Ben Platt"
+        },
+        {
+          "name": "Noah Galvin"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The mockumentary structure really helps in keeping the story interesting as it allows this satire to make fun of what actually goes on at a theater camp; also the plot is laid out very well as it uses the transition slides to move the story forward while also adding humor"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Molly Gordon"
+        },
+        {
+          "name": "Nick Lieberman"
+        },
+        {
+          "name": "Ben Platt"
+        },
+        {
+          "name": "Noah Galvin"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Considering the movie was mostly improv it is very impressive what they got off as it incredibly funny and captivating what is going on in the scenes; the symbols and messages throughout the movie are pretty prevalent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "James McAlister"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Nate Hurtsellers"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The handheld style really gives the movie a documentary feel as if we are right next to the subjects of the movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jon Philpot"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "plot_structure": "Plot Structure was laid out very well as it was very evident which part of the plot we were as the movie follows a countdown to the performance at the end",
+    "pacing": "Pacing was a good pace (no need to add or cut runtime)",
+    "climax": "Climax was the best part of the movie as it was them putting on the play after everything in the movie was culminating to this moment; this part also had some of the funniest bits of the entire film",
+    "tone": "Tone was very satirical in nature as it never tried to take itself too seriously by keeping things light-hearted (there was some flavors of Will Ferrell in the tone as well)",
+    "final_notes": "Saw the Texas Premiere at SXSW (The best movie of the festival in my eyes)",
+    "overall": "Overall, an extremely funny movie that is well made as this mockumentary looks into the eyes of a typical theater camp through the use of improv, hand-held cinematography, and funny writing to make this movie very captivating and a great watch overall (my favorite film of SXSW)"
+  },
+  "release_year": 2023,
+  "review_date": "03/19/2023",
+  "redux": false,
+  "id": 330,
+  "imdb_id": "tt21232992"
+}

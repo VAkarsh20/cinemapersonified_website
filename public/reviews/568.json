@@ -1,0 +1,123 @@
+{
+  "title": "The Phoenician Scheme",
+  "rating": 4.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Wes Anderson"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is a continuation of Anderson's signature auteur style as the movie and world have the stage/doll-house look mixed with quirkiness and cheapness that his movies are known for; the direction on a microscale is his signature quirky style, but it was so repetitive that it just felt boring and like they were stalling for time; the storytelling is atypical to the traditional Wes Anderson style as it is more linear and straightforward, the problem is he is not clear with describing the conflict as the movie moves through the story too fast and makes more of an effort to be quirky than profound"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Benicio del Toro"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "The typical lead performance you would see from a Wes Anderson movie does the most with what he could, despite being given clunky and repetitive material"
+        },
+        {
+          "actor": {
+            "name": "Mia Threapleton"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "She is very much her mother's daughter, as she sounds exactly like her; she has decent chemistry with del Toro and does the best she could; she is probably given the best material to work with in the movie, but it is still not as good, as it is pretty derivative of other similar female characters in Wes Anderson's movies"
+        },
+        {
+          "actor": {
+            "name": "Michael Cera"
+          },
+          "rating": "Decent",
+          "comments": "Feels like a wasted opportunity, as on paper Wes Anderson and Michael Cera seem like a match made in heaven, but in reality, it didn't work out because the character writing was too all over the place and his accent work is just too corny and quirky; he's decent when he uses his own personality, it's just not as good as it could have been"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "This all-star cast is unnecessary, as each actor is only given like five minutes each, and everyone just plays the signature background Wes Anderson character; I doubt they paid the cast a lot considering this is a Wes Anderson movie, but if they wanted to cut costs, they could have cut the cast down by half to save money because many of these performances are more cameo appearances than substance to help tell the story"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        },
+        {
+          "name": "Roman Coppola"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept, despite being one of Anderson's simplest concepts, is convoluted and poorly explained because I still don't know what The Phoenician Scheme is or why it is important; the plot structure is simpler and more linear than his other movies, but somehow Anderson still screws this up by simultaneously being fast when moving the plot yet unbearably slow and repetitive in the interpersonal, comedic scenes; character writing is typical to other Wes Anderson characters with how quirky they are, but none of these characters are really given any depth, except for maybe Threapleton and del Toro's characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is the traditional quirky and repetitive dialogue you see in all Wes Anderson movies, and I still hate it because it makes the movie super boring; the humor is incredibly dry and quirky, and it barely hit; the symbolism is present, I just didn't care about it; the foreshadowing is present, I just didn't care about it"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "Was barely even present, which made the movie feel dull overall"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bruno Delbonnel"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Wes Anderson was to a tee (for the most part) from the amount of shots/angle changes and how he used dollies and tracked movement; there were many moments where it felt the shots felt unfinished or lazy"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Barney Pilling"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Was very Wes Anderson, but it felt incredibly choppy and just felt lazy and unfinished"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Typical cheap sound effects you see from Wes Anderson to help show this dollhouse auteur vision he tries to create"
+    },
+    "visual_effects": {
+      "rating": "Pretty Bad",
+      "comments": "What you expect from a Wes Anderson movie is that it feels incredibly low-budget and helps show his low-budget auteur vision; Despite being similar to his other movies, the visual effects this time around feel even more low-budget and lazy"
+    },
+    "production_design": {
+      "rating": "Pretty Good to Good",
+      "comments": "Very Wes Anderson with its use of cheap sets, something I do enjoy about his movies; The color palettes this time around were pretty good, but I enjoyed them more in Asteroid City"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Feels very cheap, it helps show Wes Anderson's cheap, makeshift, auteur vision"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Very Wes Anderson-esque"
+    },
+    "pacing": "Pacing is terrible as the movie itself moves incredibly slow with its repetition and how boring it is, but the story moves incredibly fast as they just breeze through plot points",
+    "climax": "Climax is incredibly boring and just all over the place (I wanted this movie to end so badly)",
+    "tone": "Tone is incredibly Wes Anderson, but in a lazy way",
+    "final_notes": "As a Wes Anderson hater, this movie makes me feel vindicated as he released two back-to-back duds",
+    "overall": "Overall, as a Wes Anderson hater, this movie makes me feel vindicated as he released two back-to-back duds; despite making a more linear film, Wes Anderson has somehow found a way to screw that up because the movie is slow with its repetition and how boring it is, yet simultaneously fast with how the story moves as they just breeze through plot points"
+  },
+  "release_year": 2025,
+  "review_date": "06/07/2025",
+  "redux": false,
+  "id": 568,
+  "imdb_id": "tt30840798"
+}

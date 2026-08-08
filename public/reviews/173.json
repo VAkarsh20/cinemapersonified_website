@@ -1,0 +1,53 @@
+{
+  "title": "Talladega Nights: The Ballad of Ricky Bobby",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Adam McKay"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "A surprisingly studded all star cast where each actor plays their role very well, but there are issues (Cohen's accent was very annoying and characters, like Amy Adams, were overacting at times)"
+      },
+      "rating": "Pretty Good"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Will Ferrell"
+        },
+        {
+          "name": "Adam McKay"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Very funny movie (Stupid funny but funny); Most jokes hit but when they miss its pretty eh; very Will Ferrell in its joke telling in that he breaks the pace or adds on to a joke to make it funnier (This either hits or can be annoying at times)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brent White"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "sound": {
+      "rating": "Pretty Good"
+    },
+    "pacing": "Pacing was intentionally fast (which leaves no room for development)",
+    "climax": "the build to the climax really is ok but definitely could've been better",
+    "final_notes": "",
+    "overall": "Overall, a fun movie to watch for leisure that has many jokes that hit very well and are very quotable, even though it may be stupid funny"
+  },
+  "release_year": 2006,
+  "review_date": "12/26/2020",
+  "redux": false,
+  "id": 173,
+  "imdb_id": "tt0415306"
+}

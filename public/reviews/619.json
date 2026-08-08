@@ -1,0 +1,118 @@
+{
+  "title": "Hamnet",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Chloé Zhao"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is a little too artsy and dry, while they do a very good job showing how beautiful this Shakespearean world is, the cinematography and editing were a little too dry for me; The direction on a microscale is great, as you really can see the relationships between the characters, helping emphasize the grief and trauma they feel when the conflict arises; There are many moments in this direction that are truly beautiful and powerful to watch, like some of the monologues in the later half of the movie and the entire ending, but these moments feel washed out from the dry and boring moments that feel dragged on; Storytelling is a huge issue for this movie because it cannot tell the story properly because the plot structure is imbalanced; They build tension incredibly well in the second half because of how emotionally invested you are in this conflict and how these characters are dealing with it"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jessie Buckley"
+          },
+          "rating": "Great",
+          "comments": "A truly magnetic performance that captures both the strength and vulnerability of Agnes; She shows the complexity of a mother grieving the loss of her child while also trying to navigate her own identity, with her husband not being there for her time in need; has great chemistry with Paul Mescal"
+        },
+        {
+          "actor": {
+            "name": "Paul Mescal"
+          },
+          "rating": "Great",
+          "comments": "A truly powerful performance that feels very authentic to Shakespeare as he shows how the grief of his son Hamnet leads him to create his most iconic work, Hamlet; has great chemistry with Jessie Buckley"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "The supporting cast is strong, with each actor bringing depth to their roles and enhancing the overall emotional impact of the story, especially the children in the film who have to navigate this tragedy; everyone in this movie feels authentic to the Shakespearean time period"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Chloé Zhao"
+        },
+        {
+          "name": "Maggie O'Farrell"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Even though the concept is a really interesting idea, that Shakespeare's son Hamnet's death inspired him to write Hamlet, this concept is poorly told because of its bad plot structure;  The plot structure is the biggest issue for this movie because the first half of the movie is entirely exposition, and the conflict is introduced past the halfway point, leaving less than an hour to actually address the conflict of the story;  It almost feels like an entire act has been cut from this movie, as there are maybe one or two scenes between the conflict introduction and the climax, leaving no room for the actual concept for this movie;  The character writing is great, as they really explore the grief and trauma these characters experience with the loss of a loved one, and how they influence their lives moving forward"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Chloé Zhao"
+        },
+        {
+          "name": "Maggie O'Farrell"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is very Shakespearean and incredibly profound; the symbolism is rich as it deals with the trauma and grief of losing a child, with the performances feeling heavy and incredibly authentic as you empathize with what they are going through; the foreshadowing is strong as the loss in the movie helps inspire an architect, Hamlet, though you kind of already know what this movie is about if you read the given synopsis"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Max Richter"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The score is very beautiful and helps set the tone of the movie; the problem is it is used sparingly because Zhao uses a lot of silence throughout the movie to let the dialogue and performances set the tone itself; even though it does make the movie feel dry at times"
+    },
+    "soundtrack": {
+      "rating": "Very Good",
+      "comments": "Even though \"On the Nature of Daylight\" is used perfectly in this movie, Max Richter needs to let this song go"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Łukasz Żal"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "A real spectrum of shots exists, as there are many shots and sequences in this movie that are truly beautiful to watch, yet there are many shots that just feel unnecessarily artsy and dry"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chloé Zhao"
+        },
+        {
+          "name": "Affonso Gonçalves"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The biggest issue for this movie is because many of the stitches and transitions just feel too basic and dry"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps show the beauty in the scenes; The lack of sound in some scenes does help emphasize the emotions of the characters, but also makes the movie feel dry at times"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Truly emulates this Shakespearean time period with its authentic sets and locations"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "Truly emulates this Shakespearean time period with its authentic wardrobes"
+    },
+    "pacing": "Pacing is a complete mess as the first half of this movie is incredibly slow because it feels like exposition, and the entire second half feels incredibly rushed because they basically have to tell the story in under an hour; This movie feels like a whole thirty-minute third act was cut as there is barely any rising action; If they wanted to keep this runtime, which they should not, they should have cut the exposition in half and transferred it to scenes after the conflict introduction to help balance the movie, but they should have honestly just increased the runtime because this movie just feels too short",
+    "climax": "Climax is phenomenal and gut-wrenching as it is executed perfectly as you empathize with Agnes and Will as they bring to life Hamnet through Hamlet, with the final sequence being incredibly emotional",
+    "tone": "Tone is very much a Shakespearean tragedy",
+    "final_notes": "Saw premiere at Austin Film Festival; It is genuinely crazy when this movie decides when it wants to be fantastic and why it wants to be dry and boring",
+    "overall": "Overall, a profound movie on loss and grief, Jessie Buckley and Paul Mescal deliver powerful performances to show how a personal tragedy led to Shakespeare writing one of his most memorable works, culminating in a phenomenal and gut-wrenching climax; I wanted to love this movie more, but unfortunately, this movie is held back from being great by its poor plot structure and incredibly dry moments at times, as it genuinely feels like an entire 30-minute third act was cut from this movie"
+  },
+  "release_year": 2025,
+  "review_date": "10/25/2025",
+  "redux": false,
+  "id": 619,
+  "imdb_id": "tt14905854"
+}

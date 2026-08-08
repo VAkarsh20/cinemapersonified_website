@@ -1,0 +1,148 @@
+{
+  "title": "What a Way to Go!",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "J. Lee Thompson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macro scale is very silly, as the movie plays like a live-action cartoon with many '60s comedy and cartoon flavors; The direction on a micro scale is quite typical of the '60s; Storytelling is fairly linear and standard for a '60s comedy;"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Shirley MacLaine"
+          },
+          "rating": "Good",
+          "comments": "the star of the show as all the performances flow their her; a true iconic in her own right as her comedic timing and chemistry with her cast steal the show; embodies what a 60s Hollywood actress should be"
+        },
+        {
+          "actor": {
+            "name": "Paul Newman"
+          },
+          "rating": "Good",
+          "comments": "has good chemistry with MacLaine and is a peronanality in his own right"
+        },
+        {
+          "actor": {
+            "name": "Robert Mitchum"
+          },
+          "rating": "Pretty Good",
+          "comments": "has a suave sense to him as his chemistry with MacLaine is pretty good and his own personality doesn't out a little bit"
+        },
+        {
+          "actor": {
+            "name": "Dean Martin"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has a suave sense to him as he acts as a personality bigger than the protagonist, but he really isn't given enough screentime to make his performance stand out"
+        },
+        {
+          "actor": {
+            "name": "Gene Kelly"
+          },
+          "rating": "Good",
+          "comments": "the most dynamic out of all the husbands as he is able to sing and dance to not only entertain MacLaine but the audience too; shows how much of a talent he was in the 50s and 60s"
+        },
+        {
+          "actor": {
+            "name": "Dick Van Dyke"
+          },
+          "rating": "Good",
+          "comments": "has good comedic timing and chemistry with MacLaine"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "there isn't that much of a supporting cast, but its worth mentioning here how insane it was to get such an all-star cast in this movie as almost everyone in this movie was a major star of the 60s"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Gwen Davis"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is quite funny and unique, showing how the protagonist fails upward through her five marriages, as all she wants is a contented life despite constantly becoming wealthy; The plot structure is fairly linear and broken into chapters for each marriage, periodically returning to the end, which is similar to the structure of \"The Other Guys\"; Character writing is fun, as it shows how career-motivated her husbands become and how that leads to their demise, with the lead just wanting to be content in a quiet life like Thoreau;"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Betty Comden"
+        },
+        {
+          "name": "Adolph Green"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is quite typical of the '60s, being silly and comedic; The humor is fairly cartoonish and silly, feeling like a '60s cartoon come to life as if each joke were a Family Guy cutaway; The symbolism is quite simple, showing how the protagonist just wants a simple life away from the wealth and fame that ended her four marriages; The movie's symbolism boils down to Thoreau and wanting to live in a quiet home away from everything; The foreshadowing is very straightforward given how the plot is structured, though they do allude to the ending at the beginning;"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nelson Riddle"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score is very typical of the '60s;"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The soundtrack is very typical of the '60s;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Leon Shamroy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The cinematography is very typical of the '60s in its techniques and technology;"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Marjorie Fowler"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The editing is very typical of the '60s in its techniques and technology, as it uses many fades and old-school cuts; Splicing the different skits and cutaways, while aligning them with the changes in frame rates, helped make this movie feel very cartoonish;"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The foley is very typical of the '60s; Visual effects are pretty good; The sound is very typical of the '60s;"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The visual effects are very typical of the '60s;"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "This movie is very well designed from an artistic standpoint, as it acts as an example of how '60s cinema looked with its use of color and set design;"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "The makeup helped complete the movie and the characters;"
+    },
+    "costumes": {
+      "rating": "Great",
+      "comments": "Shirley MacLaine's costumes were very pretty and helped accentuate her as the true star of the show;"
+    },
+    "pacing": "The pacing was very typical of the '60s;",
+    "climax": "The climax was cute and wholesome;",
+    "tone": "The tone is very typical of a '60s romantic comedy; The way this movie interjects skits and cutaways makes it feel like a '60s live-action cartoon and something one would see in Family Guy today;",
+    "final_notes": "",
+    "overall": "Overall, 'What a Way to Go!' is an entertaining romantic comedy that feels like a product of the 1960s, as it features a heavy-hitting all-star cast led by Shirley MacLaine and has handcrafted production design and costumes that feel lost in today's age; the comedy and tone of this movie make it entertaining, as it feels like a '60s cartoon brought to life with its silliness and cutaways"
+  },
+  "release_year": 1964,
+  "review_date": "02/15/2026",
+  "redux": false,
+  "id": 650,
+  "imdb_id": "tt0058743"
+}

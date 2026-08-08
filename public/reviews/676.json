@@ -1,0 +1,129 @@
+{
+  "title": "The Sheep Detectives",
+  "rating": 8.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kyle Balda"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale feels very much like a feel-good family movie, as it is very light and playful; The direction on a microscale is genuinely good as it brings out the best in the cast and helps convey the emotions they are feeling as they go through this tragedy; The storytelling is what you would expect from a feel-good family movie, as it is safe but focused; They build tension surprisingly well for a family movie, as you use your emotional connection to the characters to feel the tension"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Hugh Jackman"
+          },
+          "rating": "Good",
+          "comments": "Plays a very lovable character with the screentime he has, acting as sort of a father figure for the flock; Probably the easiest paycheck he has ever had"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Braun"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "His accent just feels so wrong for his body and typical characters, but when you get past that, his character is enjoyable because it is basically if Cousin Greg was getting into character for a British detective for an off-Broadway play"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Galitzine"
+          },
+          "rating": "Decent",
+          "comments": "Just feels kinda there, plays his role decently well"
+        },
+        {
+          "actor": {
+            "name": "Molly Gordon"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays her role pretty well, is given a very simple and templated role; has pretty good chemistry with the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good",
+        "comments": "For Voice Cast: they do a good job as they really embody the emotions of the characters and make you feel for them, especially the child actors and ESPECIALLY the winter lamb; For the Supporting Live Action Cast: they do a pretty good job playing characters you would see in a family movie"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Craig Mazin"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is a whodunit from the perspective of sheep, making the movie feel cute and fun for the whole family; The plot structure is typical for both a family movie and a whodunit; The character writing is the most surprising because the creators do a very good job of building up these characters so that you empathize with their struggle and understand their motives, especially Lily, Sebastian, and especially the Winter Lamb; The character writing for the Winter Lamb is so sad and emotional that you want to give him a hug and tell him he is the best boy as you shed your tears"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Craig Mazin"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is good and well-written, especially for a family movie about sheep; The humor is surprisingly present and good for all ages, making this a well-written movie that is fun for the whole family; The symbolism is surprisingly strong for a family movie about sheep, as the whole movie stems from empathizing with the struggles the sheep face, especially the Winter Lamb; The foreshadowing is somewhat of an issue for the movie because while it is a well-written whodunit, the killer is a bit predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Christophe Beck"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score uses themes you would expect from a feel-good family movie to make this a light and fun film"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The use of \"I'm Gonna Be (500 Miles)\" feels right for this movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "George Steel"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The cinematography is pretty standard for a higher-budget, feel-good family movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Martin Walsh"
+        },
+        {
+          "name": "Paul Machliss"
+        },
+        {
+          "name": "Al LeVine"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The editing is pretty standard for a higher-budget, feel-good family movie"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "The sound is pretty standard for a higher-budget, feel-good family movie"
+    },
+    "visual_effects": {
+      "rating": "Good to Very Good",
+      "comments": "The animal CGI for the sheep is surprisingly good, as it made the animals feel realistic while remaining cute; It definitely feels as though much of the budget went toward the cast and the CGI animals, and it felt worth it"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The film was shot in the UK countryside, which is integral to the plot"
+    },
+    "pacing": "The pacing is mostly good for the movie, but it does feel a bit slow at points and would have benefited from having ten to fifteen minutes shaved off",
+    "climax": "The climax is a typical whodunit climax, and it is executed pretty well; The ending is very emotional and feels like a satisfying conclusion for the journey you take with these sheep",
+    "tone": "The tone is very much that of a feel-good family whodunit",
+    "final_notes": "",
+    "overall": "Overall, \"The Sheep Detectives\" is a surprisingly well-made, feel-good family whodunit that is elevated by its strong writing, realistic CGI animals, and emotional core, making you care for these characters and their journey, especially the Winter Lamb"
+  },
+  "release_year": 2026,
+  "review_date": "05/10/2026",
+  "redux": false,
+  "id": 676,
+  "imdb_id": "tt32565993"
+}

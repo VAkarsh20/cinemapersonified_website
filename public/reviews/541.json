@@ -1,0 +1,124 @@
+{
+  "title": "Mickey 17",
+  "rating": 5.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Bong Joon-ho"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is good as it feels auteur-driven and similar to his style; The direction on a microscale is very stiff and unnatural; The storytelling is bland and forced; They build tension poorly because they do not really build the stakes and you do not really care what happens to these characters"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Robert Pattinson"
+          },
+          "rating": "Good",
+          "comments": "Plays the dual role well as he creates two distinct performances tailored to the personalities of Mickey 17 and 18"
+        },
+        {
+          "actor": {
+            "name": "Naomi Ackie"
+          },
+          "rating": "Decent",
+          "comments": "Plays the female lead decently well;"
+        },
+        {
+          "actor": {
+            "name": "Steven Yeun"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Feels very forced and does not have chemistry with Pattinson; It is choppy overall"
+        },
+        {
+          "actor": {
+            "name": "Toni Collette"
+          },
+          "rating": "Good",
+          "comments": "Really enjoyed her character as her presence is felt onscreen and she really embodies the character"
+        },
+        {
+          "actor": {
+            "name": "Mark Ruffalo"
+          },
+          "rating": "Bad",
+          "comments": "Does a bad job playing this dictator as he basically plays a composite of all these dictators; his performance and character have no personality or anything unique to him; a caricature of a performance that ends up just feeling more cringe than funny"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Just a lot of minor, inexperienced characters that really don't do much to support the main cast;"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Bong Joon-ho"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is interesting as an idea, but poorly executed as it just becomes overt commentary on contemporary politics; The plot structure is fine, but the climax is predictable and the resolution is actually unnecessary; Character writing is bad because the characters really don't have that much personality, and Ruffalo's character is a composite of so many dictators that there is nothing unique to him"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Bong Joon-ho"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The dialogue is a big struggle in this movie because it is very obvious that English is not Bong Joon-ho's first language; a lot of the dialogue is unnatural and many things are lost in translation; the humor is alright, but it tries a bit too hard; the symbolism is way too overt that it just feels too on-the-nose and hurts its message; the foreshadowing is pretty overt, as you exactly know how the movie is going to end when the climax hits"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jung Jae-il"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps set the tone;"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Darius Khondji"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Feels auteur-driven and utilizes its big budget to create grand scenes; It has some goofy shots to fit the tone"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Yang Jin-mo"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Tight and well-edited; it has some goofy cuts to fit the tone"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "visual_effects": {
+      "rating": "Good"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Enjoyed the spaceship design for this dystopian society"
+    },
+    "pacing": "Pacing is pretty slow, as the movie could have been cut by about 20 minutes",
+    "climax": "Climaxes are predictable because you know exactly what is going to happen when they start; The ending is actually unnecessary and could have been entirely cut",
+    "tone": "The tone is too silly and goofy; this movie feels more like a caricature than meaningful dialogue",
+    "final_notes": "I have not seen his other English language projects; but I always see this problem when non-native speakers write dialogue for a language they do not understand, because it is unnatural and much is lost in translation",
+    "overall": "Overall, despite a good performance from Robert Pattinson and well-shot sequences on a macroscale, Bong Joon-ho fails to properly follow up \"Parasite\" as the writing holds the movie back with its overly overt messages and dialogue that feels very unnatural as many things are lost in transition"
+  },
+  "release_year": 2025,
+  "review_date": "03/06/2025",
+  "redux": false,
+  "id": 541,
+  "imdb_id": "tt12299608"
+}

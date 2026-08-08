@@ -1,0 +1,141 @@
+{
+  "title": "Princess Mononoke",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Hayao Miyazaki"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is vast, grand, beautiful, and magical, like his other films; the direction on a microscale is decent, very Eastern; the storytelling is not the best, as he does lay out a pretty linear story but does not really do a good job establishing which side of the conflict the protagonist is on; they builds tension decently"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Yōji Matsuda"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the protagonist well"
+        },
+        {
+          "actor": {
+            "name": "Yuriko Ishida"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the female lead well"
+        },
+        {
+          "actor": {
+            "name": "Yūko Tanaka"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays her role well"
+        },
+        {
+          "actor": {
+            "name": "Kaoru Kobayashi"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        },
+        {
+          "actor": {
+            "name": "Masahiko Nishimura"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        },
+        {
+          "actor": {
+            "name": "Tsunehiko Kamijō"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        },
+        {
+          "actor": {
+            "name": "Akihiro Miwa"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        },
+        {
+          "actor": {
+            "name": "Mitsuko Mori"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        },
+        {
+          "actor": {
+            "name": "Hisaya Morishige"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays their role well"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Not that much of a remaining cast, but everyone plays their roles well"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Hayao Miyazaki"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is pretty convoluted, as it is not clear which side of the conflict the protagonist is on, as he tries to play both sides; the plot structure is pretty linear, as opposed to other Miyazaki films; character writing is decent in that they create memorable characters, but it is not good in that the characters' motives are never clear"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Hayao Miyazaki"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is sharp and similar to his other films; the humor is similar to other Japanese animated films; the symbolism is very strong, as the movie has very strong anti-capitalist themes; the foreshadowing is present and does plant roots that are brought up later in the film"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Joe Hisaishi"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Beautifully written and it creates synergy with the beautiful animation"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Takeshi Seyama"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt polished and well-edited"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Typical of other Japanese animated films from that time period"
+    },
+    "animation": {
+      "rating": "Very Good",
+      "comments": "Beautifully animated, this movie is a testament to Miyazaki and Studio Ghibli's animation; it creates captivating and iconic worlds"
+    },
+    "pacing": "Pacing is pretty good for the first half, but really drags in the second half; the second half could have been cut by 20 minutes",
+    "climax": "Climax is well-animated and entertaining, but it is anticlimactic from a story standpoint, as is the ending",
+    "tone": "The tone is the fantasy, Japanese animated tone similar to other Miyazaki/Studio Ghibli movies",
+    "final_notes": "",
+    "overall": "Overall, a beautifully animated movie that shows the creativity of Hayao Miyazaki and Studio Ghibli, but the movie is held back in similar ways to his other movies, as the story is not well-constructed since the protagonist tries to play both sides the entire time, despite never explaining why"
+  },
+  "release_year": 1997,
+  "review_date": "04/04/2025",
+  "redux": false,
+  "id": 555,
+  "imdb_id": "tt0119698"
+}

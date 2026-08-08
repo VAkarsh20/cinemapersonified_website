@@ -1,0 +1,143 @@
+{
+  "title": "War of the Worlds",
+  "rating": 1.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Rich Lee"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The direction on a macroscale is literally Microsoft Teams the Movie, with the whole movie being a screen recording of a video call of Ice Cube reacting to what is going on, with the production design literally being a Zoom background; The world building is so bad because the animation sequences were probably animated by the dude who made Howard the Alien; The direction on a microscale is nonexistent because it is just actors acting into a Zoom Call Void with no direction or script; The storytelling is genuinely hilarious because the story is so stupid and it is so funny how this movie even got greenlit; They build tension so poorly and so campily that it makes the movie fun bad"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ice Cube"
+          },
+          "rating": "Very Bad",
+          "comments": "Bro is doing the bare minimum from his bedroom because he is clearly acting on Zoom with a green screen on, and is acting to no one; This performance is so over-the-top and so Ice Cube-like that it was actually entertaining to watch how bad it was"
+        },
+        {
+          "actor": {
+            "name": "Eva Longoria"
+          },
+          "rating": "Very Bad",
+          "comments": "Straight up acting to no one on a Zoom call"
+        },
+        {
+          "actor": {
+            "name": "Clark Gregg"
+          },
+          "rating": "Terrible",
+          "comments": "Most generic evil government employee you can find"
+        },
+        {
+          "actor": {
+            "name": "Iman Benson"
+          },
+          "rating": "Bad",
+          "comments": "Plays typically distressed daughter"
+        },
+        {
+          "actor": {
+            "name": "Henry Hunter Hall"
+          },
+          "rating": "Very Bad",
+          "comments": "Straight up, YouTube commentator acting"
+        },
+        {
+          "actor": {
+            "name": "Devon Bostick"
+          },
+          "rating": "Bad",
+          "comments": "Rodrick, what are you doing in this movie?; Actually, it's somewhat enjoyable; Bro went from Diary of a Wimpy Kid to Oppenheimer to this"
+        }
+      ],
+      "cast": {
+        "rating": "Terrible",
+        "comments": "It's a very tight cast, but it's hard to act with your castmates when you are recording your lines separately via Zoom"
+      },
+      "rating": "Terrible to Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Kenneth A. Golde"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The concept is Microsoft Teams the Movie; this is straight up a screen recording of a Zoom call for 90 minutes, with the action sequences being a reaction video to the 2005 movie, but they could not get the rights to the movie so they animated the sequences with the dude who made Howard the Alien; the plot structure is so linear and simple that it is funny, the sad part is there is barely any plot so this movie feels incredibly bloated; character writing is just the most templated generic character tropes that it is borderline funny"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Kenneth A. Golde"
+        },
+        {
+          "name": "Marc Hyman"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue feels like it was written the day of the shoot, or just bad improv; The humor is unintentional as it's incredibly funny to see and wonder how this movie was made; I would love to be a fly on the wall for both the behind the scenes for this shoot and the meeting between the filmmaker and the studio when they turned this movie in; The symbolism is just a shallow, generic message of how the government is spying on everyone and how the government is against the people; The foreshadowing is too easy to spot because this movie refuses to take any chances"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jon Natchez"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Royalty-free music;"
+    },
+    "soundtrack": {
+      "rating": "Very Bad",
+      "comments": "Straight up, a Spotify playlist, I wish I were kidding"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Christopher Probst"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "Straight up, a screen recording of a Microsoft Teams call; it's super clear this movie was shot in the pandemic, but you can't release this five years after the fact and have us not clown on you for making this movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Charles Ancelle"
+        },
+        {
+          "name": "Jake York"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "Please stop zooming into the screen, it is incredibly nauseating and just bad editing"
+    },
+    "sound": {
+      "rating": "Very Bad",
+      "comments": "Royalty-free sounds"
+    },
+    "visual_effects": {
+      "rating": "Very Bad",
+      "comments": "The CGI for this movie was probably animated by the dude who made Howard the Alien; The CGI for this movie reminds me of those cinematic YouTubers from the early 2010s; The shake effects are like the Disaster ride from Universal Studios (RIP)"
+    },
+    "production_design": {
+      "rating": "Terrible",
+      "comments": "Literally a Zoom background"
+    },
+    "pacing": "Pacing is incredibly slow despite its short runtime, because nothing really happens and every plot point is stretched out",
+    "climax": "Climax and conflict resolution is literally a giant ad for Amazon Prime; The plot resolution makes this movie have no stakes",
+    "tone": "Tone is bad movie camp because there is no way this movie got greenlit, shot, edited, and distributed to the public; The tone for this movie is literally a bad Covid movie as this was clearly shot during the pandemic",
+    "final_notes": "They screencasted the whole movie, but it still looks fake, like it's the real logos, but fake apps; there's no way this dude had WhatsApp on his DHS work laptop",
+    "overall": "Overall, \"Microsoft Teams: the Movie\" because they basically just screencast Ice Cube's Laptop from his house during the pandemic, as he creates a reaction video to Spielberg's War of the Worlds; but, since they couldn't get the rights to the actual film, they just reanimated it with the dude who made the \"Howard The Alien\" meme; it's such a bad movie that it's genuinely worth watching just to imagine the meeting that took place when the filmmaker turned his cut into the studio"
+  },
+  "release_year": 2025,
+  "review_date": "08/05/2025",
+  "redux": false,
+  "id": 588,
+  "imdb_id": "tt13186306"
+}

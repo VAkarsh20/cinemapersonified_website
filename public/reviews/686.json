@@ -1,0 +1,115 @@
+{
+  "title": "Nocturnal Animals",
+  "rating": 6.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Tom Ford"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is a tale of two worlds, as the real world is a dull, gray reality that looks and feels boring, while the fake, fictional world has more color and is more lively; The direction on a microscale is not the best, as the solo sequences are fine, though a tad forced, while the interpersonal sequences feel incredibly stiff, especially in the real world; The storytelling is pretty forced in the real world but interesting in the fictional world, as you are engaged to see what happens next, mainly because of the subject matter; Tension is built mainly because of the topics the story tackles, as the performances or direction do not really create much tension in themselves"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Amy Adams"
+          },
+          "rating": "Pretty Bad to Decent",
+          "comments": "Kinda just a very still, boring performance as she's not really asked to do that much, mostly just reacting to reading the book and how the parallels in the story mimic her own life; her chemistry is honestly very forced with the cast"
+        },
+        {
+          "actor": {
+            "name": "Jake Gyllenhaal"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Not his best performance but shows some range, especially with the material he was given; you can sort of appreciate him performance in  the context of the story, but it isn't the strongest; has decent chemistry with Adams and Shannon, but that's really it"
+        },
+        {
+          "actor": {
+            "name": "Michael Shannon"
+          },
+          "rating": "Good",
+          "comments": "Definitely the best performance in the movie as he shows range and definitely takes control of the scenes he's in; has good chemistry with Gyllenhaal as their dynamic helps you get invested in the mystery, even though it isn't the strongest"
+        },
+        {
+          "actor": {
+            "name": "Aaron Taylor-Johnson"
+          },
+          "rating": "Pretty Good",
+          "comments": "Pretty good performance as he plays a very intimidating antagonist, but it also felt a bit overacting; his chemsitry is decent with Shannon and Gyllenhaal"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Very bland performances overall by the cast because the interpersonal scenes are very stiff and clunky, which makes the chemistry feel very off overall"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Tom Ford"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is interesting, as the movie uses a story-within-a-story structure as an allegory for the failed relationship between Amy Adams' and Jake Gyllenhaal's characters; The plot structure is a story-within-a-story, though it kind of feels like a tale of two movies because the fictional story is much more interesting and engaging than the real story; The character writing is fine overall, as you see the parallels between the characters in the story and the characters in real life, but the movie comes off more as 'fake deep' rather than symbolic"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Tom Ford"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is pretty clunky and unnatural, especially in the real-world scenes; The symbolism is definitely present, as the fake story is an allegory for the real story, but it comes off as 'fake deep' and overly serious at times rather than profound; The foreshadowing is present but contributes to the movie feeling 'fake deep'"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Abel Korzeniowski"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Extremely well-composed and beautifully written, it is just poorly used within the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Seamus McGarvey"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The film uses different color palettes for the real world and the fictional world, with the real world being dull and gray, and the fictional world being more vibrant and colorful; Besides this, there is nothing really major with the cinematography"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joan Sobel"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The editing feels a little too forced at moments, as they tried to create seamless transitions between the real and fictional worlds, but it feels forced and 'fake cinematic' at times"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "It helps add tension, but it is standard otherwise"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "The film has a lot of nice dresses and suits that make it obvious this movie was directed by Tom Ford"
+    },
+    "pacing": "The pacing is honestly very slow, because the real-world sequences are very dull and boring, and the fictional sequences, while more interesting, have scenes that drag on a little too long",
+    "climax": "The climax is pretty unsatisfying, though the symbolism is definitely present",
+    "tone": "The tone is very much a mystery/thriller",
+    "final_notes": "",
+    "overall": "Overall, 'Nocturnal Animals' is a movie that tries to be profound and deep, but it just comes off as 'fake deep' and overly serious; The movie is a typical story-within-a-story film where the fictional story is an interesting thriller, but the real story is a boring drama with clunky dialogue and stiff performances"
+  },
+  "release_year": 2016,
+  "review_date": "06/19/2026",
+  "redux": false,
+  "id": 686,
+  "imdb_id": "tt4550098"
+}

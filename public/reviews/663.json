@@ -1,0 +1,120 @@
+{
+  "title": "Dhurandar",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Aditya Dhar"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale for the first hour really does feel grand and original for a Bollywood film as they venture into more mature world-building to show the stakes of the conflict; after the hour mark, however, the world-building reverts to typical Bollywood tropes and action sequences; the direction on a microscale is good in the first hour as it sets the stakes for this mission and shows how Hamza is trying to work his way into this mob, but the movie is kind of held back when Singh is given more material to work with because the interpersonal scenes start to become very repetitive and cliché for Bollywood; the storytelling in the first hour is genuinely captivating and original for Bollywood as they venture into new territory by tackling more complex, mature themes, but after the hour mark, the storytelling reverts to typical action Bollywood storytelling; they build tension well through detailed and grotesque action sequences and by raising the stakes for the mission to keep you invested"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ranveer Singh"
+          },
+          "rating": "Decent",
+          "comments": "Does not feel that strong as a lead as he really isn't given that much material to work with, he is on a secret mission where he has to pretend to be someone he is not and keep quiet as he works his way up"
+        },
+        {
+          "actor": {
+            "name": "Akshaye Khanna"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "The real star of the show as his charisma steals every scene and he has good chemisty with the cast; this dude is also aura farming the entire movie and it makes him more memorable"
+        },
+        {
+          "actor": {
+            "name": "R. Madhavan"
+          },
+          "rating": "Pretty Good",
+          "comments": "Enjoyed his performance as he makes his scenes memorable"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "All the supporting performances kinda mold into each other as nobody really does that much to stand out and be differentiable; despite the lack of unique performances, the cast does work well together in helping move the story forward"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Aditya Dhar"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is interesting as it uses real-world conflicts as inspiration to create this espionage story about infiltrating the Pakistani mob; the plot structure is a bit mismanaged as the movie is very front-loaded and kind of drags for the remaining part as many plot elements start to feel repetitive; character writing is pretty good as it does paint these characters, their backstories, and their motivations clearly"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Aditya Dhar"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is pretty aura farming-esque and similar to other action Bollywood films; the symbolism is basically propaganda as Dhurandar begs the question: \"what if all Pakistanis are terrorists?\"; the foreshadowing is present as it helps build the story with the reveal and set up the second movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Shashwat Sachdev"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score helps make this movie grand and memorable; it helps build the tension in the action sequences"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "The soundtrack is filled with many good songs that make this movie memorable, as they are a key element of why this movie is a successful Bollywood film"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Vikash Nowlakha"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The cinematography feels very Hollywood and unique with its camerawork and shot composition, as it is grand in how it builds the world and sets up these action sequences, though the movie is a little front-loaded with its camerawork"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Shivkumar V. Panicker"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The editing makes this movie feel like a Hollywood film with how well-edited it is, especially in the first hour and its action sequences"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "The sound helps bring the action sequences to life"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "The visual effects feel very mature and not typically Bollywood with how gory and detailed these action sequences are"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The production design builds the world and Karachi setting well"
+    },
+    "makeup": {
+      "rating": "Pretty Bad",
+      "comments": "Makeup is a big issue for this movie because it is very obvious when they use it, especially with R. Madhavan"
+    },
+    "pacing": "Pacing is a big issue for this movie because the first hour genuinely moves well and captures your attention, but after this point, the movie starts to drag with how repetitive it gets",
+    "climax": "The climax is very entertaining as it is a big Bollywood action sequence and does a good job setting up the sequel",
+    "tone": "The tone is a tale of two halves: the first hour is a mature, grounded take on espionage you do not see in Bollywood, but the rest of the movie is a typical Bollywood action movie",
+    "final_notes": "The movie is the embodiment of the sunk cost fallacy; they spend so much time and effort on the first hour of the movie and then cheap out and revert to old Bollywood habits afterward; because you have already invested so much time into the movie, you feel obligated to finish it",
+    "overall": "Overall, Dhurandar's first hour is genuinely fantastic and unlike anything I have seen in a Bollywood film, as it ventures into more mature world-building and topics to create a grounded espionage film; however, this movie is also the embodiment of the sunk cost fallacy because after this first hour, the movie reverts to typical Bollywood action tropes; because you have already invested so much time into the movie, you feel obligated to finish it; despite this, the movie is still very entertaining and sets up a sequel that you want to watch, even though this movie is overtly political propaganda since the presented message of the movie is literally 'all Pakistanis are terrorists'"
+  },
+  "release_year": 2025,
+  "review_date": "03/27/2026",
+  "redux": false,
+  "id": 663,
+  "imdb_id": "tt33014583"
+}

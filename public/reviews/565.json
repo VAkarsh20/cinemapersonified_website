@@ -1,0 +1,124 @@
+{
+  "title": "How to Train Your Dragon",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Chris Sanders"
+        },
+        {
+          "name": "Dean DeBlois"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is very similar to other Dreamworks properties, but they do a good job building this world and showing the grand flying and fight scenes; The direction on a microscale is pretty good as it shows the internal struggle Hiccup has with his father and how he doesn't want to be a Viking or hurt others; The storytelling is pretty similar to other Dreamworks movies and pretty predictable given this is a PG movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jay Baruchel"
+          },
+          "rating": "Pretty Good",
+          "comments": "Feels a little too old playing this role, but does a pretty good job embodying the awkwardness and nerdy nature of Hiccup"
+        },
+        {
+          "actor": {
+            "name": "Gerard Butler"
+          },
+          "rating": "Good",
+          "comments": "Really embodies the character and the big stature the chief has over Berk and the disconnect he has with his son"
+        },
+        {
+          "actor": {
+            "name": "Craig Ferguson"
+          },
+          "rating": "Pretty Good",
+          "comments": "He plays his role well and has pretty good chemistry with Baruchel"
+        },
+        {
+          "actor": {
+            "name": "America Ferrera"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the female lead decently well but does not really have the best chemistry with Baruchel"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "A pretty all-star cast, but it feels like they are just speaking and not really embodying the characters they are portraying"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Will Davies"
+        },
+        {
+          "name": "Dean DeBlois"
+        },
+        {
+          "name": "Chris Sanders"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is a similar trope to the \"Dances with Wolves\" teen who learns to be with the opposition rather than fight them; though it does so in a way that is palatable for children and makes them care for the dragons and the characters; the plot structure is very linear and formulaic, especially for a DreamWorks property, because the movie is pretty short and the pacing is very fast; the character writing is good as they do paint Hiccup as this multi-dimensional character who has to go against what his father wants for him because of his morals, and they do a good job showing the growth in all the characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Will Davies"
+        },
+        {
+          "name": "Dean DeBlois"
+        },
+        {
+          "name": "Chris Sanders"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is good and memorable, especially for a PG movie; The humor is mostly attached to your caring about these characters; The symbolism is pretty strong as the movie touches on the tough father-son dynamic between two generations with different morals; The foreshadowing is strong as the movie plants roots that are uprooted towards the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Powell"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Very memorable score that helps build the world and sets the tone"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Darren Holmes"
+        },
+        {
+          "name": "Maryann Brandon"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Sharp and clean"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "It helps with building this grand world"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "For the time, it was probably very good; but this style of CGI animation that DreamWorks was known for in the 2000s has not aged well at all, as the technology looks very out-of-date; something that was going to happen when studios favored technology-dependent 3D animation over timeless 2D animation"
+    },
+    "pacing": "Pacing is incredibly fast as the movie breezes through the plot to get through its short runtime; Because of these pacing issues, many of the scenes and sequences don't feel like they have time to breathe",
+    "climax": "Climax is executed well but feels very fast and short; Also, the final antagonist does not really make sense the more you think about it",
+    "tone": "Tone is similar to other DreamWorks properties, mixed with Norse and dragon mythology",
+    "final_notes": "",
+    "overall": "Overall, a pretty good movie that lays the foundation for a memorable franchise and lovable characters like Hiccup, Toothless, and Stoick; but, it is held back by its incredibly fast pace and dated 3D animation"
+  },
+  "release_year": 2010,
+  "review_date": "05/31/2025",
+  "redux": false,
+  "id": 565,
+  "imdb_id": "tt0892769"
+}

@@ -1,0 +1,145 @@
+{
+  "title": "No Time to Die",
+  "rating": 8.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Cary Joji Fukunaga"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Was able to choreograph the fight and action scenes very well as well as the interpersonal dialogue heavy scenes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Daniel Craig"
+          },
+          "rating": "Very Good to Great",
+          "comments": "A good send-off performance for the character he is most known for as he really takes command of every scene he is in (though there are some small minor hiccups that take this from going above and beyond his other Bond performances)"
+        },
+        {
+          "actor": {
+            "name": "Rami Malek"
+          },
+          "rating": "Pretty Bad performance",
+          "comments": "It felt very lazy and his overall acting and mannerisms did not feel that menacing as a Bond villain"
+        },
+        {
+          "actor": {
+            "name": "Léa Seydoux"
+          },
+          "rating": "Good",
+          "comments": "A good scene partner and love interest to Bond"
+        },
+        {
+          "actor": {
+            "name": "Ana de Armas"
+          },
+          "rating": "Very Good",
+          "comments": "Even though she was barely in the movie, she plays her ditsy, Bond girl character very well"
+        },
+        {
+          "actor": {
+            "name": "Lashana Lynch"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Was able to make the most out of the dialogue she was given as she plays the up-incoming, hotshot trope well"
+        },
+        {
+          "actor": {
+            "name": "Jeffrey Wright"
+          },
+          "rating": "Very Good",
+          "comments": "A nice return from a memorable Bond character as Wright pays to his strengths very well with this performance"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Mostly about the main cast; some questionable performances from some of the minor villains"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Neal Purvis"
+        },
+        {
+          "name": "Robert Wade"
+        },
+        {
+          "name": "Cary Joji Fukunaga"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The layout of Bond coming out of retirement and why certain pieces tie together make it be a good closure to the whole Daniel Craig Bond Saga; though there were some questionable story elements towards the end (filed with predictable cliches)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Neal Purvis"
+        },
+        {
+          "name": "Robert Wade"
+        },
+        {
+          "name": "Cary Joji Fukunaga"
+        },
+        {
+          "name": "Phoebe Waller-Bridge"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Some of the dialogue was fine but there were some elements where it was easy to predict what was going to be said and what was coming up; it was very obvious where Phoebe Waller-Bridge came in to edit the screenplay to add more comedic elements because it just felt very forced and not funny (though some of the wittier/typical Bond jokes did hit)"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "Took elements of old Bond themes while also captured new themes to make it work well (this was Hans Zimmer after all)"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Linus Sandgren"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Elliot Graham"
+        },
+        {
+          "name": "Tom Cross"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "sound": {
+      "rating": "Great",
+      "comments": "Really enjoyed the moments where Bond's hearing is recovering in a fight from close proximity to an explosion"
+    },
+    "visual_effects": {
+      "rating": "Great"
+    },
+    "plot_structure": "Plot Structure was good for the most part (I felt the exposition really help play into the trust issues for Bond, but I feel like the resolution was very lackluster)",
+    "pacing": "Pacing was good because even though it was a long movie the pacing was consistent for the most part (no need to cut anything)",
+    "climax": "Build to climax was good because it was clear what was needed and how it was important to the story; climax was executed very nicely in terms of action (but in terms of story it was a bit cliche and predictable)",
+    "tone": "Tone was constant for the most part because it tried to be the typical bond movie (but like an older bond who is coming out of retirement one last time (though the break in tone for the comedy scenes were really annoying))",
+    "final_notes": "The finishing touches for Craig as bond were displayed very well throughout the movie as you can see him make peace with his time as the character as he shows his experience but also shows his closure at the same time",
+    "overall": "Overall, a nice conclusion to Daniel Craig as James Bond as we get to see him close out the character on his own terms in a very action packed, emotional manner, but the movie does not really compete with his other movies like Skyfall and Casino Royale due to the subpar screenplay/story and questionable performances from Rami Malek and some of the minor characters"
+  },
+  "release_year": 2021,
+  "review_date": "03/25/2022",
+  "redux": false,
+  "id": 248,
+  "imdb_id": "tt2382320"
+}

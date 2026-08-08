@@ -1,0 +1,158 @@
+{
+  "title": "Tron: Ares",
+  "rating": 4.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Joachim Rønning"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is good, as this movie is very visually pleasing and immerses you into this cyberpunk world, even though many of these sequences feel way longer than they needed to be; The direction on a microscale is horrible because almost all of the acting is stiff, and the dialogue is just so bad that it is very obvious they put no effort into this half of the movie; The storytelling is terrible because the writing is just so bad, and the acting is so bland that there is nothing really to say, especially considering almost all the budget went into the visuals and action sequences; They build tension so poorly because so many scenes are just unnecessarily bloated that you just get bored and uninvested in what is going on"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jared Leto"
+          },
+          "rating": "Decent",
+          "comments": "Considering he plays an AI with barely any emotion, they kind of wrote this part to play to Jared Leto's strengths"
+        },
+        {
+          "actor": {
+            "name": "Greta Lee"
+          },
+          "rating": "Very Bad",
+          "comments": "It is just so toneless and bad that even the AI characters have more personality than her"
+        },
+        {
+          "actor": {
+            "name": "Evan Peters"
+          },
+          "rating": "Terrible",
+          "comments": "Just too over-the-top that it's just obnoxious and annoying; Cannot connect with anyone; I feel like most of his performance is bad because he's just given terrible dialogue to work with"
+        },
+        {
+          "actor": {
+            "name": "Jodie Turner-Smith"
+          },
+          "rating": "Pretty Bad",
+          "comments": "A little too robotic and stiff, but she plays an AI, so it is somewhat understandable"
+        },
+        {
+          "actor": {
+            "name": "Hasan Minhaj"
+          },
+          "rating": "Bad",
+          "comments": "This forced comedic relief character is just not funny whatsoever"
+        },
+        {
+          "actor": {
+            "name": "Arturo Castro"
+          },
+          "rating": "Bad",
+          "comments": "This dude literally plays the same character in every movie I have seen him in"
+        },
+        {
+          "actor": {
+            "name": "Gillian Anderson"
+          },
+          "rating": "Decent",
+          "comments": "Plays the mother figure decently well;"
+        },
+        {
+          "actor": {
+            "name": "Jeff Bridges"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Basically a fan service cameo"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "What you would expect from a big-budget movie with bad filmmaking and writing"
+      },
+      "rating": "Very Bad to Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David DiGilio"
+        },
+        {
+          "name": "Jesse Wigutow"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is just so useless and fake, it's all an allegory for being skeptical about AI and technology, but it is just so shallow and formulaic that it doesn't provide any meaningful commentary; the plot structure is incredibly bloated despite the story being very minimal; character writing is terrible as the AI developing feelings is so cliché, and none of the human characters have any personality to care for them"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jesse Wigutow"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue is atrocious and unnatural; the humor is terrible because they try way too hard to be funny with all these comedic relief characters and moments, but I laughed maybe 1.5 times; the symbolism is so cliche and forced as this movie is supposed to show the dangers of AI and tech, while also showing an AI developing feelings; the foreshadowing is obvious because this movie is incredibly predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Nine Inch Nails"
+        }
+      ],
+      "rating": "Very Good to Great",
+      "comments": "The best thing about this movie is that Nine Inch Nails is the perfect fit to fill the void Daft Punk left; if you treat this movie as a Nine Inch Nails Visualizer for their new album, it is not so bad"
+    },
+    "soundtrack": {
+      "rating": "Very Good to Great",
+      "comments": "See score notes"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jeff Cronenweth"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Standard big-budget cinematography, did enjoy some of the shots in the techno-cyberpunk world they created"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tyler Nelson"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "There are just so many scenes that go on way longer than they need to be, making the movie feel bloated and dragging"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "It should be good, considering how much money they put into this movie"
+    },
+    "visual_effects": {
+      "rating": "Very Good",
+      "comments": "Is a highlight of this movie because the movie is very visually impressive, showing how much money went into this movie; I was a fan of the 80s campy grid because it felt both nostalgic and unique"
+    },
+    "production_design": {
+      "rating": "Good to Very Good",
+      "comments": "Mostly a green screen, but they did create a techno-cyberpunk world that is visually appealing"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Standard Tron outfits"
+    },
+    "pacing": "Pacing is incredibly slow because this movie just drags out way too many scenes and shows off its visuals for too long, which makes the movie feel bloated and boring",
+    "climax": "Climax is entertaining",
+    "tone": "Tone is definitely the sci-fi, cyberpunk action movie you would expect, but it is also just a bad studio movie in its dramatic moments, and even in its action sequences",
+    "final_notes": "",
+    "overall": "Overall, if you treat this movie as a Nine Inch Nails visualizer for their new album, it is not so bad; but Tron: Ares just lacks any personality with its terrible writing, bad acting, and bad direction as this movie put all its chips into making a visually impressive movie; and that's the reason why it's failing at the box office and with audiences"
+  },
+  "release_year": 2025,
+  "review_date": "10/15/2025",
+  "redux": false,
+  "id": 614,
+  "imdb_id": "tt6604188"
+}

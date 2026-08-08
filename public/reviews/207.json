@@ -1,0 +1,108 @@
+{
+  "title": "Interstellar",
+  "rating": 9.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Christopher Nolan"
+        }
+      ],
+      "rating": "Great to Incredible"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Matthew McConaughey"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays his stereotypical character"
+        },
+        {
+          "actor": {
+            "name": "Anne Hathaway"
+          },
+          "rating": "Pretty Good",
+          "comments": "But pretty annoying at times"
+        },
+        {
+          "actor": {
+            "name": "Jessica Chastain"
+          },
+          "rating": "Good to Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Good"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jonathan Nolan"
+        },
+        {
+          "name": "Christopher Nolan"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jonathan Nolan"
+        },
+        {
+          "name": "Christopher Nolan"
+        }
+      ],
+      "rating": "Incredible to Brilliant",
+      "comments": "Symbolism and foreshadowing were carried out very effectively; even though a lot of the science was accurate, the ending was very convoluted"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hans Zimmer"
+        }
+      ],
+      "rating": "Brilliant",
+      "comments": "Hans Zimmers best work"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Hoyte van Hoytema"
+        }
+      ],
+      "rating": "Incredible to Brilliant"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Lee Smith"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "sound": {
+      "rating": "Incredible"
+    },
+    "visual_effects": {
+      "rating": "Brilliant"
+    },
+    "production_design": {
+      "rating": "Great"
+    },
+    "pacing": "Pacing was pretty slow and dragged from the story at points; Runtime was very long to the point where past the 1 hour mark a lot of the movie seemed very dragging (About 30 minutes of the movie could be cut/rearranged and the product would have been better)",
+    "climax": "The build to the climax (though very slow and steady) went along very well but the climax itself was extremely convoluted and really made the movie seem very pretentious",
+    "final_notes": "The resolution of the film was incredible and emotional as the final 5-10 minutes were some of the best parts of the film; The relationship between Cooper and his daughter was carried out very well as it is a driving force for many of the actions for the character as he has to weigh out his professional and personal obligations",
+    "overall": "Overall, a movie with brilliant moments and brilliant aspects that is dragged down by its extremely long runtime and slow pace; despite all of this, the movie was great as it explores the relationship between family and profession against the backdrop of a space exploration epic in one of Nolan's finest moments (even though he may falter at times)"
+  },
+  "release_year": 2014,
+  "review_date": "07/05/2021",
+  "redux": false,
+  "id": 207,
+  "imdb_id": "tt0816692"
+}

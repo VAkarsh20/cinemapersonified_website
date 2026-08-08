@@ -1,0 +1,82 @@
+{
+  "title": "The Exorcist",
+  "rating": 8.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "William Friedkin"
+        }
+      ],
+      "rating": "Great"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Great",
+        "comments": "By the entire cast (Standouts were Miller, Burstyn, and Blair)"
+      },
+      "rating": "Great"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "William Peter Blatty"
+        }
+      ],
+      "rating": "Very Good to Great"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "William Peter Blatty"
+        }
+      ],
+      "rating": "Great",
+      "comments": "Filled with symbolism on Crisis of Faith"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jack Nitzsche"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Iconic Theme but the lack of a score at most parts made the film more boring"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Jordan Leondopoulos (supervising)"
+        },
+        {
+          "name": "Evan A. Lottman"
+        },
+        {
+          "name": "Norman Gay"
+        },
+        {
+          "name": "Bud Smith"
+        }
+      ],
+      "rating": "Great"
+    },
+    "visual_effects": {
+      "rating": "Great",
+      "comments": "For the time"
+    },
+    "makeup": {
+      "rating": "Great",
+      "comments": "For the time"
+    },
+    "plot_structure": "Plot Structure was an issue (the first 30 minutes of the movie were extremely boring and pointless to the story (if this was cut and spread throughout the movie for the allusion of the possession and actual exorcism could make the movie a lot better))",
+    "pacing": "Pacing was completely off cause it was a tale of two movies: first half was extremely boring and slow while the second half was very fast paced and exciting",
+    "climax": "Climax was extremely intense and very scary as it shows the devil's work in the possession (Something that was very ahead of its time)",
+    "final_notes": "Many plot holes/lead-ups that are never addressed",
+    "overall": "Overall, even though the movie does falter a lot in the development of its plot and pacing, The Exorcist is a groundbreaking movie in the horror genre (With its direction, screenplay, and acting) and stands up to be one of the most iconic movies not only in its genre but all time"
+  },
+  "release_year": 1973,
+  "review_date": "05/13/2021",
+  "redux": false,
+  "id": 188,
+  "imdb_id": "tt0070047"
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Being John Malkovich",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Spike Jonze"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is surrealist and funny to create this dry comedy that makes you question what you are watching; the direction on a microscale is pretty funny with how silly and absurdist it is, but also still makes you wonder what you are watching; Spike Jonze's  storytelling perfectly complements Charlie Kaufman's quirky and unique writing to create this surrealist and imaginative world that makes you question what it means to be alive and sentient"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "John Cusack"
+          },
+          "rating": "Good",
+          "comments": "Plays this dorky character that has good chemistry with the cast as he tries to impress Keener, despite his relationship with Diaz; has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Cameron Diaz"
+          },
+          "rating": "Good",
+          "comments": "Plays a performance very atypical to her filmography as she is this neurotic and anxious wife who is very unsure of her marriage with Cusack as she becomes enamored with Keener; has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Catherine Keener"
+          },
+          "rating": "Very Good",
+          "comments": "The best performance in the cast as she presents comedic, seductive, and persuasive tones to create a character that people are drawn to, for different reasons; has very good chemistry with Cusack and Diaz"
+        },
+        {
+          "actor": {
+            "name": "John Malkovich"
+          },
+          "rating": "Good",
+          "comments": "Plays himself well as he is merely a vessel for the plot to move forward"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everybody plays their role well and has good chemistry with each other"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Charlie Kaufman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is very unique and interesting, maybe even a little too unique, as it explores what it means to be alive in such a surrealist and absurdist way; the plot structure is pretty linear and straightforward; character writing is pretty good as it definitely paints caricatures that help move the plot forward, with Keener's character being the best written"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Charlie Kaufman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is pretty silly and funny, while also being profound in its discussion of philosophy; the humor is very dry and absurdist, and helps add to the silly comedy of this movie; the symbolism is very strong and meaningful as it touches on themes of what it means to be human; the foreshadowing is pretty standard"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Lance Acord"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Uses a lot of forced perspective and and movie magic to help add to the surrealist and absurdist tone of the movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eric Zumbrunnen"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps add ot the surrealist and absurdist tone of the movie; has a lot of late 90s editing techniques that feel a bit dated"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Uses a lot of practical effects to emulate the puppeteering nature of the movie; uses a lot of forced perspective and movie magic to help add to the surrealist and absurdist tone of the movie; has a lot of late 90s effects that feel a bit dated"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "The office adds to the silly nature of the movie and uses a lot of forced perspective to help with the effects of the movie"
+    },
+    "pacing": "Pacing is pretty good for the most part, but kinda drags in the second half",
+    "climax": "Climax is pretty good",
+    "tone": "Tone is very surrealist and absurdist to create this silly comedy that has signature traits of both Spike Jonze and Charlie Kaufman",
+    "final_notes": "",
+    "overall": "Overall, this marks a strong feature directorial and written debut from Spike Jonze and Charlie Kaufman, showcasing their signature absurdist and surrealist styles; this silly comedy successfully creates a thought-provoking narrative that touches on identity and what it means to be sentient"
+  },
+  "release_year": 1999,
+  "review_date": "11/25/2025",
+  "redux": false,
+  "id": 629,
+  "imdb_id": "tt0120601"
+}

@@ -1,0 +1,108 @@
+{
+  "title": "The Imitation Game",
+  "rating": 8.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Morten Tyldum"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Gets the job done and is very similar to that of other British Bio-pics (nothing amazing or bad)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Benedict Cumberbatch"
+          },
+          "rating": "Incredible",
+          "comments": "Really embodies the character very well as he commands every scene he is in to bring to life an important figure in history"
+        },
+        {
+          "actor": {
+            "name": "Keira Knightley"
+          },
+          "rating": "Good to Very Good",
+          "comments": "While her performance is not incredibly impactful, she does stand out from the rest of the cast as she is able to be a good scene partner to get the best out of Cumberbatch in their scenes together"
+        },
+        {
+          "actor": {
+            "name": "Matthew Goode"
+          },
+          "rating": "Good",
+          "comments": "Really brings the wit and comedic charm to the movie as he acts as a rival/colleague to Alan Turing"
+        },
+        {
+          "actor": {
+            "name": "Mark Strong"
+          },
+          "rating": "Good",
+          "comments": "Plays the typical Mark Strong character but is fine in his role for this movie"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good to Good",
+        "comments": "Very British Bio-pic/BBC esque in their acting"
+      },
+      "rating": "Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Graham Moore"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Helps paint the life of Alan Turing well (though with many elements fabricated) and shows the struggles he had to go through in his personal life as he was excelling in his public one"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Graham Moore"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Mixes wit with dialogue very well"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "Good"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Óscar Faura"
+        }
+      ],
+      "rating": "Good"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "William Goldenberg"
+        }
+      ],
+      "rating": "Good"
+    },
+    "sound": {
+      "rating": "Good"
+    },
+    "plot_structure": "Plot Structure was decent for the most part but really kinda falls off given the climax happens with almost 20-30 minutes left in the movie (making the rest seem like it is dragging)",
+    "pacing": "Pacing was a bit on the slower side (with the last 20-30 minutes really dragging; could have probably cut this section in half)",
+    "climax": "Build to climax was there and decently executed; climax was decently executed but happens a bit too early into the movie",
+    "tone": "Tone was very british biopic-esque as it is very similar to other films in this genre",
+    "final_notes": "",
+    "overall": "Overall, a good movie that presents an important story in history (Alan Turing) and is carried by an incredible performance from Benedict Cumberbatch, but is pretty simplistic in execution and drags a bit towards the end"
+  },
+  "release_year": 2014,
+  "review_date": "06/28/2022",
+  "redux": false,
+  "id": 267,
+  "imdb_id": "tt2084970"
+}

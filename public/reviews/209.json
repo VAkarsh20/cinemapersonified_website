@@ -1,0 +1,95 @@
+{
+  "title": "Pulp Fiction",
+  "rating": 9.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Quentin Tarantino"
+        }
+      ],
+      "rating": "Great"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "John Travolta"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "Samuel L. Jackson"
+          },
+          "rating": "Great to Incredible"
+        },
+        {
+          "actor": {
+            "name": "Uma Thurman"
+          },
+          "rating": "Very Good to Great"
+        },
+        {
+          "actor": {
+            "name": "Harvey Keitel"
+          },
+          "rating": "Good to Very Good"
+        },
+        {
+          "actor": {
+            "name": "Bruce Willis"
+          },
+          "rating": "Good to Very Good"
+        }
+      ],
+      "cast": {
+        "rating": "Very Good"
+      },
+      "rating": "Very Good to Great"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Quentin Tarantino"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "Especially how it was set up as individual stories to mimic the \"pulp\" magazine style Tarantino was going for; also, the foreshadowing and how all the stories tie together was excellently pulled off"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Quentin Tarantino"
+        }
+      ],
+      "rating": "Incredible to Brilliant",
+      "comments": "The prime example of Tarantino dialogue"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sally Menke"
+        }
+      ],
+      "rating": "Very Good"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Good subtle use of visual effects (gives the movie a very fictionally story feel)"
+    },
+    "production_design": {
+      "rating": "Great",
+      "comments": "Helps give the movie the vibe it was going for"
+    },
+    "pacing": "Pacing was good as it was quick and got the job done; Runtime was a bit on the longer side but the movie is broken up into multiple stories so it doesn't present too much of problem",
+    "climax": "There is no real apparent climax but the build to the last couple of scenes helps draw and put all the stories together (with the last monologue from Jackson showing his character development)",
+    "final_notes": "Good use of music to substitute score (Helps with establishing the vibe/mood of the film); the movie is a bit shallow in terms of its meaning (though it does have prominent reoccurring symbols) but Tarantino was looking more to present stories that mimicked that of pulp magazines (cheap, graphic magazines that give you entertainment for a small fee))",
+    "overall": "Overall, a great movie that was a real trendsetter for movies to come after with this Tarantino-esque dialogue, action, violence, and storytelling, but it a bit overrated considering it was a major reason for better movies to come after"
+  },
+  "release_year": 1994,
+  "review_date": "07/11/2021",
+  "redux": false,
+  "id": 209,
+  "imdb_id": "tt0110912"
+}

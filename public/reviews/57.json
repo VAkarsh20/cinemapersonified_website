@@ -1,0 +1,69 @@
+{
+  "title": "Prisoners",
+  "rating": 9.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Denis Villeneuve"
+        }
+      ],
+      "rating": "Incredible to Great"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Hugh Jackman"
+          },
+          "rating": "Incredible"
+        },
+        {
+          "actor": {
+            "name": "Jake Gyllenhaal"
+          },
+          "rating": "Incredible"
+        }
+      ],
+      "cast": {
+        "rating": "Great",
+        "comments": "Despite some hiccups of overacting at some points"
+      },
+      "rating": "Great to Incredible"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Aaron Guzikowski"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Aaron Guzikowski"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "Filled with symbolism throughout"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Roger A. Deakins"
+        }
+      ],
+      "rating": "Incredible"
+    },
+    "pacing": "Pacing was good overall but was slower at sometimes and seemed pretty rushed towards the end; the runtime of the movie was a little too long as 15-20 minutes of the movie that could definitely been cut to show off the same product",
+    "climax": "Build to the climax was very well executed",
+    "final_notes": "",
+    "overall": "Overall, one of the best movies about serial crime that looks into the trauma and effects searching for lost love ones can have on a father, family, and detective searching"
+  },
+  "release_year": 2013,
+  "review_date": "02/18/2018",
+  "redux": true,
+  "id": 57,
+  "imdb_id": "tt1392214"
+}

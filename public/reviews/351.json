@@ -1,0 +1,125 @@
+{
+  "title": "Asteroid City",
+  "rating": 5.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Wes Anderson"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "Anderson carries his very unique style from a macro scale as it feels like the set is a part of a stage/doll-house (which is kinda meta given the subject matter); the main issue with the movie is with the storytelling as the very convoluted and meta (which is Anderson's style), coupled with the very dull acting from the rest of the cast (something that Anderson for sure had a hand in)"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jason Schwartzman"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Scarlett Johansson"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Tom Hanks"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Jeffrey Wright"
+          },
+          "rating": "Decent"
+        },
+        {
+          "actor": {
+            "name": "Bryan Cranston"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Only actor to show some ounce of emotion"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "The entire cast was very bland and it felt like none of the actors were able to work off of each other (which makes me think Wes Anderson really does not get the most out of his actors)"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        },
+        {
+          "name": "Roman Coppola"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The actual story elements were somewhat interesting, but the storytelling as a whole was convoluated for no reason and the meta storytelling of weaving the play with the writing of the play made the mode unnecessarly confusing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Wes Anderson"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue was incrediblely Wes Anderson but was not really interesting at all, the jokes were incredibly meta/non-sequitor, the symbolism was really faint and not really that compelling as a message, the foreshadowing was present but was also predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "Was barely even present (which made the movie feel dull overall)"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Robert Yeoman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Was Wes Anderson to a Tee from the amount of shots/angle changes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Barney Pilling"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Felt incredibly choppy when it was cutting between shots, but was pretty good when transitioning between scenes"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The low-budget feel gives makes it seem as if it is a play (which it is trying to do)"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Very Wes Anderson with its use of cheap sets and color palletes (something I do enjoy about his movies)"
+    },
+    "plot_structure": "Plot Structure was a mess as weaving between the top level narration with the play itself made it unnecessarily confusing with it leaving no room for the main story (the play) to actually develop",
+    "pacing": "Pacing was on the faster side as it tried to mimic that of a play (but it felt like there could have been 15-20 minutes of more plot to make the story more interesting)",
+    "climax": "Climax was incredibly boring as it did not really feel like anything happened",
+    "tone": "Tone was very Wes Anderson as it was quirky with mixes of non-sequitor humor",
+    "final_notes": "",
+    "overall": "Overall, a very Wes Anderson movie that misses the mark as his typical confusing storytelling and bland dialogue/acting outweighs his strengths in cinematography and produciton design as the movie just feels very boring and not memorable"
+  },
+  "release_year": 2023,
+  "review_date": "06/28/2023",
+  "redux": false,
+  "id": 351,
+  "imdb_id": "tt14230388"
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Freakier Friday",
+  "rating": 6.3,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Nisha Ganatra"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is very Gen Z and pretty safe, basically if the original movie was made today; the direction on a microscale is surprisingly good as it is carried by the chemistry of the cast, especially the two leads; the storytelling is pretty bland because it is literally the same movie as the first, though it does touch on different familial topics"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jamie Lee Curtis"
+          },
+          "rating": "Good",
+          "comments": "Picks up where she left off, as her chemistry with Lohan really makes this movie, as both are two halves to an entertaining duo that makes this movie fun and interesting"
+        },
+        {
+          "actor": {
+            "name": "Lindsay Lohan"
+          },
+          "rating": "Good",
+          "comments": "Picks up where she left off, as her chemistry with Curtis really makes this movie, as both are two halves to an entertaining duo that makes this movie fun and interesting; I really hope she can parlay this into a full comeback because she was stunning in this movie and really makes these types of comedies work"
+        },
+        {
+          "actor": {
+            "name": "Julia Butters"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the younger daughter character well, and I can see promise in her future, as her screen presence is mature despite her age"
+        },
+        {
+          "actor": {
+            "name": "Sophia Hammons"
+          },
+          "rating": "Pretty Good"
+        },
+        {
+          "actor": {
+            "name": "Manny Jacinto"
+          },
+          "rating": "Pretty Good"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Generic background DCOM-style actors, what you would expect from a movie like this"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Elyse Hollander"
+        },
+        {
+          "name": "Jordan Weiss"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is literally the same as the first movie, except that it's even freakier; if the first movie was very early 2000s, this one is very Gen Z; the plot structure is linear and simple considering it's the exact same movie as the first; character writing is pretty good as you relate to and cheer for these characters, especially the main two returning, because it paints depth that shows the insecurities they are going through"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Jordan Weiss"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is pretty cringey and Gen Z, but still entertaining; The humor misses a good amount because of how cringey it is, but it does hit at times and is still enjoyable; The symbolism is deeper than the first as it touches on a lot of topics of loss, family, and parenthood; The foreshadowing gives the movie away considering this is a Disney movie and it is literally the same as the first"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Amie Doherty"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Light and upbeat, what you would expect from a Disney movie;"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Pretty tone-deaf, as it's very much executives being like, \"How do you do, fellow kids\""
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Matthew Clark"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eleanor Infante"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Pretty Gen Z-style editing; safe for the most part"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "enjoyed the costumes as they gave the characters flair and style"
+    },
+    "pacing": "Pacing is a little bit slower as it is longer than the first movie, but it is still fine for the most part",
+    "climax": "Climax is heartwarming and fun, making the movie entertaining and worth watching;",
+    "tone": "Tone is still very much a DCOM with a big budget; if the first movie was very Early 2000s, this is every Gen Z",
+    "final_notes": "",
+    "overall": "Overall, it's nice to see Jamie Lee Curtis and Lindsay Lohan back together because their dynamic still makes this movie fun and worth watching, but this is literally a Gen Z remake of the first movie that's just a little too freaky this time around; even though it does have its issues, I really do hope Lohan can parlay this into a full comeback because she was stunning in this movie and really makes these types of comedies work"
+  },
+  "release_year": 2025,
+  "review_date": "09/09/2025",
+  "redux": false,
+  "id": 596,
+  "imdb_id": "tt31956415"
+}

@@ -1,0 +1,142 @@
+{
+  "title": "Ratatouille",
+  "rating": 9.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Brad Bird"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The direction on a macroscale captures the essence of Paris and the kitchen in a Pixar way; The direction on a microscale is very good, as you see the motivations of all the characters; The storytelling is very Pixar, using emotions and connection to the characters to drive the story forward; They build tension very well, as the chase and kitchen sequences really keep you invested in how things will play out, but you kind of know what is going to happen because this is a family movie at the end of the day"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Patton Oswalt"
+          },
+          "rating": "Great",
+          "comments": "Captures Remy well and makes you really care for the character;"
+        },
+        {
+          "actor": {
+            "name": "Lou Romano"
+          },
+          "rating": "Good",
+          "comments": "Plays the young, naive character well and has good chemistry with the \"little chef\""
+        },
+        {
+          "actor": {
+            "name": "Ian Holm"
+          },
+          "rating": "Very Good",
+          "comments": "Plays the villain well as his menacing nature makes you actively root against him"
+        },
+        {
+          "actor": {
+            "name": "Brad Garrett"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays Remy's conscious, as well as the chemistry they have, really helps drive the protagonist's character arc"
+        },
+        {
+          "actor": {
+            "name": "Peter O'Toole"
+          },
+          "rating": "Good to Very Good",
+          "comments": "Plays the critic role well, as you do get a glimpse of his character from all the scenes you see him in"
+        },
+        {
+          "actor": {
+            "name": "Janeane Garofalo"
+          },
+          "rating": "Very Good",
+          "comments": "Plays the love interest well, as her chemistry with Romano helps influence Linguini's decisions"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Everyone plays their role well; the cast feels like a traditional Pixar movie; they are very talented people who create memorable characters to drive the story forward"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Jan Pinkava"
+        },
+        {
+          "name": "Jim Capobianco"
+        },
+        {
+          "name": "Brad Bird"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The concept is a cute story that at its heart is about how 'anyone can cook,' using an upscale Parisian kitchen and a rat to help articulate this point; the plot structure is pretty linear and similar to many other Pixar movies; the character writing is very on par with other Pixar classics, so amazing as they create extremely memorable characters that make you care about the plot and the story, especially Remy"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Brad Bird"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is simple, yet profound, as it all stems from the idea that 'anyone can cook'; the dialogue is exactly what you would want from a Pixar movie that is watched by all ages; the humor is very on par with other Pixar classics, as it has something for everyone; the symbolism is very strong, as it stems from the idea that there is greatness in everyone; the foreshadowing is used very well, as it foreshadows character journeys, but is not so formulaic as to give away the ending"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Michael Giacchino"
+        }
+      ],
+      "rating": "Incredible",
+      "comments": "An incredible memorable score that infuses French themes to feel like you are transported to Paris"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "More about the main song, as it is an extension of the score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Sharon Calahan"
+        },
+        {
+          "name": "Robert Anderson"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Used well to help juxtapose this little chef across the Parisian metropolis and grand kitchen"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Darren T. Holmes"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "Sharp, like a kitchen knife's edge"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "Helps capture the movie and make it sound realistic, despite its being animated"
+    },
+    "animation": {
+      "rating": "Incredible",
+      "comments": "Very true to Pixar's golden era, it effectively captures the size difference between Remy and Paris/the kitchen; still holds up very well almost 20 years later"
+    },
+    "pacing": "Pacing is good as this movie is one of the longer animated movies, and it uses this runtime effectively",
+    "climax": "Climax is executed very well, and is the right ending for this movie",
+    "tone": "Tone is very Pixar, mixed with Parisian themes",
+    "final_notes": "",
+    "overall": "Overall, a great film that is a testament to Pixar's golden era, as Brad Bird creates such a profound story through a rat being a cook in a Parisian kitchen to show such a simple theme, \"Anyone Can Cook\""
+  },
+  "release_year": 2007,
+  "review_date": "07/03/2025",
+  "redux": false,
+  "id": 577,
+  "imdb_id": "tt0382932"
+}

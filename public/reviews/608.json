@@ -1,0 +1,124 @@
+{
+  "title": "Good Luck, Have Fun, Don't Die",
+  "rating": 4.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Gore Verbinski"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is a little chaotic and messy, with its messaging being a little too boomerish; The direction on a microscale is pretty good despite how chaotic it is, as it makes the movie feel more like a comedy; The storytelling is really all over the place, as it tries so hard to make commentary on technology and AI, but it is just very out of touch that it feels very boomerish; The storytelling also collapses towards the end with how it ends"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sam Rockwell"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Not his best performance, as it's just a little too wacky and all over the place, but he is such an experienced actor that he makes it work; he has decent chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Haley Lu Richardson"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays a role that is really suited to her strengths as it's a character we have seen her play before; Has pretty good deadpan comedic timing and emotional depth; Has decent chemistry with Rockwell"
+        },
+        {
+          "actor": {
+            "name": "Michael Peña"
+          },
+          "rating": "Decent",
+          "comments": "Kind of really just there; doesn't have much to work with"
+        },
+        {
+          "actor": {
+            "name": "Zazie Beetz"
+          },
+          "rating": "Decent",
+          "comments": "Kind of really just there; doesn't have much to work with"
+        },
+        {
+          "actor": {
+            "name": "Juno Temple"
+          },
+          "rating": "Good to Very Good",
+          "comments": "The best performance in the movie is as she gives a lot of emotional depth as she is processing her grief; It works really well with Rockwell and the rest of the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Everyone plays their role as the performances were decent across the board"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Matthew Robinson"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is honestly not good because it's supposed to be this Groundhog Day type movie that is commentary on technology and AI, but it is not good at either; that it just comes off as out-of-touch and boomerish; The conflict is also just not that interesting; The plot structure is a mess because it has these vignettes throughout the movie to show characters' backstories, but only the Juno Temple one is interesting; Also, with how this movie ends, you feel like you wasted your entire time watching this movie; Character writing is pretty good for Rockwell, Temple, and Lu Richardson's characters because it does paint them with interesting backstories, but the rest of the characters are just bad"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matthew Robinson"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is honestly so out of touch and boomerish that it just feels preachy and bad; The humor is not that great for the most part, but the black comedy moments in the Temple vignette are pretty funny; The symbolism is so on the nose that it just feels out of touch and boomerish; The foreshadowing is not that great and feels negated with how this movie ends"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Geoff Zanelli"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "James Whitaker"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels kinda low-budget, which is indicative that this movie probably did not have many resources"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Feels kinda low-budget, which is indicative of this movie probably not having that much resources"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "Feels kinda tacky and low-budget, also, for a movie that does not use AI, a lot of the visuals look AI generated; The greenscreen parts looked really off"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Feels low budget, but helps give the movie a makeshift future feel at moments"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Feels low budget, but helps give the movie a makeshift future feel at moments"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "Rockwell's costume looked a little tacky, but it did personify him and the futuristic chaos of the movie"
+    },
+    "pacing": "Pacing is on the slower side with how this movie's plot is structured, and it felt like a slog because of how much I didn't enjoy it",
+    "climax": "Climax is fine, but it feels incredibly pointless with how this movie ends",
+    "tone": "Tone is a messy black comedy, and the movie feels out of touch with its boomer messaging",
+    "final_notes": "Saw world premiere secret screening at Fantastic Fest; I met Gore Verbinski after the screening, and he was very nice",
+    "overall": "Overall, a messy movie that has its positive moments, like Sam Rockwell and Juno Temple's performances, but is ultimately so on-the-nose with its anti-technology and anti-AI message that it feels so out of touch and boomerish; unfortunately, Gore Verbinski isn't getting out of director's jail with this one"
+  },
+  "release_year": 2025,
+  "review_date": "09/24/2025",
+  "redux": false,
+  "id": 608,
+  "imdb_id": "tt1341338"
+}

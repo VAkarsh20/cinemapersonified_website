@@ -1,0 +1,119 @@
+{
+  "title": "Bugonia",
+  "rating": 7.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Yorgos Lanthimos"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale is very true to his style with his use of wide-angle shots and world-building, with the final sequence having his signature surrealist charm; The direction on a microscale is pretty good for the most part as it is true to his style in its dark comedy, but it also builds tension well to help make this movie feel thrilling and engaging; Storytelling is built using the tension of the situation as the abduction builds up stakes for you to be engaged with what is happening as you wait to see how everything plays out, but the ending kind of falls flat because of how rushed and disjointed the movie feels from the rest; The issues with the storytelling stem from the fact that the way the movie sets up the story is intentionally wrong, but the audience can obviously see this as they can expect what is supposed to happen"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Emma Stone"
+          },
+          "rating": "Good",
+          "comments": "Uses her experience as an actor and chemistry with Yorgos Lanthimos to propel this movie forward as she shows the smugness and how out-of-touch her character is with reality; has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Jesse Plemons"
+          },
+          "rating": "Good",
+          "comments": "Plays this anxious character well as his lack of trust in society helps fuel the dyamaic between him and Stone as well as the dynamic between him and Delbis"
+        },
+        {
+          "actor": {
+            "name": "Aidan Delbis"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays his role well as he is the emotional and moral compass for the movie; has pretty good chemistry with Plemons"
+        },
+        {
+          "actor": {
+            "name": "Stavros Halkias"
+          },
+          "rating": "Pretty Good to Pretty Good",
+          "comments": "My fucking guy"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Pretty small cast but everyone has pretty good chemistry and helps support the story, especially in helping amplify how out-of-touch Stone's character is with the common man"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Will Tracy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept feels like a story Yorgos Lanthimos would take on with how surreal and out of this world it is, but at the end of the day the movie is really an abduction movie that shows the contrast between how out of this world the elite are with the common man; The plot structure is linear as it uses tension to move the story forward and keep you invested, but it is a bit flawed with how it tries to subvert your expectations; Character writing is fine"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Will Tracy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty Yorgos; The humor is mixed in well to help make this movie feel like a Yorgos Lanthimos movie; The symbolism is strong as Emma Stone's out-of-touch nature shows that she is alienated from the common man, making her feel like she is out of this world; The foreshadowing is the biggest issue for this movie as the story intentionally tries to lead you down the wrong path, but the audience already can sense this, so when they actually reveal what is going on, it feels a little confusing and not executed well"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jerskin Fendrix"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps with setting the tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Robbie Ryan"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "Very Yorgos Lanthimos with the use of his signature angles, especially his wide-angle shots"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Yorgos Mavropsaridis"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very Yorgos Lanthimos"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Helps with building tension"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Feels mostly like a standard set, but the ending is very Yorgos Lanthimos with its surrealist sets"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Helps show the state of Stone's character after being abducted as she has shaved her head and put on a whitening cream to make her feel like she is an alien"
+    },
+    "pacing": "Pacing is pretty good for the most part, but moves a little too fast in the second half (could have maybe cut 10 minutes from the first half to make it seem more balanced)",
+    "climax": "The climax is a bit anticlimactic as the foreshadowing does a poor job setting it up as it did a poor job trying to subvert our expectations, to where the ending just feels out of place",
+    "tone": "Tone is an abduction movie, filled with humor and surrealist moments that make this feel like a Yorgos Lanthimos movie",
+    "final_notes": "",
+    "overall": "Overall, 'Bugonia' feels like a Yorgos Lanthimos movie with its signature cinematography and humor that builds up an interesting story that is commentary about how out-of-touch wealthy CEOs are with the common man as they feel 'out of this world,' but it ultimately is held back by its poor foreshadowing that does not do a good job subverting our expectations as the ending somehow feels both predictable and out of place"
+  },
+  "release_year": 2025,
+  "review_date": "12/10/2025",
+  "redux": false,
+  "id": 632,
+  "imdb_id": "tt12300742"
+}

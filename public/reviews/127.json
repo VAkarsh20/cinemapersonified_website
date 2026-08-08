@@ -1,0 +1,152 @@
+{
+  "title": "Uncut Gems",
+  "rating": 9.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Josh Safdie"
+        },
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Great to Incredible",
+      "comments": "The direction on a macroscale is great as they build this high-anxiety environment that mimics the rush of sports-betting; the direction on a microscale is great as the interpersonal scenes are high-intensity and progressively make the movie feel more anxious; the direction of actors is the best I have seen in a movie as the Safdie brothers take actors and celebrities out of their natural environment and create very polished performances (especially from Adam Sandler, Kevin Garnett, Julia Fox, and Adele Dazeem); the storytelling is great as the movie constantly builds on the anxiety to mimic the weight of Howie's debt and the rush he is trying to get to win this bet; they tension incredibly well as this whole movie is about the anxiety it induces"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Adam Sandler"
+          },
+          "rating": "Incredible",
+          "comments": "The best performance of his career as he creates a multifaceted character that is deteriorating from his own gambling debt"
+        },
+        {
+          "actor": {
+            "name": "LaKeith Stanfield"
+          },
+          "rating": "Good",
+          "comments": "He plays a character he is very comfortable with and plays well off of Sandler and his clients"
+        },
+        {
+          "actor": {
+            "name": "Julia Fox"
+          },
+          "rating": "Good",
+          "comments": "Plays the mistress very well and has good chemistry with Sandler; does a very good job given that this is her first feature film role"
+        },
+        {
+          "actor": {
+            "name": "Kevin Garnett"
+          },
+          "rating": "Good to Very Good",
+          "comments": "He is a true standout in his scenes; he seems like a professional actor and works really well off of Sandler"
+        },
+        {
+          "actor": {
+            "name": "Idina Menzel"
+          },
+          "rating": "Good",
+          "comments": "Plays off of Sandler very well as she displays the tension in their relationship"
+        }
+      ],
+      "cast": {
+        "rating": "Good",
+        "comments": "Everyone plays their part well, especially given some of the cast aren't actors"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Ronald Bronstein"
+        },
+        {
+          "name": "Josh Safdie"
+        },
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The concept is great as it shows the high-intensity environment of both the Diamond District and sports gambling; the plot structure is laid out very well; the character writing is great as Howard Ratner is the personification of gambling addiction as he is losing his life the more he piles on his bets, and the character writing for the rest of the cast is equally as good (especially Kevin Garnett and his attraction to the Opal)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Ronald Bronstein"
+        },
+        {
+          "name": "Josh Safdie"
+        },
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is very sharp and filled with many memorable lines; the humor is good as Adam Sandler uses his comedic timing to lighten the mood; the symbolism is incredibly profound as it shows the effect gambling addiction can have on an individual; the foreshadowing is good as the way the movie plays out is how it should have"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Daniel Lopatin"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "It really does not fit the mood; it is overbearing at times"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "Helps establish the time period"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Darius Khondji"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Polished and helps create this high-intensity environment"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ronald Bronstein"
+        },
+        {
+          "name": "Benny Safdie"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Polished and helps create this high-intensity environment"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Helps create tension with the amplified sounds and the increased shouting"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "Feels very cheap and amateurish"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Helps show the Diamond District and the high speed of New York City"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Adam Sandler's outfits really embody someone who works in the Diamond District and wants to show off being rich"
+    },
+    "pacing": "Pacing is fast to mimic the high intensity and rush of sports gambling",
+    "climax": "Climax is very well executed, as it is the most intense part of the movie (the final 40 minutes feels like an anxiety attack)",
+    "tone": "The tone is anxiety and sports gambling (mixed with comedy at some points)",
+    "final_notes": "This movie is the butterfly effect of Derrick Rose getting injured (Derrick Rose tears his ACL -> Philadelphia upsets the Chicago Bulls -> Philadelphia plays Boston in the 2012 NBA Playoffs)",
+    "overall": "Overall, an anxiety rush that is championed by an incredible performance from Adam Sandler and great filmmaking from the Safdie brothers as the movie's intensity mimics the rush of sports gambling; side note, this movie is the butterfly effect of Derrick Rose tearing his ACL"
+  },
+  "release_year": 2019,
+  "review_date": "05/22/2024",
+  "redux": true,
+  "id": 127,
+  "imdb_id": "tt5727208"
+}

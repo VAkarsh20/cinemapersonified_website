@@ -1,0 +1,138 @@
+{
+  "title": "Mission Impossible: The Final Reckoning",
+  "rating": 6.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Christopher McQuarrie"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macroscale is grand and epic for the action sequences, as Mission Impossible still shows why it is one of the iconic spy franchises for its stunt coordination; The world-building plays way too much like stiff and forced fan service; The direction on a microscale is typical of the other movies; The storytelling is not great, as it feels very slow as they go through such a bloated plot, and many elements of the storytelling feel like they are just for fan service; They build tension decently well in the action sequences, but do a pretty bad job building stakes; It is very obvious that the action and Tom Cruise sequences were filmed by McQuarrie and the CIA diplomatic scenes were filmed by an AD, because the latter is a lot worse than the former"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Cruise"
+          },
+          "rating": "Good",
+          "comments": "Continues to lead this franchise in the only way he knows how, through kick-ass action and stunt sequences and bringing up the rest of his cast to play on his level"
+        },
+        {
+          "actor": {
+            "name": "Hayley Atwell"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays the lead female role pretty well and has pretty good chemistry with Cruise, even though it feels very forced from a story perspective"
+        },
+        {
+          "actor": {
+            "name": "Ving Rhames"
+          },
+          "rating": "Pretty Good",
+          "comments": "It continues where he left off and shows why he is a focal point in this franchise"
+        },
+        {
+          "actor": {
+            "name": "Simon Pegg"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows why he is still an integral part of the team as he fulfills his comedic relief role very well;"
+        },
+        {
+          "actor": {
+            "name": "Henry Czerny"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Feels very stiff in comparison to the rest of the cast;"
+        },
+        {
+          "actor": {
+            "name": "Angela Bassett"
+          },
+          "rating": "Decent",
+          "comments": "Gives a very bland and emotionless performance, but is not necessarily bad"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "This is just a massive cast, so it is definitely on a spectrum; the members of the main cast do a pretty good to decent job as they have more material to work with; the true supporting cast is pretty bad to decent as they have poor execution"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Christopher McQuarrie"
+        },
+        {
+          "name": "Erik Jendresen"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is mainly just fan service as it feels like this movie serves the purpose of memorializing the franchise, and this is seen with the big montages sprinkled throughout the movie; The actual conflict is pretty lame; The plot structure is not great as the first hour of the movie is just fan service providing lengthy montages, the second hour's submarine sequence is incredibly bloated and boring, and the final hour is a climax you would expect from a MI movie; The character writing is not great as they don't provide any stakes for these characters, especially given this is the \"last\" movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Christopher McQuarrie"
+        },
+        {
+          "name": "Erik Jendresen"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is what you would expect from a McQuarrie/Cruise production, though it is a bit over-the-top at times; the humor is hit or miss, as there are moments where the jokes hit, but there are also moments where they try so hard to make a joke and it's pin-drop silence in the theater; the symbolism is not the best; the foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Max Aruj"
+        },
+        {
+          "name": "Alfie Godfrey"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Feels typical of the franchise, but I would have enjoyed it more if they had interpolated the original theme, considering this is supposed to be the last one"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Fraser Taggart"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The action sequences are shot very well, exemplifying why Mission: Impossible is one of the best action franchises in cinematic history; however, I feel they could have used the IMAX cameras a little better"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eddie Hamilton"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Fine for the most part, but some of the stitches felt very forced, especially when they interpolated the montages;"
+    },
+    "sound": {
+      "rating": "Very Good",
+      "comments": "It exemplifies why Mission: Impossible is one of the best action franchises in cinematic history"
+    },
+    "visual_effects": {
+      "rating": "Good to Very Good",
+      "comments": "It exemplifies why Mission: Impossible is one of the best action franchises in cinematic history;"
+    },
+    "pacing": "Pacing is unbearably slow, as this movie has so many unnecessarily long sequences and so much plot that could have been cut; a good 30–40 minutes could have been cut from this movie, and it would have been way better",
+    "climax": "Climax is executed well and has some of the best stunts Tom Cruise has ever performed; but it really sours from a story perspective as it delegitimizes any stakes they were trying to build with this movie being the \"last\" movie",
+    "tone": "Tone is typical of other Mission: Impossible movies; it is very obvious the \"Top Gun: Maverick\" influence on this movie",
+    "final_notes": "",
+    "overall": "Overall, an entertaining movie that shows why Mission: Impossible is one of the best action franchises in cinematic history, but it is a lackluster finale because of its forced fan-service, incredibly bloated story, and lack of any stakes for this being the \"last\" movie"
+  },
+  "release_year": 2025,
+  "review_date": "05/24/2025",
+  "redux": false,
+  "id": 563,
+  "imdb_id": "tt9603208"
+}

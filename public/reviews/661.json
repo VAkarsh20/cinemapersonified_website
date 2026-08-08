@@ -1,0 +1,135 @@
+{
+  "title": "Idiots",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Macon Blair"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale feels like a low-budget indie comedy; the direction on a microscale is surprisingly good, as the chemistry within the cast and the comedy make this movie entertaining; the storytelling is standard for an indie, low-budget comedy"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Dave Franco"
+          },
+          "rating": "Pretty Good",
+          "comments": "He's fully morphed into his brother James because this is basically a character I could see him play; has pretty good chemistry with the cast and holds his own in the comedic moments"
+        },
+        {
+          "actor": {
+            "name": "O'Shea Jackson Jr."
+          },
+          "rating": "Pretty Good",
+          "comments": "the moral compass for this movie cause he's trying to do the right thing, even though he can be flawed himself; has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Mason Thames"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Basically just plays the bratty rich troubled kid; has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Peter Dinklage"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Feels like they just wanted a big name attached to this movie and got him; pretty small role, but makes the most out of it"
+        },
+        {
+          "actor": {
+            "name": "Kiernan Shipka"
+          },
+          "rating": "Decent",
+          "comments": "I really don't know why she was cast in this movie cause its a pretty small role and doesn't feel like it uses her strengths, but she's still fine in the short time she's given"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Braun"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Pretty small role, but makes the most out of it by using his comedic talent"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Kinda smaller cast but everyone plays their role well as they help tell their chapter in this longer story"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Macon Blair"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is basically a road comedy following a group of strangers who are flawed people trying to do right; the plot structure is standard for a road comedy, where each stop feels like a chapter; the character writing is good, as you understand the motivations of the two leads and their transportation"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Macon Blair"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is good; the humor is funny and unique, which is something you definitely need for a low-budget indie comedy to stand out; the symbolism centers on the intent to do better, as each character has their own motivation to improve their life despite how flawed they might be; the foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Will Blair"
+        },
+        {
+          "name": "Brooke Blair"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Guillermo Garza"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "feels pretty low-budget and indie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Dane McMaster"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "feels pretty low-budget and indie"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "feels pretty low-budget and indie"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "pretty low-budget and indie; kinda adds to the charm of the movie"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "kinda feels low-budget, but also helps paint these characters, especially Dinklage and Braun"
+    },
+    "pacing": "Pacing is appropriate, being neither too fast nor too slow, though a few of the chapters could have been shortened to make the movie feel tighter; the ending drags because it is not as strong as the middle of the movie",
+    "climax": "Climax is executed well but is not as strong as the rest of the movie, which makes the film drag slightly toward this point",
+    "tone": "Tone is very much that of a low-budget indie road comedy, especially regarding the eccentric nature of some of the jokes",
+    "final_notes": "Saw the premiere at SXSW; the film was originally titled 'The Shitheads'",
+    "overall": "Overall, 'Idiots' is an entertaining and funny indie road comedy that makes the most of its low budget through humor that is not afraid to be out there; while it does not feel original, the movie provides many laughs and has a talented cast that keeps you invested on the trip these characters go on"
+  },
+  "release_year": 2026,
+  "review_date": "03/18/2026",
+  "redux": false,
+  "id": 661,
+  "imdb_id": "tt6628920"
+}

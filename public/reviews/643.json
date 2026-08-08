@@ -1,0 +1,141 @@
+{
+  "title": "The SpongeBob Movie: Search for SquarePants",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Derek Drymon"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is very traditional for SpongeBob SquarePants; The direction on a microscale is very traditional for SpongeBob; The storytelling is very silly and cute, like SpongeBob"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Kenny"
+          },
+          "rating": "Good",
+          "comments": "SpongeBob"
+        },
+        {
+          "actor": {
+            "name": "Clancy Brown"
+          },
+          "rating": "Good",
+          "comments": "Mr. Krabs"
+        },
+        {
+          "actor": {
+            "name": "Rodger Bumpass"
+          },
+          "rating": "Good",
+          "comments": "Squidward"
+        },
+        {
+          "actor": {
+            "name": "Bill Fagerbakke"
+          },
+          "rating": "Good",
+          "comments": "Patrick"
+        },
+        {
+          "actor": {
+            "name": "Carolyn Lawrence"
+          },
+          "rating": "Pretty Good",
+          "comments": "The moment when I thought there wasn't enough Sandy Cheeks in this movie, there she walks into my life"
+        },
+        {
+          "actor": {
+            "name": "Mr. Lawrence"
+          },
+          "rating": "Pretty Good",
+          "comments": "Not that much Plankton in this movie :()"
+        },
+        {
+          "actor": {
+            "name": "Isis \"Ice Spice\" Gaston"
+          },
+          "rating": "Decent",
+          "comments": "Big Guy"
+        },
+        {
+          "actor": {
+            "name": "Regina Hall"
+          },
+          "rating": "Good",
+          "comments": "Geniunely didn't even know it was her, hats off to you Regina Hall"
+        },
+        {
+          "actor": {
+            "name": "Mark Hamill"
+          },
+          "rating": "Pretty Good",
+          "comments": "Not the original Flying Dutchman voice, but he's Mark Hamill so I'll allow it"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "SpongeBob SquarePants"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Marc Ceccarelli"
+        },
+        {
+          "name": "Kaz"
+        },
+        {
+          "name": "Pam Brady"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The concept is cute and fun, like SpongeBob; The plot structure is very linear and meant for fans of SpongeBob; Character writing is typical of SpongeBob"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Pam Brady"
+        },
+        {
+          "name": "Matt Lieberman"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is very silly and goofy, like SpongeBob; The humor is very silly, like SpongeBob; The symbolism is cute and meant for children, like SpongeBob; The foreshadowing is pretty typical for a kids' movie because it is, after all, SpongeBob"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Debney"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "SpongeBob SquarePants Score"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The song choice is so silly and goofy that it helps the vibe they are going for"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "While I am not a big fan of SpongeBob using 3D-style animation, I thought this movie was well-animated and brought out a dimension of SpongeBob that was previously unseen"
+    },
+    "pacing": "The pacing is about right given the runtime, as the movie effectively uses its short duration",
+    "climax": "The climax is cute and fun, like SpongeBob",
+    "tone": "The tone is very silly and goofy, like SpongeBob",
+    "final_notes": "",
+    "overall": "Overall, this movie is just so silly and goofy that it is very fun to watch if you play along with it; However, no matter how hard it tries, it will never be 'The SpongeBob SquarePants Movie (2004)'"
+  },
+  "release_year": 2025,
+  "review_date": "01/20/2026",
+  "redux": false,
+  "id": 643,
+  "imdb_id": "tt23572848"
+}

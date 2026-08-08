@@ -1,0 +1,132 @@
+{
+  "title": "Black Bag",
+  "rating": 6.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Steven Soderbergh"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is very sharp and ominous, which helps set this spy-mystery tone; the direction on a microscale is sharp and well-executed, but the problem is that the scenes move too fast; the storytelling is a bit rough, as they do not do a good job presenting the conflict, and it just breezes through the plot to get to the end; they build tension decently"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Cate Blanchett"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "She has so much poise that she carries any movie she is in; She has good chemistry with Fassbender"
+        },
+        {
+          "actor": {
+            "name": "Michael Fassbender"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "He plays this role like he has experience, mainly learning from his mistakes with \"The Killer\"; he commands the scenes he is in; he has good chemistry with Blanchett"
+        },
+        {
+          "actor": {
+            "name": "Marisa Abela"
+          },
+          "rating": "Pretty Good",
+          "comments": "She plays her role well and has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Tom Burke"
+          },
+          "rating": "Pretty Good",
+          "comments": "She plays her role well and has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Naomie Harris"
+          },
+          "rating": "Pretty Good",
+          "comments": "She plays her role well and has pretty good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Regé-Jean Page"
+          },
+          "rating": "Pretty Good",
+          "comments": "He has a sense of charisma that is infectious; he plays his role well and has pretty good chemistry with the rest of the cast"
+        },
+        {
+          "actor": {
+            "name": "Pierce Brosnan"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Feels more like a cameo than he was offered because he's James Bond and this is a spy thriller; he does pretty well in the scenes he is in but is rarely given time to work with"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "There isn't that large of a supporting cast, but they do not do a good job supporting the main cast; They feel very inexperienced compared to the main cast"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Koepp"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is not really explained well, as it is a little too mysterious; just take this movie as a generic spy thriller; the plot structure is pretty void, as there really isn't that much plot, and they breeze through the runtime; character writing is pretty void, as they make these characters too mysterious, which hurts because you don't really care about them towards the end"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Koepp"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is sharp and what you would want for this movie, it is just spoken way too fast and not given room to marinate; the humor is pretty good, as it helps make it feel like an entertaining spy thriller; the foreshadowing is not really the best, but I might just have missed things because of how fast this movie goes"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "David Holmes"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps set the tone and makes the movie feel mysterious and very spylike"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Peter Andrews"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Felt very sharp and crisp; the blurred light really helped the aesthetic of the movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Mary Ann Bernard"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt very sharp and crisp"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "The voices feel very muffled, and all the sounds feel very subdued"
+    },
+    "pacing": "Pacing is way too fast, so you never feel like you understand what is going on; They could have added 30 minutes to either slow the pace down or provide more content to make the story understandable and engaging",
+    "climax": "Climax provides suspense but feels a little too short",
+    "tone": "Tone is your typical spy thriller",
+    "final_notes": "This movie could have really benefited from a combination of better ADR, slower pacing, and a longer runtime",
+    "overall": "Overall, a decent spy thriller that is carried by its performances, but the poorly explained conflict, incredibly fast pacing, and short runtime really hold this movie back from being memorable; I would have enjoyed this movie a lot more if there were subtitles because I couldn't understand what they were saying half the time"
+  },
+  "release_year": 2025,
+  "review_date": "04/03/2025",
+  "redux": false,
+  "id": 554,
+  "imdb_id": "tt30988739"
+}

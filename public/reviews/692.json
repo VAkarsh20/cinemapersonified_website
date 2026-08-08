@@ -1,0 +1,124 @@
+{
+  "title": "Motor City",
+  "rating": 6.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Potsy Ponciroli"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The direction on a macro scale is pretty good, as they build the world well and choreograph very entertaining fight sequences, especially considering the lack of dialogue; The direction on a micro scale is decent, especially when you consider that the movie mostly uses action and miming to convey the characters' emotions since there is very minimal dialogue; The storytelling uses sound to help move the story forward, as there is barely any dialogue in the movie, though it is pretty basic in the process; They build tension decently well to help set up the action sequences, though you do not really care about these characters or the stakes, given that there is no dialogue to show how they are feeling"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Alan Ritchson"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Uses his tough guy, action persona decently well as his performance is more about his action and how he is able to convey emotions considering he doesn't have any dialogue, though it his acting in this standpoint is pretty basic; he carries himself well in the action sequences as he shows why he is one of the biggest action stars right now"
+        },
+        {
+          "actor": {
+            "name": "Ben Foster"
+          },
+          "rating": "Decent",
+          "comments": "Plays a typical bad guy role, especially consider we only have his action to go off of since he doesn't have any dialogue to go off of"
+        },
+        {
+          "actor": {
+            "name": "Shailene Woodley"
+          },
+          "rating": "Decent",
+          "comments": "Plays the typical love interest as she is only able to convey her emotions through her action considering she has very few lines of dialogue, and when she does it kinda feels a bit off"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "The supporting cast is decent, but they don't have much to work with given the lack of dialogue and character development; the whole cast basically plays archetypes considering they can only convey their emotions through their actions and not dialogue"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Chad St. John"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is pretty interesting, as the film is an action movie with very little dialogue, basically cutting out the bad parts of most action movies and going straight to the source of what it tries to convey and what it wants to do; The story is a generic revenge tale because the filmmakers do not have much to play with since there is no dialogue; The plot structure is basically a circle, where you start at the end and go back in time to chronologically get to that point; Character writing is very minimal because there is no dialogue to help provide these characters with depth, so they have to rely on archetypes to help build them, considering you can only convey so much through action"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Chad St. John"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "This movie is pretty unique as it basically has no dialogue, except for a few moments, and relies heavily on visuals and the characters showing how they feel to tell the story, which is smart to an extent because it cuts out the bloat and bad dialogue that plague many modern action movies; The dialogue that is there, though, is not the best and kind of feels a bit out of place, so they really should have stuck to having no dialogue in the movie to help make it a bit stronger; The symbolism is very generic because they can only convey so much through visual storytelling and characters acting out their emotions, so it kind of comes off as a bit basic; The foreshadowing is decent, as it helps that the movie starts at the end, so you know what you are building up to"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Steve Jablonsky"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The score is pretty well composed, as it is instrumental in helping to tell the story and set the tone for scenes due to the lack of dialogue, though it does feel a bit poorly mixed at times"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The soundtrack helps set the time period for the movie, using a lot of period-appropriate music to establish the 1970s setting and building on the score to help tell the story and set the tone for scenes due to the lack of dialogue"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "John Matysiak"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The movie is pretty well shot, as the mise-en-scene is very important in helping to build the world and convey what is going on because of the lack of dialogue; The action sequences are pretty well shot and help keep you engaged with what is going on; The color grading also helps give the movie a 70s feel that matches the time period"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Galdo"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The action sequences are pretty well edited, but there is nothing flashy outside of them"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "The sound design is instrumental in helping to tell the story, as it feels amplified to show what is going on, especially considering there is no dialogue"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "The film uses a combination of CGI and practical effects and stunt work to help make a pretty entertaining action movie"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "The production is pretty well designed, as it helps create the world and atmosphere of the movie, fitting the 70s Detroit setting"
+    },
+    "makeup": {
+      "rating": "Pretty Bad",
+      "comments": "The makeup helps show the beating these characters take; The wig work felt a bit tacky"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "The costumes felt like pretty generic 70s outfits"
+    },
+    "pacing": "The pacing is a major issue for this movie because the lack of dialogue really slows the film down, as the characters have to physically show how they feel; The runtime feels a bit too long for this type of movie, as it should have been under 90 minutes to really help make the pacing feel right",
+    "climax": "The climax is well executed, as it has all the best action sequences in the film, especially the elevator scene",
+    "tone": "The tone is stylistically very 70s, but has many flairs that make it feel like a modern action film",
+    "final_notes": "I received a screener for this film",
+    "overall": "Overall, 'Motor City' is a unique action film that cuts out the bloat of many modern action movies by basically having zero dialogue, allowing it to focus on visual storytelling, crisp sound design, and well-executed action sequences; while the decision to have no dialogue does make this movie feel unique, its side effects are apparent, as it makes the story and character writing feel very generic and makes the pacing feel very slow at times"
+  },
+  "release_year": 2025,
+  "review_date": "07/23/2026",
+  "redux": false,
+  "id": 692,
+  "imdb_id": "tt2012616"
+}

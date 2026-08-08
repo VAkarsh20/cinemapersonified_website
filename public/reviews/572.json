@@ -1,0 +1,132 @@
+{
+  "title": "Elio",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Madeline Sharafian"
+        },
+        {
+          "name": "Domee Shi"
+        },
+        {
+          "name": "Adrian Molina"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale feels true to Pixar, as it has the Protagonist dream big and across the stars; the direction on a microscale is typical of Pixar, as it brings out the emotions of the audience as you care for the characters and their struggles, although this is definitely something we've seen before; the storytelling is pretty standard Pixar; they build tension decently well, as you are emotionally invested in these characters"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Yonas Kibreab"
+          },
+          "rating": "Good",
+          "comments": "Really embodies how adorable, yet alone Elio is as you; the vocal performance is a major reason why you care for his character"
+        },
+        {
+          "actor": {
+            "name": "Zoe Saldaña"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays the standard aunt, fostering her orphaned niece character; has decent chemistry with Kibreab"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The vocal performances felt very goofy this time around and did not feel like they had as much direction as other Pixar movies, but they were decent to pretty good and helped make the movie feel adorable; The child performances were a big reason why this movie felt cute"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Madeline Sharafian"
+        },
+        {
+          "name": "Domee Shi"
+        },
+        {
+          "name": "Adrian Molina"
+        },
+        {
+          "name": "Julia Cho"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is cute, as Elio's curiosity is a proxy for finding companionship, even if he has to dream big and across the stars; while on the surface this is a space/alien movie, at its core, this movie is about a child not wanting to be alone; the plot structure is pretty standard and linear for a Pixar movie, which makes the movie very predictable; character writing is pretty good for Elio, as his whole motivation is to not be alone and find family/companionship, the supporting characters really don't feel fully fledged out and have 'Rick & Morty' names"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Julia Cho"
+        },
+        {
+          "name": "Mark Hammer"
+        },
+        {
+          "name": "Mike Jones"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is not true to the Pixar standard, but is fine as it is pretty profound still, even though it tries hard to be profound; The humor is not as great as other Pixar movies, but it is still somewhat funny; The symbolism is surprisingly profound as Elio's whole journey to find Aliens is a proxy for him to not be alone, but this is definitely told in a pretty overt way; The foreshadowing is not great as the Pixar template makes this movie very predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Rob Simonsen"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Help with setting the tone and making the movie feel very sci-fi, yet adorable"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Felt a little cheap as it very much leaned into the family movie tropes of using a soundtrack"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Derek Williams"
+        },
+        {
+          "name": "Jordan Rempel"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps make outerspace feel otherworldly when juxtaposed with Earth; Helps with building the world (or worlds)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Anna Wolitzky"
+        },
+        {
+          "name": "Steve Bloom"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Sharp and well-executed"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Sharp and well-executed"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "Definitely feels like a Pixar movie, but its step down in quality from other Pixar properties makes it very obvious that Pixar put no resources or budget into making this movie as it is definitely a step down from 'Inside Out 2'"
+    },
+    "pacing": "Pacing is pretty standard for a Pixar movie, but it is a little rushed in the resolution",
+    "climax": "Climax is executed well and is a fun watch",
+    "tone": "Tone is very similar to other Pixar movies, with sci-fi and coming-of-age themes",
+    "final_notes": "This movie had the potential to be good, but it's very obvious that Pixar put no resources or budget into making this movie; this movie makes you wonder if we are alone",
+    "overall": "Overall, a pretty good movie that had the potential to be a Pixar classic because of the adorable story and characters that make you dream outside of this world and wonder if we are alone; but it is very obvious that Pixar put no resources or budget into making this movie, as it is a noticeable step down in production value from their last movie 'Inside Out 2'"
+  },
+  "release_year": 2025,
+  "review_date": "06/18/2025",
+  "redux": false,
+  "id": 572,
+  "imdb_id": "tt4900148"
+}

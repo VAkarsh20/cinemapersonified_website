@@ -1,0 +1,148 @@
+{
+  "title": "The Super Mario Galaxy Movie",
+  "rating": 5.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Aaron Horvath"
+        },
+        {
+          "name": "Michael Jelenic"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale makes this movie feel like it was exclusively made for children with its bright and flashy visuals, though it does build this Mario world well; The direction on a microscale makes this movie feel like it is exclusively made for children; This movie is void of storytelling as the entire movie just feels like a chase or action sequence, barely explaining any conflict or stakes; They build tension poorly because they do not establish any stakes for the movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Chris Pratt"
+          },
+          "rating": "Decent",
+          "comments": "Feels like he is just saying lines and not really acting, definitely feels less effort than the last movie; despite anything flashy, he holds down the movie playing the lead character"
+        },
+        {
+          "actor": {
+            "name": "Anya Taylor-Joy"
+          },
+          "rating": "Decent",
+          "comments": "Feels like a step back from her performance in the first movie as the vocal performance just feels very stiff; despite this, she's fine and still somewhat embodies Peach"
+        },
+        {
+          "actor": {
+            "name": "Charlie Day"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Does not feel as strong of a performance as the first movie as he kinda phones in his performance as Luigi, but still has his comedic moments"
+        },
+        {
+          "actor": {
+            "name": "Jack Black"
+          },
+          "rating": "Good",
+          "comments": "While it is a notch down form her performance in the first movie, it still feels like Jack Black is committed to the role and has fun playing Bowser by putting in his own persona into the character"
+        },
+        {
+          "actor": {
+            "name": "Keegan-Michael Key"
+          },
+          "rating": "Good",
+          "comments": "Is given less to work with this time around, but still does a good job bringing to likfe Todd; he's very meta about being replaced as the cute sidekick by Yoshi, and that really makes up for his lack of screen time"
+        },
+        {
+          "actor": {
+            "name": "Benny Safdie"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just feels like he's there for the paycheck; I always hated Bowser Jr, do he does a decent job portraying how annoying he is"
+        },
+        {
+          "actor": {
+            "name": "Donald Glover"
+          },
+          "rating": "Good",
+          "comments": "OMG, My shayla"
+        },
+        {
+          "actor": {
+            "name": "Brie Larson"
+          },
+          "rating": "Decent",
+          "comments": "Kinda just feels like she's there for the paycheck, there really isn't anything memorable about her performance (but that also might be because of the writing)"
+        },
+        {
+          "actor": {
+            "name": "Glen Powell"
+          },
+          "rating": "Good",
+          "comments": "Perfectly embodies the Fox because he basically just plays a Nintendo version of Han Solo; nice to know my twin got the bag with this one because this role feels perfect for him to get his massive paycheck"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "There really isn't that much of a remaining cast with this movie; the chemistry this time around does not feel as strong as the first movie because the general vibe for this movie just feels like a cash grab"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Matthew Fogel"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept tries to extend the world into the Super Mario Galaxy universe, but it kind of just feels like that is in name only because there really isn't any story for this sequel; Also, this movie feels like a blatant copy of Star Wars at times, especially with the hangar sequence with Star Fox; The plot structure is pretty minimal as the entire movie just feels like a chase sequence with sprinkled plot elements here and there; Character writing is not good as none of these characters have any depth, making this movie feel solely like a cash grab from children"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matthew Fogel"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is very kid-focused, with some fan service for the older fans; The humor is surprisingly not bad because, even though many of the jokes were geared towards children, there were some silly jokes that I enjoyed; The symbolism is nonexistent because it is clear this movie is just a cash grab; The foreshadowing is nonexistent because this movie is pretty predictable so kids can follow along"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Brian Tyler"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The score does a good job of building the world as it interpolates themes from the Super Mario world, especially the Galaxy themes"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "It feels like your typical big-budget Hollywood soundtrack in that it just feels pretty out of place, but it is definitely not as bad as the first movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Eric Osmond"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The film is edited like a Cocomelon episode because it tries to put so much on the screen and create so much movement with the cuts to keep these kids with short attention spans entertained"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "It feels like an extension of the Mario universe as they use a lot of the same sound effects"
+    },
+    "animation": {
+      "rating": "Pretty Good to Good",
+      "comments": "The animation makes the movie feel like an extension of Nintendo's style, but it also definitely is geared more towards appealing to children with its colorful cuteness; The facial dubbing looked a bit weird though, especially with Peach"
+    },
+    "pacing": "Pacing is very slow despite its short runtime because the movie is just one long chase sequence with barely any plot to drive the story forward",
+    "climax": "The climax is entertaining",
+    "tone": "The tone is very much that of a children's movie that is set in the Super Mario world",
+    "final_notes": "This movie targets all audiences by basically being a kids' movie with fan service for the adults",
+    "overall": "Overall, 'The Super Mario Galaxy Movie' ultimately just feels like a cash grab because it is basically just a kids' movie with some fan service thrown in for the adults; while I did enjoy some of the humor and the animation, this movie is basically just one giant chase sequence with little to no plot or character development"
+  },
+  "release_year": 2026,
+  "review_date": "04/04/2026",
+  "redux": false,
+  "id": 666,
+  "imdb_id": "tt28650488"
+}

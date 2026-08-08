@@ -1,0 +1,118 @@
+{
+  "title": "The Menu",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mark Mylod"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Does a pretty good to good job at moving the story forward and creating tension throughout the movie, but does a pretty bad job in getting the most out of his actors and setting tone and the conflict"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ralph Fiennes"
+          },
+          "rating": "Good",
+          "comments": "Does a good job in holding his own and being the central figure for creating the tension in his scenes, but he only ever stays in a very tense second gear as I would have liked to have seen him hit third gear and be angry (Something I know he can do given his prior experience)"
+        },
+        {
+          "actor": {
+            "name": "Anya Taylor-Joy"
+          },
+          "rating": "Good",
+          "comments": "Holds her own very nicely throughout the movie as she isn't really given that much to work with, really shows her ability to be a good actress the way she commands lead throughout"
+        },
+        {
+          "actor": {
+            "name": "Nicholas Hoult"
+          },
+          "rating": "Pretty Bad",
+          "comments": "The character itself is written to be a very annoying (so not all of the blame is entirely on him), but he still really does not do that much to help capture the character as all the scenes he is in feel very forced and cringy"
+        },
+        {
+          "actor": {
+            "name": "Hong Chau"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Does a nice job in being the servant of the madness and helps with setting the tone in some of the very tense moments"
+        }
+      ],
+      "cast": {
+        "rating": "Bad to Pretty Bad",
+        "comments": "Filled with inexperienced/actors who have only done small roles so much of this inexperience shows throughout the movie"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Seth Reiss"
+        },
+        {
+          "name": "Will Tracy"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "While there are ebbs and flows in regards to the plot construction, the overall story is somewhat interesting and takes a lot from the haunted island trope"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Seth Reiss"
+        },
+        {
+          "name": "Will Tracy"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The actual dialogue is pretty bland overall (though there are some humorous moments) and the symbolism is incredibly surface level that it feels more pretentious than trying to display a message"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Colin Stetson"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Used more to help build tension rather than being something that stands alone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Peter Deming"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "There were some moments where it felt very good (like when trying to show the meals)"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Christopher Tellefsen"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Was really highlighted when showing the different dishes"
+    },
+    "sound": {
+      "rating": "Good to Very Good",
+      "comments": "Really helped with building the tension"
+    },
+    "plot_structure": "Plot Structure was a real mess as it does not do a good job in transitioning to different parts of the arch (rather just forces itself to a point where none of the movie feels smooth as the chaotic nature really just makes the movie more confusing than trying to help set the tension)",
+    "pacing": "Pacing was on the fast side (the movie really could have used 20 minutes to help with establishing aspects of the plot)",
+    "climax": "Build to climax was not a build at all as it goes from 0 to 180 as the movie gets to its most tense part (an issue that happens throughout the movie); climax was actually a very tense part and a good watch",
+    "tone": "Tone was entirely inconsistent as it tries to be a black comedy and thriller throughout the movie but does not do a good job at establishing both as different plot elements are just forced on the audience rather than built",
+    "final_notes": "The movie does do a good job at building tension as the more tense scenes are entertaining to watch",
+    "overall": "Overall, a movie that is carried by the performances of Fiennes and Taylor-Joy as they both show their talent in staying afloat in a movie that has a very forced screenplay with an inconsistent tone, though it is an enjoyable watch that does have good moments"
+  },
+  "release_year": 2022,
+  "review_date": "12/19/2022",
+  "redux": false,
+  "id": 304,
+  "imdb_id": "tt9764362"
+}

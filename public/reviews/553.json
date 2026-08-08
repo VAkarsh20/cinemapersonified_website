@@ -1,0 +1,112 @@
+{
+  "title": "Slanted",
+  "rating": 8.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Amy Wang"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is good as it does a good job building the world and juxtaposing these Chinese characters in a predominantly white community, in a very satirically over-the-top way; the direction on a microscale is good as you get a sense of the protagonist's struggle trying to fit in and how torn she is between wanting to be white yet still having her identity be Chinese; the storytelling is very similar to other Bildungsroman's"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Shirley Chen"
+          },
+          "rating": "Good",
+          "comments": "Does a good job playing the Chinese version of the protagonist, as you get a sense of how her character is trying to fit in; she has good chemistry with the rest of the cast; she plays the typical coming-of-age character well"
+        },
+        {
+          "actor": {
+            "name": "Mckenna Grace"
+          },
+          "rating": "Good",
+          "comments": "You can see the exuded confidence her character gets when she becomes white, and it has a good contrast with the Chinese family as she tries to become more white;  she has good chemistry with the cast"
+        },
+        {
+          "actor": {
+            "name": "Fang Du"
+          },
+          "rating": "Good",
+          "comments": "Plays the parental role very similar to Joan Chen's character in Dìdi as the father-daughter dynamic feels strong and comforting"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "A majority of the characters play their roles well and do a good job creating this satirically over-the-top white community"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Amy Wang"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The concept itself is a potpourri of many original ideas into one, like \"Dìdi,\" \"The Substance,\" and \"Mean Girls\"; the plot structure is broken up into two halves with a strong inflection point; character writing is very good as the movie deals with coming-of-age, identity, and race juxtaposed in a predominantly white community, albeit in a very satirically over-the-top way"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Amy Wang"
+        }
+      ],
+      "rating": "Good to Very Good",
+      "comments": "The dialogue is sharp and combines elements of Chinese with over-the-top English to show a strong contrast between the two cultures; the humor is very overt and over-the-top, and this helps create this movie as a satire on race and identity; the symbolism is very strong as this movie has messages about adolescence, identity, and being a minority in a predominantly white community, albeit in a very satirical way; the foreshadowing is present and comes to life towards the end"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Shirley Song"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Makes the movie feel very coming-of-age"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "The poppy soundtrack makes the movie a coming-of-age comedy for a teenage Asian girl trying to fit in with a white community"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Ed Wu"
+        }
+      ],
+      "rating": "Good",
+      "comments": "I really was a fan of cinematography, as it felt auteur-driven, as they used film effectively; the change in aspect ratio from 4:3 to 16:9 after the protagonist completes the surgery, from Asian to White, was a nice touch"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ryan Chan"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Felt polished"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Very over-the-top and intentional juxtapositions place this Chinese family in a predominantly white community"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Used well to show the transformations and add some body horror elements"
+    },
+    "pacing": "Pacing is the right pace as it does not feel too slow or fast, especially considering the inflection point feels like it happens at the right moment",
+    "climax": "The climax is executed very well and the movie ends strongly, even though it is a bit safe",
+    "tone": "The tone boils down to a coming-of-age film, masked with satirical, over-the-top comedy; it has elements of body horror as well",
+    "final_notes": "Saw the jury award narrative feature screening at SXSW",
+    "overall": "Overall, a good coming-of-age comedy that uses a potpourri of original ideas like \"Dìdi,\" \"The Substance,\" and \"Mean Girls\" to create a satirically over-the-top look at the juxtaposition between minorities in predominantly white communities in America"
+  },
+  "release_year": 2025,
+  "review_date": "03/15/2025",
+  "redux": false,
+  "id": 553,
+  "imdb_id": "tt32490110"
+}

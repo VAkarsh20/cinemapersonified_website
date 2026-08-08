@@ -1,0 +1,150 @@
+{
+  "title": "Him",
+  "rating": 3.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Justin Tipping"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale makes this movie feel like a fake movie you would see in an episode of 'Atlanta'; The direction on a microscale is so unnatural and clunky that none of these relationships feel natural; The storytelling just feels fake deep, as if a jock thought he could make a movie about an obsessed artist from his perspective; The tension is so artificial and forced that it makes this feel like a parody movie;"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Marlon Wayans"
+          },
+          "rating": "Decent",
+          "comments": "The only somewhat passable thing about this movie as he does have some range and charisma, even if it is very minor"
+        },
+        {
+          "actor": {
+            "name": "Tyriq Withers"
+          },
+          "rating": "Bad",
+          "comments": "Shows no emotion or range whatsoever as his performance just feels like it exists"
+        },
+        {
+          "actor": {
+            "name": "Julia Fox"
+          },
+          "rating": "Very Bad",
+          "comments": "The greatest trick Josh Safdie ever pulled was convincing the world that Julia Fox can act"
+        },
+        {
+          "actor": {
+            "name": "Tim Heidecker"
+          },
+          "rating": "Bad",
+          "comments": "Feels so out of place as he thinks he is in a Tim & Eric sketch, when he is supposed to be in a 'fake serious' movie; his chemistry with Withers is so bad that it just makes their relationship feel so unnatural and forced"
+        },
+        {
+          "actor": {
+            "name": "Jim Jefferies"
+          },
+          "rating": "Very Bad to Bad",
+          "comments": "Why are you in this movie; you are a comedian and your role has no ounce of humor in it whatsoever"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "The cast is terrible and the chemistry between them is completely off, making all of these relationships feel so unnatural and forced"
+      },
+      "rating": "Very Bad to Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Skip Bronkie"
+        },
+        {
+          "name": "Zack Akers"
+        },
+        {
+          "name": "Justin Tipping"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is so fake and stupid, as it feels like a jock thought he could make a movie about his experience working hard as an athlete and make it into a horror movie, only for it all to feel like a parody movie; The plot structure is linear but falls apart for this movie; The character writing is so fake deep that it minimizes the message for this movie"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Skip Bronkie"
+        },
+        {
+          "name": "Zack Akers"
+        },
+        {
+          "name": "Justin Tipping"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is so unnatural and bad that this movie feels like a parody movie in an episode of 'Atlanta'; There is like one joke I laughed at in this movie, but besides that, this movie tries a little too hard to be funny at moments; The symbolism is so fake deep it is laughable, as it feels like a jock tried to make an obsessed artist movie about his experiences as an athlete but had no filmmaking background whatsoever; The foreshadowing is pretty on the nose"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bobby Krlic"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "It artificially creates tension"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Individually, I actually do enjoy the songs they used, but they are just so forced into this movie that it makes this movie feel like an NFL player just connected his Spotify playlist to a movie and called it a day"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Kira Kelly"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "It is just so nauseating and uses too many wide angles, so much so that it just makes this movie look like a parody movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Taylor Joy Mason"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "It just does way too much, such that every edit feels like a GTA or Mortal Kombat sequence, making this movie feel like a parody movie"
+    },
+    "sound": {
+      "rating": "Bad",
+      "comments": "It artificially creates tension and scares"
+    },
+    "visual_effects": {
+      "rating": "Bad",
+      "comments": "It is just so artificial and fake that it makes the action sequences look like video game cutscenes"
+    },
+    "production_design": {
+      "rating": "Bad",
+      "comments": "It uses a lot of vast and open sets that at points look interesting, but there are also so many sets that just look fake, as they add to the parody aesthetic for this movie"
+    },
+    "makeup": {
+      "rating": "Bad",
+      "comments": "The fake gore and blood make the horror sequences and kills look very fake"
+    },
+    "costumes": {
+      "rating": "Pretty Bad",
+      "comments": "These are fake football uniforms that do not look real whatsoever"
+    },
+    "pacing": "The pacing is incredibly fast, as it feels like they knew they had a stinker on their hands and just wanted to get it over with as fast as possible",
+    "climax": "The climax is forced and kind of just happens, leaving you nothing but confused;",
+    "tone": "The tone feels like a parody movie you would see in 'Atlanta,' as this movie feels like a jock tried to make a fake deep movie about his experience as an obsessed athlete but had no filmmaking experience whatsoever",
+    "final_notes": "",
+    "overall": "Overall, this movie feels like a parody movie you would see in an episode of 'Atlanta,' as it feels like a jock tried to make a fake deep movie about his experience as an obsessed athlete but had no filmmaking experience whatsoever"
+  },
+  "release_year": 2025,
+  "review_date": "12/31/2025",
+  "redux": false,
+  "id": 639,
+  "imdb_id": "tt20990442"
+}

@@ -1,0 +1,129 @@
+{
+  "title": "The Furious",
+  "rating": 4.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kenji Tanigaki"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The macroscale is a martial arts kung fu action movie with balls-to-the-wall action that is gritty, violent, and bloody, as all the action sequences are well-choreographed; The microscale is on the other end of the spectrum and is genuinely atrocious, as it is very obvious that English is not the first language of the actors and writers, and this unnatural screenplay leads to terrible line delivery, making it feel like the actors are just pronouncing phonetic sounds; The interpersonal scenes in Mandarin are decent, so I have no idea why they forced all the characters to speak English, as it feels like a dubbed movie (when it isn't); If the movie is genuinely dubbed, they definitely used the same dubbing studio that was in charge of the English dubbing for 1990s-2000s Bollywood movies, given how off and unnatural it is; The storytelling is very basic, considering the story is a formulaic action movie where the protagonist tries to save his daughter; Tension in the action sequences is developed pretty well, but it is developed very poorly in the interpersonal and emotional sequences because the acting and dialogue are so bad; This movie genuinely feels like a live-action Killer Bean movie, with its balls-to-the-wall action and terrible dialogue and line delivery"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Xie Miao"
+          },
+          "rating": "Pretty Good",
+          "comments": "I think it really helped they made his character mute because he did not have to read the bad dialogue and could freely act, and definitely did a pretty good job at it because he is able to show his emotions without even saying anything and handles himself well in the action sequences"
+        },
+        {
+          "actor": {
+            "name": "Joe Taslim"
+          },
+          "rating": "Decent",
+          "comments": "Definitely not as bad as the rest of the cast as he is able to show some emotion and is able to get past the bad dialogue, to an extent; he cannot escape the bad dialogue that much because he is forced to give some lines that genuinely are tough to listen to with how bad they are; holds his own in the action sequences"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Genuinely feels like most of the actors in this movie were plucked off the streets in Asia and were asked to read English with phonetic sounds because it feels like it was many of the actors' first time reading words on paper; The acting for the movie would have been way better if they just made this movie in Mandarin because the dialogue forces the line delivery to not make any sense; the police force in particular was terrible because they really feel like they have never acted before in their lives (especially with their Room-level line delivery) as it makes this movie feel like a Killer Bean live-action remake; however, the child actors for this movie genuinely were pretty good and were able to show emotions the adults couldn't, and the scenes in Mandarin were well acted (which only proves the point that this movie should have just been in Mandarin)"
+      },
+      "rating": "Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Mak Tin-shu"
+        },
+        {
+          "name": "Lei Zhilong"
+        },
+        {
+          "name": "Shum Kwan-sin"
+        },
+        {
+          "name": "Frank Hui"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is a typical kung fu, martial arts movie setup where the protagonist has to find and save his kidnapped daughter, which is something we have seen before; The plot structure is pretty formulaic and a little too bloated, as there are many scenes that are pointless and drag the movie down; Character writing is actually not terrible for the main characters since you understand their motives, but the character writing for the villains is atrocious because they are just villains for the sake of being villains, with no rationale; Additionally, the police officers have the most unrealistic character writing I have ever seen because they simply do not want to do their jobs and give no rationale for why, whereas if they were corrupt or bought by gangs, that would be understandable, but they straight-up do not do their job until the very end"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Mak Tin-shu"
+        },
+        {
+          "name": "Lei Zhilong"
+        },
+        {
+          "name": "Shum Kwan-sin"
+        },
+        {
+          "name": "Frank Hui"
+        }
+      ],
+      "rating": "Terrible",
+      "comments": "The dialogue is genuinely so unnatural and terrible that it feels like a low-budget parody movie; It is very obvious that English is not the first language of the writers, and that this movie was originally written in Mandarin and translated into English using Google Translate, with the actors just pronouncing phonetic sounds, because the actual Mandarin dialogue for this movie is decent and flows well; Since I can read subtitles, there is no reason to force this movie into English, as it just feels like a dubbed movie rather than an original piece; The symbolism is very surface-level, as much of the film relies on familial relationships (such as father-daughter and husband-wife) to motivate the characters; The foreshadowing is there, but it just makes the movie very predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Elliot Leung"
+        },
+        {
+          "name": "Olivia Xiaolin"
+        },
+        {
+          "name": "Flying Lotus"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "It helps establish the tone and the action sequences, and it feels like the right vibe for this movie and genre"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Meteor Cheung"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The cinematography was decent to pretty good as it helps capture the fight sequences, but it relies a little too much on wide-angle shots to help build the world; It is nothing new or unique, but it gets the job done"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chris Tonick"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The editing was decent to pretty good, as it helps capture the fight sequences and stitches the movie together"
+    },
+    "sound": {
+      "rating": "Pretty Bad",
+      "comments": "The sound helps accentuate the fight scenes and makes them come to life, even though it can sound a bit fake at times; The ADR for this movie is incredibly bad, as it makes the film feel like it was dubbed by an entirely different cast"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "The film makes good use of practical effects to help make the action sequences come to life and bring out the gore and violence in these scenes; While there is nothing truly groundbreaking about the action sequences, they definitely are well-executed and help make this movie entertaining"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "The makeup helps paint the violence and the beatings these characters take as they fight to find their loved ones"
+    },
+    "pacing": "The pacing is genuinely very slow, as there are many sequences that feel unnecessarily long, especially the action sequences; The climax is definitely well-executed but drags a bit, as a good 5-10 minutes could have been cut out of that sequence entirely; A good 20 minutes of this movie could have been cut to make it flow better and be tighter",
+    "climax": "The climax is action-packed and very entertaining, but it is certainly a little too long and drags a bit; It lasts about 30-40 minutes when it could have been cut to 20-25 minutes to make it feel tighter and more profound",
+    "tone": "The tone is very much that of a martial arts kung fu movie, with its grit, violence, and bloody, balls-to-the-wall action; It also is very much a martial arts kung fu movie in its terrible dramatic sequences, which feel like people were plucked off the street and are reading text for the first time; This movie genuinely feels like a live-action Killer Bean movie, with its balls-to-the-wall action and terrible dialogue and line delivery",
+    "final_notes": "",
+    "overall": "Overall, 'The Furious' is a balls-to-the-wall kung-fu, martial arts action movie that has well-executed action sequences that entertain you, but it is incredibly hindered by its dialogue and line delivery; it very much feels like this movie was written in Mandarin first and then translated into English using Google Translate, and since the sequences in Mandarin are actually pretty decent, there was really no need to make the movie feel like an English dub when we can read subtitles; if they had just made this movie in Mandarin with English subtitles, it would definitely have alleviated many of the dramatic issues, but instead, we got a movie that really drags and feels like a live-action Killer Bean remake"
+  },
+  "release_year": 2025,
+  "review_date": "06/15/2026",
+  "redux": false,
+  "id": 683,
+  "imdb_id": "tt33311069"
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Hide and Go Shriek",
+  "rating": 5.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Skip Schoolnik"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction is your typical campy, teen 80s slasher, low-budget movie"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "Every performance in this movie is just shitty, campy teen acting you would see from a low-budget 80s horror movie; it's honestly so bad that it's entertaining"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Michael Kelly"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is a generic slasher teen movie where everyone is trapped in the house with the killer, this time set in a furniture store; the plot structure is true to the genre; character writing is bad because it's just generic teens in a campy 80s slasher movie and gives the killer no personality"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Michael Kelly"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is so incredibly bad that it's campy; the dialogue is very true to the 80s; the humor is campy; the foreshadowing is what you would expect from a movie like this"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "John Ross"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Typical 80s low-budget slasher score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Eugene Shlugleit"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Typical 80s, low-budget slasher cinematography"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tim Alexander"
+        },
+        {
+          "name": "Mark Manos"
+        },
+        {
+          "name": "Amy Tompkins"
+        },
+        {
+          "name": "Adam Wolfe"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Typical 80s low-budget slasher cinematography"
+    },
+    "sound": {
+      "rating": "Pretty Bad",
+      "comments": "Typical 80s low-budget slasher sound"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Considering the furniture store is an integral part of the \"trapped house\" trope, I think they do a good job of showing how big and detailed it is"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Paints the slasher in a tacky, 80s way"
+    },
+    "pacing": "Pacing is on the slower side, as it's meant to build anticipation, so it's not that bad of a thing because it also makes the movie feel campier",
+    "climax": "Climax is campy and entertaining",
+    "tone": "Tone is your generic, low-budget, campy teen slasher movie, with the subjects trapped in a house with the killer",
+    "final_notes": "Saw restoration at Fantastic Fest",
+    "overall": "Overall, a bad, low-budget 80s teen slasher movie that is honestly very entertaining for how campy it was, as it knows exactly what movie it was trying to make, the 'trapped house' trope with the killer slowly picking off the teens"
+  },
+  "release_year": 1988,
+  "review_date": "09/22/2025",
+  "redux": false,
+  "id": 606,
+  "imdb_id": "tt0095299"
+}
