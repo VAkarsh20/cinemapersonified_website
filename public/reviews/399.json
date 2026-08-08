@@ -1,0 +1,161 @@
+{
+  "title": "Love Actually",
+  "rating": 7.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Richard Curtis"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as he connects the different storylines into one overarching plot (though the world-building felt very typical to other Rom-Coms); the direction on a microscale was pretty typical to other Rom-Coms (though executed well); the direction of actors was good as it felt like everyone was connected and gave a performance that helped move the movie forward;  the storytelling was pretty unique as it juggles multiple different subplots that converge to a giant ending"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Hugh Grant"
+          },
+          "rating": "Good",
+          "comments": "Uses his charm, charisma, and experience in romantic movies to aid his performance"
+        },
+        {
+          "actor": {
+            "name": "Liam Neeson"
+          },
+          "rating": "Good",
+          "comments": "My favorite performance in the cast as he develops a strong chemistry with his son and effectively displays grief from the loss of his wife"
+        },
+        {
+          "actor": {
+            "name": "Colin Firth"
+          },
+          "rating": "Pretty Good",
+          "comments": "Uses his experience in romantic movies to propel this performance forward"
+        },
+        {
+          "actor": {
+            "name": "Laura Linney"
+          },
+          "rating": "Pretty Good",
+          "comments": "Felt a bit out of place, but does well in the scenes she is in"
+        },
+        {
+          "actor": {
+            "name": "Emma Thompson"
+          },
+          "rating": "Good",
+          "comments": "Shows betrayal well and has a good range of emotion throughout the movie"
+        },
+        {
+          "actor": {
+            "name": "Alan Rickman"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "A surprisingly comedic performance from Rickman, but he holds his own well and shows some range of emotion (at least however much he can with his mundane voice)"
+        },
+        {
+          "actor": {
+            "name": "Keira Knightley"
+          },
+          "rating": "Pretty Good",
+          "comments": "Really just a name as she isn't given that much screen time (but still does a pretty good job with the scenes she is in)"
+        },
+        {
+          "actor": {
+            "name": "Martine McCutcheon"
+          },
+          "rating": "Pretty Good",
+          "comments": "Works well off of Grant"
+        },
+        {
+          "actor": {
+            "name": "Bill Nighy"
+          },
+          "rating": "Pretty Good",
+          "comments": "A very over-the-top performance that provides humor in his non-sequitur scenes"
+        },
+        {
+          "actor": {
+            "name": "Rowan Atkinson"
+          },
+          "rating": "Pretty Good",
+          "comments": "Mr Bean"
+        },
+        {
+          "actor": {
+            "name": "Lúcia Moniz"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has chemistry with Colin Firth"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "Everyone plays their role well as this movie is more about an ensemble cast than a singular performance"
+      },
+      "rating": "Pretty Good to Good Acting"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Richard Curtis"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept was very unique as the different storylines converging to one was a pretty new idea at the time (though it was heavily exploited after), there are a little too many stories (maybe could have cut the 1-2 of them to make the movie a bit tighter); the plot structure was very unique as it was multiple storylines converging to one climax (thought there are some other climaxes as not all the storylines converge to the same point); flow between sequences was surprisingly good as the transitions between the different stories were seamless at times (using music and characters); character writing was good as you get a sense of what each character's struggle was and what they are looking for during the holiday season"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Richard Curtis"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue was pretty good and flowed well (but did have cliche Rom-Com lines); the movie has some very iconic scenes that were parodied/referenced in other forms of media; the humor was good (though did feel very 00s); the symbolism was kinda light (but its a Rom-Com so I cannot complain that much); the foreshadowing was very good as it was used effectively to help connect the different storylines together"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Craig Armstrong"
+        }
+      ],
+      "rating": "Pretty Good"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Helps set the Christmas tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Coulter"
+        }
+      ],
+      "rating": "Decent"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Nick Moore"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Helps with transitioning between the different stories"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "pacing": "Pacing was pretty good as it did not feel very slow or fast",
+    "climax": "Climax was executed well as it converges many of the storylines to one singular event (and the climaxes of the other storylines were also handled well)",
+    "tone": "Tone felt exactly was the genre was (A Christmas, Rom-Com)",
+    "final_notes": "",
+    "overall": "Overall, an enjoyable Christmas movie that is carried by its writing and performances as we get to see the unique concept of multiple storylines happening in parallel with their common goal of finding love, though it is a bit bloated from having too many subplots and suffers from many Rom-Com and early 2000s cliches"
+  },
+  "release_year": 2003,
+  "review_date": "12/24/2023",
+  "redux": false,
+  "id": 399,
+  "imdb_id": "tt0314331"
+}

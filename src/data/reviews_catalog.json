@@ -2590,6 +2590,16 @@
     "filename": "Ricky Stanicky (2024)"
   },
   {
+    "id": 436,
+    "title": "Godzilla x Kong: The New Empire",
+    "release_year": 2024,
+    "rating": 5.5,
+    "review_date": "03/30/2024",
+    "imdb_id": "tt14539740",
+    "redux": false,
+    "filename": "Godzilla x Kong The New Empire (2024)"
+  },
+  {
     "id": 435,
     "title": "Love Lies Bleeding",
     "release_year": 2024,
@@ -2870,6 +2880,16 @@
     "filename": "Rocky Aur Rani Kii Prem Kahaani (2023)"
   },
   {
+    "id": 407,
+    "title": "Hanu Man",
+    "release_year": 2024,
+    "rating": 7.1,
+    "review_date": "01/22/2024",
+    "imdb_id": "tt15433956",
+    "redux": false,
+    "filename": "Hanu Man (2024)"
+  },
+  {
     "id": 406,
     "title": "The Zone of Interest",
     "release_year": 2023,
@@ -2938,6 +2958,16 @@
     "imdb_id": "tt3758542",
     "redux": false,
     "filename": "Ferrari (2023)"
+  },
+  {
+    "id": 399,
+    "title": "Love Actually",
+    "release_year": 2003,
+    "rating": 7.7,
+    "review_date": "12/24/2023",
+    "imdb_id": "tt0314331",
+    "redux": false,
+    "filename": "Love Actually (2003)"
   },
   {
     "id": 398,
