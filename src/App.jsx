@@ -678,13 +678,13 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
             <div className="absolute -top-10 -right-10 w-24 h-24 bg-accent/15 rounded-full blur-xl animate-pulse" />
             <div>
               <p className="font-mono text-[10px] text-accent uppercase tracking-widest mb-1">// SYSTEM METRICS //</p>
-              <h3 className="text-xs uppercase font-sans font-bold text-offwhite/50 tracking-wider">LOGGED ARCHIVE</h3>
+              <h3 className="text-xs uppercase font-sans font-bold text-offwhite/50 tracking-wider">REVIEW ARCHIVE</h3>
             </div>
             <div className="my-6">
               <div className="text-5xl font-extrabold font-sans text-accent tracking-tighter leading-none">
                 {reviewsCatalog.length}
               </div>
-              <p className="text-[10px] font-mono text-offwhite/40 mt-1 uppercase">Films Logged</p>
+              <p className="text-[10px] font-mono text-offwhite/40 mt-1 uppercase">Films Reviewed</p>
             </div>
             <div className="border-t border-offwhite/10 pt-4 flex justify-between text-xs">
               <div>
@@ -718,8 +718,8 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                   className="w-full bg-offwhite border border-dark/15 rounded-full px-5 py-3 text-sm font-sans font-medium text-dark focus:outline-none focus:border-accent transition-colors cursor-pointer appearance-none"
                   style={{ backgroundImage: `url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E")`, backgroundPosition: 'right 1.25rem center', backgroundSize: '1rem', backgroundRepeat: 'no-repeat' }}
                 >
-                  <option value="newest">Sort: Newest Logged</option>
-                  <option value="oldest">Sort: Oldest Logged</option>
+                  <option value="newest">Sort: Newest Reviewed</option>
+                  <option value="oldest">Sort: Oldest Reviewed</option>
                   <option value="highest">Sort: Highest Rated</option>
                   <option value="lowest">Sort: Lowest Rated</option>
                   <option value="alphabetical">Sort: Alphabetical</option>
@@ -782,7 +782,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                 <span className="font-mono text-[10px] text-dark/45 uppercase tracking-wider min-w-[70px]">Type:</span>
                 {[
                   { value: "all", label: "All Reviews" },
-                  { value: "standard", label: "Standard Logs" },
+                  { value: "standard", label: "Standard Reviews" },
                   { value: "redux", label: "Redux Reviews" }
                 ].map((type) => (
                   <button
@@ -931,7 +931,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                       </span>
                     )}
                     <span className="font-mono text-[10px] text-dark/40 uppercase tracking-wider">
-                      // ID #{selectedReviewId} {selectedReview && `// RELEASED ${selectedReview.release_year}`} {selectedReview && selectedReview.review_date && `// LOGGED ${selectedReview.review_date}`} //
+                      // ID #{selectedReviewId} {selectedReview && `// RELEASED ${selectedReview.release_year}`} {selectedReview && selectedReview.review_date && `// REVIEWED ${selectedReview.review_date}`} //
                     </span>
                   </div>
                   <h2 className="text-2xl md:text-4xl font-extrabold font-sans tracking-tight uppercase mt-2 leading-none text-dark">
