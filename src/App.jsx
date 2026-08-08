@@ -1064,14 +1064,14 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                   comments={selectedReview.review.direction?.comments} 
                                 />
                                 <CategoryCard 
-                                  title="Story & Writing" 
+                                  title="Story" 
                                   peopleLabel="Writers" 
                                   people={selectedReview.review.story?.writer} 
                                   rating={selectedReview.review.story?.rating} 
                                   comments={selectedReview.review.story?.comments} 
                                 />
                                 <CategoryCard 
-                                  title="Screenplay & Dialogue" 
+                                  title="Screenplay" 
                                   peopleLabel="Screenplay Credits" 
                                   people={selectedReview.review.screenplay?.writer} 
                                   rating={selectedReview.review.screenplay?.rating} 
@@ -1082,7 +1082,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                 {selectedReview.review.acting && (
                                   <div className="bg-white/50 border border-dark/10 rounded-[1.5rem] p-5 shadow-sm flex flex-col gap-4">
                                     <div className="flex justify-between items-center border-b border-dark/5 pb-2">
-                                      <h5 className="font-sans font-bold text-sm uppercase tracking-wider text-dark">Acting & Ensemble</h5>
+                                      <h5 className="font-sans font-bold text-sm uppercase tracking-wider text-dark">Acting</h5>
                                       {selectedReview.review.acting.rating && (
                                         <span className="font-mono text-[9px] uppercase font-bold bg-accent/10 text-accent px-2 py-0.5 rounded">
                                           Overall: {selectedReview.review.acting.rating}
@@ -1120,7 +1120,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                             {activeTab === "below" && (
                               <>
                                 <CategoryCard 
-                                  title="Score & Musical Theme" 
+                                  title="Score" 
                                   peopleLabel="Composers" 
                                   people={selectedReview.review.score?.composer} 
                                   rating={selectedReview.review.score?.rating} 
@@ -1128,7 +1128,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                 />
                                 {selectedReview.review.soundtrack && (
                                   <CategoryCard 
-                                    title="Soundtrack (Licensing)" 
+                                    title="Soundtrack" 
                                     rating={selectedReview.review.soundtrack.rating} 
                                     comments={selectedReview.review.soundtrack.comments} 
                                   />
@@ -1141,7 +1141,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                   comments={selectedReview.review.cinematography?.comments} 
                                 />
                                 <CategoryCard 
-                                  title="Editing & Transitions" 
+                                  title="Editing" 
                                   peopleLabel="Editors" 
                                   people={selectedReview.review.editing?.editor} 
                                   rating={selectedReview.review.editing?.rating} 
@@ -1149,7 +1149,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                 />
                                 {selectedReview.review.sound && (
                                   <CategoryCard 
-                                    title="Sound Design & Mixing" 
+                                    title="Sound" 
                                     rating={selectedReview.review.sound.rating} 
                                     comments={selectedReview.review.sound.comments} 
                                   />
@@ -1163,28 +1163,28 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                 )}
                                 {selectedReview.review.animation && (
                                   <CategoryCard 
-                                    title="Animation & Art style" 
+                                    title="Animation" 
                                     rating={selectedReview.review.animation.rating} 
                                     comments={selectedReview.review.animation.comments} 
                                   />
                                 )}
                                 {selectedReview.review.production_design && (
                                   <CategoryCard 
-                                    title="Production Design (Set/Art)" 
+                                    title="Production Design" 
                                     rating={selectedReview.review.production_design.rating} 
                                     comments={selectedReview.review.production_design.comments} 
                                   />
                                 )}
                                 {selectedReview.review.makeup && (
                                   <CategoryCard 
-                                    title="Makeup & Hair" 
+                                    title="Makeup & Hairstyling" 
                                     rating={selectedReview.review.makeup.rating} 
                                     comments={selectedReview.review.makeup.comments} 
                                   />
                                 )}
                                 {selectedReview.review.costumes && (
                                   <CategoryCard 
-                                    title="Costumes & Styling" 
+                                    title="Costumes" 
                                     rating={selectedReview.review.costumes.rating} 
                                     comments={selectedReview.review.costumes.comments} 
                                   />
@@ -1195,9 +1195,9 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                             {activeTab === "final" && (
                               <>
                                 <CritiqueCard label="Plot Structure" content={selectedReview.review.plot_structure} />
-                                <CritiqueCard label="Pacing & Timing" content={selectedReview.review.pacing} />
-                                <CritiqueCard label="Climax Breakdown" content={selectedReview.review.climax} />
-                                <CritiqueCard label="Tone & Atmospherics" content={selectedReview.review.tone} />
+                                <CritiqueCard label="Pacing" content={selectedReview.review.pacing} />
+                                <CritiqueCard label="Climax" content={selectedReview.review.climax} />
+                                <CritiqueCard label="Tone" content={selectedReview.review.tone} />
                                 <CritiqueCard label="Final Notes" content={selectedReview.review.final_notes} />
                               </>
                             )}
