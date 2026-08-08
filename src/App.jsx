@@ -1119,26 +1119,40 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                       )}
                                     </div>
                                     
-                                    {/* Performances grid */}
-                                    {selectedReview.review.acting.performance && selectedReview.review.acting.performance.length > 0 && (
+                                    {/* Performances & Cast list */}
+                                    {((selectedReview.review.acting.performance && selectedReview.review.acting.performance.length > 0) || selectedReview.review.acting.cast) && (
                                       <div className="flex flex-col gap-4">
-                                        {selectedReview.review.acting.performance.map((perf, idx) => (
-                                          <div key={idx} className="text-xs font-sans border-b border-dark/5 last:border-0 pb-3 last:pb-0">
-                                            <div className="flex justify-between items-center font-bold text-dark mb-1">
-                                              <span>{perf.actor?.name}</span>
-                                              <span className="font-mono text-[9px] uppercase text-accent font-semibold">{perf.rating}</span>
+                                        {selectedReview.review.acting.performance?.map((perf, idx) => {
+                                          const isLast = !selectedReview.review.acting.cast && idx === selectedReview.review.acting.performance.length - 1;
+                                          return (
+                                            <div key={idx} className={`text-xs font-sans pb-3 ${isLast ? "" : "border-b border-dark/5"}`}>
+                                              <div className="flex justify-between items-center font-bold text-dark mb-1">
+                                                <span>{perf.actor?.name}</span>
+                                                <span className="font-mono text-[9px] uppercase text-accent font-semibold">{perf.rating}</span>
+                                              </div>
+                                              {perf.comments && <p className="text-dark/70 leading-relaxed italic">"{perf.comments}"</p>}
                                             </div>
-                                            {perf.comments && <p className="text-dark/70 leading-relaxed italic">"{perf.comments}"</p>}
-                                          </div>
-                                        ))}
-                                      </div>
-                                    )}
+                                          );
+                                        })}
 
-                                    {/* Cast commentary */}
-                                    {selectedReview.review.acting.cast && (
-                                      <div className="bg-dark/5 p-3 rounded-xl text-xs font-sans">
-                                        <span className="font-mono text-[9px] text-dark/40 uppercase block mb-1">Cast Ensemble Comments // Rating: {selectedReview.review.acting.cast.rating}</span>
-                                        {selectedReview.review.acting.cast.comments && <p className="text-dark/80 italic">"{selectedReview.review.acting.cast.comments}"</p>}
+                                        {/* Cast ensemble item on the same level */}
+                                        {selectedReview.review.acting.cast && (
+                                          <div className="text-xs font-sans">
+                                            <div className="flex justify-between items-center font-bold text-dark mb-1">
+                                              <span>Cast</span>
+                                              {selectedReview.review.acting.cast.rating && (
+                                                <span className="font-mono text-[9px] uppercase text-accent font-semibold">
+                                                  {selectedReview.review.acting.cast.rating}
+                                                </span>
+                                              )}
+                                            </div>
+                                            {selectedReview.review.acting.cast.comments && (
+                                              <p className="text-dark/70 leading-relaxed italic">
+                                                "{selectedReview.review.acting.cast.comments}"
+                                              </p>
+                                            )}
+                                          </div>
+                                        )}
                                       </div>
                                     )}
                                   </div>
