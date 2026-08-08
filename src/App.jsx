@@ -994,10 +994,39 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                               <span className="font-mono text-[9px] text-dark/40 uppercase block">Directed by:</span>
                               <span className="font-bold text-dark">{formatPeople(selectedReview.review.direction?.director) || "N/A"}</span>
                             </div>
-                            <div>
-                              <span className="font-mono text-[9px] text-dark/40 uppercase block">Written by (Story):</span>
-                              <span className="font-bold text-dark">{formatPeople(selectedReview.review.story?.writer) || "N/A"}</span>
-                            </div>
+                            {(() => {
+                              const storyWriters = selectedReview.review.story?.writer || [];
+                              const screenplayWriters = selectedReview.review.screenplay?.writer || [];
+                              const storyNames = storyWriters.map(w => w.name).join(", ");
+                              const screenplayNames = screenplayWriters.map(w => w.name).join(", ");
+                              const isSameWriters = storyNames === screenplayNames && storyNames !== "";
+
+                              if (isSameWriters) {
+                                return (
+                                  <div>
+                                    <span className="font-mono text-[9px] text-dark/40 uppercase block">Written by:</span>
+                                    <span className="font-bold text-dark">{storyNames}</span>
+                                  </div>
+                                );
+                              } else {
+                                return (
+                                  <>
+                                    {storyWriters.length > 0 && (
+                                      <div>
+                                        <span className="font-mono text-[9px] text-dark/40 uppercase block">Written by (Story):</span>
+                                        <span className="font-bold text-dark">{storyNames}</span>
+                                      </div>
+                                    )}
+                                    {screenplayWriters.length > 0 && (
+                                      <div>
+                                        <span className="font-mono text-[9px] text-dark/40 uppercase block">Written by (Screenplay):</span>
+                                        <span className="font-bold text-dark">{screenplayNames}</span>
+                                      </div>
+                                    )}
+                                  </>
+                                );
+                              }
+                            })()}
                             {selectedReview.review.score?.composer && (
                               <div>
                                 <span className="font-mono text-[9px] text-dark/40 uppercase block">Music by:</span>
