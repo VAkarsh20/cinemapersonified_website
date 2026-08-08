@@ -498,7 +498,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
   const [selectedReviewId, setSelectedReviewId] = useState(null);
   const [selectedReview, setSelectedReview] = useState(null);
   const [isDetailLoading, setIsDetailLoading] = useState(false);
-  const [activeTab, setActiveTab] = useState("verdict"); // "verdict" | "cast" | "crafts"
+  const [activeTab, setActiveTab] = useState("above"); // "above" | "below" | "final"
 
   // Average rating computation (of the full catalog)
   const averageRating = (
@@ -510,7 +510,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
     setSelectedReviewId(reviewId);
     setIsDetailLoading(true);
     setSelectedReview(null);
-    setActiveTab("verdict");
+    setActiveTab("above");
     window.location.hash = `/reviews/${reviewId}`;
 
     fetch(`/reviews/${reviewId}.json`)
@@ -1034,9 +1034,9 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                           {/* Tabs selector */}
                           <div className="flex border border-dark/10 rounded-full bg-white/60 p-1.5 self-start">
                             {[
-                              { id: "verdict", label: "Verdict" },
-                              { id: "cast", label: "Acting & Story" },
-                              { id: "crafts", label: "Technical Crafts" }
+                              { id: "above", label: "Above the Line" },
+                              { id: "below", label: "Below the Line" },
+                              { id: "final", label: "Final Notes" }
                             ].map((tab) => (
                               <button
                                 key={tab.id}
@@ -1054,17 +1054,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
 
                           {/* Tab Content panels */}
                           <div className="flex flex-col gap-4">
-                            {activeTab === "verdict" && (
-                              <>
-                                <CritiqueCard label="Plot Structure" content={selectedReview.review.plot_structure} />
-                                <CritiqueCard label="Pacing & Timing" content={selectedReview.review.pacing} />
-                                <CritiqueCard label="Climax Breakdown" content={selectedReview.review.climax} />
-                                <CritiqueCard label="Tone & Atmospherics" content={selectedReview.review.tone} />
-                                <CritiqueCard label="Final Notes" content={selectedReview.review.final_notes} />
-                              </>
-                            )}
-
-                            {activeTab === "cast" && (
+                            {activeTab === "above" && (
                               <>
                                 <CategoryCard 
                                   title="Direction" 
@@ -1127,22 +1117,8 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                               </>
                             )}
 
-                            {activeTab === "crafts" && (
+                            {activeTab === "below" && (
                               <>
-                                <CategoryCard 
-                                  title="Cinematography" 
-                                  peopleLabel="Cinematographers" 
-                                  people={selectedReview.review.cinematography?.cinematographer} 
-                                  rating={selectedReview.review.cinematography?.rating} 
-                                  comments={selectedReview.review.cinematography?.comments} 
-                                />
-                                <CategoryCard 
-                                  title="Editing & Transitions" 
-                                  peopleLabel="Editors" 
-                                  people={selectedReview.review.editing?.editor} 
-                                  rating={selectedReview.review.editing?.rating} 
-                                  comments={selectedReview.review.editing?.comments} 
-                                />
                                 <CategoryCard 
                                   title="Score & Musical Theme" 
                                   peopleLabel="Composers" 
@@ -1157,6 +1133,20 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                     comments={selectedReview.review.soundtrack.comments} 
                                   />
                                 )}
+                                <CategoryCard 
+                                  title="Cinematography" 
+                                  peopleLabel="Cinematographers" 
+                                  people={selectedReview.review.cinematography?.cinematographer} 
+                                  rating={selectedReview.review.cinematography?.rating} 
+                                  comments={selectedReview.review.cinematography?.comments} 
+                                />
+                                <CategoryCard 
+                                  title="Editing & Transitions" 
+                                  peopleLabel="Editors" 
+                                  people={selectedReview.review.editing?.editor} 
+                                  rating={selectedReview.review.editing?.rating} 
+                                  comments={selectedReview.review.editing?.comments} 
+                                />
                                 {selectedReview.review.sound && (
                                   <CategoryCard 
                                     title="Sound Design & Mixing" 
@@ -1199,6 +1189,16 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                     comments={selectedReview.review.costumes.comments} 
                                   />
                                 )}
+                              </>
+                            )}
+
+                            {activeTab === "final" && (
+                              <>
+                                <CritiqueCard label="Plot Structure" content={selectedReview.review.plot_structure} />
+                                <CritiqueCard label="Pacing & Timing" content={selectedReview.review.pacing} />
+                                <CritiqueCard label="Climax Breakdown" content={selectedReview.review.climax} />
+                                <CritiqueCard label="Tone & Atmospherics" content={selectedReview.review.tone} />
+                                <CritiqueCard label="Final Notes" content={selectedReview.review.final_notes} />
                               </>
                             )}
                           </div>
