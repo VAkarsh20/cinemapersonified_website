@@ -556,12 +556,16 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
 
     // 2. Rating tier match
     let matchRating = true;
-    if (ratingFilter === "masterpiece") matchRating = review.rating >= 9.0;
-    else if (ratingFilter === "excellent")
-      matchRating = review.rating >= 8.0 && review.rating < 9.0;
-    else if (ratingFilter === "good")
-      matchRating = review.rating >= 7.0 && review.rating < 8.0;
-    else if (ratingFilter === "mixed") matchRating = review.rating < 7.0;
+    if (ratingFilter === "cinema_personified") matchRating = review.rating >= 9.5;
+    else if (ratingFilter === "great") matchRating = review.rating >= 9.0 && review.rating < 9.5;
+    else if (ratingFilter === "very_good") matchRating = review.rating >= 8.5 && review.rating < 9.0;
+    else if (ratingFilter === "good") matchRating = review.rating >= 8.0 && review.rating < 8.5;
+    else if (ratingFilter === "pretty_good") matchRating = review.rating >= 7.0 && review.rating < 8.0;
+    else if (ratingFilter === "decent") matchRating = review.rating >= 6.0 && review.rating < 7.0;
+    else if (ratingFilter === "pretty_bad") matchRating = review.rating >= 5.0 && review.rating < 6.0;
+    else if (ratingFilter === "bad") matchRating = review.rating >= 4.0 && review.rating < 5.0;
+    else if (ratingFilter === "very_bad") matchRating = review.rating >= 3.0 && review.rating < 4.0;
+    else if (ratingFilter === "terrible") matchRating = review.rating >= 1.0 && review.rating < 3.0;
 
     // 3. Decade match
     let matchDecade = true;
@@ -748,10 +752,16 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                 <span className="font-mono text-[10px] text-dark/45 uppercase tracking-wider min-w-[70px]">Rating:</span>
                 {[
                   { value: "all", label: "All" },
-                  { value: "masterpiece", label: "Masterpieces (9+)" },
-                  { value: "excellent", label: "Great (8-9)" },
-                  { value: "good", label: "Good (7-8)" },
-                  { value: "mixed", label: "Mixed/Poor (<7)" }
+                  { value: "cinema_personified", label: "Cinema Personified (9.5+)" },
+                  { value: "great", label: "Great (9.0-9.4)" },
+                  { value: "very_good", label: "Very Good (8.5-8.9)" },
+                  { value: "good", label: "Good (8.0-8.4)" },
+                  { value: "pretty_good", label: "Pretty Good (7.0-7.9)" },
+                  { value: "decent", label: "Decent (6.0-6.9)" },
+                  { value: "pretty_bad", label: "Pretty Bad (5.0-5.9)" },
+                  { value: "bad", label: "Bad (4.0-4.9)" },
+                  { value: "very_bad", label: "Very Bad (3.0-3.9)" },
+                  { value: "terrible", label: "Terrible (1.0-2.9)" }
                 ].map((tier) => (
                   <button
                     key={tier.value}
