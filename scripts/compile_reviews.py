@@ -55,6 +55,14 @@ for idx, filename in enumerate(files):
         imdb_id = data.get("imdb_id", "")
         redux = data.get("redux", False)
         
+        # Extract director names if available
+        directors = []
+        review_data = data.get("review")
+        if isinstance(review_data, dict):
+            direction = review_data.get("direction")
+            if direction and "director" in direction:
+                directors = [d.get("name") for d in direction["director"] if d.get("name")]
+
         # Build catalog item
         catalog_item = {
             "id": review_id,
@@ -64,7 +72,8 @@ for idx, filename in enumerate(files):
             "review_date": review_date,
             "imdb_id": imdb_id,
             "redux": redux,
-            "filename": name_without_ext
+            "filename": name_without_ext,
+            "director": ", ".join(directors) if directors else ""
         }
         catalog.append(catalog_item)
         

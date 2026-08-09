@@ -838,6 +838,11 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                     <h4 className="text-lg md:text-xl font-extrabold font-sans uppercase tracking-tight text-dark mt-2 group-hover:text-accent transition-colors line-clamp-2 leading-snug">
                       {review.title}
                     </h4>
+                    {review.director && (
+                      <p className="font-mono text-[9px] text-dark/40 uppercase tracking-wider mt-1.5">
+                        Directed by {review.director}
+                      </p>
+                    )}
                   </div>
                   
                   <div className="mt-6 border-t border-dark/5 pt-4">
