@@ -951,10 +951,10 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                         const slug = selectedReview.letterboxd_slug || "unknown";
                         window.open(`https://letterboxd.com/akarshv/film/${slug}/`, "_blank", "noopener,noreferrer");
                       }}
-                      className="p-1 rounded-full border border-dark/10 hover:border-accent hover:bg-dark/5 transition-all flex items-center justify-center"
+                      className="w-10 h-10 rounded-full border border-dark/10 hover:border-accent hover:bg-dark/5 transition-all flex items-center justify-center p-0"
                       title="View on Letterboxd"
                     >
-                      <svg viewBox="0 0 500 500" className="w-7 h-7">
+                      <svg viewBox="0 0 500 500" className="w-8 h-8">
                         <defs>
                           <rect id="lb-path-1" x="0" y="0" width="129.847328" height="141.389313"></rect>
                           <rect id="lb-path-3" x="0" y="0" width="129.847328" height="141.389313"></rect>
@@ -986,15 +986,17 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                   {selectedReview && selectedReview.imdb_id && (
                     <button 
                       onClick={() => window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}`, "_blank", "noopener,noreferrer")}
-                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:text-accent transition-all text-dark/60"
+                      className="w-10 h-10 rounded-full border border-dark/10 hover:border-accent hover:text-accent hover:bg-dark/5 transition-all flex items-center justify-center p-0 text-dark/60"
                       title="View on IMDb"
                     >
-                      <ExternalLink className="w-4 h-4" />
+                      <span className="text-[9.5px] font-black tracking-tighter font-sans">
+                        IMDb
+                      </span>
                     </button>
                   )}
                   <button 
                     onClick={handleCloseReview}
-                    className="p-2.5 rounded-full bg-dark text-offwhite hover:bg-accent transition-all shadow-md"
+                    className="w-10 h-10 rounded-full bg-dark text-offwhite hover:bg-accent transition-all shadow-md flex items-center justify-center p-0"
                   >
                     <X className="w-5 h-5" />
                   </button>
