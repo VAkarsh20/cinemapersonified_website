@@ -6,6 +6,7 @@ import unicodedata
 import urllib.request
 import urllib.error
 import time
+import argparse
 from google.protobuf.json_format import MessageToDict
 
 def slugify(text):
@@ -50,13 +51,30 @@ os.chdir(REVIEW_TOOL_DIR)
 
 from utils.proto_utils import read_proto
 
+# Setup argument parser
+parser = argparse.ArgumentParser(description="Compile movie review textprotos into JSON.")
+parser.add_argument("--only", type=str, help="Specific textproto file name to compile (without .textproto extension)")
+args = parser.parse_args()
+
 proto_dir = "movies_textproto"
 if not os.path.exists(proto_dir):
     print(f"Error: {proto_dir} does not exist in {REVIEW_TOOL_DIR}")
     sys.exit(1)
 
-files = [f for f in os.listdir(proto_dir) if f.endswith(".textproto")]
-print(f"Found {len(files)} .textproto files to compile.")
+if args.only:
+    target_name = args.only
+    if target_name.endswith(".textproto"):
+        target_name = target_name[:-10]
+    filename = f"{target_name}.textproto"
+    file_path = os.path.join(proto_dir, filename)
+    if not os.path.exists(file_path):
+        print(f"Error: File {file_path} does not exist.")
+        sys.exit(1)
+    files = [filename]
+    print(f"Compiling single review: {filename}")
+else:
+    files = [f for f in os.listdir(proto_dir) if f.endswith(".textproto")]
+    print(f"Found {len(files)} .textproto files to compile.")
 
 
 
@@ -164,14 +182,34 @@ for idx, filename in enumerate(files):
     except Exception as e:
         failed_files.append((filename, str(e)))
 
-# Sort catalog by ID descending (newest reviews first)
-catalog.sort(key=lambda x: x["id"], reverse=True)
-
 # Save the catalog index in src/data/
 catalog_output_path = os.path.join(WEBSITE_DIR, "src", "data", "reviews_catalog.json")
 os.makedirs(os.path.dirname(catalog_output_path), exist_ok=True)
+
+if args.only:
+    # Load existing catalog to merge the updated/new item
+    existing_catalog = []
+    if os.path.exists(catalog_output_path):
+        try:
+            with open(catalog_output_path, "r", encoding="utf-8") as cat_f:
+                existing_catalog = json.load(cat_f)
+        except Exception as e:
+            print(f"Warning: Could not load existing catalog index: {e}")
+    
+    # Merge compiled single item(s)
+    catalog_map = {item["id"]: item for item in existing_catalog}
+    for item in catalog:
+        catalog_map[item["id"]] = item
+    
+    final_catalog = list(catalog_map.values())
+else:
+    final_catalog = catalog
+
+# Sort catalog by ID descending (newest reviews first)
+final_catalog.sort(key=lambda x: x["id"], reverse=True)
+
 with open(catalog_output_path, "w", encoding="utf-8") as cat_f:
-    json.dump(catalog, cat_f, indent=2, ensure_ascii=False)
+    json.dump(final_catalog, cat_f, indent=2, ensure_ascii=False)
 
 print("\n--- Compilation Summary ---")
 print(f"Successfully compiled: {len(catalog)} reviews.")
