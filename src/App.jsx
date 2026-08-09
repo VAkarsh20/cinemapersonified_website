@@ -951,13 +951,35 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                         const slug = selectedReview.letterboxd_slug || "unknown";
                         window.open(`https://letterboxd.com/akarshv/film/${slug}/`, "_blank", "noopener,noreferrer");
                       }}
-                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:bg-dark/5 transition-all flex items-center justify-center"
+                      className="p-1 rounded-full border border-dark/10 hover:border-accent hover:bg-dark/5 transition-all flex items-center justify-center"
                       title="View on Letterboxd"
                     >
-                      <svg viewBox="0 0 24 24" fill="none" className="w-4 h-4">
-                        <circle cx="6" cy="12" r="4.5" fill="#FF8000" />
-                        <circle cx="12" cy="12" r="4.5" fill="#00E054" />
-                        <circle cx="18" cy="12" r="4.5" fill="#00B0EA" />
+                      <svg viewBox="0 0 500 500" className="w-7 h-7">
+                        <defs>
+                          <rect id="lb-path-1" x="0" y="0" width="129.847328" height="141.389313"></rect>
+                          <rect id="lb-path-3" x="0" y="0" width="129.847328" height="141.389313"></rect>
+                        </defs>
+                        <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd">
+                          <g transform="translate(61.000000, 180.000000)">
+                            <g>
+                              <ellipse fill="#00E054" cx="189" cy="69.9732824" rx="70.0786517" ry="69.9732824"></ellipse>
+                              <g transform="translate(248.152672, 0.000000)">
+                                <mask id="lb-mask-2" fill="white">
+                                  <use xlinkHref="#lb-path-1"></use>
+                                </mask>
+                                <ellipse fill="#40BCF4" mask="url(#lb-mask-2)" cx="59.7686766" cy="69.9732824" rx="70.0786517" ry="69.9732824"></ellipse>
+                              </g>
+                              <g>
+                                <mask id="lb-mask-4" fill="white">
+                                  <use xlinkHref="#lb-path-3"></use>
+                                </mask>
+                                <ellipse fill="#FF8000" mask="url(#lb-mask-4)" cx="70.0786517" cy="69.9732824" rx="70.0786517" ry="69.9732824"></ellipse>
+                              </g>
+                              <path d="M129.539326,107.022244 C122.810493,96.2781677 118.921348,83.5792213 118.921348,69.9732824 C118.921348,56.3673435 122.810493,43.6683972 129.539326,32.9243209 C136.268159,43.6683972 140.157303,56.3673435 140.157303,69.9732824 C140.157303,83.5792213 136.268159,96.2781677 129.539326,107.022244 Z" fill="#556677"></path>
+                              <path d="M248.460674,32.9243209 C255.189507,43.6683972 259.078652,56.3673435 259.078652,69.9732824 C259.078652,83.5792213 255.189507,96.2781677 248.460674,107.022244 C241.731841,96.2781677 237.842697,83.5792213 237.842697,69.9732824 C237.842697,56.3673435 241.731841,43.6683972 248.460674,32.9243209 Z" fill="#556677"></path>
+                            </g>
+                          </g>
+                        </g>
                       </svg>
                     </button>
                   )}
