@@ -485,6 +485,23 @@ function PublicationsPage({ navigateToSection }) {
   );
 }
 
+// Helper to convert reviews catalog decimal rating to IMDb stars (1-10)
+const getImdbStars = (rating) => {
+  if (!rating) return 10;
+  const r = Math.round(rating * 10);
+  if (r >= 95) return 10;
+  if (r >= 90) return 9;
+  if (r >= 80) return 8;
+  if (r >= 70) return 7;
+  if (r >= 60) return 6;
+  if (r >= 50) return 5;
+  if (r >= 40) return 4;
+  if (r >= 30) return 3;
+  if (r >= 20) return 2;
+  if (r >= 10) return 1;
+  return 1;
+};
+
 // --- REVIEWS VIEW COMPONENT ---
 function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId }) {
   const [searchTerm, setSearchTerm] = useState("");
@@ -849,7 +866,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                     <div className="flex justify-between items-center">
                       <div>
                         <span className="text-2xl font-black font-sans text-accent tracking-tighter">
-                          {review.rating}
+                          {review.rating?.toFixed(1)}
                         </span>
                         <span className="text-[10px] font-mono text-dark/40">/10</span>
                       </div>
@@ -985,7 +1002,10 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                   )}
                   {selectedReview && selectedReview.imdb_id && (
                     <button 
-                      onClick={() => window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}`, "_blank", "noopener,noreferrer")}
+                      onClick={() => {
+                        const stars = getImdbStars(selectedReview.rating);
+                        window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}/reviews/?ref_=tt_ov_ururv&rating=${stars}`, "_blank", "noopener,noreferrer");
+                      }}
                       className="w-10 h-10 rounded-full border border-dark/10 hover:border-accent hover:text-accent hover:bg-dark/5 transition-all flex items-center justify-center p-0 text-dark/60"
                       title="View on IMDb"
                     >
@@ -1020,7 +1040,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                         <div className="absolute -top-12 -right-12 w-24 h-24 bg-accent/20 rounded-full blur-xl" />
                         <p className="font-mono text-[9px] text-accent uppercase tracking-widest mb-1">// OVERALL VERDICT //</p>
                         <div className="text-6xl md:text-7xl font-extrabold font-sans text-accent tracking-tighter leading-none">
-                          {selectedReview.rating}
+                          {selectedReview.rating?.toFixed(1)}
                           <span className="text-sm text-offwhite/40 font-normal">/10</span>
                         </div>
                         {selectedReview.review && selectedReview.review.overall && (
@@ -1807,6 +1827,21 @@ export default function App() {
     }
   ]);
 
+  // Dynamic recent reviews state for Pillar 1 Reviews preview
+  const [recentReviews, setRecentReviews] = useState(() => {
+    return reviewsCatalog.slice(0, 3).map(item => ({
+      id: item.id,
+      tag: String(item.id),
+      title: item.title,
+      movie: `${item.title} (${item.release_year})`,
+      director: item.director,
+      review: "Loading review text...",
+      rating: item.rating ? `${item.rating.toFixed(1)}/10` : "N/A",
+      date: item.review_date || "",
+      redux: item.redux
+    }));
+  });
+
   // Card 2: Aspect Ratio Viewfinder
   const [activeRatio, setActiveRatio] = useState("16:9 (Widescreen)");
   const viewportRef = useRef(null);
@@ -1910,7 +1945,30 @@ export default function App() {
     };
   }, [currentView]);
 
-
+  // --- FETCH RECENT REVIEWS DETAILS FOR PILLAR PREVIEW ---
+  useEffect(() => {
+    const firstThree = reviewsCatalog.slice(0, 3);
+    Promise.all(
+      firstThree.map(item => 
+        fetch(`/reviews/${item.id}.json`)
+          .then(res => {
+            if (!res.ok) throw new Error("Failed to fetch");
+            return res.json();
+          })
+          .catch(() => null)
+      )
+    ).then(details => {
+      setRecentReviews(prev => 
+        prev.map((item, idx) => {
+          const detail = details[idx];
+          return {
+            ...item,
+            review: detail?.review?.overall || "Review text loaded."
+          };
+        })
+      );
+    });
+  }, []);
 
   // --- DIAGNOSTIC SHUFFLER ROTATION ---
   useEffect(() => {
@@ -2520,6 +2578,55 @@ export default function App() {
                 <p className="text-dark/60 max-w-xl text-base transition-colors duration-500 font-sans font-normal">
                   Movie reviews and ratings out of 10, critiquing and evaluating every aspect of the cinematic experience.
                 </p>
+              </div>
+
+              {/* Three Horizontal Review Cards */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12 text-left">
+                {recentReviews.map((card) => (
+                  <div
+                    key={card.id}
+                    onClick={() => {
+                      setInitialReviewId(card.id);
+                      setCurrentView("reviews");
+                      window.scrollTo({ top: 0, behavior: 'smooth' });
+                    }}
+                    className="bg-white/80 backdrop-blur-sm border border-dark/10 p-6 rounded-[2rem] hover:border-accent/40 shadow-sm flex flex-col justify-between min-h-[220px] transition-all duration-300 hover:shadow-md cursor-pointer group"
+                  >
+                    <div>
+                      <div className="flex justify-between items-start gap-4">
+                        <span className="font-mono text-[9px] text-dark/45 uppercase tracking-wider">
+                          #{card.id} // {card.date}
+                        </span>
+                        {card.redux && (
+                          <span className="bg-accent/15 text-accent text-[8px] font-mono font-bold px-1.5 py-0.5 rounded tracking-wide uppercase">
+                            REDUX
+                          </span>
+                        )}
+                      </div>
+                      <h4 className="text-base font-extrabold font-sans uppercase tracking-tight text-dark mt-2 group-hover:text-accent transition-colors line-clamp-2 leading-snug">
+                        {card.title}
+                      </h4>
+                      {card.director && (
+                        <p className="font-mono text-[8px] text-dark/45 uppercase tracking-wider mt-1 line-clamp-1">
+                          Directed by {card.director}
+                        </p>
+                      )}
+                      <p className="text-xs text-dark/70 font-sans mt-3 line-clamp-3 leading-relaxed">
+                        "{card.review}"
+                      </p>
+                    </div>
+                    <div className="mt-4 pt-3 border-t border-dark/5 flex justify-between items-center">
+                      <div>
+                        <span className="text-xl font-black font-sans text-accent tracking-tighter">
+                          {card.rating}
+                        </span>
+                      </div>
+                      <span className="font-mono text-[9px] text-dark/45 uppercase group-hover:text-accent transition-colors flex items-center gap-1">
+                        Read Full →
+                      </span>
+                    </div>
+                  </div>
+                ))}
               </div>
 
               {/* Browse All Reviews CTA */}
