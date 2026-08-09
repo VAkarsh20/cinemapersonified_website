@@ -945,15 +945,6 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                 </div>
                 
                 <div className="flex items-center gap-2">
-                  {selectedReview && selectedReview.imdb_id && (
-                    <button 
-                      onClick={() => window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}`, "_blank", "noopener,noreferrer")}
-                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:text-accent transition-all text-dark/60"
-                      title="View on IMDb"
-                    >
-                      <ExternalLink className="w-4 h-4" />
-                    </button>
-                  )}
                   {selectedReview && (
                     <button 
                       onClick={() => {
@@ -968,6 +959,15 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                         <circle cx="12" cy="12" r="4.5" fill="#00E054" />
                         <circle cx="18" cy="12" r="4.5" fill="#00B0EA" />
                       </svg>
+                    </button>
+                  )}
+                  {selectedReview && selectedReview.imdb_id && (
+                    <button 
+                      onClick={() => window.open(`https://www.imdb.com/title/${selectedReview.imdb_id}`, "_blank", "noopener,noreferrer")}
+                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:text-accent transition-all text-dark/60"
+                      title="View on IMDb"
+                    >
+                      <ExternalLink className="w-4 h-4" />
                     </button>
                   )}
                   <button 
