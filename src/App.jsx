@@ -954,6 +954,22 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                       <ExternalLink className="w-4 h-4" />
                     </button>
                   )}
+                  {selectedReview && (
+                    <button 
+                      onClick={() => {
+                        const slug = selectedReview.letterboxd_slug || "unknown";
+                        window.open(`https://letterboxd.com/akarshv/film/${slug}/`, "_blank", "noopener,noreferrer");
+                      }}
+                      className="p-2.5 rounded-full border border-dark/10 hover:border-accent hover:bg-dark/5 transition-all flex items-center justify-center"
+                      title="View on Letterboxd"
+                    >
+                      <svg viewBox="0 0 24 24" fill="none" className="w-4 h-4">
+                        <circle cx="6" cy="12" r="4.5" fill="#FF8000" />
+                        <circle cx="12" cy="12" r="4.5" fill="#00E054" />
+                        <circle cx="18" cy="12" r="4.5" fill="#00B0EA" />
+                      </svg>
+                    </button>
+                  )}
                   <button 
                     onClick={handleCloseReview}
                     className="p-2.5 rounded-full bg-dark text-offwhite hover:bg-accent transition-all shadow-md"
