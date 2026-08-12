@@ -1,0 +1,118 @@
+{
+  "title": "The End of Oak Street",
+  "rating": 4.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Robert Mitchell"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is pretty good for the horror and action sequences with solid visual effects, but it leans heavily into 80s tropes, especially in the first 20 minutes where everything is overly jolly and happy; the direction on a microscale is genuinely bad as none of the characters have real chemistry, the interactions feel synthetic, and the director completely fails to direct children with all the child actors giving flat, one-dimensional performances due to poor material and no guidance, leaving Anne Hathaway and Ewan McGregor to rely entirely on their own experience to artificially generate chemistry; the storytelling is not good and all over the place, lacking a clear driving force where things just happen and characters are purely reactionary; the tension is built fine in the horror sequences, but it remains very basic tension building for a sci-fi dinosaur movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Anne Hathaway"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Makes the most out of poor material and uses her seasoned experience to carry her scenes, managing okay chemistry with Ewan McGregor despite receiving virtually no guidance from the director"
+        },
+        {
+          "actor": {
+            "name": "Ewan McGregor"
+          },
+          "rating": "Pretty Good",
+          "comments": "Relies on his veteran acting experience to build decent chemistry with Anne Hathaway, though the role confines him to playing a generic, clichéd 1980s dad"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Feels like an indictment on the director as his poor direction fails to bring out any performance from the supporting cast as they all result in flat, synthetic chemistry and one-dimensional, clichéd performances; child actors are almost never at fault for giving bad performances because it is the job of the director to get the most out of their child actors, and that is evident in this movie as not only does it affect the entire child cast, but the adult cast as well"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Robert Mitchell"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is dumb and generic, following a suburban neighborhood transported to prehistoric times with no explanation while characters just react, combined with a basic, clichéd 80s subplot about parents getting divorced; the concept just genuinely feels like someone who romanticizes the 80s too much and wanted to pay homage to Steven Spielberg and Jurassic Park, but it ends up just feeling derivative; the plot structure is incredibly predictable, simple, and generic, functioning as an 80s vanilla movie where you can easily project where everything is going; there also just isn't that much plot, so it feels like the movie drags endlessly to try and fill time; the character writing is formulaic and cliché, trying to emulate 80s movies by creating shallow characters with no real depth"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Robert Mitchell"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is the most corny 80s dialogue ever, feeling genuinely unnatural, bad, and campy in an attempt to be emblematic of an era that had some of the worst dialogue; the humor is funny mostly because of how stupid the movie is, where moments intended to be scary or serious end up coming across as campy and comical; the symbolism is very shallow and on the nose, relying heavily on 80s cliches that make the film reek of the worst tropes of the decade; the foreshadowing makes the movie incredibly predictable by introducing elements that clearly telegraph exactly what is going to happen without taking any risks"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Michael Giacchino"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "good and enjoyable, drawing heavy inspiration from John Williams scores, though it ultimately feels like a derivative, 'Jurassic Park at home' version"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Uses 80s songs to transport you to the time period, which works fine"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Michael Gioulakis"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Good, but creates an uncanny dichotomy where the film tries to be 80s in every way except for its modern, ultra-clean IMAX camera work and crisp digital presentation instead of actually capturing an authentic 80s visual aesthetic, though they do use techniques/shots from the time period like the split diopter"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "John Axelrad"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Used well in conjunction with the cinematography, making the action sequences entertaining and bringing to life older techniques like the split diopter"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Good sound design that delivers exactly what you would want and expect from a sci-fi dinosaur horror movie"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Good CGI that brings the dinosaurs and prehistoric world to life effectively"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Does a pretty good job constructing 1980s suburbia set against a massive prehistoric backdrop"
+    },
+    "makeup": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Shows the wear and tear these characters endure surviving this event"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Authentic 1980s style costume design that effectively places the characters in the era"
+    },
+    "pacing": "Not good and drags heavily, making an hour and 40-minute movie feel incredibly slow due to a lack of plot and shallow writing, where cutting 15 to 20 minutes would have made it much sharper",
+    "climax": "A bit predictable with a resolution that is far too vanilla and overly feel-good",
+    "tone": "Incredibly 80s in a bad way by overly romanticizing the decade, leaning heavily into corny, campy tropes and overly safe storytelling",
+    "final_notes": "Saw early screening in non-IMAX",
+    "overall": "Overall, 'The End of Oak Street' is a prime example of why we need to stop romanticizing the 1980s; while the era had its charm, this movie inherits all of its worst cinematic tropes—bad dialogue, formulaic character writing, a paper-thin vanilla plot, and bad direction; despite solid technicals and entertaining dinosaur action sequences, none of it is enough to save a movie that is trying to pay homage to Steven Spielberg and Jurassic Park, but ultimately feels derivative"
+  },
+  "release_year": 2026,
+  "review_date": "08/11/2026",
+  "redux": false,
+  "id": 696,
+  "imdb_id": "tt27165187",
+  "letterboxd_slug": "the-end-of-oak-street"
+}
