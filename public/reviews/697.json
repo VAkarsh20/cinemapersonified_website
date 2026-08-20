@@ -1,0 +1,116 @@
+{
+  "title": "One Night Only",
+  "rating": 4.7,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Will Gluck"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale is very much like a 2010s rom-com (like Valentine's Day), embracing that exact same style and type of movie; the direction on a microscale delivers your typical corny, cheesy rom-com moments and interpersonal scenes between the love interests and the rest of the cast; the storytelling is very basic and predictable, following the formula to a tee because the movie knows exactly what it is; the tension presents decent romantic and sexual tension in a 'will they, won't they' dynamic, though it never feels genuinely tense because you know exactly what is going to happen"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Monica Barbaro"
+          },
+          "rating": "Pretty Good",
+          "comments": "Pretty good, bringing charisma, charm, and elite presence to the role while making the most out of poor material and sharing enjoyable chemistry with Callum Turner"
+        },
+        {
+          "actor": {
+            "name": "Callum Turner"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Limited in his talent, playing an artificial tough-guy/funny-guy role that feels reminiscent of a slightly better Taylor Lautner, though he shares okay chemistry with Monica Barbaro"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad to Decent",
+        "comments": "A revolving door of cameos (including a funny one from Nicholas Braun) that adds to the fun, unserious nature of the movie as the cast goes along for the ride knowing exactly what type of movie this is"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Travis Braun"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is genuinely so stupid that it is intriguing, effectively acting as 'The Purge' for sex where premarital sex is outlawed except for one night a year; the plot structure is your very basic, vanilla rom-com structure that is incredibly predictable; character writing is typical for this type of movie, painting cheesy, corny characters who are somewhat flawed and learn to love those flaws in each other"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Travis Braun"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is so stupid that it is somewhat entertaining, largely because the film doesn't take itself seriously at all; the humor is funny and entertaining, especially because they are so on-the-nose about it not being a serious movie; the symbolism is way too on-the-nose with its overt political commentary against the current regime, and the symbolism surrounding the kindling of the relationship is a little too forced; the foreshadowing makes the movie incredibly predictable as it follows the exact same tropes you would expect from a 2010s rom-com"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Este Haim"
+        },
+        {
+          "name": "Christopher Stracey"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Exactly what you would want from a movie like this, being lighthearted and romantic"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Typical for this type of movie, relying heavily on pop songs and romantic tracks"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Yaron Orbach"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Felt very generic besides one visible shot showing the two storylines intersecting; several sequences shot in low light with high shutter speeds feel choppy and poorly executed in post-production"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tia Nolan"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "Bad and choppy, making it easy to identify where they screwed up takes and had to fix them in the cut, particularly during the obvious edits in the pizza shop scenes"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Transports you to New York City, taking advantage of actually being filmed on location"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Dolls everyone up and makes everyone pretty, delivering great hairstyling (especially for Monica Barbaro)"
+    },
+    "costumes": {
+      "rating": "Decent",
+      "comments": "Standard wardrobe for the most part, though Monica Barbaro has some really nice dresses in this movie"
+    },
+    "pacing": "Exactly what you'd expect from a rom-com; they could have cut 5 to 10 minutes out, but it is already a pretty short movie",
+    "climax": "Your typical, incredibly formulaic, and predictable rom-com climax",
+    "tone": "Totally embraces being an unserious 2010s rom-com, which makes it somewhat enjoyable because the movie does not take itself too seriously",
+    "final_notes": "",
+    "overall": "Overall, 'One Night Only' (a.k.a. the Sex Purge movie) is objectively a bad movie with its dumb premise and predictable 2010s rom-com template, but because it embraces how stupid it is, it becomes somewhat enjoyable; if you're fine with losing brain cells and withstanding Callum Turner's limited range, you can still find enjoyment as Monica Barbaro's charm and a revolving door of fun cameos make it a somewhat entertaining watch"
+  },
+  "release_year": 2026,
+  "review_date": "08/14/2026",
+  "redux": false,
+  "id": 697,
+  "imdb_id": "tt37853455",
+  "letterboxd_slug": "one-night-only"
+}
