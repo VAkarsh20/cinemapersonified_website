@@ -1,5 +1,17 @@
 [
   {
+    "id": 699,
+    "title": "Buddy",
+    "release_year": 2026,
+    "rating": 6.2,
+    "review_date": "08/24/2026",
+    "imdb_id": "tt37281055",
+    "redux": false,
+    "filename": "Buddy (2026)",
+    "director": "Casper Kelly",
+    "letterboxd_slug": "buddy"
+  },
+  {
     "id": 698,
     "title": "Teenage Sex and Death at Camp Miasma",
     "release_year": 2026,
