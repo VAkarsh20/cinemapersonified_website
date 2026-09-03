@@ -1,0 +1,137 @@
+{
+  "title": "Coyote vs ACME",
+  "rating": 8.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Dave Green"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is good, very much meshing the animation style with the real world very well to give it a silly, goofy, and cartoony Looney Tunes feel reminiscent of Space Jam or Back in Action; the direction on a microscale is also good, delivering emotional scenes that are genuinely well-acted and evoke real emotion; the storytelling is good, functioning as a David versus Goliath story of the little guy going up against a big corporation; the tension builds a kind of emotional tension because you really relate to these characters and get attached to Kevin and Wile E. Coyote in his pursuit of Acme"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Will Forte"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Did a good job showing his acting and comedy, albeit a little over the top, playing well with the animated characters which takes a lot of skill"
+        },
+        {
+          "actor": {
+            "name": "Lana Condor"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job playing the young, hungry intern who wants to fight for the cause"
+        },
+        {
+          "actor": {
+            "name": "P. J. Byrne"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "I've seen him play this type of character so many times before, but does a decent job at it"
+        },
+        {
+          "actor": {
+            "name": "Eric Bauza"
+          },
+          "rating": "Pretty Good",
+          "comments": "Voices most of the Looney Tunes and is pretty standard to what you would expect from a Looney Tunes movie, which says a lot considering the number of characters he voices"
+        },
+        {
+          "actor": {
+            "name": "John Cena"
+          },
+          "rating": "Pretty Good",
+          "comments": "Delivers a typical villain role that you would expect from this movie, basically feeling like a Cena heel character"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "Comes together pretty well to help move the story forward, having pretty good chemistry overall"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "James Gunn"
+        },
+        {
+          "name": "Jeremy Slater"
+        },
+        {
+          "name": "Samy Burch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is very interesting, functioning as a courtroom parody and a 'little guy versus big guy' template that keeps kids entertained while offering commentary on the current landscape of America with tech oligarchs and big monopolies; the plot structure is pretty much just linear and follows a very standard template; character writing is good, making you care about Kevin as a lawyer without self-esteem and framing Wile E. Coyote as a hard worker who never contributes or has success but always picks himself up, while the other characters and villains are pretty standard"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Samy Burch"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is good for a family movie and makes it entertaining; the humor is very silly, funny, and lighthearted, doing a good job capturing that Looney Tunes style; the symbolism is surprisingly present, showcasing perseverance and hard work while highlighting the battle of the little guy against big corporate monopolies; the foreshadowing is present but not super strong, making the movie a little predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Steven Price"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Enjoyable and lighthearted, sporting goofy Looney Tunes-esque music that helps establish tension and emotion effectively"
+    },
+    "soundtrack": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Includes fitting Looney Tunes songs that are on par for the movie, though the Run the Jewels song is incredibly overplayed and corny"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Brandon Trost"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Good for a movie that includes both live-action and animation, doing a great job showing off the world and capturing interpersonal scenes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Carsten Kurpanek"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very strong for this movie, doing a good job slicing the live-action and animation together effectively while helping bring out comedic effects like other Looney Tunes properties"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Very much captures that classic Looney Tunes sound, doing a good job especially in the action and comedy sequences"
+    },
+    "visual_effects": {
+      "rating": "Good to Very Good",
+      "comments": "Genuinely good animation that offers exactly what you would want from a modern live-action Looney Tunes movie, using modern technology with a hand-drawn aesthetic that is key for storytelling and showing character emotions"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Successfully handles the intersection between 2D animated sequences affecting the real world, adding to the comedy and nature of the movie"
+    },
+    "pacing": "Pretty strong, never really feeling like it drags at any moment while making the most out of the plot",
+    "climax": "Very strong and extremely emotional, making you care deeply about what happens to these characters in their fight against the big guy",
+    "tone": "Feels exactly like a live-action Looney Tunes movie, blending drama and comedy elements into a well-made family film",
+    "final_notes": "",
+    "overall": "Overall, 'Coyote vs. Acme' is objectively a good, well-made movie that successfully blends great animation, fun Looney Tunes humor, and emotive performances to make you genuinely care about Wile E. Coyote's struggle; with its unique courtroom drama story, especially for a Looney Tunes movie, it offers surprisingly profound commentary on the modern corporate landscape of monopolies and tech oligarchs, making it incredibly ironic and disappointing that Warner Bros. tried to shelve this movie for a \"tax write off\""
+  },
+  "release_year": 2026,
+  "review_date": "08/30/2026",
+  "redux": false,
+  "id": 700,
+  "imdb_id": "tt1756855",
+  "letterboxd_slug": "coyote-vs-acme"
+}
