@@ -1,5 +1,17 @@
 [
   {
+    "id": 701,
+    "title": "Akira",
+    "release_year": 1988,
+    "rating": 5.9,
+    "review_date": "09/07/2026",
+    "imdb_id": "tt0094625",
+    "redux": false,
+    "filename": "Akira (1988)",
+    "director": "Katsuhiro Otomo",
+    "letterboxd_slug": "akira"
+  },
+  {
     "id": 700,
     "title": "Coyote vs ACME",
     "release_year": 2026,

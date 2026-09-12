@@ -1,0 +1,83 @@
+{
+  "title": "Akira",
+  "rating": 5.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Katsuhiro Otomo"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is good at building the cyberpunk Neo-Tokyo world well and inspiring the cyberpunk genre of years to come, though it's hindered by playing more into the supernatural aspect, which isn't as good; the direction on a microscale is just okay as you don't really care about the story or characters, making it a lackluster narrative; the storytelling is a big issue, feeling too bloated in plot with little done to actually tell a compelling story; the tension is not built well, feeling boring and dragging due to how bloated and slow the plot becomes"
+    },
+    "acting": {
+      "cast": {
+        "rating": "Decent",
+        "comments": "Every performance in this movie sort of blends together; while the performances are fine and do the job, they do not do enough to overcome the bland character writing to help me care about the characters more"
+      },
+      "rating": "Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Katsuhiro Otomo"
+        },
+        {
+          "name": "Izo Hashimoto"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is interesting to the extent of the cyberpunk world they create, but the supernatural aspect and what Akira represents in a Post World War II Japan, while profound, does not present a compelling narrative; the plot structure is not great because it lacks exposition, throwing you right into the movie without giving you a reason to care about Tetsuo, his crew, the little kids, or the antagonists; character writing fails due to the lack of exposition, leaving you completely unattached to the cast and indifferent to their fates"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Katsuhiro Otomo"
+        },
+        {
+          "name": "Izo Hashimoto"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is fine and gets the job done for what you would expect from a Japanese anime film; the humor is fine but there are not really that many comedic moments; the symbolism is strong as a critique on anti-authoritarian and anti-imperial regimes, as well as being against the atomic bomb and its effects on Japan, showing how it took innocence away and required a rebirth to create a new Japan; the foreshadowing is okay but the movie is not really focused on it, functioning just fine"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Shōji Yamashiro"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Used effectively to help establish the movie and its themes, delivering exactly what you would expect from a 1980s Japanese anime film while helping stylistically"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Takeshi Seyama"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Good and works well, though the cut makes the movie feel a little bloated at times"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Functions exactly as you would expect from a Japanese anime film of this time period"
+    },
+    "animation": {
+      "rating": "Very Good",
+      "comments": "Visually stunning, creating a highly influential cyberpunk Neo-Tokyo world with striking character and bike designs that helped make the Japanese animation style known in the Western world"
+    },
+    "pacing": "Drags on for way too long, feeling heavily bloated by the supernatural storyline where cutting 15-20 minutes could have made it much tighter",
+    "climax": "Becomes boring and tiring by the end, failing to excite, though the ending wraps up the movie well with strong symbolism",
+    "tone": "Features a brilliant cyberpunk Neo-Tokyo tone in the first 20-30 minutes that captures your interest, before unfortunately steering away into a less enjoyable, generic supernatural anime movie tone",
+    "final_notes": "",
+    "overall": "Overall, 'Akira' is a visually stunning movie with highly influential cyberpunk aesthetics, but ultimately stands as a case of style over substance; while the animation style of Neo-Tokyo is stunning and the symbolism is profound, the bloated plot that focuses on an unnecessary supernatural storyline, lackluster character writing, and dragging pace make it incredibly difficult to care about the narrative, resulting in a tedious and overrated viewing experience"
+  },
+  "release_year": 1988,
+  "review_date": "09/07/2026",
+  "redux": false,
+  "id": 701,
+  "imdb_id": "tt0094625",
+  "letterboxd_slug": "akira"
+}
