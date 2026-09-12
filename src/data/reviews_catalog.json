@@ -1,5 +1,17 @@
 [
   {
+    "id": 702,
+    "title": "The Weight",
+    "release_year": 2026,
+    "rating": 7.9,
+    "review_date": "09/10/2026",
+    "imdb_id": "tt10794054",
+    "redux": false,
+    "filename": "The Weight (2026)",
+    "director": "Padraic McKinley",
+    "letterboxd_slug": "the-weight"
+  },
+  {
     "id": 701,
     "title": "Akira",
     "release_year": 1988,

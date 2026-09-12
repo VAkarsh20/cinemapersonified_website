@@ -1,0 +1,128 @@
+{
+  "title": "The Weight",
+  "rating": 7.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Padraic McKinley"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "The direction on a macroscale feels grand as they have these big panning shots to show the beauty in the seclusion of the Pacific Northwest, and he does a good job building the thrilling nature of the tense moments and survival scenes; the direction on a microscale is pretty good as these moments are where you really get to know the characters and their motivations, though it skews more towards Hawke than the rest of the characters; storytelling is pretty good and clear as you know exactly what everyone's motives are and why they are going on this journey, though it does get a bit formulaic at times; they build tension pretty well as it keeps you on the edge of your seat for the tense sequences"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ethan Hawke"
+          },
+          "rating": "Good",
+          "comments": "Commands the movie with his presence and carries himself well, shows why he is one of the best working actors today; is the emotional core for this movie as you see how motivated he is to get back to his daughter; brings the most out of his cast and has pretty good chemistry with them, especially Crowe"
+        },
+        {
+          "actor": {
+            "name": "Russell Crowe"
+          },
+          "rating": "Good",
+          "comments": "Feels more like a cameo as he has pretty minimal screentime, but makes his presence known; he plays a larger than life character that meshes well with Hawke, creating a very enjoyable dynamic"
+        },
+        {
+          "actor": {
+            "name": "Julia Jones"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays her character well and has a good dynamic with Hawke, pulling her weight when needed"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty",
+        "comments": "The supporting cast is fine, holding their own for the most part but feeling a little over the top at moments"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Matthew Booi"
+        },
+        {
+          "name": "Leo Scherman"
+        },
+        {
+          "name": "Matthew Chapman"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept is interesting as it uses The Great Depression and Pacific Northwest as a Backdrop to tell a very contemporary story, a man willing to do anything for his daughter; the plot structure is linear and easy to follow for the most part, though the climax and resolution becomes a bit predictable; character writing is good for the main character as you see his motives and how he is a knowledgeable person on hard times, who will do anything for his daughter, but the supporting characters are a bit surface-level and formulaic"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Matthew Booi"
+        },
+        {
+          "name": "Shelby Gaines"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is strong; the symbolism is good as shows how far someone will go to protect and see their daughter; the foreshadowing is alright, but it makes the movie feel a little safe and predictable"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Shelby Gaines"
+        },
+        {
+          "name": "Latham Gaines"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Helps with setting the tension and tone"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Matteo Cocco"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Shot very well as it uses a combination of Wide-angle and moving shots to capture the landscape beautifully and show the tension created trying to survive the open wilderness, similar to both The Revenant and The Order"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Padraic McKinley"
+        },
+        {
+          "name": "Matthew Woolley"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Edited well, especially with its use of fades into different scenes that makes it feel very old-school"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "The sound design is effective, showing the impact the vast wilderness has on creating tension"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Really helped show the beauty and seclusion of the Pacific Northwest"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Transports you to the 1930s"
+    },
+    "pacing": "Pacing is fine for the most part, but it does drag a bit towards the end when it gets a bit predictable",
+    "climax": "Climax is well executed, but is also very safe and predictable",
+    "tone": "Tone is very much a period survival thriller in the wilderness, giving vibes of The Order and The Revenant",
+    "final_notes": "",
+    "overall": "Overall, 'The Weight' is a well-shot period survival thriller that immerses you into the beauty and seclusion of the Pacific Northwest, similar to 'The Order' and 'The Revenant', and is commanded by Ethan Hawke as he serves as the emotional core for the movie; while it does a good job in building tension across this beautiful backdrop, the film plays a little too safe with its formulaic character writing, making the climax and resolution feel a bit predictable"
+  },
+  "release_year": 2026,
+  "review_date": "09/10/2026",
+  "redux": false,
+  "id": 702,
+  "imdb_id": "tt10794054",
+  "letterboxd_slug": "the-weight"
+}
