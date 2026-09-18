@@ -1,5 +1,17 @@
 [
   {
+    "id": 706,
+    "title": "Resident Evil",
+    "release_year": 2026,
+    "rating": 7.2,
+    "review_date": "09/18/2026",
+    "imdb_id": "tt35538033",
+    "redux": false,
+    "filename": "Resident Evil (2026)",
+    "director": "Zach Cregger",
+    "letterboxd_slug": "resident-evil"
+  },
+  {
     "id": 705,
     "title": "Le vertige",
     "release_year": 2026,

@@ -1,0 +1,126 @@
+{
+  "title": "Resident Evil",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Zach Cregger"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as Cregger executes this horror video game tone very well while inserting a lot of comedy from his comedic background, making it a very entertaining experience; the direction on a microscale is entertaining and funny but very video game coded, leaning heavily into stoner Reddit humor because he can only do so much with this material; the storytelling is legitimately a point A to point B movie with no exposition or resolution as you start at the rising action and go straight into the climax, feeling like you are just running a mission in the Resident Evil world; the tension is built pretty well as this is his third go-around in horror, and while it relies too much on jump scares, he does a good job using offbeat scares and first-person perspective shots to keep you on your toes"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Austin Abrams"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a good job personifying this stoner loser guy in his 20s and bringing him to life, and while it is not the best performance ever, it is very enjoyable as he literally carries this movie on his shoulders"
+        },
+        {
+          "actor": {
+            "name": "Zach Cherry"
+          },
+          "rating": "Decent",
+          "comments": "Was not a huge fan as he was fine, but his character was poorly written"
+        },
+        {
+          "actor": {
+            "name": "Paul Walter Hauser"
+          },
+          "rating": "Pretty Good",
+          "comments": "Legitimately plays an NPC as his character is such an NPC and they give him such NPC dialogue, even though I love him as an actor and think he is very funny"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "There isn't really much of a cast as everyone besides the main character is genuinely just an NPC, though that kind of makes it feel more like a video game movie"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Zach Cregger"
+        },
+        {
+          "name": "Shay Hatten"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is enjoyable as it takes place in the world of Resident Evil (inspired by Resident Evil 2) without being about any specific characters or game, which works really well for a video game movie; the plot structure is not traditional as there is no exposition or resolution, dropping you right into the rising action and ending in the climax, which I liked because it cuts out all the fluff that usually drags horror movies down, though the ending doesn't stick the landing at all; character writing is good for the main character as you learn a lot about this loser stoner guy in his 20s working a medical courier job despite the lack of exposition, but the rest of the characters are genuinely just NPCs"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Zach Cregger"
+        },
+        {
+          "name": "Shay Hatten"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is what threw me off a bit as it is super cringy and very Reddit-esque, though I get that they were not trying to make a sharp dialogue movie like Weapons; the humor is pretty good as they instill a lot of it throughout the movie, and it works because the movie doesn't take itself super seriously, making it a very entertaining experience, though they do overdo it at times; the symbolism is not deep at all but they try to show a guy in his 20s who is afraid to grow up and keeps running instead of facing his issues head on, tying into his character arc; the foreshadowing is pretty good as there is an inciting incident around the 30-40 minute mark that very much foreshadows how the end is going to be"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Hays Holladay"
+        },
+        {
+          "name": "Ryan Holladay"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Very enjoyable as it feels like the heartbeat of the movie, effectively setting the tension and tone while making it feel like a video game horror movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Dariusz Wolski"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Really enjoyable and well shot with a big budget feel, as the shifting shots and sprinkled-in first-person shooter perspectives make it feel like an actual Resident Evil video game without overdoing it"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Joe Murphy"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Works well in conjunction with the shifting shots to instill tension and make this a very hectic, fast-paced movie"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Used very well to personify the world, build tension and tone, and make it feel like an authentic Resident Evil movie"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Good and never tacky, delivering exactly what you want from a Resident Evil movie"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Does a pretty good job transporting you to the world of Resident Evil and Raccoon City"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Paints the infected pretty well and does a good job showing how people are turning"
+    },
+    "pacing": "Incredibly fast paced as you are moving the entire 90 minutes, creating a hectic nature that I very much enjoyed because there is no fluff or frills, just a rock 'em sock 'em match",
+    "climax": "The first half is good and entertaining while working well for the character writing, but the second half is just not good as the way the movie ends makes you feel like you wasted your entire time watching it",
+    "tone": "Feels exactly like a video game horror movie that never takes itself too seriously, blending hectic action with comedy to make it a very entertaining experience",
+    "final_notes": "Saw at Fantastic Fest (sort of)",
+    "overall": "Overall, 'Resident Evil' is a very entertaining horror movie that shows Zach Cregger can work very well on a big budget and in an IP space, delivering a hectic, fast-paced, and funny experience that genuinely feels like playing a Resident Evil mission; however, because it is a point A to point B movie, there is only so much he can get done with the material, and the ending doesn't stick the landing, making you feel like you wasted your entire time watching it"
+  },
+  "release_year": 2026,
+  "review_date": "09/18/2026",
+  "redux": false,
+  "id": 706,
+  "imdb_id": "tt35538033",
+  "letterboxd_slug": "resident-evil"
+}
