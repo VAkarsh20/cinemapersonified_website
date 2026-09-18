@@ -1,0 +1,96 @@
+{
+  "title": "Le vertige",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Quentin Dupieux"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is fun as it uses this PlayStation 1 animation style aesthetic to help hammer the point that the characters are living in a simulation, and they do a good job mixing in comedy with the philosophy to make it an enjoyable and polished product; the direction on a microscale is good and feels very professional as the chemistry and conversations between the actors flow very nicely and feel like the characters are in the same room with each other; the storytelling is pretty good as it gets the point across, mixing in comedy well to make it an entertaining product, but there is only so much you can tell with a short film; tension is built decently well as you actually do care about these characters and their dynamic towards the end, making you feel invested in their lives and how everything plays out"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Alain Chabat"
+          },
+          "rating": "Good",
+          "comments": "Shows his emotions through his voice very well to where you believe this is an actual performance and not a voice-over, has good chemistry with Cohen as they both work well off each other in reacting to their world around them"
+        },
+        {
+          "actor": {
+            "name": "Jonathan Cohen"
+          },
+          "rating": "Good",
+          "comments": "Shows his emotions through his voice very well to where you believe this is an actual performance and not a voice-over, has good chemistry with Chabat as they both work well off each other in reacting to their world around them"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "The cast is decently small, but they are pretty good in helping show their emotions through their voice and helping support the two leads"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Quentin Dupieux"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The concept is very unique and interesting as they use this PlayStation 1 animation style to make a comedy about living in a simulation; the plot structure is what you expect from a short-film, though it does have a coherent story that feels very close ended with how it ends; character writing is good as you genuinely do care about the main two characters, their dynamic, and how their lives change after finding out they are in a simulation (with the end solidifying this)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Quentin Dupieux"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is surprisingly very sharp, polished, and filled with humor as is key in making you care about the characters and how they react to the world in front of them; the humor is integral to making the movie enjoyable as it is well written, I also very much enjoyed the fake gag-reel they had in the credits to make this movie feel like it came out during the PlayStation 1 era; the symbolism is pretty profound as it deals with what it means to be alive, especially in the context of being in a simulation, as well as how fame, prestige, and knowledge can change relationships over time; the foreshadowing is pretty strong as it helps make the movie feel close-ended"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Franck Lascombes"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Lighthearted and makes the movie feel like it's this retro game trapped in a simulation, complementing the aesthetic well"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Quentin Dupieux"
+        },
+        {
+          "name": "Léo Pouliquen"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "Makes the movie feel like it's a stitch of PlayStation 1 game cutscenes, complementing the aesthetic well"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Makes the movie feel like it's in a PlayStation 1 game, complementing the aesthetic well"
+    },
+    "animation": {
+      "rating": "Good",
+      "comments": "Uses this PlayStation 1 aesthetic to show how the world is in a simulation, and I loved it very much because it made the movie retro, yet unique; I feel like they did a great job capturing the essence of a PlayStation 1 game as the whole movie felt like it was a stitch of cutscenes together to make a short-film; despite its blocky nature that adds to the comedy, the animation surprisingly had a pretty good attention to detail"
+    },
+    "pacing": "Pacing is fine for the most part - maybe 5-10 minutes could have been cut - but it's a short film so only so much could have been cut out without losing the narrative",
+    "climax": "Climax is executed well as it is a time jump that looks into the lives of the two characters and how they reacted differently to finding out they were in a simulation, with the ending closing the film well enough to leave you satisfied",
+    "tone": "Tonally this movie feels like a comedy that uses its PlayStation 1 aesthetic to help amplify the humor, but is also somewhat profound in its philosophy of what it means to be sentient in a simulation",
+    "final_notes": "Saw at Fantastic Fest",
+    "overall": "Overall, 'Le vertige' is an entertaining comedic short film that explores the idea of living in a simulation in a playful way through its sharp dialogue, palpable chemistry between the leads, and its unique PlayStation 1 animation style, all coming together to make you laugh and care about these characters while simultaneously offering a profound look at what it means to be alive"
+  },
+  "release_year": 2026,
+  "review_date": "09/17/2026",
+  "redux": false,
+  "id": 705,
+  "imdb_id": "tt42575634",
+  "letterboxd_slug": "le-vertige"
+}
