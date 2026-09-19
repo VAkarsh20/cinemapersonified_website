@@ -1,0 +1,114 @@
+{
+  "title": "Roma Elastica",
+  "rating": 5.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Bertrand Mandico"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale follows a very French surrealist flow that is similar to other silly comedy films in the sub-genre, sprinkling in dramatic moments to get its messaging across; the direction on a microscale is very typical of French surrealist films, though it is not the best comedy-drama as it is just so all over the place that you cannot take it seriously, even in the more dramatic moments; the storytelling is all over the place as this is what makes the film very surrealist, and not really in a good way; the tension is non-existent because it keeps playing with your expectations that you do not really know what is real or fake, so you lose your emotional investment in these characters the more the movie goes on"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Marion Cotillard"
+          },
+          "rating": "Good",
+          "comments": "Does the best she can with the material she is given as the movie at the end of the day feels very semi-autobiographical, an older French star who is entering the end of her career and attempting her swan song; she uplifts the cast the best she can and has pretty good chemistry with Noémie Merlant"
+        },
+        {
+          "actor": {
+            "name": "Noémie Merlant"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the sidekick character well as she has good chemistry with Cotillard, as they both bring out the best in each other"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "Typical low-budget French surrealism cast"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Bertrand Mandico"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The concept is a surrealist take of a dying film star attempting to complete her swan song; the plot structure starts off as linear, but just goes all over the place once the surrealism starts to set in; character writing is your typical dying star attempting her swan song trope for the lead, but then turns to pretty typical surrealist characters you see from French films like this"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Bertrand Mandico"
+        }
+      ],
+      "rating": "Pretty Bad to Decent",
+      "comments": "The dialogue is exactly what you expect from a French surrealist film, very fake and unnatural dialogue that feels very forced; while the English from the European characters feels broken at times, that usually is how non-fluent actors speak in a language they're not accustomed to so I give somewhat of a pass; the humor is very surrealist and silly, having an alright hit rate, but not the best; the symbolism is very on-the-nose, with the main messaging being about sexuality, capitalism, and how older women are treated in the film industry (feeling somewhat autobiographical for Marion Cotillard); the foreshadowing is kind of all over the place because of how the surrealism subverts your expectations in a very repetitive manner"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Pierre Desprats"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Is what you expect from a French surrealist film"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Nicolas Eveilleau"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Very much feels like a low-budget, French surrealist film, though the widescreen aspect ratio honestly feels a little too wide"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Laure Saint-Marc"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Very much what you expect from a low-budget, French surrealist film"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Very much what you expect from a low-budget, French surrealist film"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Very cheap practical effects to mimic the low-budget nature of the film being produced in the movie"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Really plays into the low-budget, French surrealist vision for the film as many of the set-pieces feel like dream sequences that are supposed to be shot for a movie"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Very fashion forward and glamorous, fitting for an Italian setting"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Very fashion forward, as this movie is set in Italy after all and is about film stars"
+    },
+    "pacing": "Pacing is honestly pretty slow because of how repetitive the surrealism gets",
+    "climax": "Climax is honestly not executed well because of how all over the place it gets, with the ending just feeling like I wasted so much of my time watching this movie",
+    "tone": "Tone is very much a French surrealist silly comedy-drama, that is also all over the place and super low-budget",
+    "final_notes": "",
+    "overall": "Overall, 'Roma Elastica' is very much a low-budget French surrealist comedy-drama that is just a little too all over the place to take seriously; while Marion Cotillard does the best she can with the material in a role that feels semi-autobiographical and shares good chemistry with Noémie Merlant, the repetitive surrealism and dragging pace culminate in an ending that doesn't stick the landing"
+  },
+  "release_year": 2026,
+  "review_date": "09/18/2026",
+  "redux": false,
+  "id": 703,
+  "imdb_id": "tt32596720",
+  "letterboxd_slug": "roma-elastica"
+}

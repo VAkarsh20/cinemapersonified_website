@@ -24,6 +24,18 @@
     "letterboxd_slug": "le-vertige"
   },
   {
+    "id": 703,
+    "title": "Roma Elastica",
+    "release_year": 2026,
+    "rating": 5.4,
+    "review_date": "09/18/2026",
+    "imdb_id": "tt32596720",
+    "redux": false,
+    "filename": "Roma Elastica (2026)",
+    "director": "Bertrand Mandico",
+    "letterboxd_slug": "roma-elastica"
+  },
+  {
     "id": 702,
     "title": "The Weight",
     "release_year": 2026,
