@@ -1,0 +1,100 @@
+{
+  "title": "Too Many Beasts",
+  "rating": 6.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Sarah Arnold"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is pretty good as they build the world well and set a tone that makes the mystery interesting to follow, with the worldbuilding feeling very polished; the direction on a microscale is pretty good as the performances, especially the dynamic between Manenti and Rumpf, make the interpersonal scenes feel well acted; the storytelling is good for the most part as they set the conflict well and use the mystery to solve the crime as the rising action to keep you interested in the story, but the climax and ending kinda feel like they fall off a cliff; the tension is built well as it keeps you interested in the mystery throughout the movie, but feels wasted towards the end"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Alexis Manenti"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Does a pretty good job playing a cop who is dealing with trauma that is clearly affecting him, with his chemistry with Rumpf bringing him more out of his shell the more they begin to connect"
+        },
+        {
+          "actor": {
+            "name": "Ella Rumpf"
+          },
+          "rating": "Pretty Good",
+          "comments": "Has a good dynamic with Manenti as they both play off each other well to bring out the best in their characters"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "No real bad performances as everyone works well off each other to help move the narrative forward"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Sarah Arnold"
+        },
+        {
+          "name": "Jérémie Dubois"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is interesting as it uses this mystery-crime plot of the farmer and the boars to investigate not only the main character, but his past struggles as well; the plot structure is pretty traditional-with an exposition setting the conflict, with the time jump starting the movie and the mystery-but the climax and resolution really kinda fall off a cliff; character writing is pretty good as you get a sense of who the character is and the demons he struggles with-along with the dynamic he has with his therapist-but the ending kinda tarnishes the progress the film is trying to make with its character writing"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Sarah Arnold"
+        },
+        {
+          "name": "Jérémie Dubois"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty sharp and fitting for a dramatic mystery; the symbolism is decent as the movie has pretty strong class commentary, as well as dealing with the corruption of the police and government when it comes to investigating crimes; the foreshadowing is decent"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Florencia Di Concilio"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Helps set the tone and tension well"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Noé Bach"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Feels well polished as it makes the film look like a professional project, especially the sparks scene"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Isabelle Manquillet"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Standard editing for a well made movie"
+    },
+    "pacing": "Pacing is fine for the most part-helping build the suspense-but the ending really drags as it feels like the movie is going on for too long (as a good 10 minutes could have been shaved overall to make the movie feel a bit tighter)",
+    "climax": "Climax is not executed well as the movie very much goes out of left field in the last 30 minutes, with the ending really missing the landing entirely",
+    "tone": "Tone is very much a French crime mystery",
+    "final_notes": "Saw at Fantastic Fest",
+    "overall": "Overall, 'Too Many Beasts' is a decent French crime mystery that builds an interesting world and uses its boar-fueled conflict to investigate both a crime and what it says about class and its connection with the government; while the chemistry between Alexis Manenti and Ella Rumpf keeps you invested and the tension is built well throughout, the last 30 minutes go completely left field and drag out an ending that misses the landing, tarnishing a lot of the progress the film had made"
+  },
+  "release_year": 2026,
+  "review_date": "09/20/2026",
+  "redux": false,
+  "id": 704,
+  "imdb_id": "tt38841455",
+  "letterboxd_slug": "too-many-beasts"
+}

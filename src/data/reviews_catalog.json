@@ -36,6 +36,18 @@
     "letterboxd_slug": "le-vertige"
   },
   {
+    "id": 704,
+    "title": "Too Many Beasts",
+    "release_year": 2026,
+    "rating": 6.8,
+    "review_date": "09/20/2026",
+    "imdb_id": "tt38841455",
+    "redux": false,
+    "filename": "Too Many Beasts (2026)",
+    "director": "Sarah Arnold",
+    "letterboxd_slug": "too-many-beasts"
+  },
+  {
     "id": 703,
     "title": "Roma Elastica",
     "release_year": 2026,
