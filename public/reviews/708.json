@@ -1,0 +1,147 @@
+{
+  "title": "Play House",
+  "rating": 7.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Nicolas Curcio"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is good for the most part because the horror is pretty well executed, especially in the final 30 minutes, though it plays more as a thriller and slasher than a supernatural movie since the supernatural aspects are just thrown in and never really fleshed out, and while it takes too long to pick up for an 85 minute movie, it hits a good pace once it does; the direction on a microscale is good in the horror moments of the last 40 minutes, but the front half falls into the typical Gen Z young adult exposition you get in most horror movies, with the montage of them hanging out and having fun feeling like fluff in an already short movie and their interpersonal scenes feeling very typical; the storytelling is good because it leaves you breadcrumbs and doles out pieces of the story as it introduces the tapes and their lore, and it plays with your expectations of what the movie is supposed to be, which keeps you interested enough that the last 40 minutes are actually entertaining; the tension is built well in the thriller and slasher moments, especially for a low budget movie that only got greenlit off the Fantastic Pitches last year, though the supernatural elements feel gimmicky like they are just checking off horror tropes without any backstory behind them"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Will Harrison"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Plays a decent lead that holds his own throughout the movie, but only hits certain levels; has pretty good chemistry with the cast, especially Sula"
+        },
+        {
+          "actor": {
+            "name": "Jessica Sula"
+          },
+          "rating": "Pretty Good",
+          "comments": "Holds her own well and shows a pretty good range of emotions, in both the romantic moments and the horror moments; has pretty good chemistry with the cast, especially Harrison"
+        },
+        {
+          "actor": {
+            "name": "Jordan Gonzalez"
+          },
+          "rating": "Decent",
+          "comments": "Plays the typical Gen Z influencer character; has decent chemistry with the other leads"
+        },
+        {
+          "actor": {
+            "name": "James Urbaniak"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Plays the villain well as it feels like he has experience playing a role like this; makes his presence known in the horror moments; has pretty good chemistry with the main cast"
+        },
+        {
+          "actor": {
+            "name": "Nina Millin"
+          },
+          "rating": "Decent",
+          "comments": "Plays a very typical real estate psychic character you would see in something like SNL"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "There isn't that much of a supporting cast, but the chemistry between them is pretty noticeable as they all play off each other well"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Nicolas Curcio"
+        },
+        {
+          "name": "Kirby Gladstein"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The concept is interesting with these young adults finding tapes of an unaired Mr. Rogers' Neighborhood-esque show in the torn down house they bought, and while it looks like a homemade creepypasta at first, there very much is something more at play, which they do a good job tying together by the end; the plot structure is pretty standard and linear, with the exposition being your typical young adult led horror setup, but once the rising action hits and they introduce the conflict and start building a mystery around it, it gets interesting, and the buildup to the climax and the climax itself were well executed; I liked how they ended the movie because it gives you enough to conclude what happens without overdoing it; character writing is fine as the three Gen Z characters are your typical horror Gen Z types, with one of them being the typical SoCal influencer who was honestly very annoying but is very much a caricature of that type of character, and the third wheeling dynamic and the relationship between the two leads were fine but very typical, though Mr. Morton is a well written character because it gives you just enough to know about him without overselling it"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Nicolas Curcio"
+        },
+        {
+          "name": "Kirby Gladstein"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The dialogue is very Gen Z and a little forced at times, which is fine, and the dialogue in the horror moments past the 40 minute mark is pretty decent even if it could have been sharper; the humor is very Gen Z with a lot of unintentional humor thrown in, and while it is a little forced it gives the movie and the characters some personality; the symbolism is fine because it is definitely there but this is not a movie meant to be judged from that aspect, though it does a decent job with the housing crisis and how it affects your ability to buy a house, with the lead having to buy a worn down house that the original family was displaced from and a bit of eminent domain uprooting lives and families, plus the idea of trying to figure it out as a young adult and not having everything worked out yet; the foreshadowing is pretty good because what they set up at the beginning of the movie definitely plays into the horror elements in the last 20 to 40 minutes"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Gavin Brivik"
+        },
+        {
+          "name": "Cali Wang"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Mostly there to build tension and tone"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Very Gen Z horror coded"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Zayd Ezzeldine"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Actually well shot and very polished for an indie-horror film, helping show you the different perspectives of the house, and used well in the horror sequences to help build tension"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Chester Howie"
+        },
+        {
+          "name": "Chris Visser"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Well edited and very polished for an indie-horror film, making the horror sequences land as it helps build tension through its jump scares and changing camera angles"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Used well to help build tension and tone, though they spam the jump scares a little more than they should"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Good use of practical effects to make this feel like a polished indie-horror film"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "A one setting film since everything takes place in this house, showing the impact it has on the story and the characters; the puppets are also a nice touch and help sell the Mr. Rogers-esque show"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Shows the blood and gore of the slasher, thriller moments"
+    },
+    "pacing": "A little bit slow during the exposition, but it hits its stride around the 40 minute mark",
+    "climax": "Executed well and was very entertaining, ending the movie on a strong note",
+    "tone": "Very much a Gen Z horror film with thriller, slasher, and supernatural elements, though the supernatural side feels a bit forced",
+    "final_notes": "Saw at Fantastic Fest",
+    "overall": "Overall, 'Play House' is a very entertaining low budget indie-horror film that takes some time to get going, but once it hits the 40 minute mark it delivers with a well executed climax, a fun concept around the tapes of a DIY Mr. Rogers creepypasta, and a level of polish you would not expect from a movie this size; for a low budget horror movie it punches above its weight, even if the Gen Z exposition is very formulaic and the supernatural elements feel forced"
+  },
+  "release_year": 2026,
+  "review_date": "09/20/2026",
+  "redux": false,
+  "id": 708,
+  "imdb_id": "tt38492840",
+  "letterboxd_slug": "play-house"
+}

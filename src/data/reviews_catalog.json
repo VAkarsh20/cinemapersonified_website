@@ -1,5 +1,17 @@
 [
   {
+    "id": 708,
+    "title": "Play House",
+    "release_year": 2026,
+    "rating": 7.1,
+    "review_date": "09/20/2026",
+    "imdb_id": "tt38492840",
+    "redux": false,
+    "filename": "Play House (2026)",
+    "director": "Nicolas Curcio",
+    "letterboxd_slug": "play-house"
+  },
+  {
     "id": 707,
     "title": "A Prayer for the Dying",
     "release_year": 2026,
