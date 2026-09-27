@@ -1,5 +1,17 @@
 [
   {
+    "id": 718,
+    "title": "Primetime",
+    "release_year": 2026,
+    "rating": 8.1,
+    "review_date": "09/25/2026",
+    "imdb_id": "tt34206385",
+    "redux": false,
+    "filename": "Primetime (2026)",
+    "director": "Lance Oppenheim",
+    "letterboxd_slug": "primetime-2026"
+  },
+  {
     "id": 714,
     "title": "Primetime",
     "release_year": 2026,
