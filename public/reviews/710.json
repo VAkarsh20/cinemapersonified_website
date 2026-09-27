@@ -1,0 +1,120 @@
+{
+  "title": "Beware Boiúna",
+  "rating": 5.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Mike P. Nelson"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale is very much the standard killer animal survival prototype like Jaws or Anaconda, offering nothing special but remaining entertaining from a pure survival thrill standpoint, with a gritty guerrilla camera style that puts you right alongside the characters as they encounter the snake; the direction on a microscale is bad and exactly what you expect from a generic killer animal survival movie, handling the characters with the most templated, surface-level touch imaginable; the storytelling is completely straightforward for the first hour before pulling a stylistic shift in the last 40 minutes to subvert expectations, which I understand why they attempted since the setup was so formulaic, but it ends up feeling dumb and doesn't make the movie any better or worse; the tension delivers standard thrills reminiscent of genre staples like Jaws or Anaconda, amplified a bit by the chaotic, handheld guerrilla filming style, even if that camerawork becomes downright nauseating at times"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jessica Rothe"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Plays the quintessential survival horror final girl archetype, turning in a completely standard, predictable performance that checks all the expected genre boxes"
+        },
+        {
+          "actor": {
+            "name": "Kiana Madeira"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Does a fine job holding her own in the survival sequences, delivering a completely serviceable, standard performance that fits the material throughout the movie"
+        },
+        {
+          "actor": {
+            "name": "Logan Marshall-Green"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Plays the villain as a thoroughly conventional, super surface-level survival thriller antagonist with predictable motives"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "A completely uninspired ensemble that never tries to reinvent the wheel, delivering standard B-movie reactions that get the job done without standing out"
+      },
+      "rating": "Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Alan B. McElroy"
+        },
+        {
+          "name": "Tony Giglio"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is basically Jaws with a giant snake, delivering an Anaconda-style killer animal survival premise where everything outside of the core creature threat is as basic and generic as it gets; the plot structure follows the standard survival template entirely according to plan until the final 40 minutes, where it pulls an abrupt shift in perspective to subvert expectations for the climax much like The Rivals of Amziah King did, but the twist feels pointless and dumb rather than earned; character writing is completely hollow and paper-thin, populating the film with the most templated, surface-level archetypes imaginable across the leads, their motivations, and the villain"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Alan B. McElroy"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is very much your standard, corny B-movie survival fare that serves strictly functional plot purposes; the humor is sprinkled in lightly and while the hit rate is fairly low, it lands just often enough to keep the tone mildly entertaining; the symbolism is very overt with heavy-handed environmental themes touching on conservation, anti-colonization, and stopping the industrialization of the Amazon and indigenous lands, which is fine even if completely unsubtle; the foreshadowing plays entirely by the formulaic survival playbook until the 40-minute mark where they try to subvert what was set up, but the execution of that twist is poorly handled and leaves the remainder of the narrative feeling disjointed"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Stephen Lukach"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Used effectively to build tone and tension throughout the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Nick Junkersfeld"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Shot with a chaotic, shaky handheld guerrilla style mixed with sweeping drone shots of the Amazon, which succeeds at creating an immersive and tense survival atmosphere but frequently becomes dizzying and aggressively nauseating"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Tom Elkins"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Very choppy guerrilla-style cutting that complements the handheld camerawork well to keep the energy frantic and maintain tension during the snake attacks"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Delivers solid survival horror sound design that effectively amplifies the jungle ambience, heightening the tension during creature encounters to keep you engaged"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "An impressive hybrid approach that blends heavy on-set practical effects—using physical rigs to sell the creature's crushing weight and environmental destruction—with solid CGI augmentation that looks convincing enough to deliver exactly what you want from a modern giant snake movie"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Takes full advantage of shooting on location in the Amazon, doing a great job capturing both the natural beauty and the claustrophobic isolation of the rainforest to ground the setting"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Does a solid job delivering visceral gore and believable injury details to sell the bloody, crushing aftermath of the snake attacks"
+    },
+    "pacing": "Pacing is generally fine and moves at a steady clip without dragging too much, though trimming about 5 to 10 minutes could have tightened the momentum even further",
+    "climax": "Executed well, delivering the exact brand of chaotic, creature-slaying final showdown you expect from a classic killer animal movie like Jaws or Anaconda",
+    "tone": "Completely embraces its B-movie killer animal survival roots with all the familiar genre tropes, playing like an Anaconda-style thriller that knows exactly what it is",
+    "final_notes": "",
+    "overall": "Overall, 'Beware Boiúna' is an unapologetic B-movie killer animal survival thriller that knows exactly what it is, delivering Jaws in the Amazon with a giant snake and leaning fully into every familiar genre trope; while the characters and story are completely formulaic and the guerrilla camerawork can get aggressively nauseating, it remains a passably entertaining, turn-your-brain-off killer snake movie that delivers just enough visceral action to not feel like you wasted your time watching it"
+  },
+  "release_year": 2026,
+  "review_date": "09/26/2026",
+  "redux": false,
+  "id": 710,
+  "imdb_id": "tt11540908",
+  "letterboxd_slug": "beware-boiuna"
+}
