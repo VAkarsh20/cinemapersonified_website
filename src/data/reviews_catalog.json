@@ -24,6 +24,18 @@
     "letterboxd_slug": "half"
   },
   {
+    "id": 712,
+    "title": "Compliance",
+    "release_year": 2026,
+    "rating": 3.7,
+    "review_date": "09/22/2026",
+    "imdb_id": "tt40389698",
+    "redux": false,
+    "filename": "Compliance (2026)",
+    "director": "Kyle Mangione-Smith",
+    "letterboxd_slug": "compliance"
+  },
+  {
     "id": 711,
     "title": "Alpha Gang",
     "release_year": 2026,
