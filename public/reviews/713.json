@@ -1,0 +1,120 @@
+{
+  "title": "Half",
+  "rating": 8.0,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Samjad"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale strikes an incredible balance by feeling heavily influenced by Western cinema while remaining authentically South Indian at its core, staging hyper-violent, brilliantly choreographed vampire action sequences that elevate traditional South Indian cinematic energy with intense Western-style gore and prosthetics; the direction on a microscale brings distinct South Indian flavor to the character moments, grounding the chaos in a heartfelt, protective bond between the brother and sister; the storytelling keeps things simple and propulsive as a straightforward revenge thriller, and while the broader lore and package-delivery setup aren't deeply fleshed out, it works because you are immediately invested in their mission to hunt down the scavengers who ambushed them; the tension is built exceptionally well because of your emotional attachment to the two leads, making every brutal injury they endure and every high-stakes fight feel genuinely gripping as you root for them to survive"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Ranjith Sajeev"
+          },
+          "rating": "Good",
+          "comments": "Delivers a strong lead performance as Ethan, handling the intense physical martial arts demands with ease while anchoring the film with his protective, caring dynamic over his sister"
+        },
+        {
+          "actor": {
+            "name": "Aiswarya Raj"
+          },
+          "rating": "Good",
+          "comments": "Does a great job as Ivy, making her vulnerability and struggle deeply felt—especially when she is mistreated—while using sign language effectively and sharing great natural chemistry with Sajeev"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "Anchored entirely by the strong emotional chemistry between the two leads, while the surrounding ensemble consists of the most typical, interchangeable South Indian action-movie goons who exist purely to get violently dispatched"
+      },
+      "rating": "Pretty Good to Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Samjad"
+        },
+        {
+          "name": "Praveen Viswanath"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The concept feels entirely fresh for South Indian cinema, introducing day-walking half-vampire siblings on a desert road trip and blending supernatural creature lore with a gritty revenge thriller; the plot structure keeps the narrative engine lean and effective, moving cleanly from the brutal opening ambush into a relentless hunt for vengeance that culminates in a thrilling, kill-heavy climax, even if the final epilogue drags slightly; character writing is very strong for the two leads, giving Ethan and Ivy genuine warmth, vulnerability, and heart so you cheer for their victories and feel every blow they take, though the opposing goons and main villain are the most interchangeable, cookie-cutter action-movie henchmen you would expect from South Indian cinema"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Samjad"
+        },
+        {
+          "name": "Praveen Viswanath"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The dialogue is surprisingly rich and dynamic, creatively constructing a fictional lawless border zone where characters fluidly converse across Malayalam, Telugu, Tamil, and Hindi—alongside Aiswarya Raj's expressive sign language—without missing a beat, reflecting a deeply lived-in multilingual ecosystem; the humor derives almost entirely from the sheer kinetic energy, shock value, and creative spectacle of the over-the-top gory kills rather than scripted jokes; the symbolism stays focused on the protective, unconditional familial bond between the siblings, serving as a heartfelt emotional anchor rather than reaching for heavy-handed metaphors; the foreshadowing is straightforward and clearly telegraphed, setting up key survival abilities and narrative payoffs early on that resolve cleanly in the final confrontation"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Midhun Mukundan"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Delivers a pulse-pounding, high-energy South Indian score that effectively amplifies the tension and drives the adrenaline through every chaotic action sequence"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Incorporates vibrant Malayalam tracks that ground the film in authentic cultural South Indian roots, beautifully balancing the intense desert brutality"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Pappinu"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Strikingly polished and cinematic, seamlessly blending Hollywood-level action framing with distinct South Indian visual flair across the sun-baked desert landscapes"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Mahesh Bhuvanend"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Remarkably sharp and polished, cutting the complex martial arts choreography with precision and clarity so every devastating hit lands without feeling disorienting"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Embraces classic, thunderous South Indian action sound design, delivering stylized audio effects that elevate the martial arts brawls while maintaining the visceral punch of a Western gorefest"
+    },
+    "visual_effects": {
+      "rating": "Good",
+      "comments": "Features a seamless blend of heavy practical gore and polished CGI that feels on par with top-tier Western action cinema, delivering hyper-violent squibs and effects that make the combat insanely entertaining"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Shooting on location in the isolated, sun-scorched deserts of Rajasthan gives the film a distinctive 'curry western' aesthetic that feels vast, harsh, and completely cut off from civilization"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Superbly executed, visually tracking the severe physical toll of the fights with gnarly wounds and heavy blood, while highlighting their supernatural regenerative healing abilities"
+    },
+    "pacing": "Pacing is good for the most part because this is not a story-heavy movie, relying on a straightforward revenge story where the action sequences showcase their vengeance and character connection, and while you could maybe cut about 5 minutes out, keeping it simple keeps the pacing strong",
+    "climax": "Very well executed, delivering an exciting, kill-heavy showdown that might have the best kill in the entire movie, and while the epilogue at the very end wasn't quite as strong, it works fine as an epilogue",
+    "tone": "Very much feels inspired by Western cinema and cowboy westerns while remaining authentically South Indian at its core, creating a desert vampire action movie that beautifully blends the flavors of both worlds",
+    "final_notes": "Saw premiere at Fantastic Fest",
+    "overall": "Overall, 'Half' is a desert vampire revenge story that is clearly influenced by Western cinema while remaining authentically South Indian at its core; while it certainly has flaws with its cookie-cutter South Indian goons and thin plot, the stellar martial arts choreography, brutal gore, and great sibling chemistry make this a hugely entertaining 90-minute experience that will hopefully open the door for more South Indian genre films on the festival circuit"
+  },
+  "release_year": 2026,
+  "review_date": "09/23/2026",
+  "redux": false,
+  "id": 713,
+  "imdb_id": "tt35288628",
+  "letterboxd_slug": "half"
+}
