@@ -1,0 +1,148 @@
+{
+  "title": "Alpha Gang",
+  "rating": 4.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "David Zellner"
+        },
+        {
+          "name": "Nathan Zellner"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The direction on a macroscale feels like Wes Anderson tried to make Baby Driver after taking an edible right before shooting, delivering a deeply silly, self-indulgent, and stupid sci-fi comedy that thinks it is significantly more clever and charming than it actually is; the direction on a microscale is practically non-existent, feeling as if the Zellners simply walked out of the room and left a completely miscast ensemble to fend for themselves with zero chemistry and zero guidance beyond acting deadpan and monotonous, failing to capture the 1950s Dirty Dozen dynamic they were clearly aiming for; the storytelling is atrocious because there is legitimately zero story to tell, stretching a paper-thin, non-existent plot across an excruciating hour and 40 minutes of aimless wandering and forced silliness; the tension is in the negatives because you have zero emotional investment in any of these alien characters, making it completely impossible to care about their mission, their internal dilemmas, or anything that happens to them on screen"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Léa Seydoux"
+          },
+          "rating": "Bad",
+          "comments": "An actress I normally really like who feels completely miscast and stranded here, struggling to make anything worthwhile out of the flat, monotonous alien dialogue"
+        },
+        {
+          "actor": {
+            "name": "Dave Bautista"
+          },
+          "rating": "Bad",
+          "comments": "Usually brings great comedic timing and physical presence to eccentric roles, but here he feels completely out of his element and bogged down by the lifeless direction"
+        },
+        {
+          "actor": {
+            "name": "Lily-Rose Depp"
+          },
+          "rating": "Bad",
+          "comments": "Completely disengaged and checked out, giving a flat performance that feels like she is simply reading her lines off a script without any energy"
+        },
+        {
+          "actor": {
+            "name": "Cate Blanchett"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Losing the Oscar for Tár somehow broke her brain, because seeing an actress of her caliber continuing to slum it in such a baffling, deeply unfunny role is painful to watch"
+        },
+        {
+          "actor": {
+            "name": "Chris Pine"
+          },
+          "rating": "Pretty Bad",
+          "comments": "Leans aggressively into a swaggering 1950s greaser caricature, but the material gives him nothing to work with beyond the most generic genre tropes"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "Suffers from a catastrophic lack of direction and zero on-screen chemistry, feeling like a star-studded ensemble where everyone was completely miscast, abandoned by the directors, and left to fend for themselves"
+      },
+      "rating": "Bad to Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "David Zellner"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept attempts to pay homage to 1950s biker gang movies with a sci-fi spin about alien invaders who catch human emotions like a contagious disease while trying to conquer Earth, but it does such a miserable job actually executing that premise that the whole thing collapses into a profoundly stupid gimmick; the plot structure is completely non-existent, consisting of people standing around delivering monotonous banter for an hour and 40 minutes with zero narrative drive, leading to a climax that might have some fun ideas but lands with a thud because you are already checked out and praying for the credits to roll; character writing is the biggest crux of why this movie fails so hard, because an ensemble comedy about stoic aliens learning to feel completely hinges on compelling character dynamics, yet the writing is so hollow and bland that every single member of the gang is utterly uninteresting to watch"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "David Zellner"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is painfully stupid, monotonous, and bland, forcing the cast to trade lifeless, deadpan banter in a desperate attempt to sound quirky and silly that only succeeds in making the film an unbearable chore to listen to; the humor tries relentlessly to be eccentric and absurd, but with an agonizing hit rate of about 1 joke landing for every 15 attempts, watching it strain for laughs becomes genuinely exhausting; the symbolism lazily hints at allegories for the American military-industrial complex and global imperialism, with the gang's name-changing arc gesturing toward trans identity, but wrapping those themes inside a film this hollow and incompetent is an active disservice to that messaging; the foreshadowing is loosely scattered around but ultimately spirals all over the place, resulting in a disjointed conclusion where your only real emotion is sheer relief that the movie is finally ending"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "The Octopus Project"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Delivers a quirky 1950s aesthetic and vibe that leans into the film's eccentric sci-fi tone while attempting to build mild tension in between the silliness"
+    },
+    "soundtrack": {
+      "rating": "Pretty Good",
+      "comments": "Heavily coded in 1950s Elvis-style rock and roll in an aggressive effort to sell the retro biker motif, playing so relentlessly into the gimmick that it quickly wears out its welcome"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Mike Gioulakis"
+        }
+      ],
+      "rating": "Pretty Good to Good",
+      "comments": "One of the few highlights, utilizing a stylized indie approach with snappy Wes Anderson- and Tarantino-inspired whip pans, quick zooms, and retro framing that leans into the absurdity and gives the film some visual life"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Daniel Tarr"
+        },
+        {
+          "name": "David Zellner"
+        },
+        {
+          "name": "Nathan Zellner"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Works in tandem with the camerawork through sharp, abrupt comedic cuts to sell the deadpan absurdity, even if it cannot salvage the story's dragging narrative momentum"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Solid across the board, complementing the vintage 1950s aesthetic and goofy sci-fi audio cues to support the film's eccentric tone"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "Relies on a mix of practical physical gags and intentionally cheap, goofy CGI that leans right into the film's campy, low-budget silliness"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Features fun, colorful, and eccentric indie sets that lean into the goofy 1950s Americana vibe, while incorporating several deliberately campy sci-fi sets to remind you that this is in fact an alien invasion movie, standing out as one of the few genuinely enjoyable elements"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "Fine for what it is, doing a decent job with the campy splatter of red and blue alien blood during the violent comedic sequences"
+    },
+    "costumes": {
+      "rating": "Pretty Good",
+      "comments": "Captures the 1950s biker gang look well with the leather jackets and vintage gear, alongside the delightfully absurd and goofy alien armor suits that add to the retro sci-fi aesthetic"
+    },
+    "pacing": "Agonizingly slow and tedious, as stretching a non-existent plot across an hour and 40 minutes makes the entire film drag endlessly; cutting 20 minutes wouldn't have saved the movie, but it would have saved the audience a lot of misery",
+    "climax": "While it has a slightly higher joke hit rate and offers a few fun, chaotic ideas, it arrives way too late after you are already completely checked out and just waiting for the credits to roll",
+    "tone": "Attempts to merge a 1950s retro biker aesthetic with the kinetic, eccentric comedy of Baby Driver and Wes Anderson, but ends up as a smug, unfunny slog that is far too silly and stupid for its own good",
+    "final_notes": "Saw at Fantastic Fest as a secret screening",
+    "overall": "Overall, 'Alpha Gang' is a profoundly boring, self-indulgent misfire that wastes a stacked ensemble on a deeply stupid premise; while the 1950s aesthetic and artsy cinematography provide some retro flair, the non-existent plot, lifeless dialogue, and complete lack of character chemistry make this an agonizingly tedious, unfunny slog that genuinely makes me wish I could get back the time I spent watching it"
+  },
+  "release_year": 2026,
+  "review_date": "09/22/2026",
+  "redux": false,
+  "id": 711,
+  "imdb_id": "tt32321564",
+  "letterboxd_slug": "alpha-gang"
+}
