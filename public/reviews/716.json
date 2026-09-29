@@ -1,0 +1,123 @@
+{
+  "title": "Kung Fu Deadly",
+  "rating": 6.8,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Fergal Costello"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale is very Edgar Wright-coded, featuring fast-paced cuts, quick humor, and a Shaun of the Dead feel mixed with solid, low-budget kung fu action choreography that looks pretty good for the most part; the direction on a microscale is formulaic and boilerplate, leaning into a Shaun of the Dead-style comedic buddy dynamic between the main character and his friend that is fun even if the emotional impact of the conflict remains fairly surface-level; the storytelling is pretty basic and follows a standard template, but it gets the job done without getting in its own way; the tension is not built that well because the film stays lighthearted throughout, keeping the emotional stakes very laid-back"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Steven He"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Fine in the lead role, channeling a Shaun of the Dead-style slacker vibe that works well enough for the comedy even if the emotional arc remains fairly flat"
+        },
+        {
+          "actor": {
+            "name": "Michael Tient"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Does a fine job as the comedic sidekick, sharing a fun Simon Pegg and Nick Frost-style dynamic with Steven He that keeps their scenes entertaining"
+        },
+        {
+          "actor": {
+            "name": "Gemma Chua-Tran"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Fine as your typical disciplined kung fu warrior, handling the physical action beats well even if the role is mostly standard stock material"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "A fine ensemble across the board where everyone plays directly into the movie's formulaic template, from the goofy comedic duo to the cartoonish villains, delivering passable performances without anyone truly standing out"
+      },
+      "rating": "Decent to Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Paul Markey"
+        },
+        {
+          "name": "Paddy McDonald"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is your typical westernized Chinese 'chosen one' kung fu prophecy story set in Ireland about a guy disconnected from his heritage who runs a pest control business, which feels very thin overall and plays out like a safe, lighthearted Disney Channel-style premise; the plot structure follows a very predictable template where stuff just kind of happens without much substance across its short runtime, though it starts to drag a bit as it heads into the climax; character writing is fine but pretty boilerplate, offering familiar Edgar Wright-style stock archetypes—from the slacker leads echoing Simon Pegg and Nick Frost to the standard kung fu warrior and cartoonish villains"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Paul Markey"
+        },
+        {
+          "name": "Paddy McDonald"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue leans heavily into comedy and is decently written, keeping the banter light and entertaining throughout; the humor is pretty good, with the Edgar Wright comedic influences shining through especially well in the first 30 minutes to make the movie enjoyable; the symbolism relies on the surface-level, templated tropes of a guy disconnected from his cultural heritage discovering he is the mythical chosen one; the foreshadowing is straightforward and predictable, making it easy to see where every beat is headed in such a safe movie"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Mark Murphy"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Features distinct Eastern musical influences and traditional Chinese themes that do a solid job helping build the tone of the movie"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Shing-Fung Cheung"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Pretty flat and generic, looking like a standard indie kung fu movie, with an aspect ratio that feels a little too wide for the framing"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Ahmad Halimi"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Fairly standard and straightforward, keeping the pace moving without doing anything particularly inventive"
+    },
+    "sound": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Fine and functional, delivering exactly what you would expect from an indie martial arts movie without standing out"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Noticeably cheap and cartoony, but they get the job done for a low-budget indie action-comedy; I did enjoy the animated sequences as they help give the movie heritage and lore that is interesting (kind of like Avatar: The Last Airbender)"
+    },
+    "makeup": {
+      "rating": "Decent",
+      "comments": "The makeup for the undead hopping vampires is definitely a bit tacky, but it's fine and serves its purpose"
+    },
+    "costumes": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Does a solid job with both the traditional Eastern attire and the everyday uniforms for the pest control business"
+    },
+    "pacing": "Runs pretty slow despite a short runtime because there is barely any story to support it, dragging in the middle and heading into the final 20 minutes where trimming 5 to 10 minutes could have made it much sharper",
+    "climax": "A fine but generic and predictable kung fu showdown that drags on a bit longer than it needs to, delivering a standard feel-good resolution",
+    "tone": "Very Edgar Wright-coded in its comedic sensibilities, but plays things very safe and lighthearted to the point where it often feels like a Disney Channel martial arts movie",
+    "final_notes": "Saw premiere at Fantastic Fest",
+    "overall": "Overall, 'Kung Fu Deadly' is a fun and entertaining martial arts comedy that feels very Edgar Wright coded, delivering enjoyable Shaun of the Dead-style buddy banter and solid indie kung fu action; however, with a very thin story that causes the pacing to drag into the climax, the film ultimately plays things a little too safe and templated, ending up feeling more like a Disney Channel movie at moments rather than a truly memorable kung fu comedy"
+  },
+  "release_year": 2026,
+  "review_date": "09/24/2026",
+  "redux": false,
+  "id": 716,
+  "imdb_id": "tt7138186",
+  "letterboxd_slug": "kung-fu-deadly"
+}

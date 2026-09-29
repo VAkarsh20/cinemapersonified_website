@@ -12,6 +12,18 @@
     "letterboxd_slug": "primetime-2026"
   },
   {
+    "id": 716,
+    "title": "Kung Fu Deadly",
+    "release_year": 2026,
+    "rating": 6.8,
+    "review_date": "09/24/2026",
+    "imdb_id": "tt7138186",
+    "redux": false,
+    "filename": "Kung Fu Deadly (2026)",
+    "director": "Fergal Costello",
+    "letterboxd_slug": "kung-fu-deadly"
+  },
+  {
     "id": 713,
     "title": "Half",
     "release_year": 2026,
