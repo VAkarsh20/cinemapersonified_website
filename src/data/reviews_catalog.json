@@ -12,6 +12,18 @@
     "letterboxd_slug": "primetime-2026"
   },
   {
+    "id": 717,
+    "title": "The Swallow",
+    "release_year": 2026,
+    "rating": 3.4,
+    "review_date": "09/24/2026",
+    "imdb_id": "tt31211251",
+    "redux": false,
+    "filename": "The Swallow (2026)",
+    "director": "Kevin Kölsch, Dennis Widmyer",
+    "letterboxd_slug": "the-swallow"
+  },
+  {
     "id": 716,
     "title": "Kung Fu Deadly",
     "release_year": 2026,

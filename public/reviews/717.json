@@ -1,0 +1,108 @@
+{
+  "title": "The Swallow",
+  "rating": 3.4,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Kevin Kölsch"
+        },
+        {
+          "name": "Dennis Widmyer"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The direction on a macroscale leans fully into being a fun-bad, campy teenage B-movie horror film about delinquent teens going into the woods and encountering a dumb monster, delivering trashy low-budget horror that is so bad it's funny; the direction on a microscale is genuinely terrible, directing bad actors through awful material in a way that amplifies the campiness to enjoyable levels; the storytelling is practically nonexistent, offering zero narrative depth beyond killer sentient mud swallowing people one by one; the tension is so forced and poorly executed in the horror sequences that it becomes genuinely comedic, to the point where the audience shifted from confused silence into openly laughing at the screen once everyone realized it was a fun-bad movie"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Grace Van Dien"
+          },
+          "rating": "Very Bad",
+          "comments": "Not good in the lead role, proving there was a reason she was only in one episode of Stranger Things; while it's great she was able to parlay that into a film career, she does nothing to elevate the terrible material here"
+        }
+      ],
+      "cast": {
+        "rating": "Very Bad",
+        "comments": "A uniformly bad ensemble where everyone is clearly in their twenties or thirties playing obnoxious teens, delivering wooden performances that lean into how terrible the script is without doing anything to make it better"
+      },
+      "rating": "Very Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Kevin Kölsch"
+        },
+        {
+          "name": "Dennis Widmyer"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The concept is utterly ridiculous, taking the trope of delinquent teens partying in the woods and throwing them against sentient killer mud that swallows them like predatory quicksand, resulting in a dumb, campy B-movie that knows what it is even if being the closing night film set expectations too high; the plot structure is painfully thin and formulaic across its brief 80-minute runtime, following a generic linear cycle from the cold open through the teen interactions and ending with a genuinely stupid resolution that feels like a waste of time; character writing is as basic and cardboard as it gets, giving these delinquent teens zero personality or depth beyond being disposable B-movie monster fodder"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Kevin Kölsch"
+        },
+        {
+          "name": "Dennis Widmyer"
+        }
+      ],
+      "rating": "Very Bad",
+      "comments": "The dialogue is classic B-movie camp at its most atrocious, delivering awful lines that are so thoroughly bad they loop back around into being somewhat funny; the humor stems almost entirely from how bad the movie is and how it leans into its own trashy absurdity, making it enjoyable to laugh along with; the symbolism is completely nonexistent, and if there is any deeper metaphor in this movie beyond killer mud swallowing teenagers, I would punch myself; the foreshadowing uses the cold open to set up the mud monster early on, only to throw in an utterly stupid last-minute twist in the final five minutes to subvert expectations"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Jonathan Snipes"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Plays like a completely serious horror score, and that tonal clash with the ridiculous on-screen visuals actually enhances the camp and makes the movie more fun"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "David Daniel"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Surprisingly decent and well-framed, capturing the forest setting cleanly and not looking nearly as cheap as the rest of the movie"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Not Available"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Actually pretty solid, effectively pacing the killer mud sequences while leaning into the absurdity whenever the cuts highlight the camp"
+    },
+    "sound": {
+      "rating": "Pretty Bad to Decent",
+      "comments": "Standard B-movie horror sound design, leaning into gooey squelches and creature noises that fit the trashy tone"
+    },
+    "visual_effects": {
+      "rating": "Pretty Good",
+      "comments": "The practical gore and physical effects of the mud consuming the victims are genuinely cool and creative, standing out as an impressive highlight for such a low-budget film"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Delivers some fun, nasty practical makeup and gore that leans nicely into the visceral '80s B-movie body horror aesthetic"
+    },
+    "pacing": "Unbearably slow, largely because the movie is so bad and there is virtually no plot to sustain it, making an 80-minute runtime drag where even cutting 10 minutes wouldn't fix the total lack of story",
+    "climax": "A ridiculous, fun-bad sequence once you accept how terrible the movie is, but the final resolution is so utterly stupid that it leaves you feeling like you completely wasted your time",
+    "tone": "A classic fun-bad, campy teenage B-movie horror film that knows exactly how bad it is, remaining somewhat enjoyable simply because it never takes itself seriously",
+    "final_notes": "Closing night film at Fantastic Fest; its stupid ending perfectly encapsulates and symbolizes how most of the movies at the festival had terrible endings this year",
+    "overall": "Overall, 'The Swallow' is objectively a very bad movie, but it manages to be an entertaining, fun-bad B-movie horror film in the vein of 'Rubber', leaning into the utter absurdity of its sentient killer mud premise; while the awful acting, nonexistent story, and painfully slow pacing make it a drag at moments, its self-aware campiness and solid practical gore keep it somewhat enjoyable, even if the completely nonsensical ending makes it feel like a waste of time"
+  },
+  "release_year": 2026,
+  "review_date": "09/24/2026",
+  "redux": false,
+  "id": 717,
+  "imdb_id": "tt31211251",
+  "letterboxd_slug": "the-swallow"
+}
