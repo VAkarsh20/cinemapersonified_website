@@ -36,6 +36,18 @@
     "letterboxd_slug": "kung-fu-deadly"
   },
   {
+    "id": 715,
+    "title": "The Birthday Party",
+    "release_year": 2026,
+    "rating": 6.9,
+    "review_date": "09/23/2026",
+    "imdb_id": "tt30495381",
+    "redux": false,
+    "filename": "The Birthday Party (2026)",
+    "director": "Léa Mysius",
+    "letterboxd_slug": "the-birthday-party"
+  },
+  {
     "id": 713,
     "title": "Half",
     "release_year": 2026,

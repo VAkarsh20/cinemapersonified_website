@@ -1,0 +1,113 @@
+{
+  "title": "The Birthday Party",
+  "rating": 6.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Léa Mysius"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "The direction on a macroscale sets up a solid, suspenseful French home-invasion thriller where intruders hold a family hostage at a birthday party, doing a pretty good job establishing the tone and tension, though it mostly serves as a backdrop for the microscale elements; the direction on a microscale is where the film really lives, doing a pretty good job focusing on sharp interpersonal dialogue and tense conversations between the captors and the hostages, even if leaning into it so heavily makes the movie run a bit longer than it needs to; the storytelling is okay, relying on the tension of the hostage situation to keep you engaged while the stakes and backstories piece themselves together as you watch, though it leaves you wanting more clarity on why everything is happening; the tension is built pretty well throughout the home invasion, keeping you invested because you genuinely care about the characters and feel the emotional weight of them being held hostage"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Hafsia Herzi"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a really good job carrying the movie on her shoulders, effectively conveying the conflict between her love for her family and the dark, hidden past connecting her to the intruders"
+        },
+        {
+          "actor": {
+            "name": "Benoît Magimel"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty decent job as the main villain, bringing an interesting, layered presence that makes him compelling to watch even though he is clearly not a good person"
+        },
+        {
+          "actor": {
+            "name": "Monica Bellucci"
+          },
+          "rating": "Pretty Good",
+          "comments": "Shows why she is a star, bringing veteran screen presence and charisma that elevates her subplot despite not being given much material to work with"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "A pretty solid ensemble across the board, sharing strong chemistry that makes the dialogue-heavy interpersonal scenes and hostage dynamics work"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Léa Mysius"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is pretty standard for a thriller, following a family hosting a birthday party whose remote home is invaded by intruders who share a dark past with the mother, which makes for a fine premise even if it isn't groundbreaking; the plot structure feels like continuous rising action the entire time as you slowly piece together the stakes, but the pot never fully boils over, and the narrative feels bloated for a story with so little plot where cutting 10 to 15 minutes would have made it much sharper; character writing is fine, giving the main lead an intriguing criminal past that connects her to the home invaders, but the film remains too vague about those connections to make you fully invest in the characters or their deeper motivations"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Léa Mysius"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The dialogue is pretty good and sharp, carrying the weight of the film through engaging, tense conversations between the captors and the hostages; the humor is nonexistent, keeping the atmosphere strictly grounded and serious throughout the ordeal; the symbolism isn't overly prevalent, but it effectively centers on a buried past literally arriving on the doorstep to haunt the protagonist and fracture the family dynamic; the foreshadowing is pretty good in the early scenes, dropping subtle hints that help you piece together the central conflict and understand why the intruders are targeting this specific house"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Florencia Di Concilio"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Used effectively to build tone and suspense, cultivating an unsettling, tense environment throughout the home invasion"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Paul Guilhaume"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Very well shot and polished, utilizing the single-setting house and surrounding rural landscape to enhance the claustrophobic dread"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Yorgos Lamprinos"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Polished and well-crafted, holding tension during the long conversational scenes even if the overall pacing could have been tighter"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Used decently well to heighten the tension and emphasize the isolation of the setting"
+    },
+    "visual_effects": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Helps in the action sequences during the climax"
+    },
+    "production_design": {
+      "rating": "Decent",
+      "comments": "Effective for a mostly single-setting thriller, using the remote house and neighboring property to establish the isolated environment needed to tell the story"
+    },
+    "pacing": "Really slow and drawn out because it is a very dialogue-heavy movie with very little actual plot, and while the conversations are engaging, cutting 10 to 15 minutes would have made it much tighter, though removing subplots like Monica Bellucci's would sacrifice a major highlight",
+    "climax": "An entertaining and somewhat action-packed sequence that ties the immediate story together, but leaves you feeling unfulfilled and unsatisfied because it never fully clarifies why everything happened",
+    "tone": "A tense, slow-burn French home-invasion thriller that effectively maintains an unsettling, claustrophobic atmosphere throughout the hostage ordeal",
+    "final_notes": "Saw at Fantastic Fest",
+    "overall": "Overall, 'The Birthday Party' is a decent French suspense thriller that stays engaging thanks to sharp dialogue and compelling interpersonal dynamics during the home invasion; however, it drags on for way too long given how thin the core plot is, and while the action-heavy climax ties the immediate story together, you still walk away feeling somewhat unsatisfied with too many lingering questions about why everything happened"
+  },
+  "release_year": 2026,
+  "review_date": "09/23/2026",
+  "redux": false,
+  "id": 715,
+  "imdb_id": "tt30495381",
+  "letterboxd_slug": "the-birthday-party"
+}
