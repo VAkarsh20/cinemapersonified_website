@@ -48,6 +48,18 @@
     "letterboxd_slug": "the-birthday-party"
   },
   {
+    "id": 714,
+    "title": "Wild Horse Nine",
+    "release_year": 2026,
+    "rating": 8.6,
+    "review_date": "09/23/2026",
+    "imdb_id": "tt15799564",
+    "redux": false,
+    "filename": "Wild Horse Nine (2026)",
+    "director": "Martin McDonagh",
+    "letterboxd_slug": "wild-horse-nine"
+  },
+  {
     "id": 713,
     "title": "Half",
     "release_year": 2026,
