@@ -1,0 +1,152 @@
+{
+  "title": "Barbarella",
+  "rating": 5.6,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Roger Vadim"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The direction on a macroscale leans fully into '60s sci-fi camp, delivering a very enjoyable retro aesthetic that makes the movie pretty good on a grand scale; the direction on a microscale is purely low-budget '60s camp, leaning into cheesy, over-the-top character interactions; the storytelling is not that great because there is barely any real story, and what happens feels very episodic and off-the-cuff; the tension is virtually nonexistent due to how campy the entire movie is"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Jane Fonda"
+          },
+          "rating": "Pretty Good",
+          "comments": "Carries the movie well and does a pretty good job playing this aloof, campy character that works well with the cast"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Bad",
+        "comments": "All the remaining characters just feel like they are there as they don't really add anything to the plot; the movie is mainly about Barbarella and the people she meets along the way in their minor chapters"
+      },
+      "rating": "Pretty Bad to Decent"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Terry Southern"
+        },
+        {
+          "name": "Roger Vadim"
+        },
+        {
+          "name": "Claude Brulé"
+        },
+        {
+          "name": "Vittorio Bonicelli"
+        },
+        {
+          "name": "Clement Biddle Wood"
+        },
+        {
+          "name": "Brian Degas"
+        },
+        {
+          "name": "Tudor Gates"
+        },
+        {
+          "name": "Jean-Claude Forest"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The concept is adapted from a French comic series—nodding to its French roots—into a pure '60s campy sci-fi adventure; the plot structure kind of feels like multiple episodes stitched together to make a movie, where nothing really happens in any of the episodes; character writing is pretty surface-level as it's filled with pretty generic sci-fi, campy characters (especially the lead)"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Terry Southern"
+        },
+        {
+          "name": "Roger Vadim"
+        },
+        {
+          "name": "Claude Brulé"
+        },
+        {
+          "name": "Vittorio Bonicelli"
+        },
+        {
+          "name": "Clement Biddle Wood"
+        },
+        {
+          "name": "Brian Degas"
+        },
+        {
+          "name": "Tudor Gates"
+        },
+        {
+          "name": "Jean-Claude Forest"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "The dialogue is pretty campy '60s sci-fi, filled with cheesy, over-the-top lines that lean into the retro aesthetic; the humor relies on absurdity, sexual innuendos, and camp, which works for the style even if it wasn't really for me; the symbolism reflects the '60s sexual revolution and liberation, though it mostly stays on the surface as an excuse for campy set pieces; the foreshadowing is very basic, lightly setting up the overarching search for Durand Durand while the episodic story beats just kind of happen"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Bob Crewe"
+        },
+        {
+          "name": "Charles Fox"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels very '60s sci-fi and campy"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Claude Renoir"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Standard '60s cinematography"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Victoria Mercanton"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Feels typical for a campy '60s sci-fi film"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Feels typical for a campy '60s sci-fi film, having many cheesy sound effects"
+    },
+    "visual_effects": {
+      "rating": "Decent",
+      "comments": "Low-budget, cheesy '60s sci-fi practical and optical effects that help add to the camp of the movie"
+    },
+    "production_design": {
+      "rating": "Good",
+      "comments": "Definitely the best aspect of the movie because the handcrafted sets transport you both to these futuristic '60s space sets and back in time when art design was critical in making sets for Hollywood productions"
+    },
+    "makeup": {
+      "rating": "Pretty Good",
+      "comments": "Helps add to the '60s retro glam and alien, futuristic styling"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Iconic '60s space-age fashion and Jane Fonda's outfits, and it was pretty funny how Fonda would just randomly change outfits during each episode change (or whenever she had intercourse)"
+    },
+    "pacing": "Pretty slow because there really isn't any plot to go through",
+    "climax": "Not that great because it kind of just feels very random and thrown together",
+    "tone": "Very '60s sci-fi camp that plays into its absurdity and humor",
+    "final_notes": "A film that definitely has a cultural impact on pop and queer media, from the band Duran Duran to Barbarella's in Austin being named after it",
+    "overall": "Overall, 'Barbarella' is a fine '60s campy sci-fi movie with a clear cultural legacy, highlighted by Jane Fonda's fun lead performance and great handcrafted production design and costumes; while I really enjoyed the retro-futuristic aesthetic, the nonexistent plot and slow episodic structure made it clear that I am just not the target audience for this movie"
+  },
+  "release_year": 1968,
+  "review_date": "09/27/2026",
+  "redux": false,
+  "id": 719,
+  "imdb_id": "tt0062711",
+  "letterboxd_slug": "barbarella"
+}
