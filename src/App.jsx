@@ -1225,7 +1225,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                                 <span>{perf.actor?.name}</span>
                                                 <span className="font-mono text-[9px] uppercase text-accent font-semibold">{perf.rating}</span>
                                               </div>
-                                              {perf.comments && <p className="text-dark/70 leading-relaxed italic">"{perf.comments}"</p>}
+                                              {perf.comments && <p className="text-dark/70 leading-relaxed">{perf.comments}</p>}
                                             </div>
                                           );
                                         })}
@@ -1242,8 +1242,8 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                               )}
                                             </div>
                                             {selectedReview.review.acting.cast.comments && (
-                                              <p className="text-dark/70 leading-relaxed italic">
-                                                "{selectedReview.review.acting.cast.comments}"
+                                              <p className="text-dark/70 leading-relaxed">
+                                                {selectedReview.review.acting.cast.comments}
                                               </p>
                                             )}
                                           </div>
