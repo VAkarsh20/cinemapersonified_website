@@ -90,6 +90,23 @@ const videoEssays = [
 
 const articles = [
   {
+    id: 10,
+    pub: "HYPERREAL FILM JOURNAL",
+    category: "Published",
+    title: "Five Fall Festival Films to Look Out for in 2026",
+    desc: "Backed by the momentum already building out of Cannes and Sundance, the fall movie lineup looks poised to cap off another stacked year in cinema.",
+    date: "September 29, 2026",
+    readTime: "10 min read",
+    image: "https://static1.squarespace.com/static/58a13eba20099eb147e68d26/5db36e0fa26b82005ccedf27/6a99f1ca4fc9f379b5b3af33/1790730953071/primetime-.webp?format=1000w",
+    url: "https://hyperrealfilm.club/reviews/five-fall-festival-films-2026",
+    bgPosition: "bg-[center_20%]",
+    content: `With fall around the corner, I'm back this year to give my five fall festival films to look out for! Backed by the momentum already building out of Cannes and Sundance, the fall lineup looks poised to cap off another stacked year in cinema.
+
+Across Venice, Telluride, TIFF, and NYFF, this year's festival slate presents an extraordinary convergence of auteur visions and awards contenders—from Lance Oppenheim's Robert Pattinson-starring 'Primetime' to Los Javis' 'La bola negra' and Jesse Eisenberg's 'The Debut'.
+
+These films challenge narrative conventions, blending formal precision with visceral character studies to set the benchmark for this year's Oscars race.`
+  },
+  {
     id: 1,
     pub: "HYPERREAL FILM JOURNAL",
     category: "Published",
@@ -2741,7 +2758,7 @@ export default function App() {
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-                {articles.filter(article => article.category === "Published").map((article) => (
+                {articles.filter(article => article.category === "Published").slice(0, 3).map((article) => (
                   <div
                     key={article.id}
                     onClick={() => {
