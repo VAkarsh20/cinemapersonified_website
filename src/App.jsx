@@ -645,12 +645,43 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
     return peopleList.map((p) => p.name).join(", ");
   };
 
+  const BulletList = ({ text, className = "" }) => {
+    if (!text) return null;
+    if (text.includes(";")) {
+      const items = text
+        .split(";")
+        .map((item) => item.trim())
+        .filter((item) => item.length > 0)
+        .map((item) => {
+          const match = item.match(/^([^a-zA-Z]*)([a-zA-Z])(.*)$/s);
+          if (match) {
+            return match[1] + match[2].toUpperCase() + match[3];
+          }
+          return item.charAt(0).toUpperCase() + item.slice(1);
+        });
+      if (items.length > 1) {
+        return (
+          <ul className={`space-y-1.5 list-disc list-outside pl-4 ${className}`}>
+            {items.map((item, idx) => (
+              <li key={idx} className="leading-relaxed">
+                {item}
+              </li>
+            ))}
+          </ul>
+        );
+      }
+    }
+    return <p className={`leading-relaxed ${className}`}>{text}</p>;
+  };
+
   const CritiqueCard = ({ label, content }) => {
     if (!content) return null;
     return (
       <div className="bg-white/50 border border-dark/10 rounded-[1.5rem] p-5 shadow-sm">
         <p className="font-mono text-[9px] text-accent uppercase tracking-widest mb-2 font-bold">// {label} //</p>
-        <p className="text-sm font-sans leading-relaxed text-dark">{content}</p>
+        <div className="text-xs md:text-sm font-sans text-dark">
+          <BulletList text={content} />
+        </div>
       </div>
     );
   };
@@ -674,9 +705,9 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
           </p>
         )}
         {comments && (
-          <p className="text-xs font-sans leading-relaxed text-dark/80 border-t border-dark/5 pt-2 mt-1">
-            {comments}
-          </p>
+          <div className="text-xs font-sans text-dark/80 border-t border-dark/5 pt-2 mt-1">
+            <BulletList text={comments} />
+          </div>
         )}
       </div>
     );
@@ -1225,7 +1256,11 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                                 <span>{perf.actor?.name}</span>
                                                 <span className="font-mono text-[9px] uppercase text-accent font-semibold">{perf.rating}</span>
                                               </div>
-                                              {perf.comments && <p className="text-dark/70 leading-relaxed">{perf.comments}</p>}
+                                              {perf.comments && (
+                                                <div className="text-dark/70 mt-1">
+                                                  <BulletList text={perf.comments} />
+                                                </div>
+                                              )}
                                             </div>
                                           );
                                         })}
@@ -1242,9 +1277,9 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                                               )}
                                             </div>
                                             {selectedReview.review.acting.cast.comments && (
-                                              <p className="text-dark/70 leading-relaxed">
-                                                {selectedReview.review.acting.cast.comments}
-                                              </p>
+                                              <div className="text-dark/70 mt-1">
+                                                <BulletList text={selectedReview.review.acting.cast.comments} />
+                                              </div>
                                             )}
                                           </div>
                                         )}
