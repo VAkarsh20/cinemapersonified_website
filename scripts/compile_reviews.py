@@ -43,6 +43,71 @@ REVIEW_TOOL_DIR = os.path.abspath(os.path.join(WEBSITE_DIR, "..", "movie_review_
 print(f"Website directory: {WEBSITE_DIR}")
 print(f"Review tool directory: {REVIEW_TOOL_DIR}")
 
+def load_tmdb_credentials():
+    login_path = os.path.join(WEBSITE_DIR, "login_details.yml")
+    if not os.path.exists(login_path):
+        alt_path = os.path.join(REVIEW_TOOL_DIR, "login_details.yml")
+        if os.path.exists(alt_path):
+            login_path = alt_path
+        else:
+            print("Warning: login_details.yml not found.")
+            return None, None
+    try:
+        import yaml
+        with open(login_path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+            tmdb_data = data.get("tmdb", {}) if isinstance(data, dict) else {}
+            return tmdb_data.get("api_key"), tmdb_data.get("read_access_token")
+    except Exception:
+        # Fallback simple line-by-line parser if PyYAML is not installed
+        api_key = None
+        read_token = None
+        with open(login_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if "api_key:" in line:
+                    parts = line.split("api_key:", 1)
+                    if len(parts) > 1:
+                        api_key = parts[1].strip().strip('"').strip("'")
+                elif "read_access_token:" in line:
+                    parts = line.split("read_access_token:", 1)
+                    if len(parts) > 1:
+                        read_token = parts[1].strip().strip('"').strip("'")
+        return api_key, read_token
+
+def fetch_tmdb_poster(imdb_id, api_key, read_access_token):
+    if not imdb_id:
+        return None
+    url = f"https://api.themoviedb.org/3/find/{imdb_id}?external_source=imdb_id"
+    headers = {
+        "User-Agent": "CinemaPersonified/1.0",
+        "Accept": "application/json"
+    }
+    if read_access_token:
+        headers["Authorization"] = f"Bearer {read_access_token}"
+    elif api_key:
+        url += f"&api_key={api_key}"
+    else:
+        return None
+
+    req = urllib.request.Request(url, headers=headers)
+    try:
+        with urllib.request.urlopen(req, timeout=5) as response:
+            if response.status == 200:
+                result = json.loads(response.read().decode("utf-8"))
+                movie_results = result.get("movie_results", [])
+                if movie_results and movie_results[0].get("poster_path"):
+                    return movie_results[0]["poster_path"]
+    except Exception as e:
+        print(f"Error fetching TMDB poster for {imdb_id}: {e}")
+        return None
+    return None
+
+tmdb_api_key, tmdb_token = load_tmdb_credentials()
+if tmdb_api_key or tmdb_token:
+    print("TMDB credentials loaded successfully.")
+else:
+    print("Warning: TMDB credentials could not be loaded from login_details.yml.")
+
 # Add review tool to python path so we can import its modules
 sys.path.append(REVIEW_TOOL_DIR)
 
@@ -115,17 +180,20 @@ for idx, filename in enumerate(files):
             if direction and "director" in direction:
                 directors = [d.get("name") for d in direction["director"] if d.get("name")]
 
-        # Resolve Letterboxd slug
+        # Resolve Letterboxd slug & TMDB poster_path
         letterboxd_slug = None
+        poster_path = None
         detail_file_path = os.path.join(reviews_output_dir, f"{review_id}.json")
         
-        # 1. Check if the compiled review JSON already exists and has the slug
+        # 1. Check if the compiled review JSON already exists and has cached data
         if os.path.exists(detail_file_path):
             try:
                 with open(detail_file_path, "r", encoding="utf-8") as f:
                     old_data = json.load(f)
                     if "letterboxd_slug" in old_data and old_data["letterboxd_slug"]:
                         letterboxd_slug = old_data["letterboxd_slug"]
+                    if "poster_path" in old_data and old_data["poster_path"]:
+                        poster_path = old_data["poster_path"]
             except Exception:
                 pass
 
@@ -160,6 +228,15 @@ for idx, filename in enumerate(files):
             
         data["letterboxd_slug"] = letterboxd_slug
 
+        # 3. If poster_path not found in cache, query TMDB by imdb_id
+        if not poster_path and imdb_id:
+            poster_path = fetch_tmdb_poster(imdb_id, tmdb_api_key, tmdb_token)
+            if poster_path:
+                print(f"Fetched TMDB poster for ID {review_id} ({title}): {poster_path}")
+            time.sleep(0.04)
+
+        data["poster_path"] = poster_path
+
         # Build catalog item
         catalog_item = {
             "id": review_id,
@@ -171,7 +248,8 @@ for idx, filename in enumerate(files):
             "redux": redux,
             "filename": name_without_ext,
             "director": ", ".join(directors) if directors else "",
-            "letterboxd_slug": letterboxd_slug
+            "letterboxd_slug": letterboxd_slug,
+            "poster_path": poster_path
         }
         catalog.append(catalog_item)
         

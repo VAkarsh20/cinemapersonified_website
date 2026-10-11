@@ -1,0 +1,154 @@
+{
+  "title": "The Social Reckoning",
+  "rating": 0.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Aaron Sorkin"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "macroscale is; microscale is; storytelling is; tension is"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Mikey Madison"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Jeremy Allen White"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Jeremy Strong"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Bill Burr"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Wunmi Mosaku"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Betty Gilpin"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Billy Magnussen"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        }
+      ],
+      "cast": {
+        "rating": "TODO",
+        "comments": "TODO"
+      },
+      "rating": "TODO"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Aaron Sorkin"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "The concept is; the plot structure is; character writing is"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Aaron Sorkin"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alexandre Desplat"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "soundtrack": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Jeff Cronenweth"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Alan Baumgarten[1]"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "sound": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "visual_effects": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "production_design": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "makeup": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "costumes": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "pacing": "Pacing ",
+    "climax": "Climax ",
+    "tone": "Tone ",
+    "final_notes": "",
+    "overall": "Overall, "
+  },
+  "release_year": 2026,
+  "review_date": "10/08/2026",
+  "redux": false,
+  "id": 721,
+  "imdb_id": "tt37510326",
+  "letterboxd_slug": "the-social-reckoning",
+  "poster_path": "/7jK6NuxVg1XuEV7UdNa6KO03IgZ.jpg"
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Digger",
+  "rating": 0.1,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Alejandro G. Iñárritu"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "macroscale is; microscale is; storytelling is; tension is"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Tom Cruise"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Riz Ahmed"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "John Goodman"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Sandra Hüller"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Michael Stuhlbarg"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        },
+        {
+          "actor": {
+            "name": "Jesse Plemons"
+          },
+          "rating": "TODO",
+          "comments": "TODO"
+        }
+      ],
+      "cast": {
+        "rating": "TODO",
+        "comments": "TODO"
+      },
+      "rating": "TODO"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Sabina Berman"
+        },
+        {
+          "name": "Alejandro G. Iñárritu"
+        },
+        {
+          "name": "Jez Butterworth"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "The concept is; the plot structure is; character writing is"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Alejandro G. Iñárritu"
+        },
+        {
+          "name": "Alexander Dinelaris Jr."
+        },
+        {
+          "name": "Nicolás Giacobone"
+        },
+        {
+          "name": "Sabina Berman"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "The dialogue is; the humor is; the symbolism is; the foreshadowing is"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Cosmo Sheldrake"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "soundtrack": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Emmanuel Lubezki"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Stephen Mirrione"
+        },
+        {
+          "name": "Conor O'Neill"
+        }
+      ],
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "sound": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "visual_effects": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "production_design": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "makeup": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "costumes": {
+      "rating": "TODO",
+      "comments": "TODO"
+    },
+    "pacing": "Pacing ",
+    "climax": "Climax ",
+    "tone": "Tone ",
+    "final_notes": "",
+    "overall": "Overall, "
+  },
+  "release_year": 2026,
+  "review_date": "10/06/2026",
+  "redux": false,
+  "id": 720,
+  "imdb_id": "tt31450459",
+  "letterboxd_slug": "digger",
+  "poster_path": "/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg"
+}

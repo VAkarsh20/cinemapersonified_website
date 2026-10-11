@@ -1052,6 +1052,19 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
                     
                     {/* Left Stats Column */}
                     <div className="flex flex-col gap-6 lg:sticky lg:top-0">
+                      {/* Movie Poster Card */}
+                      {selectedReview && selectedReview.poster_path && (
+                        <div className="relative rounded-[2rem] overflow-hidden border border-dark/10 shadow-lg aspect-[2/3] bg-dark/5 group">
+                          <img 
+                            src={`https://image.tmdb.org/t/p/w500${selectedReview.poster_path}`} 
+                            alt={`${selectedReview.title} Poster`}
+                            className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-700 ease-out" 
+                            loading="lazy"
+                          />
+                          <div className="absolute inset-0 bg-gradient-to-t from-dark/40 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
+                        </div>
+                      )}
+
                       {/* Overall Score Box */}
                       <div className="bg-dark text-offwhite rounded-[2rem] p-6 text-center flex flex-col items-center justify-center relative overflow-hidden shadow-lg">
                         <div className="absolute -top-12 -right-12 w-24 h-24 bg-accent/20 rounded-full blur-xl" />
