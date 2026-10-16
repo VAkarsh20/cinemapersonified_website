@@ -1,0 +1,112 @@
+{
+  "title": "Trust Me, I'm a Doctor",
+  "rating": 4.9,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Thane Economou"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The direction on a macroscale honestly feels like a made-for-TV movie, with a lot of boring, bland shots and sets that make the world feel very low budget, like a miniseries, though it does a pretty good job of transporting you to the mid-2000s when the movie is set by using a lot of mid-2000s tropes and world-building techniques, even if it also feels like a fake movie at points; the direction on a microscale is good and bad, as the moments centered around Kal Penn's character with Linda Hamilton and his family are actually enjoyable, but the other moments feel like a fake movie that isn't even campy, just bad, especially the TMZ parts, which genuinely look like an SNL parody that I'm shocked they included; the storytelling is surprisingly pretty good, as the way they play out and structure the story is somewhat entertaining, and while I'm not a huge fan of meta storytelling that breaks the fourth wall to tell you what's going on, it works well with the vibe they're going for, and the case itself is interesting enough to keep you invested; the tension is somewhat decent, because you care about Sandeep Kapoor and feel like he was given the short end of the stick, so you end up rooting for him to get out of this case"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Kal Penn"
+          },
+          "rating": "Decent",
+          "comments": "Decent, and while it's not the best performance I've seen from him, he does a pretty decent job holding his own and nails the real doctor's vocal inflection, which you can tell since they show the real doctor at the end, though he's not that great in the dramatic moments"
+        },
+        {
+          "actor": {
+            "name": "Linda Hamilton"
+          },
+          "rating": "Decent",
+          "comments": "Fine in a very monotonous role, using her experience as an established actress to hold her composure and carry the character forward, and she has decent chemistry with Kal Penn"
+        },
+        {
+          "actor": {
+            "name": "Abbie Cornish"
+          },
+          "rating": "Pretty Bad",
+          "comments": "A little over the top and not the best, feeling more like an impression of Anna Nicole Smith than actually acting as her, and she doesn't have great chemistry with Kal Penn"
+        }
+      ],
+      "cast": {
+        "rating": "Bad",
+        "comments": "The remaining cast is just not good, with a lot of bad performances, like the receptionist and the investigator, that make it feel like a fake movie, and the guy who plays Harvey Levin from TMZ feels like a bad SNL impression; the exception is the Indian actors, especially the actor who plays Kal Penn's father, who has pretty decent chemistry with him"
+      },
+      "rating": "Bad to Pretty Bad"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Thane Economou"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept is interesting, telling the story of the Anna Nicole Smith trial from the perspective of Dr. Sandeep Kapoor as he is tried for prescribing the drugs she overdosed on and blamed for her death, and they do a pretty decent job with it; the plot structure is not linear, as you start in the middle and work your way back until you reach that middle point, and then it's basically linear from there, which is an interesting structure that I actually enjoyed; character writing is pretty generic but not terrible, as Sandeep Kapoor's writing is fine and you do feel for his struggles being a gay man in an Indian household, Anna Nicole Smith is painted as your generic socialite who falls down the rabbit hole into her eventual death, almost like a reincarnation of Marilyn Monroe, and the lawyer very much is just a lawyer with nothing more to her, while the remaining characters are not well written, as they're generic, bland, and bad"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Thane Economou"
+        }
+      ],
+      "rating": "Bad",
+      "comments": "The dialogue is honestly bad, with a lot of moments that try to hit hard but don't, and aside from one line that I thought was actually well written, it's just a poorly written movie with bad lines; the humor relies on a lot of meta humor whenever they break the fourth wall, which is fine and entertaining but not that funny; the symbolism is commentary on 2000s socialite culture and Anna Nicole Smith's life, showing that she was a human being while the public went after her and basically killed her, but they don't do a good job showing it, so you mostly get there through your own deduction; the foreshadowing comes from the way the plot is structured and your own knowledge of the case, but it isn't the best"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "KSHMR"
+        },
+        {
+          "name": "Daniel Stockdale"
+        }
+      ],
+      "rating": "Pretty Bad",
+      "comments": "Pretty generic and feels very lighthearted, making this feel like a fake movie at points"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Makes this very much feel like it takes place in the 2000s"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Bobby Shore"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "Very generic, bland, and boring, feeling like it was shot for a Hulu miniseries or a made-for-TV movie; the TMZ moments genuinely look fake, like a bad SNL sketch, and I don't understand who greenlit that"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Brian Berdan"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "Same as the cinematography, as it makes the movie feel like a Hulu miniseries, and honestly, this could have been a three-part series that I think would have been better on television; the hip-hop, 2000s-style edits feel a bit tacky but do transport you to the 2000s, so it's a give and take"
+    },
+    "sound": {
+      "rating": "Decent"
+    },
+    "pacing": "A little bit on the slower side, as it has a long runtime for not that much plot to go through; honestly, adding about 20 minutes and turning it into a miniseries would have helped the pacing, since it isn't good enough to be a movie",
+    "climax": "Fine, but kind of predictable and not that well executed, since you already know what to expect",
+    "tone": "Feels very much like a meta 2000s movie that emulates the era it's set in, but it also feels like a fake movie, almost like an SNL sketch rather than an actual movie",
+    "final_notes": "Saw through a screener",
+    "overall": "Overall, 'Trust Me, I'm a Doctor' is an entertaining story with a lot of entertaining moments carried by Kal Penn, but at the end of the day, it's just not well made and feels like a fake movie; it looks and feels like a miniseries, and with about 20 more minutes of runtime, it should have just been one on Hulu"
+  },
+  "release_year": 2026,
+  "review_date": "10/14/2026",
+  "redux": false,
+  "id": 723,
+  "imdb_id": "tt31456607",
+  "letterboxd_slug": "trust-me-im-a-doctor",
+  "poster_path": "/fG3MKWWnSlpNhXKK9q7pDXyVdCo.jpg"
+}
