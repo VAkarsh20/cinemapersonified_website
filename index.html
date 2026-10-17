@@ -12,6 +12,53 @@
     <meta property="og:url" content="https://cinemapersonified.com" />
     <meta name="twitter:card" content="summary_large_image" />
     <title>Cinema Personified — Film Critique & Curation</title>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0NTD5WH2ZS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      // Expand short ?ref= links (e.g. ?ref=tt, ?ref=ig, ?ref=ig_story) into standard UTM params before GA4 reads the URL
+      var gaConfig = {};
+      (function() {
+        try {
+          var params = new URLSearchParams(window.location.search);
+          var ref = params.get('ref');
+          if (ref && !params.get('utm_source')) {
+            var refMap = {
+              tt: { source: 'tiktok', medium: 'social_bio' },
+              tiktok: { source: 'tiktok', medium: 'social_bio' },
+              ig: { source: 'instagram', medium: 'social_bio' },
+              instagram: { source: 'instagram', medium: 'social_bio' },
+              ig_story: { source: 'instagram_story', medium: 'story' },
+              yt: { source: 'youtube', medium: 'video_desc' },
+              youtube: { source: 'youtube', medium: 'video_desc' },
+              lb: { source: 'letterboxd', medium: 'profile' },
+              letterboxd: { source: 'letterboxd', medium: 'profile' },
+              lb_review: { source: 'letterboxd_review', medium: 'review' },
+              letterboxd_review: { source: 'letterboxd_review', medium: 'review' },
+              x: { source: 'twitter', medium: 'social_bio' },
+              twitter: { source: 'twitter', medium: 'social_bio' },
+              linktree: { source: 'linktree', medium: 'referral' }
+            };
+            var key = ref.toLowerCase();
+            var mapped = refMap[key] || { source: key, medium: 'referral' };
+            params.set('utm_source', mapped.source);
+            params.set('utm_medium', mapped.medium);
+            gaConfig.campaign_source = mapped.source;
+            gaConfig.campaign_medium = mapped.medium;
+            sessionStorage.setItem('cp_entry_source', mapped.source);
+            sessionStorage.setItem('cp_entry_medium', mapped.medium);
+            var newUrl = window.location.pathname + '?' + params.toString() + window.location.hash;
+            window.history.replaceState({}, '', newUrl);
+          }
+        } catch (e) {}
+      })();
+
+      gtag('config', 'G-0NTD5WH2ZS', gaConfig);
+    </script>
     
     <!-- Google Fonts for Preset B with Space Grotesk Headers -->
     <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -20,6 +20,12 @@ import {
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import reviewsCatalog from './data/reviews_catalog.json';
+import {
+  cleanAttributionParamsFromUrl,
+  trackPageView,
+  trackReviewOpen,
+  openTrackedLink
+} from './utils/analytics';
 
 // Register GSAP plugins
 gsap.registerPlugin(ScrollTrigger);
@@ -276,7 +282,10 @@ function PublicationsPage({ navigateToSection }) {
   const [selectedArticle, setSelectedArticle] = useState(null);
 
   const handleArticleClick = (article) => {
-    window.open(article.url, "_blank", "noopener,noreferrer");
+    openTrackedLink("article", article.title, article.url, {
+      publication: article.pub,
+      category: article.category
+    });
   };
 
   const categories = ["Published", "Self-Published"];
@@ -425,7 +434,7 @@ function PublicationsPage({ navigateToSection }) {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <button
-                onClick={() => window.open("https://cinemapersonified.medium.com/", "_blank", "noopener,noreferrer")}
+                onClick={() => openTrackedLink("social", "Medium", "https://cinemapersonified.medium.com/")}
                 className="magnetic-btn bg-[#010101] text-[#FFFFFF] hover:text-[#010101] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2 transition-colors duration-300"
               >
                 <div className="bg-slide !bg-[#FFFFFF]" />
@@ -555,6 +564,7 @@ function ReviewsPage({ navigateToSection, initialReviewId, setInitialReviewId })
       .then((data) => {
         setSelectedReview(data);
         setIsDetailLoading(false);
+        trackReviewOpen(data);
       })
       .catch((err) => {
         console.error(err);
@@ -1537,7 +1547,7 @@ function VideosPage({ navigateToSection }) {
             {longFormVideos.map((video) => (
               <div
                 key={video.id}
-                onClick={() => window.open(video.url, "_blank", "noopener,noreferrer")}
+                onClick={() => openTrackedLink("video", video.title, video.url, { platform: video.platform, format: "long_form" })}
                 className="video-card bg-primary/5 border border-dark/10 rounded-brutalist overflow-hidden shadow-sm hover:shadow-md hover:border-accent/30 transition-all duration-500 cursor-pointer group flex flex-col h-[400px] text-left"
               >
                 {/* Thumbnail Container */}
@@ -1621,7 +1631,7 @@ function VideosPage({ navigateToSection }) {
             {filteredShortVideos.map((video) => (
               <div
                 key={video.id}
-                onClick={() => window.open(video.url, "_blank", "noopener,noreferrer")}
+                onClick={() => openTrackedLink("video", video.title, video.url, { platform: "YOUTUBE SHORTS", format: "short_form", category: video.category })}
                 className="video-card bg-primary/5 border border-dark/10 rounded-brutalist overflow-hidden shadow-sm hover:shadow-md hover:border-accent/30 transition-all duration-500 cursor-pointer group w-full aspect-[9/16] relative text-left flex flex-col"
               >
                 {/* Thumbnail Container (Top 65%) */}
@@ -1676,7 +1686,7 @@ function VideosPage({ navigateToSection }) {
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <button
-              onClick={() => window.open("https://www.tiktok.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
+              onClick={() => openTrackedLink("social", "TikTok", "https://www.tiktok.com/@cinemapersonified")}
               className="magnetic-btn bg-[#010101] text-[#FFFFFF] font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2"
             >
               <div className="bg-slide !bg-[#EE1D52]" />
@@ -1684,7 +1694,7 @@ function VideosPage({ navigateToSection }) {
             </button>
 
             <button
-              onClick={() => window.open("https://www.instagram.com/cinemapersonified/", "_blank", "noopener,noreferrer")}
+              onClick={() => openTrackedLink("social", "Instagram", "https://www.instagram.com/cinemapersonified/")}
               className="magnetic-btn bg-[#ff4dbf] text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2"
             >
               <div className="bg-slide !bg-[#d61a8a]" />
@@ -1692,7 +1702,7 @@ function VideosPage({ navigateToSection }) {
             </button>
 
             <button
-              onClick={() => window.open("https://www.youtube.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
+              onClick={() => openTrackedLink("social", "YouTube", "https://www.youtube.com/@cinemapersonified")}
               className="magnetic-btn bg-[#FF0000] text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-3.5 px-8 rounded-full overflow-hidden shadow-sm flex items-center gap-2"
             >
               <div className="bg-slide !bg-[#CC0000]" />
@@ -1762,28 +1772,28 @@ function AboutPage({ navigateToSection }) {
               {/* Social links grid */}
               <div className="w-full grid grid-cols-2 gap-2 mt-2">
                 <button
-                  onClick={() => window.open("https://www.youtube.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
+                  onClick={() => openTrackedLink("social", "YouTube", "https://www.youtube.com/@cinemapersonified")}
                   className="magnetic-btn bg-[#FF0000] text-offwhite font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
                 >
                   <div className="bg-slide !bg-[#CC0000]" />
                   <span>YouTube</span>
                 </button>
                 <button
-                  onClick={() => window.open("https://www.tiktok.com/@cinemapersonified", "_blank", "noopener,noreferrer")}
+                  onClick={() => openTrackedLink("social", "TikTok", "https://www.tiktok.com/@cinemapersonified")}
                   className="magnetic-btn bg-[#010101] text-[#FFFFFF] font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
                 >
                   <div className="bg-slide !bg-[#EE1D52]" />
                   <span>TikTok</span>
                 </button>
                 <button
-                  onClick={() => window.open("https://www.instagram.com/cinemapersonified/", "_blank", "noopener,noreferrer")}
+                  onClick={() => openTrackedLink("social", "Instagram", "https://www.instagram.com/cinemapersonified/")}
                   className="magnetic-btn bg-[#ff4dbf] text-offwhite font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
                 >
                   <div className="bg-slide !bg-[#d61a8a]" />
                   <span>Instagram</span>
                 </button>
                 <button
-                  onClick={() => window.open("https://letterboxd.com/akarshv/", "_blank", "noopener,noreferrer")}
+                  onClick={() => openTrackedLink("social", "Letterboxd", "https://letterboxd.com/akarshv/")}
                   className="magnetic-btn bg-[#ff8000] text-offwhite font-sans text-[10px] uppercase tracking-wider font-bold py-2 rounded-full overflow-hidden shadow-sm"
                 >
                   <div className="bg-slide !bg-[#00e054]" />
@@ -1927,7 +1937,8 @@ export default function App() {
   const publicationsRef = useRef(null);
   const homeReviewsRef = useRef(null);
 
-  // --- DYNAMIC BROWSER TAB TITLE ---
+  // --- DYNAMIC BROWSER TAB TITLE & VIRTUAL PAGEVIEWS ---
+  const hasTrackedInitialViewRef = useRef(false);
   useEffect(() => {
     const titles = {
       home: "Cinema Personified — Film Critique & Curation",
@@ -1936,7 +1947,14 @@ export default function App() {
       videos: "Videos — Cinema Personified",
       about: "About — Cinema Personified"
     };
-    document.title = titles[currentView] || "Cinema Personified";
+    const nextTitle = titles[currentView] || "Cinema Personified";
+    document.title = nextTitle;
+
+    if (hasTrackedInitialViewRef.current) {
+      trackPageView(currentView, nextTitle);
+    } else {
+      hasTrackedInitialViewRef.current = true;
+    }
   }, [currentView]);
 
   // --- NAVBAR SCROLL DETECTOR & THEME TRACKER ---
@@ -1945,8 +1963,10 @@ export default function App() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [initialReviewId, setInitialReviewId] = useState(null);
 
-  // Parse deep-linking parameter on mount
+  // Parse deep-linking parameter & clean attribution URL params on mount
   useEffect(() => {
+    cleanAttributionParamsFromUrl();
+
     // 1. Check query parameter (e.g. ?review=244)
     const params = new URLSearchParams(window.location.search);
     const queryReviewId = params.get("review");
@@ -2305,7 +2325,7 @@ export default function App() {
         </div>
         <div className="flex items-center gap-3">
           <button 
-            onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")} 
+            onClick={() => openTrackedLink("social", "Linktree (Navbar)", "https://linktr.ee/cinemapersonified")} 
             className="magnetic-btn bg-accent text-offwhite font-sans text-xs uppercase tracking-wider font-bold py-2.5 px-3 sm:px-5 rounded-full overflow-hidden whitespace-nowrap"
           >
             <div className="bg-slide" />
@@ -2421,7 +2441,7 @@ export default function App() {
 
               <div ref={heroCtaRef} className="mt-8 flex flex-col sm:flex-row gap-4 items-start sm:items-center">
                 <button 
-                  onClick={() => window.open("https://linktr.ee/cinemapersonified", "_blank", "noopener,noreferrer")}
+                  onClick={() => openTrackedLink("social", "Linktree (Hero)", "https://linktr.ee/cinemapersonified")}
                   className="magnetic-btn bg-accent text-offwhite font-sans text-sm font-bold uppercase tracking-wider py-4 px-8 rounded-full overflow-hidden"
                 >
                   <div className="bg-slide" />
@@ -2726,7 +2746,7 @@ export default function App() {
                 {videoEssays.map((video) => (
                   <div
                     key={video.id}
-                    onClick={() => window.open(video.url, "_blank", "noopener,noreferrer")}
+                    onClick={() => openTrackedLink("video", video.title, video.url, { platform: video.platform, location: "home_featured" })}
                     className="video-card bg-primary/20 border border-offwhite/10 rounded-brutalist overflow-hidden shadow-xl hover:shadow-2xl hover:border-accent/30 transition-all duration-500 cursor-pointer group flex flex-col h-[400px] text-left flex-1 min-w-[280px]"
                   >
                     {/* Thumbnail Container */}
@@ -2810,7 +2830,11 @@ export default function App() {
                   <div
                     key={article.id}
                     onClick={() => {
-                      window.open(article.url, "_blank", "noopener,noreferrer");
+                      openTrackedLink("article", article.title, article.url, {
+                        publication: article.pub,
+                        category: article.category,
+                        location: "home_featured"
+                      });
                     }}
                     className="article-card bg-primary/5 border border-dark/10 rounded-brutalist overflow-hidden shadow-sm hover:shadow-md hover:border-accent/30 transition-all duration-500 cursor-pointer group flex flex-col h-[400px] text-left"
                   >
