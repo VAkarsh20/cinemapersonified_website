@@ -1,5 +1,18 @@
 [
   {
+    "id": 726,
+    "title": "Klara and the Sun",
+    "release_year": 2026,
+    "rating": 3.6,
+    "review_date": "10/18/2026",
+    "imdb_id": "tt14371256",
+    "redux": false,
+    "filename": "Klara and the Sun (2026)",
+    "director": "Taika Waititi",
+    "letterboxd_slug": "klara-and-the-sun",
+    "poster_path": "/xqovj2p6HRsgHxN81qYAYF4StgM.jpg"
+  },
+  {
     "id": 725,
     "title": "Verity",
     "release_year": 2026,
