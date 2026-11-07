@@ -1,0 +1,117 @@
+{
+  "title": "Bitter Christmas",
+  "rating": 5.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The direction on a macroscale is actually somewhat interesting, as it does a nice job juggling the parallel past and present storylines of this autofiction movie, and it's decently well shot too; the direction on a microscale is pretty good, which matters for a movie this dialogue-heavy, as there isn't a bad performance and the cast has pretty good chemistry, but there are just way too many interpersonal scenes, and they slow the movie down a lot; the storytelling has a unique concept that I enjoyed, following a screenwriter who writes about the past as the movie jumps between then and now, and while the slow-burn first half is somewhat interesting, it falls apart in the second half when they start changing details of the past, making things up and contradicting the story they had been telling, which gets confusing and makes you feel like you've wasted your time; the tension is not built well, since it's hard to care about any of these characters when the movie keeps changing who they are, so it never feels tense"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Bárbara Lennie"
+          },
+          "rating": "Pretty Good",
+          "comments": "Holds her own well as the lead of the past storyline, showing a good range of emotions"
+        },
+        {
+          "actor": {
+            "name": "Leonardo Sbaraglia"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job as Raúl, the screenwriter leading the present-day storyline"
+        },
+        {
+          "actor": {
+            "name": "Aitana Sánchez-Gijón"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job as Raúl's assistant, Mónica"
+        },
+        {
+          "actor": {
+            "name": "Patrick Criado"
+          },
+          "rating": "Pretty Good",
+          "comments": "Does a pretty good job as Elsa's boyfriend, showing a good range of emotions"
+        }
+      ],
+      "cast": {
+        "rating": "Pretty Good",
+        "comments": "No single performance truly stands out, but everyone plays their role well, and the chemistry within the cast is pretty tight, which matters since the movie is mostly conversations"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Bad to Pretty Bad",
+      "comments": "The concept is actually interesting, following a screenwriter who uses real-world experiences to write his movie as it unfolds, making for an intriguing use of autofiction, but the movie keeps changing the narrative, and that's where it gets boring and bad; the plot structure is very interesting, with the screenwriter writing the movie as it jumps between 2004 and the present, but while the first half is tolerable, the second half becomes unbearably slow as the storylines keep weaving and switching until nothing is clear anymore; character writing is confusing because the main character keeps changing who the characters are based on as he writes, so they only seem interesting for the first 30 minutes before you lose track of who's who until the end (I still had to look it up afterward), and while the themes are there, they're not well attributed to the characters"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Pedro Almodóvar"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is strong and feels much more fluid and natural now that he's back to writing in Spanish (unlike The Room Next Door, where it was obvious English wasn't his first language), which matters in such a dialogue-heavy movie; the humor is somewhat fine in the first half, which sprinkles in a bit of comedy, but the second half is completely serious and not funny at all; the symbolism is strong in this very theme-heavy movie, exploring sexuality, grief, relationships, processing trauma through writing, and what it actually takes to create a story, but the constant changes to the narrative make it hard to care about; the foreshadowing isn't that great, since the structure of things happening in the past and the characters reacting to them in the present doesn't leave much room for it, and by the time the reveal comes at the end, you've stopped caring"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Alberto Iglesias"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty well composed and light, helping set the tone well, and I enjoyed it"
+    },
+    "soundtrack": {
+      "rating": "Decent",
+      "comments": "Pretty standard"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Pau Esteve Birba"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty standard, with a lot of nice shots and a surprisingly wide 2.39:1 aspect ratio"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Teresa Font"
+        }
+      ],
+      "rating": "Decent to Pretty Good",
+      "comments": "Pretty standard overall, but there's some cool editing when it shows the main character typing out the screenplay and overlays it onto the past to show how he's creating it"
+    },
+    "sound": {
+      "rating": "Decent",
+      "comments": "Standard"
+    },
+    "pacing": "Unbearably slow, and while the first half is somewhat interesting despite being slow, the second half becomes incredibly boring with long, dialogue-heavy interpersonal scenes full of pauses between characters you don't care about; they needed to cut 10 to 15 minutes somewhere, or rethink whether the second half was worth telling and rebuild the first half around it, since an hour and 50 minutes feels more like two and a half to three hours",
+    "climax": "Well acted, but by that point you're so bored that you don't care what happens, and the ending makes the whole movie feel like a waste of time, leaving you feeling like none of it mattered",
+    "tone": "A straight-up autofiction drama to the bone",
+    "final_notes": "Saw it as my second movie at Austin Film Festival; it's the second Pedro Almodóvar movie I've seen after The Room Next Door, and I think he just makes boring movies, so his style isn't for me",
+    "overall": "Overall, 'Bitter Christmas' has a very interesting story construction and plot structure that explores some interesting ideas, but it's just a very boring movie; the first half drags but stays somewhat interesting, while the second half is so boring and switches up the narrative so much that you stop caring about any of the characters, despite pretty good performances from the whole cast"
+  },
+  "release_year": 2026,
+  "review_date": "10/29/2026",
+  "redux": false,
+  "id": 730,
+  "imdb_id": "tt28088049",
+  "letterboxd_slug": "bitter-christmas",
+  "poster_path": "/kiPGcHX0YT49nrab76G0bqw3gHW.jpg"
+}

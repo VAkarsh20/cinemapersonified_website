@@ -1,5 +1,18 @@
 [
   {
+    "id": 730,
+    "title": "Bitter Christmas",
+    "release_year": 2026,
+    "rating": 5.2,
+    "review_date": "10/29/2026",
+    "imdb_id": "tt28088049",
+    "redux": false,
+    "filename": "Bitter Christmas (2026)",
+    "director": "Pedro Almodóvar",
+    "letterboxd_slug": "bitter-christmas",
+    "poster_path": "/kiPGcHX0YT49nrab76G0bqw3gHW.jpg"
+  },
+  {
     "id": 729,
     "title": "The Debut",
     "release_year": 2026,
