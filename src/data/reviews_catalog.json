@@ -1,5 +1,18 @@
 [
   {
+    "id": 729,
+    "title": "The Debut",
+    "release_year": 2026,
+    "rating": 9.5,
+    "review_date": "10/29/2026",
+    "imdb_id": "tt34718200",
+    "redux": false,
+    "filename": "The Debut (2026)",
+    "director": "Jesse Eisenberg",
+    "letterboxd_slug": "the-debut",
+    "poster_path": "/5CZdxLiBpYMBXwo0rur6YzZTVP4.jpg"
+  },
+  {
     "id": 728,
     "title": "Wildwood",
     "release_year": 2026,
