@@ -1,0 +1,101 @@
+{
+  "title": "Ray Gunn",
+  "rating": 7.2,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Brad Bird"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "The direction on a macroscale is good, as it's a very well-made movie where Brad Bird builds the world well and gives it personality despite how it looks, and creates the entertaining chase and action sequences you'd expect from the director of The Incredibles; the direction on a microscale is fine but typical of his other movies, feeling a lot like The Incredibles again, though he gets a lot out of his experienced voice cast; the storytelling is okay, as it's told like a noir, but the story itself just isn't that interesting, and I don't know who this movie is for; the tension is built decently well through the action sequences, but it's hard to feel it when you don't care about the characters"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Sam Rockwell"
+          },
+          "rating": "Pretty Good to Good",
+          "comments": "Gives a very Sam Rockwell performance, basically playing the same character he voiced in The Bad Guys, and while he plays it fine, I didn't really care about the character"
+        },
+        {
+          "actor": {
+            "name": "Scarlett Johansson"
+          },
+          "rating": "Pretty good",
+          "comments": "Not bad, but her voice acting feels forced compared to her better voice work, and she doesn't do a good job making the reveals around her character feel special"
+        }
+      ],
+      "cast": {
+        "rating": "Decent to Pretty Good",
+        "comments": "The rest of the cast is fine and does their job well, even if nothing is amazing, and the cast works fine together"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Brad Bird"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The concept isn't that interesting, since it's just a typical '50s-style noir set in a futuristic world, and it feels like a movie I've definitely seen before; the plot structure is linear but bloated with so much world-building exposition that it takes away from the actual story (a common problem with original movies), and it isn't very balanced since the first half is just fine while the second half is more enjoyable; character writing is not good because Ray Gunn himself has no personality, so I never cared about him; Scarlett Johansson's character is written better thanks to her secret past and has good chemistry with him, but the reveal around her didn't fool anyone, and the alien villains are the most generic and templated aliens ever, which makes it hard to care about the world or anyone in it"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Brad Bird"
+        },
+        {
+          "name": "Matthew Robbins"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "The dialogue is well written; the humor is typical Brad Bird humor that plays well, but it shows the bigger problem with the writing: the movie isn't really for families, adults, or teens, so I don't know who it's for; the symbolism touches on real-world issues like alienation, xenophobia, and even AI (which Brad Bird said was in his original script), but I don't really care for the message it's trying to send; the foreshadowing makes the big reveals painfully obvious, as the halfway-point reveal is treated as groundbreaking even though I guessed it in the first five minutes, to the point where I thought I was being punked, and the noir whodunit reveal of the villain at the end didn't surprise anybody"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Michael Giacchino"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Michael Giacchino's score legitimately feels like The Incredibles and his other collaborations with Brad Bird, but it's good, fitting the tone and Brad Bird's style well, and I enjoyed it"
+    },
+    "soundtrack": {
+      "rating": "Decent to Pretty Good",
+      "comments": "Very typical of noirs with its jazz-singer style, and while it feels a little forced, it's fine"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Darren T. Holmes"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Strong and well edited, typical of his other work and very much like The Incredibles"
+    },
+    "sound": {
+      "rating": "Good",
+      "comments": "Good, and similar to The Incredibles"
+    },
+    "animation": {
+      "rating": "Decent",
+      "comments": "Not a fan, as it looks like it was supposed to be hand-drawn (which Brad Bird even said in the Q&A), but Skydance clearly interfered and made it CGI, so it ends up looking like knockoff Pixar with knockoff Pixar character designs; it feels like John Lasseter couldn't get Pixar's A team and had to build Skydance Animation from scratch, and it seems like no one really wants to work with him anymore; the world feels like a ripoff of Coruscant, with flying car chases straight out of Attack of the Clones, and while it's not the worst, Brad Bird has won two Oscars, so you expect more from him"
+    },
+    "pacing": "Really slow, as it's two hours long and feels like it, with so much bloated plot that they should have cut 20 minutes, especially since none of the reveals are groundbreaking enough to justify the runtime",
+    "climax": "Fine but very generic, with nothing groundbreaking about it",
+    "tone": "A '50s-style neo-noir told in a futuristic utopia",
+    "final_notes": "Saw it at Austin Film Festival with Brad Bird in attendance; he wrote the story 30 years ago, before The Iron Giant, but it got shelved, and I kind of see why",
+    "overall": "Overall, 'Ray Gunn' is a well-made but underwhelming return to animation for Brad Bird, very much feeling like a generic '50s neo-noir set in the future; the biggest issue is that it's unclear who this movie is even for, and that confusion shows in its bland, predictable writing and bloated runtime, while the obvious Skydance interference leaves the animation looking like knockoff Pixar; coming from the man behind The Incredibles and Ratatouille, I just expected so much more"
+  },
+  "release_year": 2026,
+  "review_date": "11/02/2026",
+  "redux": false,
+  "id": 732,
+  "imdb_id": "tt18270542",
+  "letterboxd_slug": "ray-gunn",
+  "poster_path": "/rpP29aOKpHy1FhX8OZQdUICEs2j.jpg"
+}
