@@ -1,0 +1,150 @@
+{
+  "title": "I Play Rocky",
+  "rating": 8.5,
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Peter Farrelly"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is pretty safe and very feel-good, with a lot of allusions to Rocky and Sylvester Stallone's life; the direction on a microscale is also very feel-good and dramatized, getting a little over the top at times, but it brings out a great performance from Anthony Ippolito, and the rest of the cast's comedy is fine even if it feels a bit forced; the storytelling is very feel-good and safe, so you know what kind of movie you're getting, and since Rocky is my favorite movie, I was watching to make sure they hit the right beats, and they did a pretty good job hitting them; the tension is mostly emotional because you get so attached to Stallone, who, just like Rocky, is a relentless underdog with doubts who still believes in himself, and since everyone can see themselves in that, it's easy to see why this movie resonates with so many people"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Anthony Ippolito"
+          },
+          "rating": "Great",
+          "comments": "Legitimately just is Sylvester Stallone, nailing his mannerisms, his voice, and everything about the role, and as someone whose favorite movie is Rocky, I can attest that it's uncanny how well he transforms into the role; he also works off the other actors very well to tell Stallone's story, making it a phenomenal performance that's not an impression but a transformation"
+        },
+        {
+          "actor": {
+            "name": "AnnaSophia Robb"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "A little too over the top with her Long Island persona, but she has decent chemistry with Anthony Ippolito, so it works fine"
+        },
+        {
+          "actor": {
+            "name": "Toby Kebbell"
+          },
+          "rating": "Pretty Good",
+          "comments": "I liked his performance as Bob Chartoff, as he builds a good relationship with Anthony Ippolito"
+        },
+        {
+          "actor": {
+            "name": "P. J. Byrne"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Very much the comedic relief character as Irwin Winkler"
+        },
+        {
+          "actor": {
+            "name": "Matt Dillon"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Fine as Stallone's dad, showing the antagonistic father figure who molded Stallone into who he is"
+        },
+        {
+          "actor": {
+            "name": "Stephan James"
+          },
+          "rating": "Decent to Pretty Good",
+          "comments": "Very much emulates Carl Weathers, capturing the actor they were going for"
+        },
+        {
+          "actor": {
+            "name": "Tracy Letts"
+          },
+          "rating": "Pretty Good",
+          "comments": "Plays your typical antagonistic producer role, but he gives a lot to it, and I enjoyed his performance"
+        }
+      ],
+      "cast": {
+        "rating": "Decent",
+        "comments": "A very feel-good cast that works well together to bring out the feel-good moments of the movie, even if the actors playing the Rocky cast feel a little too impression-y"
+      },
+      "rating": "Pretty Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Peter Gamble"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The concept is one I very much enjoyed, since Rocky is my favorite movie and this is a movie about the making of Rocky, working as somewhat of a biopic of Sylvester Stallone while focusing more on him writing and getting Rocky made, showing how much of his real life is reflected in the movie and how much he parallels Rocky himself; the plot structure is linear with time jumps where they need to be, and it focuses on the right pieces, so nothing really needs to be cut; character writing centers on how Stallone is Rocky, which is why he wants to play the character so badly and feels like nobody else can: it's his baby and it's about him, so you see Rocky inside Stallone as someone who fully believes in himself and gives up so much money just to play his dream part, and while the rest of the characters are pretty standard, templated, and over the top, Stallone is easy to relate to as someone constantly set up to fail who achieves his dreams by believing in himself"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Peter Gamble"
+        }
+      ],
+      "rating": "Very Good",
+      "comments": "The dialogue is well written and full of allusions to Rocky that show how much of Stallone's real life went into the screenplay, though it's very over the top and feel-good, which is what the movie is going for even with its profound messaging; the humor plays a big part since Peter Farrelly is a comedic director, and it hits a decent amount, making the movie feel good in a way I enjoyed; the symbolism is strong, as the movie is basically a mirror and allegory of Rocky itself (which is technically a Stallone biopic first), hitting many of the same beats, like Stallone getting his big offer at the halfway point just like Rocky gets his fight, while delivering a message that everyone can relate to about achieving your dreams by fully believing in yourself; a standout moment is when John Avildsen's character says they're not making a boxing movie but a character study, because that's exactly what Rocky is, which is why there's barely any boxing in this movie; the foreshadowing works well, and while it feels more like Easter eggs if you already know the story like I do, it should foreshadow pretty well for anyone who doesn't"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Dave Palmer"
+        }
+      ],
+      "rating": "Decent",
+      "comments": "Fine, as it does its job and plays to the tone, but for a feel-good movie made for audiences rather than an artistic piece, they should have played to their strengths and incorporated more Rocky themes, even if they may not have had the rights"
+    },
+    "soundtrack": {
+      "rating": "Pretty Bad",
+      "comments": "Incorporates some songs that make it feel a little too feel-good and modern, so it should have stuck to the score"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Sean Porter"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty standard for a biopic, feeling like a feel-good streaming movie, but the shots that mirror Rocky look like they're remaking it without being one-to-one, much like The Disaster Artist, and the way they move the camera behind the scenes of those shots is interesting, with the switch to Steadicam shots being a nice touch"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Sam Seig"
+        }
+      ],
+      "rating": "Pretty Good",
+      "comments": "Pretty well edited, with the chapters set up fine, and while it isn't the best editing ever, it does the job you'd expect from a feel-good biopic"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Emblematic of the sound of Rocky itself, doing a pretty good job with all the punches and boxing sounds"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Does a pretty good job recreating a lot of the Rocky sets, and while the LA and New York scenes are just fine, it gets the job done"
+    },
+    "makeup": {
+      "rating": "Good",
+      "comments": "Uses a lot of the same makeup from Rocky, which is a nice touch"
+    },
+    "costumes": {
+      "rating": "Good",
+      "comments": "Basically identical to the costumes from Rocky, which I really enjoyed"
+    },
+    "pacing": "Paced right, as there's nothing to cut and nothing to add",
+    "climax": "Executed very well, culminating in a fist-pump, feel-good moment that leaves you satisfied and happy for Sylvester Stallone and what he achieved with Rocky, and it ends at exactly the right point",
+    "tone": "A feel-good biopic through and through, even if it's a little over the top",
+    "final_notes": "Saw a screening at Austin Film Festival; I'm very biased since Rocky is my favorite movie, so obviously I was going to like a movie about the making of Rocky",
+    "overall": "Overall, 'I Play Rocky' is an incredibly feel-good and safe biopic that's a lot of fun, mirroring Rocky very well and bringing out the same themes of believing in yourself; led by Anthony Ippolito's transformative performance, it plays to its strengths, and as someone whose favorite movie is Rocky, I very much enjoyed how it highlights the parallels between Sylvester Stallone's life and Rocky, a film that was essentially his own story as both its writer and star"
+  },
+  "release_year": 2026,
+  "review_date": "10/30/2026",
+  "redux": false,
+  "id": 731,
+  "imdb_id": "tt11995650",
+  "letterboxd_slug": "i-play-rocky",
+  "poster_path": "/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg"
+}
