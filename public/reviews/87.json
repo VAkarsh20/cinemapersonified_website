@@ -1,10 +1,136 @@
 {
   "title": "Little Miss Sunshine",
   "rating": 8.6,
-  "review": "Incredible Acting by the entire cast, Great screenplay, Great story, good score, great pacing, good direction, besides acting the movie does not go above and beyond in anyway and would be a great family movie if it was not rated R.",
+  "review": {
+    "direction": {
+      "director": [
+        {
+          "name": "Jonathan Dayton"
+        },
+        {
+          "name": "Valerie Faris"
+        }
+      ],
+      "rating": "Good",
+      "comments": "The direction on a macroscale is typical of an indie road comedy set in the American Southwest, and it does a pretty good job building that world, from the interstate to the strange world of child pageantry; the direction on a microscale is where this movie comes to life, as it's an ensemble-led movie, and the way the cast works off each other shows the strength of the direction in getting them to interact with the script and with each other to move the story forward; the storytelling is good, as it's a simple point-A-to-point-B road tragicomedy that uses the VW bus as a vehicle to learn about this family, which isn't a dysfunctional family but a functional family of dysfunctional people; the tension is built pretty well because the characters are so well written and acted that you really care about them and want to see them succeed"
+    },
+    "acting": {
+      "performance": [
+        {
+          "actor": {
+            "name": "Greg Kinnear"
+          },
+          "rating": "Good",
+          "comments": "Good as the self-help, pull-yourself-up-by-your-bootstraps father, playing the role very well"
+        },
+        {
+          "actor": {
+            "name": "Steve Carell"
+          },
+          "rating": "Good",
+          "comments": "In probably one of his first more dramatic roles, he does a good job bringing out the drama and grief of his character"
+        },
+        {
+          "actor": {
+            "name": "Toni Collette"
+          },
+          "rating": "Very Good",
+          "comments": "The standout performance, playing the matriarch really well as the glue holding this chaotic family of chaotic people together"
+        },
+        {
+          "actor": {
+            "name": "Paul Dano"
+          },
+          "rating": "Good",
+          "comments": "Plays the nihilist well"
+        },
+        {
+          "actor": {
+            "name": "Abigail Breslin"
+          },
+          "rating": "Good",
+          "comments": "Plays the innocent young girl very well as someone just trying to grow up and have fun"
+        },
+        {
+          "actor": {
+            "name": "Alan Arkin"
+          },
+          "rating": "Good",
+          "comments": "Plays the grandpa very well and has a good relationship with his granddaughter"
+        }
+      ],
+      "cast": {
+        "rating": "Very Good",
+        "comments": "There isn't really a true star, as this is a cast that works well with each other, and that comes through in the final product"
+      },
+      "rating": "Very Good"
+    },
+    "story": {
+      "writer": [
+        {
+          "name": "Michael Arndt"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The concept is very simple, as a young girl wants to compete in a pageant and takes her dysfunctional family along with her, but the concept isn't what sells this movie, since it's not really about the pageant or even the trip, but about the family interacting with each other along the way; the plot structure is standard but very well executed, which Michael Arndt is known for; character writing is what really makes this movie, as each family member has a distinct persona, from the self-help guru father and the matriarch mother holding everything together to the drug-addicted grandfather, the optimistic young girl trying to grow up, Paul Dano's nihilist, and Steve Carell's gay uncle recovering from a suicide attempt, and putting this potpourri of characters together works because they all love each other to an extent, no one tries to fix anybody, and everyone understands their role in the family"
+    },
+    "screenplay": {
+      "writer": [
+        {
+          "name": "Michael Arndt"
+        }
+      ],
+      "rating": "Great",
+      "comments": "The dialogue is strong, sharp, and very well written; the humor is actually good, playing more like tragicomedy humor than laugh-out-loud comedy, but it lightens the mood during the darker parts of the movie; the symbolism is pretty strong, showing a functional family of dysfunctional people working together as a unit to get through the trauma and tragedy in their lives; the foreshadowing is pretty good, as everything they set up gets answered later, planting roots that grow into a tree by the ending"
+    },
+    "score": {
+      "composer": [
+        {
+          "name": "Mychael Danna"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Very light, feel-good, and sunny, showing a sense of optimism for this dysfunctional family, which I enjoyed"
+    },
+    "soundtrack": {
+      "rating": "Good",
+      "comments": "The inclusion of Rick James's 'Super Freak' is pretty iconic, as is the scene it's in, and it encapsulates the relationship between the grandfather and his granddaughter"
+    },
+    "cinematography": {
+      "cinematographer": [
+        {
+          "name": "Tim Suhrstedt"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Well shot for an indie road comedy, with a lot of beautiful shots, like the VW bus driving along the interstate against the backdrop of the Southwest sky"
+    },
+    "editing": {
+      "editor": [
+        {
+          "name": "Pamela Martin"
+        }
+      ],
+      "rating": "Good",
+      "comments": "Really well edited and stitched together, and while it's nothing groundbreaking, it's done well"
+    },
+    "sound": {
+      "rating": "Pretty Good",
+      "comments": "Pretty good and does its job well"
+    },
+    "production_design": {
+      "rating": "Pretty Good",
+      "comments": "Shot across Southern California and Arizona, showing the American Southwest well on this road trip, and the yellow Volkswagen bus is very iconic, serving as a key vehicle and symbol of the movie"
+    },
+    "pacing": "Good for the most part, though it's a little on the slower side since it's a lot of talking, especially in the middle, so even at an hour and 40 minutes, you feel the runtime, and cutting maybe five minutes would have made it a little tighter",
+    "climax": "Executed very well and probably one of the most iconic parts of the movie, showing the family coming together for a happy ending that makes the whole journey feel satisfying",
+    "tone": "A feel-good tragicomedy that balances humor with grief and much more mature themes",
+    "final_notes": "Saw a retrospective screening at Austin Film Festival with screenwriter Michael Arndt in attendance",
+    "overall": "Overall, 'Little Miss Sunshine' is a very well-written indie tragicomedy carried by its strong writing and a well-cast ensemble that works so well together, using its iconic yellow Volkswagen bus as a vehicle to learn about this functional family of dysfunctional people"
+  },
   "release_year": 2006,
-  "review_date": "03/16/2019",
-  "redux": false,
+  "review_date": "11/01/2026",
+  "redux": true,
   "id": 87,
   "imdb_id": "tt0449059",
   "letterboxd_slug": "little-miss-sunshine",
