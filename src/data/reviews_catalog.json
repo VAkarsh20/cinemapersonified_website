@@ -1,5 +1,18 @@
 [
   {
+    "id": 737,
+    "title": "Paper Tiger",
+    "release_year": 2026,
+    "rating": 7.1,
+    "review_date": "11/03/2026",
+    "imdb_id": "tt34385689",
+    "redux": false,
+    "filename": "Paper Tiger (2026)",
+    "director": "James Gray",
+    "letterboxd_slug": "paper-tiger",
+    "poster_path": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg"
+  },
+  {
     "id": 736,
     "title": "Elsinore",
     "release_year": 2026,
