@@ -1,5 +1,18 @@
 [
   {
+    "id": 734,
+    "title": "Club Kid",
+    "release_year": 2026,
+    "rating": 8.9,
+    "review_date": "11/02/2026",
+    "imdb_id": "tt38058097",
+    "redux": false,
+    "filename": "Club Kid (2026)",
+    "director": "Jordan Firstman",
+    "letterboxd_slug": "club-kid",
+    "poster_path": "/o1qMU0ZB5XDX8IXJFFu3AkhOqjh.jpg"
+  },
+  {
     "id": 733,
     "title": "Behemoth!",
     "release_year": 2026,
